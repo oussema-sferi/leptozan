@@ -62,7 +62,7 @@
 				</div>
 				<div class="order-validated-img">
 					<figure>
-						<img src="images/Product.png" alt="Product" class="img-fluid">
+						<img src="/images/Product.png" alt="Product" class="img-fluid">
 					</figure>
 				</div>
 			</div>
@@ -105,7 +105,7 @@
 					</div>
 					<div class="signature">
 						<figure>
-							<img src="images/Signature.png" alt="Signature" class="img-fluid">
+							<img src="/images/Signature.png" alt="Signature" class="img-fluid">
 						</figure>
 					</div>
 				</div>

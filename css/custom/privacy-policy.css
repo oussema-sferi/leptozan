@@ -1,0 +1,98 @@
+.inner-header .navbar {
+    justify-content: space-between;
+}
+
+.inner-bnr-wrp {
+    background-image: url("/images/dead-sea-header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    min-height: 250px;
+    /*margin: 32px 32px 0;*/
+    /*border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;*/
+    opacity: 0.8;
+}
+
+.inner-bnr-main {
+    padding: 50px 0 0;
+}
+
+.inner-bnr-main .large-detail {
+    margin: 8px 0 0;
+}
+
+.privacy-wrp {
+    padding: 50px 0 88px;
+}
+
+.privacy-main {
+    max-width: 987px;
+    width: 100%;
+}
+
+.privacy-block {
+    margin: 0 0 44px;
+}
+
+.privacy-block .small-title {
+    margin: 0 0 16px;
+}
+
+.privacy-block a {
+    border-bottom: 1px solid var(--black);
+}
+
+.privacy-block a:hover {
+    border-bottom-color: var(--orange);
+}
+
+.privacy-block .detail ul {
+    padding: 0 0 0 22px;
+    margin: 0 0 10px;
+}
+
+.privacy-block .detail p,
+.privacy-block .detail ul li {
+    padding: 0 0 12px;
+}
+
+.privacy-block .detail p:last-child,
+.privacy-block .detail ul li:last-child {
+    padding-bottom: 0;
+}
+
+.privacy-block:last-child {
+    margin-bottom: 0;
+}
+
+.how-to-reach-wrp {
+    padding: 12px 0 0;
+}
+
+.how-to-reach-wrp .how-to-reach-block {
+    padding: 12px 16px;
+    margin: 0 0 24px;
+}
+
+.how-to-reach-wrp .how-to-reach-block .large-detail {
+    margin: 0 0 12px;
+}
+
+.reference-wrp .privacy-main {
+    max-width: 100%;
+    width: auto;
+}
+
+.reference-row {
+    margin: 0 0 64px;
+}
+
+.privacy-block .detail .privacy-block-list li {
+    padding: 0;
+}

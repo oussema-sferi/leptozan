@@ -1,0 +1,38 @@
+.guarantee-wrp {
+    background-image: url("../images/guarantee-lines.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 88px 0 25px;
+}
+
+.guarantee-main {
+    text-align: center;
+}
+
+.guarantee-main .badge-img {
+    margin: 0 0 24px;
+}
+
+.guarantee-main .section-title {
+    margin: 0 0 24px;
+    text-transform: unset;
+}
+
+.guarantee-main .section-title span {
+    display: block;
+}
+
+.guarantee-main .detail {
+    max-width: 904px;
+    width: 100%;
+    margin: 0 auto 33px;
+}
+
+.guarantee-main .ingredients-logos {
+    padding: 0 20px;
+}
+
+.guarantee-main .ingredients-logos img {
+    width: 96px;
+}
