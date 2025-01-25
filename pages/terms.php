@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- header start -->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<!-- header end -->
+
+<title>Terms</title>
+</head>
+<body>
+
+<!-- header start -->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; ?>
+<!-- header end -->
+
+<!-- content start -->
+<div class="content">
+
+	<!-- Inner Banner Start -->
+	<section class="inner-bnr-wrp" style="background-color: #F1FBFB;">
+		<div class="container">
+			<div class="inner-bnr-main">
+				<div class="banner-title">
+					<h1>Terms of Service</h1>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Inner Banner End -->
+
+	<!-- Privacy Policy Start -->
+	<section class="privacy-wrp">
+		<div class="container">
+			<div class="privacy-main">
+				<div class="privacy-block">
+					<!--<div class="small-title">
+						<h3>Acceptance of Terms</h3>
+					</div>-->
+					<div class="detail">
+						<p>Thank you for visiting our site. Should you wish to use Leptozan.com, you must agree to abide by and agree to be bound by the terms and conditions below.</p>
+						<p class="make-bold">
+							IF YOU DISAGREE WITH ANY OF THE TERMS OR CONDITIONS BELOW, DO NOT USE THIS WEBSITE.
+						</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>User Responsibilities</h3>
+					</div>
+					<div class="detail">
+						<p>As a user of this site, you have a number of responsibilities.</p>
+						<p>Ensure your access to the website, which includes any internet and device requirements.</p>
+						<p>Ensure users who access the website through your device or connection are aware of and abide by the Leptozan Terms of Service.</p>
+						<p>When accessing specific features or services that require registration, you must ensure all personal details provided are current and correct. You have an obligation to keep your login details, including your user ID and password, secure and private. Should you notice any suspicious activity or unauthorized access to your account, contact us right away.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Feedback and Suggestions</h3>
+					</div>
+					<div class="detail">
+						<p>You are always welcome to submit feedback, suggestions, or ideas about the services we provide or the Site. By submitting any feedback, please note that you agree Leptozan may use it without any obligation to compensate you, and feedback does not create any ownership rights.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Our Communication With You</h3>
+					</div>
+					<div class="detail">
+						<p>When you engage with Leptozan’s services, you consent to us sending you updates, product details, and special offers through phone calls, text messages, or email communications. You can modify your preferred contact methods or opt out of these notifications by getting in touch with our customer service department.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Prohibited Activities</h3>
+					</div>
+					<div class="detail">
+						<p>By accessing this website, you commit to conducting yourself legally and agree not to participate in the following forbidden behaviors:</p>
+						<ul class="privacy-block-list">
+							<li>Conducting any illegal, deceptive, or malicious activities</li>
+							<li>Attempting to compromise, infiltrate, or circumvent the website's security features</li>
+							<li>Operating unauthorized automated programs, including bots or scripts, to interact with the site</li>
+							<li>Uploading viruses, malicious software, or other destructive code</li>
+							<li>Taking actions that might impair, interfere with, or jeopardize the website's functionality</li>
+						</ul>
+						<p>Should you engage in any prohibited activities, we may instantly block access to the Site and pursue legal remedies as necessary.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Website Availability</h3>
+					</div>
+					<div class="detail">
+						<p>While we aim to maintain continuous website operation, we cannot promise constant availability. At our discretion, Leptozan may alter, pause, or terminate any website features or services, either temporarily or indefinitely, without advance warning. Access restrictions may occasionally apply to all users, including those who have accounts.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Intellectual Property</h3>
+					</div>
+					<div class="detail">
+						<p>The entirety of Leptozan’s website content - including written material, visuals, designs, programs, and video content - is safeguarded by intellectual property laws and remains the property of either Leptozan or our authorized partners. We grant you permission to view and utilize this content solely for your personal, non-commercial use. Any unauthorized copying, altering, sharing, or usage of these materials is forbidden.</p>
+						<p>For any downloadable programs or apps that Leptozan provides, you're permitted to download a single copy for personal use, provided you comply with any associated licensing terms.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Disclaimer of Warranties</h3>
+					</div>
+					<div class="detail">
+						<p>We offer the Leptozan website and its associated features without any guarantees, whether stated directly or suggested. We do not make any claims about the accuracy, dependability, or thoroughness, nor do we guarantee our services will operate without disruption, technical issues, or security concerns.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Indemnification</h3>
+					</div>
+					<div class="detail">
+						<p>You accept responsibility to protect and reimburse Leptozan, along with any staff, associates, representatives, and business partners, against any legal claims, costs, damages, or expenses that result from your website activities, violations of these Terms, or any breach of applicable laws or third-party rights.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Limitation of Liability</h3>
+					</div>
+					<div class="detail">
+						<p>Within legal limits, Leptozan assumes no responsibility for any damages - whether immediate, indirect, secondary, specific, or resulting - that occur from your website usage or any inability to access our site. This limitation of liability covers various losses, including but not restricted to, missing data, lost income, and other intangible damages.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Governing Law and Jurisdiction</h3>
+					</div>
+					<div class="detail">
+						<p>Canada’s law applies to and governs these Terms. Any legal conflicts related to your website usage or these Terms will be handled under U.S. legal jurisdiction and settled in an appropriate canadian court of law (CONFIRM).</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Termination</h3>
+					</div>
+					<div class="detail">
+						<p>We may immediately revoke or suspend your website access without warning if, in our judgment, you have breached these Terms or participated in unauthorized activities. Even after your access is terminated, Leptozan retains the right to enforce any relevant portions of these Terms that would logically remain in effect beyond the termination.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Amendments to Terms of Service</h3>
+					</div>
+					<div class="detail">
+						<p>At our discretion, Leptozan may modify these Terms whenever necessary. All changes take effect immediately upon their posting to our site. We recommend checking these Terms regularly to keep up with any updates. By continuing to access and use our website, you acknowledge and agree to any revisions that have been made.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>Agreement to All Terms</h3>
+					</div>
+					<div class="detail">
+						<p>The entire agreement between you and Leptozan concerning your website usage consists of these Terms, our Privacy Policy, and any other official legal documents we publish. This agreement takes precedence over and replaces any previous arrangements or understandings, regardless of whether they were verbal or written.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-title">
+						<h3>How To Contact Us</h3>
+					</div>
+					<div class="detail">
+						<p>If you have questions or concerns about these terms and conditions of use, please let us know by e-mail at <a href="mailto:support@leptozan.com">support@leptozan.com</a>, and provide us with information relating to your concern.</p>
+					</div>
+				</div>
+				<div class="privacy-block">
+					<div class="small-detail make-bold">
+						<p>Please note that by using the Leptozan site, you agree to all policies including these Terms of Service.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Privacy Policy End -->
+
+</div>
+<!-- content end -->
+
+<!-- footer start -->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<!-- footer end -->
+
+<!-- scripts start -->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
+<!-- scripts end -->
+
+</body>
+</html>

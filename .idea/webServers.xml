@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5110b115-b43c-4402-a720-4d8609ff06d1" name="leptozan" url="http://ftp.leptozan.com">
+        <fileTransfer rootFolder="/leptozan.com/public_html" host="ftp.leptozan.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

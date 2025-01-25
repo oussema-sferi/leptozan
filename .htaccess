@@ -1,0 +1,40 @@
+# Enable Rewrite Engine
+RewriteEngine On
+
+# Redirect root domain to pages/index.php
+RewriteRule ^$ pages/index.php [L]
+
+# Ensure trailing slash for all URLs except files
+RewriteCond %{REQUEST_URI} !\.[^./]+$ [NC]
+RewriteCond %{REQUEST_URI} !(.*)/$ [NC]
+RewriteRule ^(.*)$ /$1/ [L,R=301]
+
+# Redirect https://www.leptozan.com/vsl/ to /pages/vsl-opened.php
+RewriteRule ^vsl/?$ pages/vsl-opened.php [L]
+
+# Redirect https://www.leptozan.com/upsell-oto-01/ to /pages/upsell-1.php
+RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
+
+# Redirect https://www.leptozan.com/typ/ to /pages/thank-you.php
+RewriteRule ^typ/?$ pages/thank-you.php [L]
+
+# Redirect https://www.leptozan.com/terms/ to /pages/terms.php
+RewriteRule ^terms/?$ pages/terms.php [L]
+
+# Redirect https://www.leptozan.com/shipping-policy/ to /pages/shipping-policy.php
+RewriteRule ^shipping-policy/?$ pages/shipping-policy.php [L]
+
+# Redirect https://www.leptozan.com/refund-policy/ to /pages/refund.php
+RewriteRule ^refund-policy/?$ pages/refund.php [L]
+
+# Redirect https://www.leptozan.com/references/ to /pages/references.php
+RewriteRule ^references/?$ pages/references.php [L]
+
+# Redirect https://www.leptozan.com/privacy/ to /pages/privacy-policy.php
+RewriteRule ^privacy/?$ pages/privacy-policy.php [L]
+
+# Redirect https://www.leptozan.com/disclaimer/ to /pages/disclaimer.php
+RewriteRule ^disclaimer/?$ pages/disclaimer.php [L]
+
+# Redirect https://www.leptozan.com/contact/ to /pages/contact.php
+RewriteRule ^contact/?$ pages/contact.php [L]
