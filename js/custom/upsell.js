@@ -1,21 +1,6 @@
 $(document).ready(function() {
 
     console.log("i am in upsell");
-   /* const video = $('.video') ;
-    video.bind("timeupdate", function(){
-        if($(this).currentTime === 3 ) {
-            console.log("test")
-            this.pause();
-        }
-    });*/
-    /*const video = document.querySelector('.video'); ;
-    console.log(video);
-    video.addEventListener("timeupdate", function(){
-        if(this.currentTime === 3 ) {
-            console.log("test")
-            this.pause();
-        }
-    });*/
     // Listen for click event on the play icon
     const specialDealSection = $(".special-deal-section")
     $('.play-icon').on('click', function (e) {

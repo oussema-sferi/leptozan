@@ -420,3 +420,7 @@
     text-transform: unset;
     margin-bottom: 16px;
 }
+
+.btn-contain a {
+    width: 100%;
+}
