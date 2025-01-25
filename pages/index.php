@@ -963,6 +963,7 @@
 
 <!-- scripts start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
+<script src="/js/custom/index.js"></script>
 <!-- scripts end -->
 
 </body>

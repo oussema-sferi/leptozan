@@ -198,6 +198,8 @@
 
 <!-- scripts start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
+<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/js/custom/upsell.js'; */?>
+<script src="/js/custom/upsell.js"></script>
 <!-- scripts end -->
 
 </body>

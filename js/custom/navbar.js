@@ -1,25 +1,17 @@
 $(document).ready(function() {
 
-// Buy Now button redirection to according section in index.html (for pages other than index.html)
-// Save in session when clicked
-const buyNow = document.getElementById('buy-now-button');
-if(buyNow)
-{
-    buyNow.addEventListener('click', function (e) {
-        e.preventDefault();
-        sessionStorage.setItem('scrollToBuyNowSection', 'buy-now');
-        window.location.href = '/';
-    });
-}
+    // Buy Now button redirection to according section in index.html (for pages other than index.html)
+    // Save in session when clicked
+    const buyNow = document.getElementById('buy-now-button');
+    if(buyNow)
+    {
+        buyNow.addEventListener('click', function (e) {
+            e.preventDefault();
+            sessionStorage.setItem('scrollToBuyNowSection', 'buy-now');
+            window.location.href = '/';
+        });
+    }
 
-// Check sessionStorage for target section
-let targetSection = sessionStorage.getItem('scrollToBuyNowSection');
-if (targetSection) {
-    let offset = 64; // Adjust based on the navbar height
-    $('html, body').animate({
-        scrollTop: $('#' + targetSection).offset().top - offset
-    }, 200);
-    sessionStorage.removeItem('scrollToBuyNowSection'); // Clear the sessionStorage
-}
+
 
 })

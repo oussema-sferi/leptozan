@@ -122,6 +122,7 @@
 
 <!-- scripts start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
+<script src="/js/custom/navbar.js"></script>
 <!-- scripts end -->
 
 </body>

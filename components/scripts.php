@@ -12,5 +12,3 @@
 
 <!-- Custom JS Scripts -->
 <script src="/js/script.js"></script>
-<script src="/js/custom/index.js"></script>
-<script src="/js/custom/navbar.js"></script>
