@@ -9,4 +9,8 @@
 <script src="/js/all.min.js"></script>
 <!-- ofi -->
 <script src="/js/ofi.min.js"></script>
+
+<!-- Custom JS Scripts -->
 <script src="/js/script.js"></script>
+<script src="/js/custom/index.js"></script>
+<script src="/js/custom/navbar.js"></script>
