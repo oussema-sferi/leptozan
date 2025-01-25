@@ -15,6 +15,9 @@ RewriteRule ^newdiscovery/?$ pages/vsl-opened.php [L]
 # Redirect https://www.leptozan.com/upsell-oto-01/ to /pages/upsell-1.php
 RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
 
+# Redirect https://www.leptozan.com/upsell-oto-01/ to /pages/upsell-1.php
+RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]
+
 # Redirect https://www.leptozan.com/typ/ to /pages/thank-you.php
 RewriteRule ^typ/?$ pages/thank-you.php [L]
 

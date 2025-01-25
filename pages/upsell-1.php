@@ -55,7 +55,7 @@
 					<div class="order-step">
 						<div class="icon" style="background-color: var(--orange);">
 							<figure>
-								<img src="images/Subtract.svg" alt="order-img" class="img-fluid">
+								<img src="/images/Subtract.svg" alt="order-img" class="img-fluid">
 							</figure>
 						</div>
 						<div class="order-details">
@@ -99,12 +99,12 @@
 					</div>
 				</div>
 				<div class="vsl-video">
-					<video class="video" poster="images/video-poster.jpg">
-						<source src="images/mov_bbb.mp4" type="video/mp4">
+					<video class="video" poster="/images/video-poster.jpg">
+						<source src="/images/mov_bbb.mp4" type="video/mp4">
 					</video>
 					<a href="#" class="play-icon">
 						<figure>
-							<img src="images/play-icon.svg" alt="play-icon" class="img-fluid">
+							<img src="/images/play-icon.svg" alt="play-icon" class="img-fluid">
 						</figure>
 					</a>
 				</div>
@@ -136,7 +136,7 @@
 								</div>
 								<div class="special-deal-img" style="background-color: var(--white);">
 									<figure>
-										<img src="images/order-images.png" alt="order-img" class="img-fluid">
+										<img src="/images/order-images.png" alt="order-img" class="img-fluid">
 									</figure>
 								</div>
 							</div>
@@ -159,7 +159,7 @@
 									<div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
 										<div class="right-details-img">
 											<figure>
-												<img src="images/total-saving.png" alt="total-saving" class="img-fluid">
+												<img src="/images/total-saving.png" alt="total-saving" class="img-fluid">
 											</figure>
 										</div>
 										<div class="small-title">
@@ -182,9 +182,9 @@
 								</div>
 								<div class="icon-list">
 									<ul>
-										<li><a href="#"><img src="images/badge1.png" alt="badge"></a></li>
-										<li><a href="#"><img src="images/badge2.png" alt="badge"></a></li>
-										<li><a href="#"><img src="images/badge3.png" alt="badge"></a></li>
+										<li><a href="#"><img src="/images/badge1.png" alt="badge"></a></li>
+										<li><a href="#"><img src="/images/badge2.png" alt="badge"></a></li>
+										<li><a href="#"><img src="/images/badge3.png" alt="badge"></a></li>
 									</ul>
 								</div>
 							</div>
@@ -212,10 +212,10 @@
 				</div>
 				<div class="official-page-logo">
 					<ul>
-						<li><a href="#"><img src="images/amazon.png" alt="img"></a></li>
-						<li><a href="#"><img src="images/ebay.png" alt="img"></a></li>
-						<li><a href="#"><img src="images/walmart 1.png" alt="img"></a></li>
-						<li><a href="#"><img src="images/available.png" alt="img"></a></li>
+						<li><a href="#"><img src="/images/amazon.png" alt="img"></a></li>
+						<li><a href="#"><img src="/images/ebay.png" alt="img"></a></li>
+						<li><a href="#"><img src="/images/walmart 1.png" alt="img"></a></li>
+						<li><a href="#"><img src="/images/available.png" alt="img"></a></li>
 					</ul>
 				</div>
 			</div>
