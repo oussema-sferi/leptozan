@@ -41,3 +41,6 @@ RewriteRule ^disclaimer/?$ pages/disclaimer.php [L]
 
 # Redirect https://www.leptozan.com/contact/ to /pages/contact.php
 RewriteRule ^contact/?$ pages/contact.php [L]
+
+# Redirect https://www.leptozan.com/contact/ to /pages/contact.php
+RewriteRule ^vsl/?$ pages/vsl.php [L]
