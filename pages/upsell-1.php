@@ -81,7 +81,7 @@
 	<!-- VSl End -->
 
 	<!-- special-deal-section -->
-	<section class="special-deal-section" style="background: var(--grey3);">
+	<section class="special-deal-section" style="background: var(--grey3); display: none">
 		<div class="container">
 			<div class="special-deal-wrap">
 				<div class="special-deal-detail text-center">
