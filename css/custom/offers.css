@@ -2,7 +2,7 @@
     padding: 50px 20px 64px;
     margin: 0 32px 0;
     background-color: var(--sky);
-    background-image: url("../images/offers-lines.png");
+    background-image: url("/images/offers-lines.png");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 12px;
@@ -129,7 +129,7 @@
 
 .common-list ul li::before {
     content: "";
-    background-image: url("../images/check.svg");
+    background-image: url("/images/check.svg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 20px;
@@ -223,7 +223,7 @@
 }
 
 .best-offer-block .common-list ul li::before {
-    background-image: url("../images/teal-check.svg");
+    background-image: url("/images/teal-check.svg");
 }
 
 .best-offer-block .common-list ul li {

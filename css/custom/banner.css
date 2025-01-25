@@ -18,7 +18,7 @@
 
 .banner-wrp::before {
     content: "";
-    background-image: url('../images/dead-sea-banner.jpg');
+    background-image: url('/images/dead-sea-banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;

@@ -249,7 +249,7 @@
 .special-deal-right .deal-list ul li::before{
     content: "";
     display: inline-block;
-    background: url('../images/yes.png');
+    background: url('/images/yes.png');
     background-repeat: no-repeat;
     width: 32px;
     height: 32px;
