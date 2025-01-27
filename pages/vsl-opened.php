@@ -59,12 +59,12 @@
 						<p>Finally, The Easiest Way To Achieve Your Dream Body</p>
 					</div> -->
 					<div class="vsl-video">
-						<video class="video" poster="images/video-poster.jpg">
-							<source src="images/mov_bbb.mp4" type="video/mp4">
+						<video class="video" poster="/images/video-poster.jpg">
+							<source src="/images/mov_bbb.mp4" type="video/mp4">
 						</video>
 						<a href="#" class="play-icon">
 							<figure>
-								<img src="images/play-icon.svg" alt="play-icon" class="img-fluid">
+								<img src="/images/play-icon.svg" alt="play-icon" class="img-fluid">
 							</figure>
 						</a>
 					</div>
@@ -73,7 +73,7 @@
 		</div>
 		<a href="#scroll-bottom" class="scroll-down">
 			<figure>
-				<img src="images/scroll-down.svg" alt="scroll-down" class="img-fluid">
+				<img src="/images/scroll-down.svg" alt="scroll-down" class="img-fluid">
 			</figure>
 		</a>
 	</section>
@@ -101,7 +101,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="images/offers-img-1.png" alt="offers-img" class="img-fluid">
+											<img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -120,22 +120,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -160,7 +160,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="images/offers-img-2.png" alt="offers-img" class="img-fluid">
+											<img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -180,22 +180,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -220,7 +220,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="images/offers-img-3.png" alt="offers-img" class="img-fluid">
+											<img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -239,22 +239,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -288,18 +288,18 @@
 						<div class="reviews-item-top">
 							<div class="star-reviews">
 								<div class="empty-stars">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
 								</div>
 								<div class="full-stars" style="width:70%">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
 								</div>
 							</div>
 							<div class="detail">
@@ -309,7 +309,7 @@
 						<div class="reviews-bottom">
 							<div class="reviews-img">
 								<figure>
-									<img src="images/reviews-img.png" alt="reviews-img" class="img-fluid">
+									<img src="/images/reviews-img.png" alt="reviews-img" class="img-fluid">
 								</figure>
 							</div>
 							<div class="reviews-name">
@@ -326,18 +326,18 @@
 						<div class="reviews-item-top">
 							<div class="star-reviews">
 								<div class="empty-stars">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
 								</div>
 								<div class="full-stars" style="width:70%">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
 								</div>
 							</div>
 							<div class="detail">
@@ -347,7 +347,7 @@
 						<div class="reviews-bottom">
 							<div class="reviews-img">
 								<figure>
-									<img src="images/reviews-img.png" alt="reviews-img" class="img-fluid">
+									<img src="/images/reviews-img.png" alt="reviews-img" class="img-fluid">
 								</figure>
 							</div>
 							<div class="reviews-name">
@@ -364,18 +364,18 @@
 						<div class="reviews-item-top">
 							<div class="star-reviews">
 								<div class="empty-stars">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
 								</div>
 								<div class="full-stars" style="width:70%">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
 								</div>
 							</div>
 							<div class="detail">
@@ -385,7 +385,7 @@
 						<div class="reviews-bottom">
 							<div class="reviews-img">
 								<figure>
-									<img src="images/reviews-img.png" alt="reviews-img" class="img-fluid">
+									<img src="/images/reviews-img.png" alt="reviews-img" class="img-fluid">
 								</figure>
 							</div>
 							<div class="reviews-name">
@@ -402,18 +402,18 @@
 						<div class="reviews-item-top">
 							<div class="star-reviews">
 								<div class="empty-stars">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
 								</div>
 								<div class="full-stars" style="width:70%">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
 								</div>
 							</div>
 							<div class="detail">
@@ -423,7 +423,7 @@
 						<div class="reviews-bottom">
 							<div class="reviews-img">
 								<figure>
-									<img src="images/reviews-img.png" alt="reviews-img" class="img-fluid">
+									<img src="/images/reviews-img.png" alt="reviews-img" class="img-fluid">
 								</figure>
 							</div>
 							<div class="reviews-name">
@@ -448,7 +448,7 @@
 			<div class="guarantee-main">
 				<div class="badge-img">
 					<figure>
-						<img src="images/badge.png" alt="badge" class="img-fluid">
+						<img src="/images/badge.png" alt="badge" class="img-fluid">
 					</figure>
 				</div>
 				<div class="section-title">
@@ -460,27 +460,27 @@
 				<div class="ingredients-logos-main">
 					<div class="ingredients-logos">
 						<figure>
-							<img src="images/logo-1.png" alt="logo" class="img-fluid">
+							<img src="/images/logo-1.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="images/logo-2.png" alt="logo" class="img-fluid">
+							<img src="/images/logo-2.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="images/logo-3.png" alt="logo" class="img-fluid">
+							<img src="/images/logo-3.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="images/logo-4.png" alt="logo" class="img-fluid">
+							<img src="/images/logo-4.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="images/logo-5.png" alt="logo" class="img-fluid">
+							<img src="/images/logo-5.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 				</div>
@@ -639,7 +639,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="images/offers-img-1.png" alt="offers-img" class="img-fluid">
+											<img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -658,22 +658,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -698,7 +698,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="images/offers-img-2.png" alt="offers-img" class="img-fluid">
+											<img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -718,22 +718,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -758,7 +758,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="images/offers-img-3.png" alt="offers-img" class="img-fluid">
+											<img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -777,22 +777,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
