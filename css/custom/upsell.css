@@ -179,12 +179,25 @@
     padding: 0 24px 0 40px;
 }
 
-.saving-details span{
+/*.saving-details span{
     font-family: "DM Sans";
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
     line-height: 110%
+}*/
+
+.saving-details span{
+    font-family: "DM Sans";
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 110%;
+}
+
+.right-details .saving-details span {
+    display: inline-block;
+    width: 68px; /* Space for two digits and a buffer */
 }
 
 .saving-details span:first-child{

@@ -85,7 +85,7 @@
 		</div>
 		<a href="#scroll-bottom" class="scroll-down">
 			<figure>
-				<img src="images/scroll-down.svg" alt="scroll-down" class="img-fluid">
+				<img src="/images/scroll-down.svg" alt="scroll-down" class="img-fluid">
 			</figure>
 		</a>
 	</div>

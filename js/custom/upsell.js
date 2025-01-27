@@ -56,12 +56,48 @@ $(document).ready(function() {
         const upsellContent = $('.vsl-banner-wrp, .upsell-special-deal-section');
         const noThanksContent = $('.banner-upsell, .no-thanks-special-deal-section');
         console.log("no thanks link clicked!");
+        // Pause the video when the user clicks "No, Thanks"
         getVidalyticsPlayer(EMBED_ID).then(player => {
             if (!player) return;
           player.pause();
         });
+        // Hide current content and show new content
         upsellContent.hide();
         noThanksContent.show();
         $('html, body').animate({ scrollTop: 0 }, 10); // Adjust 'slow' or specify time in milliseconds
+
+
+        // Wait 1 seconds before starting the price animation
+        setTimeout(() => {
+            // Animate the total price from 79 to 58
+            const totalPriceElement = noThanksContent.find(".right-details .saving-details span"); // Target the span containing 79
+            const startPrice = 79;
+            const endPrice = 47;
+            const totalDuration = 3000; // Total animation duration in milliseconds
+            const stepTime = 50; // Time between updates in milliseconds
+
+            let currentPrice = startPrice;
+            const totalSteps = totalDuration / stepTime; // Counting the total number of steps
+            let stepCount = 0;
+
+            // Easing logic: slow at first, then faster
+            const easingFunction = (t) => t * t; // Quadratic easing (t^2) for acceleration
+
+            const priceInterval = setInterval(() => {
+                stepCount++;
+                const progress = stepCount / totalSteps; // Progress from 0 to 1
+                const easedProgress = easingFunction(progress); // Apply easing function
+                currentPrice = startPrice - (startPrice - endPrice) * easedProgress; // Calculate new price
+                console.log(currentPrice);
+                // Update the price in the span
+                totalPriceElement.text(Math.ceil(currentPrice));
+
+                // Stop the interval when the target is reached
+                if (progress >= 1) {
+                    clearInterval(priceInterval);
+                    totalPriceElement.text(endPrice); // Ensure it ends exactly at the target
+                }
+            }, stepTime);
+        }, 1000); // Delay of 1 second before starting
     })
 })
