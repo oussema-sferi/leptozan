@@ -67,7 +67,7 @@ $(document).ready(function() {
         $('html, body').animate({ scrollTop: 0 }, 10); // Adjust 'slow' or specify time in milliseconds
 
 
-        // Wait 1 seconds before starting the price animation
+        // Wait 1 second before starting the price animation
         setTimeout(() => {
             // Animate the total price from 79 to 58
             const totalPriceElement = noThanksContent.find(".right-details .saving-details span"); // Target the span containing 79
