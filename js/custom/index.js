@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     // Check sessionStorage for target section
-    let targetSection = sessionStorage.getItem('scrollToBuyNowSection');
+    /*let targetSection = sessionStorage.getItem('scrollToBuyNowSection');
     console.log(targetSection);
     if (targetSection) {
         let offset = 64; // Adjust based on the navbar height
@@ -9,7 +9,7 @@ $(document).ready(function() {
             scrollTop: $('#' + targetSection).offset().top - offset
         }, 200);
         sessionStorage.removeItem('scrollToBuyNowSection'); // Clear the sessionStorage
-    }
+    }*/
 
     // Nav Anchor Links Scrolling (index.html)
     $('nav .collapse a, .offers-section a, .banner-wrp a').on('click', function(e) {

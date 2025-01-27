@@ -11,7 +11,8 @@
 <body>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; ?>
+<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; */?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/legal-custom-header.php'; ?>
 <!-- header end -->
 
 <!-- content start -->
@@ -96,7 +97,7 @@
 
 <!-- scripts start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<script src="/js/custom/navbar.js"></script>
+<!--<script src="/js/custom/navbar.js"></script>-->
 <!-- scripts end -->
 </body>
 </html>

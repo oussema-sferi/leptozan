@@ -11,14 +11,15 @@
 <body>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; ?>
+<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; */?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/legal-custom-header.php'; ?>
 <!-- header end -->
 
 <!-- content start -->
 <div class="content">
 
 	<!-- Inner Banner Start -->
-	<section class="inner-bnr-wrp" style="background-color: #F1FBFB;">
+	<!--<section class="inner-bnr-wrp" style="background-color: #F1FBFB;">
 		<div class="container">
 			<div class="inner-bnr-main">
 				<div class="banner-title">
@@ -26,12 +27,15 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section>-->
 	<!-- Inner Banner End -->
 
 	<!-- Privacy Policy Start -->
 	<section class="privacy-wrp">
 		<div class="container">
+            <div class="section-title mb-5">
+                <h1>Shipping Policy</h1>
+            </div>
 			<div class="privacy-main">
 				<div class="privacy-block">
 					<div class="small-title">
@@ -122,7 +126,7 @@
 
 <!-- scripts start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<script src="/js/custom/navbar.js"></script>
+<!--<script src="/js/custom/navbar.js"></script>-->
 <!-- scripts end -->
 
 </body>

@@ -3,9 +3,9 @@
 }
 
 .inner-bnr-wrp {
-    background-image: url("/images/dead-sea-header.jpg");
+    /*background-image: url("/images/dead-sea-header.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
     display: flex;
     align-items: center;
     text-align: center;
@@ -16,7 +16,7 @@
     -moz-border-radius: 12px;
     -ms-border-radius: 12px;
     -o-border-radius: 12px;*/
-    opacity: 0.8;
+    /*opacity: 0.8;*/
 }
 
 .inner-bnr-main {
