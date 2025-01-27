@@ -1,4 +1,4 @@
-<header class="header sticky-navbar">
+<header class="header sticky-navbar navbar-desktop-view">
     <div class="container">
         <nav class="navbar navbar-expand-md">
             <a class="navbar-brand" href="/">

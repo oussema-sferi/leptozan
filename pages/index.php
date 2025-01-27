@@ -14,8 +14,23 @@
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/index-navbar.php'; ?>
 <!-- header end -->
 
+<!-- mobile header start -->
+<header class="header-mobile-view">
+    <div class="custom-header-container text-left">
+        <div class="mobile-view-logo-container">
+            <a href="/">
+                <figure>
+                    <img src="/images/logo.png" alt="logo" class="img-fluid" style="width: 90px; height: auto;">
+                </figure>
+            </a>
+        </div>
+    </div>
+</header>
+<!-- mobile header end -->
+
 <!-- content start -->
 <div class="content">
+
 	<!-- Banner Start -->
 	<section class="banner-wrp">
 		<div class="banner-main">

@@ -286,7 +286,7 @@
 	<!-- Offers End -->
 
 	<!-- Reviews Start -->
-	<section class="reviews-wrp" style="background-color: #F6F6F6;">
+	<!--<section class="reviews-wrp" style="background-color: #F6F6F6;">
 		<div class="container">
 			<div class="reviews-main">
 				<div class="reviews-top">
@@ -451,7 +451,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section>-->
 	<!-- Reviews End -->
 
 	<!-- Guarantee Start -->

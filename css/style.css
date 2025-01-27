@@ -248,6 +248,11 @@ ol li a:hover {
 	margin: 0;
 	padding: 0;
 }
+
+.header-mobile-view {
+	display: none;
+}
+
 @media (max-width: 768px) {
 	.header {
 		position: fixed;
@@ -269,13 +274,6 @@ ol li a:hover {
 	}
 	.ingredients-wrp {
 		padding: 48px 20px 24px!important;
-		/*margin: 0 32px 40px;*/
-
-		/*border-radius: 12px;
-        -webkit-border-radius: 12px;
-        -moz-border-radius: 12px;
-        -ms-border-radius: 12px;
-        -o-border-radius: 12px;*/
 	}
 	.inner-bnr-wrp {
 
@@ -284,11 +282,6 @@ ol li a:hover {
 
 	}
 
-
-	/*body {
-		padding: 0; !* Adjust based on your navbar height *!
-		margin: 0;
-	}*/
 	.header .navbar {
 		overflow: visible;
 		position: relative;
@@ -296,13 +289,9 @@ ol li a:hover {
 	}
 	.header .navbar-collapse {
 		transition: all 0.3s ease-in-out;
-		/*position: absolute;*/
 		top: 100%; /* Place the expanded menu below the navbar */
 		left: 0;
 		right: 0;
-		/*overflow: hidden;*/
-		 /* Match your navbar background */
-		/*z-index: 1000;*/
 		border-top: 1px solid #ddd; /* Optional: Add a border for separation */
 		text-align: center;
 	}
@@ -310,14 +299,25 @@ ol li a:hover {
 		 /* Ensure it displays vertically when expanded */
 		max-height: 470px; /* Adjust the height as per the number of menu items */
 	}
-	/*.header + .content {
-		transition: margin-top 0.3s ease-in-out;
+
+
+	/*Hide navbar in mobile*/
+	.navbar-desktop-view {
+		display: none;
 	}
 
-	.navbar-collapse.show ~ .content {
-		margin-top: 300px; !* Same as max-height of the navbar-collapse *!
-	}*/
+	/*Show logo in mobile*/
+	.header-mobile-view {
+		display: block; /* Show only on mobile/tablet */
+	}
+
+	.mobile-view-logo-container {
+		margin: 0 25px 0;
+	}
+
 }
+
+
 
 /* Media query for mobile view */
 
