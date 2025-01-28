@@ -978,7 +978,7 @@
 
 <!-- scripts start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<script src="/js/custom/index.js"></script>
+<script src="/js/custom/index.js?v=<?php echo time(); ?>"></script>
 <!-- scripts end -->
 
 </body>

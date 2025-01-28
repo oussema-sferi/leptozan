@@ -11,4 +11,4 @@
 <script src="/js/ofi.min.js"></script>
 
 <!-- Custom JS Scripts -->
-<script src="/js/script.js"></script>
+<script src="/js/script.js?v=<?php echo time(); ?>"></script>

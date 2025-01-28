@@ -7,7 +7,7 @@
 <!-- Bootstrap -->
 <link href="/css/bootstrap.min.css" rel="stylesheet">
 <!--=== Add By Designer ===-->
-<link href="/css/style.css" rel="stylesheet">
+<link href="/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
 <link href="/css/responsive.css" rel="stylesheet">
 <!-- Slick Slider -->
 <link href="/css/slick.css" rel="stylesheet">
