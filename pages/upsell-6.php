@@ -6,7 +6,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
 <!-- header end -->
 
-<title>UPSELL 1</title>
+<title>UPSELL 6</title>
 </head>
 <body>
 
@@ -151,9 +151,9 @@
 										<h3>Add an Additional <br> <span>3 Bottles To Your Order</span></h3>
 									</div>
 								</div>
-								<div class="special-deal-img text-center" style="background-color: var(--white);">
+								<div class="special-deal-img" style="background-color: var(--white);">
 									<figure>
-										<img src="/images/offers-img-3.png" alt="order-img" class="img-fluid">
+										<img src="/images/order-images.png" alt="order-img" class="img-fluid">
 									</figure>
 								</div>
 							</div>
@@ -165,12 +165,12 @@
 										<div class="saving-details">
 											<span>Just</span>
 											<sup><b>$</b></sup>
-											<span>59</span>
+											<span>23</span>
 											<sup>Per 
 												Bottle</sup>
-												<!--<div class="details">
+												<div class="details">
 													<p>YOU SAVE $120</p>
-												</div>-->
+												</div>
 										</div>
 									</div>
 									<div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
@@ -184,7 +184,7 @@
 										</div>
 										<div class="saving-details" style="color: var(--white);">
 											<sup><b style="color: var(--white);">$</b></sup>
-											<span>177</span>
+											<span>69</span>
 										</div>
 									</div>
 								</div>
@@ -195,7 +195,7 @@
 									</ul>
 								</div>
 								<div class="btn-contain">
-									<a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $177</span> </a>
+									<a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $69</span> </a>
 								</div>
 								<div class="icon-list">
 									<ul>
@@ -238,9 +238,9 @@
                                         <h3>OK. Maybe 3 bottles was a little too much, but how about an <span>additional 2 BOTTLES?</span></h3>
                                     </div>
                                 </div>
-                                <div class="special-deal-img text-center" style="background-color: var(--white);">
+                                <div class="special-deal-img" style="background-color: var(--white);">
                                     <figure>
-                                        <img src="/images/offers-img-1.png" alt="order-img" class="img-fluid">
+                                        <img src="/images/order-images.png" alt="order-img" class="img-fluid">
                                     </figure>
                                 </div>
                             </div>
@@ -252,12 +252,12 @@
                                         <div class="saving-details">
                                             <span>Just</span>
                                             <sup><b>$</b></sup>
-                                            <span>49</span>
+                                            <span>39</span>
                                             <sup>Per
                                                 Bottle</sup>
-                                            <!--<div class="details">
+                                            <div class="details">
                                                 <p>YOU SAVE $120</p>
-                                            </div>-->
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
@@ -271,7 +271,7 @@
                                         </div>
                                         <div class="saving-details" style="color: var(--white);">
                                             <sup><b style="color: var(--white);">$</b></sup>
-                                            <span>177</span>
+                                            <span>79</span>
                                         </div>
                                     </div>
                                 </div>
@@ -282,7 +282,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
+                                    <a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $79</span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
@@ -303,7 +303,7 @@
     </section>
     <!-- NO-THANKS special-deal-section end-->
 
-	<section class="official-page" style="background-color: #D4F1F2;display: none">
+	<section class="official-page" style="background-color: #D4F1F2;">
 		<div class="container">
 			<div class="official-page-wrap text-center">
 				<div class="official-page-top">

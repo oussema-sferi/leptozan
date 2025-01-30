@@ -122,7 +122,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<li>You save $200!</li>
+											<!--<li>You save $200!</li>-->
 											<li>180 Days Guarantee</li>
 										</ul>
 									</div>
@@ -155,7 +155,7 @@
 									</div>
 									<div class="offers-total">
 										<p>TOTAL:<strong>$158</strong></p>
-										<p>+ 9.99 Shipping</p>
+										<p>+ 9.95 Shipping</p>
 									</div>
 								</div>
 							</div>
@@ -181,7 +181,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<li>You save $780!</li>
+											<!--<li>You save $780!</li>-->
 											<li>Biggest Discount</li>
 											<li>180 Days Guarantee</li>
 										</ul>
@@ -214,7 +214,7 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL: <span>$210</span> <strong>$158</strong></p>
+										<p>TOTAL: <!--<span>$210</span>--> <strong>$294</strong></p>
 										<p>Free Shipping</p>
 									</div>
 								</div>
@@ -241,7 +241,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<li>You save $360!</li>
+											<!--<li>You save $360!</li>-->
 											<li>180 Days Guarantee</li>
 										</ul>
 									</div>
@@ -273,7 +273,7 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL:<strong>$158</strong></p>
+										<p>TOTAL:<strong>$207</strong></p>
 										<p>Free Shipping</p>
 									</div>
 								</div>
@@ -509,122 +509,108 @@
 				<div class="section-title">
 					<h2>Frequently Asked Questions</h2>
 				</div>
-				<div class="faq-section">
-					<div class="accordion" id="accordionExample">
-						<div class="accordion-item active">
-							<h2 class="accordion-header">
-								<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-									<div class="small-title">
-										<h3>Is LEPTOZAN safe to use?</h3>
-									</div>
-								</button>
-							</h2>
-							<div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-								<div class="accordion-body">
-									<div class="detail">
-										<p>Absolutely. Lipozem is made with 100% natural ingredients and is manufactured in the USA in an FDA-registered facility that follows Good Manufacturing Practices (GMP). However, as with any supplement, it's a good idea to consult your healthcare provider before starting.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="accordion-item">
-							<h2 class="accordion-header">
-								<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-									<div class="small-title">
-										<h3>Is LEPTOZAN safe to use?</h3>
-									</div>
-								</button>
-							</h2>
-							<div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-								<div class="accordion-body">
-									<div class="detail">
-										<p>Absolutely. Lipozem is made with 100% natural ingredients and is manufactured in the USA in an FDA-registered facility that follows Good Manufacturing Practices (GMP). However, as with any supplement, it's a good idea to consult your healthcare provider before starting.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="accordion-item">
-							<h2 class="accordion-header">
-								<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-									<div class="small-title">
-										<h3>Is LEPTOZAN safe to use?</h3>
-									</div>
-								</button>
-							</h2>
-							<div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-								<div class="accordion-body">
-									<div class="detail">
-										<p>Absolutely. Lipozem is made with 100% natural ingredients and is manufactured in the USA in an FDA-registered facility that follows Good Manufacturing Practices (GMP). However, as with any supplement, it's a good idea to consult your healthcare provider before starting.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="accordion-item">
-							<h2 class="accordion-header">
-								<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-									<div class="small-title">
-										<h3>Is LEPTOZAN safe to use?</h3>
-									</div>
-								</button>
-							</h2>
-							<div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-								<div class="accordion-body">
-									<div class="detail">
-										<p>Absolutely. Lipozem is made with 100% natural ingredients and is manufactured in the USA in an FDA-registered facility that follows Good Manufacturing Practices (GMP). However, as with any supplement, it's a good idea to consult your healthcare provider before starting.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="accordion-item">
-							<h2 class="accordion-header">
-								<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-									<div class="small-title">
-										<h3>Is LEPTOZAN safe to use?</h3>
-									</div>
-								</button>
-							</h2>
-							<div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-								<div class="accordion-body">
-									<div class="detail">
-										<p>Absolutely. Lipozem is made with 100% natural ingredients and is manufactured in the USA in an FDA-registered facility that follows Good Manufacturing Practices (GMP). However, as with any supplement, it's a good idea to consult your healthcare provider before starting.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="accordion-item">
-							<h2 class="accordion-header">
-								<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-									<div class="small-title">
-										<h3>Is LEPTOZAN safe to use?</h3>
-									</div>
-								</button>
-							</h2>
-							<div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-								<div class="accordion-body">
-									<div class="detail">
-										<p>Absolutely. Lipozem is made with 100% natural ingredients and is manufactured in the USA in an FDA-registered facility that follows Good Manufacturing Practices (GMP). However, as with any supplement, it's a good idea to consult your healthcare provider before starting.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="accordion-item">
-							<h2 class="accordion-header">
-								<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
-									<div class="small-title">
-										<h3>Is LEPTOZAN safe to use?</h3>
-									</div>
-								</button>
-							</h2>
-							<div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-								<div class="accordion-body">
-									<div class="detail">
-										<p>Absolutely. Lipozem is made with 100% natural ingredients and is manufactured in the USA in an FDA-registered facility that follows Good Manufacturing Practices (GMP). However, as with any supplement, it's a good idea to consult your healthcare provider before starting.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+                <div class="faq-section">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item active">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                    <div class="small-title">
+                                        <h3>How does Leptozan work?</h3>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="detail">
+                                        <p>Leptozan uses three science-backed ingredients to enhance your metabolism: Magnesium Magnesium Beta Hydroxybutyrate, Calcium Beta Hydroxybutyrate, and Sodium Beta Hydroxybutyrate. These minerals work to make weight loss easier, provide daily energy, and a number of other benefits.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                    <div class="small-title">
+                                        <h3>Is Leptozan safe to use?</h3>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="detail">
+                                        <p>100%. Leptozan only uses natural ingredients that have been manufactured in an FDA-registered facility. However, it’s always a good idea to consult your healthcare provider before taking any new supplement.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                    <div class="small-title">
+                                        <h3>How quickly will it take to see results?</h3>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="detail">
+                                        <p>Many people who use Leptozan report seeing noticeable changes within the first few weeks. However, to ensure the best results, we suggest using it daily for at least 3 months as weight loss is about consistency, not quick fixes!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                    <div class="small-title">
+                                        <h3>Will I need to do exercise or stay on a strict diet?</h3>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="detail">
+                                        <p>The short answer is no! You do not need to start any extreme workouts or restrictive diets. Should you wish, you can safely combine Leptozan with a balanced diet and regular movement to help you see even better results.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                    <div class="small-title">
+                                        <h3>How many bottles should I order?</h3>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="detail">
+                                        <p>To maximise the benefits of Leptozan, we suggest starting with a 3 or 6 month supply. This allows you to see the most dramatic changes and also get the biggest saving.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                    <div class="small-title">
+                                        <h3>What if this doesn’t work for me?</h3>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="detail">
+                                        <p>Order Leptozan and you have 180 days to see how well it works for you. If you’re not happy for any reason, simply let us know and you’ll be given a full refund, no questions asked.</p>
+                                        <p>This means you only pay if it works for you, which means all the risk is on us.</p>
+                                        <p>However, we encourage you to order right now to get your discount. The six month supply provides the biggest saving and will help you the most, but please choose whichever option works best for you.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 			</div>
 		</div>
 	</section>
@@ -660,7 +646,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<li>You save $200!</li>
+											<!--<li>You save $200!</li>-->
 											<li>180 Days Guarantee</li>
 										</ul>
 									</div>
@@ -693,7 +679,7 @@
 									</div>
 									<div class="offers-total">
 										<p>TOTAL:<strong>$158</strong></p>
-										<p>+ 9.99 Shipping</p>
+										<p>+ 9.95 Shipping</p>
 									</div>
 								</div>
 							</div>
@@ -719,7 +705,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<li>You save $780!</li>
+											<!--<li>You save $780!</li>-->
 											<li>Biggest Discount</li>
 											<li>180 Days Guarantee</li>
 										</ul>
@@ -752,7 +738,7 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL: <span>$210</span> <strong>$158</strong></p>
+										<p>TOTAL: <!--<span>$210</span>--> <strong>$294</strong></p>
 										<p>Free Shipping</p>
 									</div>
 								</div>
@@ -779,7 +765,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<li>You save $360!</li>
+											<!--<li>You save $360!</li>-->
 											<li>180 Days Guarantee</li>
 										</ul>
 									</div>
@@ -811,7 +797,7 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL:<strong>$158</strong></p>
+										<p>TOTAL:<strong>$207</strong></p>
 										<p>Free Shipping</p>
 									</div>
 								</div>

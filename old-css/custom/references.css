@@ -1,0 +1,81 @@
+.references-wrp {
+    padding: 68px 0 88px;
+}
+
+.references-main > .section-title {
+    text-align: center;
+    margin: 0 0 50px;
+}
+
+.references-right .section-title {
+    margin: 0 0 56px;
+}
+
+.references-details {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 0 16px;
+}
+
+.references-details:last-child {
+    margin-bottom: 0;
+}
+
+.references-details p {
+    margin: 0 0 4px;
+}
+
+.references-details p:last-child {
+    margin-bottom: 0;
+}
+
+.references-details p span {
+    color: #979797;
+}
+
+.slick-dots {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slick-dots li {
+    font-size: 0;
+    line-height: 0;
+    list-style-type: none;
+    padding: 0 24px 0 0;
+}
+
+.slick-dots li:last-child {
+    padding-right: 0;
+}
+
+.slick-dots li button {
+    width: 16px;
+    height: 16px;
+    border: 1px solid #C5C5C5;
+    background-color: transparent;
+    font-size: 0;
+    line-height: 0;
+    padding: 0;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.slick-dots li.slick-active button {
+    background-color: #C5C5C5;
+}
+
+.references-slider .slick-dots {
+    margin: 32px 0 0;
+}
+
+.references-img {
+    text-align: center;
+    margin: 4px 0 0;
+}

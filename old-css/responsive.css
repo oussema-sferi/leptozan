@@ -181,7 +181,7 @@
     .offers-product-img { margin: 0 -16px; }
     .offers-block {margin: 0 0 24px;}
 
-    .guarantee-wrp {padding: 64px 0 8px; background-image: url("/images/guarantee-lines-mobile.png"); }
+    .guarantee-wrp {padding: 64px 0 8px; background-image: url("../images/guarantee-lines-mobile.png"); }
     .guarantee-main .badge-img img {width: 96px;}
     .guarantee-main .badge-img { margin: 0 0 16px; }
     .guarantee-main .section-title { margin: 0 0 16px; }

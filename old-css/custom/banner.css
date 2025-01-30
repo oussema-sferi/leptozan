@@ -1,10 +1,11 @@
 .banner-wrp {
-    background-image: url("/images/banner-Subtract.svg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    /*background-image: url("../images/banner-Subtract.svg");
+    background-repeat: no-repeat;*/
+    background-color: #7fcccc;
+    background-size: 100%; /* changing bg color of banner in home page */
     background-position: center;
     /* background-color: var(--sky); */
-    margin: 32px 32px 0;
+    margin: 0 32px 0;
     padding: 90px 0 38px;
     position: relative;
     z-index: 9;
@@ -17,7 +18,7 @@
 
 .banner-wrp::before {
     content: "";
-    background-image: url('/images/Lines.png');
+    background-image: url('/images/dead-sea-banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -26,6 +27,7 @@
     top: 0;
     bottom: 0;
     z-index: -1;
+    opacity: 0.1; /* Adjust transparency here */
 }
 
 /* .banner-wrp::after {

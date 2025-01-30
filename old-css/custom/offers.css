@@ -28,7 +28,7 @@
 }
 
 .offers-block {
-    padding: 0 0 32px;
+    padding: 0 0 3px;
     cursor: pointer;
     /*overflow: hidden;
     */background-color: var(--white);
@@ -56,7 +56,7 @@
     background-color: var(--teal);
     clip-path: polygon(100% 0, 100% 76%, 50% 100%, 0 72%, 0 0);
     text-align: center;
-    padding: 24px 0 32px;
+    padding: 10px 0 32px;
     color: var(--white);
     margin: -1px -2px 0;
     border-radius: 12px 12px 0 0;
@@ -75,7 +75,7 @@
 }
 
 .offers-product-price {
-    margin: -21px 0 12px;
+    margin: 0 0;
 }
 
 .offers-product-price h3 {
@@ -87,11 +87,11 @@
 
 .offers-product-price span {
     font-family: "Fira Sans Condensed", serif;
-    font-size: 124px;
+    font-size: 80px;
     line-height: 132px;
-    font-weight: 700;
+    font-weight: 400;
     display: block;
-    padding: 0 6px;
+    /*padding: 0 6px;*/
 }
 
 .offers-product-price b {
@@ -109,6 +109,7 @@
     display: block;
     max-width: 52px;
 }
+
 
 .common-list ul {
     padding: 0;
@@ -175,7 +176,7 @@
 }
 
 .offers-btn {
-    margin: 24px 32px 0;
+    margin: 10px 32px 0;
 }
 
 .offers-btn .btn {
@@ -201,7 +202,7 @@
 }
 
 .best-offer-block .offers-btn {
-    margin: 24px 27px 0;
+    margin: 10px 27px 0;
 }
 
 .offers-btn .btn {

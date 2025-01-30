@@ -189,9 +189,7 @@
 
 .saving-details span{
     font-family: "DM Sans";
-    /*font-size: 56px;*/
-    font-size: 54px;
-    /*width: 2ch;*/
+    font-size: 56px;
     font-style: normal;
     font-weight: 700;
     line-height: 110%;
@@ -440,6 +438,3 @@
 .btn-contain a {
     width: 100%;
 }*/
-.btn-contain .btn-orange .price {
-    all: unset;  /* Resets all inherited styles */
-}

@@ -1,5 +1,6 @@
 .healthy-wrp {
     padding: 50px 0 57px;
+    /*margin: 0 28px 0;*/
 }
 
 .healthy-title {
@@ -18,7 +19,7 @@
 }
 
 .healthy-section .row {
-    margin: 0 -16px;
+    margin: 0;
 }
 
 .healthy-section .row>* {

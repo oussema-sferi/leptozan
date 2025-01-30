@@ -1,0 +1,131 @@
+.reviews-wrp {
+    padding: 88px 0 72px;
+    margin: 40px 32px 0;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+.reviews-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 0 56px;
+}
+
+.reviews-top .btn {
+    flex: 0 0 auto;
+}
+
+.reviews-top .section-title {
+    max-width: 682px;
+    width: 100%;
+    text-transform: unset;
+}
+
+.star-reviews {
+    position: relative;
+    vertical-align: middle;
+    display: block;
+    overflow: hidden;
+    max-width: 144px;
+    width: 100%;
+    margin-left: auto;
+    margin-bottom: 24px;
+}
+
+.empty-stars, .full-stars {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.full-stars {
+    position: absolute;
+    left: 0;
+    top: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.star-reviews img {
+    width: 24px;
+    margin: 0 6px 0 0;
+}
+
+.reviews-item {
+    height: auto !important;
+    margin: 0 16px;
+    padding: 35px 19px 19px;
+    border: 5px solid var(--grey4);
+    background-color: var(--white);
+    display: flex !important;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+.reviews-name .common-detail {
+    font-weight: 500;
+    color: var(--teal);
+}
+
+.reviews-name .details {
+    font-size: 14px;
+    line-height: 20px;
+    color: #979797;
+}
+
+.reviews-name .details p {
+    margin: 0;
+}
+
+.reviews-bottom {
+    display: flex;
+    align-items: center;
+    padding: 24px 0 0;
+    border-top: 1px solid var(--grey5);
+}
+
+.reviews-img {
+    width: 72px;
+    height: 72px;
+    flex: 0 0 auto;
+    margin: 0 12px 0 0;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.reviews-item .detail {
+    margin: 0 0 24px;
+}
+
+.reviews-slider {
+    opacity: 0;
+    margin: 0 -16px;
+}
+
+.reviews-slider .slick-track {
+    display: flex;
+}
+
+.reviews-slider.slick-initialized {
+    opacity: 1;
+}
+
+.reviews-slider .slick-dots {
+    padding: 32px 0 0;
+}
+
+.vsl-banner-wrp2 {
+    margin-bottom: 60px;
+}

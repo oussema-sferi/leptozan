@@ -13,10 +13,26 @@ RewriteRule ^(.*)$ /$1/ [L,R=301]
 RewriteRule ^newdiscovery/?$ pages/vsl-opened.php [L]
 
 # Redirect https://www.leptozan.com/upsell-oto-01/ to /pages/upsell-1.php
+#RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
+
+# Redirect https://www.leptozan.com/upsell-no-thanks/ to /pages/upsell-nothanks.php
+RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]
+
+
+# Redirect upsell-oto-01/ based on SKU parameter
+RewriteCond %{QUERY_STRING} ^sku=lepto-us-01$ [NC]
 RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
 
-# Redirect https://www.leptozan.com/upsell-oto-01/ to /pages/upsell-1.php
-RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]
+RewriteCond %{QUERY_STRING} ^sku=lepto-us-03$ [NC]
+RewriteRule ^upsell-oto-01/?$ pages/upsell-3.php [L]
+
+RewriteCond %{QUERY_STRING} ^sku=lepto-us-06$ [NC]
+RewriteRule ^upsell-oto-01/?$ pages/upsell-6.php [L]
+
+# Default redirect if no SKU matches
+RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
+
+
 
 # Redirect https://www.leptozan.com/typ/ to /pages/thank-you.php
 RewriteRule ^typ/?$ pages/thank-you.php [L]
@@ -42,8 +58,11 @@ RewriteRule ^disclaimer/?$ pages/disclaimer.php [L]
 # Redirect https://www.leptozan.com/contact/ to /pages/contact.php
 RewriteRule ^contact/?$ pages/contact.php [L]
 
-# Redirect https://www.leptozan.com/contact/ to /pages/contact.php
+# Redirect https://www.leptozan.com/vsl/ to /pages/vsl.php
 RewriteRule ^vsl/?$ pages/vsl.php [L]
+
+# Test for Redirect https://www.leptozan.com/old-index/ to /pages/old-index.php
+RewriteRule ^old-index/?$ pages/old-index.php [L]
 
 <IfModule mod_headers.c>
 Header set Cache-Control "private"
