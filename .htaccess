@@ -64,6 +64,9 @@ RewriteRule ^vsl/?$ pages/vsl.php [L]
 # Test for Redirect https://www.leptozan.com/old-index/ to /pages/old-index.php
 RewriteRule ^old-index/?$ pages/old-index.php [L]
 
+# Redirect https://www.leptozan.com/glucozan-index/ to /pages/glucozan-index.php
+RewriteRule ^glucozan-index/?$ pages/glucozan-index.php [L]
+
 <IfModule mod_headers.c>
 Header set Cache-Control "private"
 </IfModule>
