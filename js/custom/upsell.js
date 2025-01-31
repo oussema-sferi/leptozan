@@ -24,6 +24,17 @@ $(document).ready(function() {
     getVidalyticsPlayer(EMBED_ID).then(player => {
         if (!player) return;
         // Do something related to current video playback time (Events related To Vidalytics Player)
+        // Detect if the user is on mobile
+        function isMobile() {
+            return window.innerWidth <= 768; // Adjust breakpoint if needed
+        }
+        player.on('play', () => {
+            console.log('Player was played.');
+            if (isMobile()) {
+                $(".banner-order-steps").slideUp(1000);
+            }
+
+        });
         /*player.on('play', () => {
             console.log('Player was played.');
         });
@@ -44,7 +55,7 @@ $(document).ready(function() {
             const currentTime = Math.floor(player.currentTime());
             if (currentTime === actionTime) {
                 isTimeTrapTriggered = true;
-                console.log('Player playback reached 5 seconds.', player);
+                /*console.log('Player playback reached 5 seconds.', player);*/
                 upsellSpecialDealSection.slideDown(1500)
             }
         });
@@ -89,7 +100,7 @@ $(document).ready(function() {
                 const progress = stepCount / totalSteps; // Progress from 0 to 1
                 const easedProgress = easingFunction(progress); // Apply easing function
                 currentPrice = startPrice - (startPrice - endPrice) * easedProgress; // Calculate new price
-                console.log(currentPrice);
+                /*console.log(currentPrice);*/
                 // Update the price in the span
                 totalPriceElementOne.text(Math.ceil(currentPrice));
                 totalPriceElementTwo.text(Math.ceil(currentPrice));
@@ -103,4 +114,27 @@ $(document).ready(function() {
             }, stepTime);
         }, 1000); // Delay of 1 second before starting
     })
+
+    // blink effect on price & buying box title (No Thanks page)
+
+    const elementsToObserve = document.querySelectorAll(".price-blink, .title-blink"); // Select both elements
+
+    if (elementsToObserve.length > 0) {
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add("fade-blink-animation");
+
+                    // Remove the animation class after 5 blinks (7.5s duration)
+                    setTimeout(() => {
+                        entry.target.classList.remove("fade-blink-animation");
+                    }, 7.5 * 1000);
+                }
+            });
+        }, { threshold: 0.5 });
+
+        // Observe each element
+        elementsToObserve.forEach(element => observer.observe(element));
+    }
+
 })

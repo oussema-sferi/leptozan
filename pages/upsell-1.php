@@ -153,7 +153,7 @@
 								</div>
 								<div class="special-deal-img text-center" style="background-color: var(--white);">
 									<figure>
-										<img src="/images/offers-img-3.png" alt="order-img" class="img-fluid">
+										<img width="370" src="/images/offers-img-3.png" alt="order-img" class="img-fluid">
 									</figure>
 								</div>
 							</div>
@@ -168,9 +168,9 @@
 											<span>59</span>
 											<sup>Per 
 												Bottle</sup>
-												<!--<div class="details">
+												<div class="details">
 													<p>YOU SAVE $120</p>
-												</div>-->
+												</div>
 										</div>
 									</div>
 									<div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
@@ -235,12 +235,12 @@
                             <div class="special-deal-left">
                                 <div class="special-deal-top-left text-center">
                                     <div class="block-title">
-                                        <h3>OK. Maybe 3 bottles was a little too much, but how about an <span>additional 2 BOTTLES?</span></h3>
+                                        <h3 class="title-blink">OK. Maybe 3 bottles was a little too much, but how about an <span>additional 2 BOTTLES?</span></h3>
                                     </div>
                                 </div>
                                 <div class="special-deal-img text-center" style="background-color: var(--white);">
                                     <figure>
-                                        <img src="/images/offers-img-1.png" alt="order-img" class="img-fluid">
+                                        <img width="370" src="/images/offers-img-1.png" alt="order-img" class="img-fluid">
                                     </figure>
                                 </div>
                             </div>
@@ -252,12 +252,12 @@
                                         <div class="saving-details">
                                             <span>Just</span>
                                             <sup><b>$</b></sup>
-                                            <span>49</span>
+                                            <span class="price-blink">49</span>
                                             <sup>Per
                                                 Bottle</sup>
-                                            <!--<div class="details">
+                                            <div class="details">
                                                 <p>YOU SAVE $120</p>
-                                            </div>-->
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">

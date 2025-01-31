@@ -110,6 +110,10 @@
     margin: 0 auto;
 }
 
+.saving-banner .left-details .price-blink {
+    color: #ED4E1E;
+}
+
 .saving-banner .left-details,
 .saving-banner .right-details {
     flex: 0 0 auto;
@@ -158,6 +162,10 @@
     -o-border-radius: 0 0 6px 6px;
 }
 
+/*.special-deal-main .special-deal-left .special-deal-img figure .img{
+    width: 20% !important;
+}*/
+
 .special-deal-main .special-deal-left .special-deal-top-left {
     padding: 24px 20px 24px;
 }
@@ -177,6 +185,7 @@
 
 .right-details .saving-details {
     padding: 0 24px 0 40px;
+    /*padding: 0 32px 0 32px;*/
 }
 
 /*.saving-details span{
@@ -442,4 +451,31 @@
 }*/
 .btn-contain .btn-orange .price {
     all: unset;  /* Resets all inherited styles */
+}
+
+/* blink effect */
+/*@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+.blink-animation {
+    animation: blink 1.5s steps(1, end) 6;
+}*/
+
+@keyframes fadeBlink {
+    0%, 100% { opacity: 1; }  /* Fully visible */
+    50% { opacity: 0; }       /* Fully hidden */
+}
+
+.fade-blink-animation {
+    animation: fadeBlink 1.5s ease-in-out 6; /* 1.5s per fade, 5 full blinks */
+}
+
+@media (max-width: 768px) {
+
+
+    .special-deal-section .special-deal-wrap .special-deal-right .saving-banner .right-details {
+        padding: 12px 0px 12px 15px;
+    }
 }
