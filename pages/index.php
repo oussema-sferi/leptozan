@@ -108,10 +108,10 @@
             <div class="healthy-main">
                 <div class="healthy-title">
                     <div class="section-title">
-                        <h2>Natural Weight Loss Designed For Your Body</h2>
+                        <h2>Natural <span>Weight Loss</span> Designed For Your Body</h2>
                     </div>
                     <div class="detail">
-                        <p>Use Leptozan to kickstart your fat-burning processes in a healthy, natural way.</p>
+                        <p>Use <span class="make-bold">Leptozan</span> to kickstart your fat-burning processes in a healthy, natural way.</p>
                     </div>
                 </div>
                 <div class="healthy-section">
@@ -355,7 +355,7 @@
                                     </div>
                                     <div class="common-list">
                                         <ul>
-                                            <!--<li>You save $200!</li>-->
+                                            <li>You save $200!</li>
                                             <li>180 Days Guarantee</li>
                                         </ul>
                                     </div>
@@ -387,7 +387,7 @@
                                         </ul>
                                     </div>
                                     <div class="offers-total">
-                                        <p>TOTAL: <!--<span>$358</span>--> <strong>$158</strong></p>
+                                        <p>TOTAL: <span>$358</span> <strong>$158</strong></p>
                                         <p>+ 9.95 Shipping</p>
                                     </div>
                                 </div>
@@ -463,7 +463,7 @@
                                     </div>
                                     <div class="common-list">
                                         <ul>
-                                            <!--<li>You save $780!</li>-->
+                                            <li>You save $780!</li>
                                             <li>Biggest Discount</li>
                                             <li>180 Days Guarantee</li>
                                         </ul>
@@ -496,8 +496,8 @@
                                         </ul>
                                     </div>
                                     <div class="offers-total">
-                                        <p>TOTAL: <!--<span>$1074</span>--> <strong>$294</strong></p>
-                                        <p>Free Shipping</p>
+                                        <p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
+                                        <p class="free-shipping">Free Shipping</p>
                                     </div>
                                 </div>
                             </div>
@@ -523,7 +523,7 @@
                                     </div>
                                     <div class="common-list">
                                         <ul>
-                                            <!--<li>You save $360!</li>-->
+                                            <li>You save $360!</li>
                                             <li>180 Days Guarantee</li>
                                         </ul>
                                     </div>
@@ -555,8 +555,8 @@
                                         </ul>
                                     </div>
                                     <div class="offers-total">
-                                        <p>TOTAL: <!--<span>$537</span>--> <strong>$207</strong></p>
-                                        <p>Free Shipping</p>
+                                        <p>TOTAL: <span>$537</span> <strong>$207</strong></p>
+                                        <p class="free-shipping">Free Shipping</p>
                                     </div>
                                 </div>
                             </div>
@@ -761,7 +761,7 @@
                                     </div>
                                     <div class="common-list">
                                         <ul>
-                                            <!--<li>You save $200!</li>-->
+                                            <li>You save $200!</li>
                                             <li>180 Days Guarantee</li>
                                         </ul>
                                     </div>
@@ -793,7 +793,7 @@
                                         </ul>
                                     </div>
                                     <div class="offers-total">
-                                        <p>TOTAL:<strong>$158</strong></p>
+                                        <p>TOTAL: <span>$358</span> <strong>$158</strong></p>
                                         <p>+ 9.95 Shipping</p>
                                     </div>
                                 </div>
@@ -820,7 +820,7 @@
                                     </div>
                                     <div class="common-list">
                                         <ul>
-                                            <!--<li>You save $780!</li>-->
+                                            <li>You save $780!</li>
                                             <li>Biggest Discount</li>
                                             <li>180 Days Guarantee</li>
                                         </ul>
@@ -853,8 +853,8 @@
                                         </ul>
                                     </div>
                                     <div class="offers-total">
-                                        <p>TOTAL: <!--<span>$210</span>--> <strong>$294</strong></p>
-                                        <p>Free Shipping</p>
+                                        <p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
+                                        <p class="free-shipping">Free Shipping</p>
                                     </div>
                                 </div>
                             </div>
@@ -880,7 +880,7 @@
                                     </div>
                                     <div class="common-list">
                                         <ul>
-                                            <!--<li>You save $360!</li>-->
+                                            <li>You save $360!</li>
                                             <li>180 Days Guarantee</li>
                                         </ul>
                                     </div>
@@ -912,8 +912,8 @@
                                         </ul>
                                     </div>
                                     <div class="offers-total">
-                                        <p>TOTAL:<strong>$207</strong></p>
-                                        <p>Free Shipping</p>
+                                        <p>TOTAL: <span>$537</span> <strong>$207</strong></p>
+                                        <p class="free-shipping">Free Shipping</p>
                                     </div>
                                 </div>
                             </div>
@@ -962,14 +962,14 @@
                                     <div class="references-details">
                                         <p>6. Clarke, K., et al. (2012). <span>Kinetics, safety and tolerability of (R)-3-hydroxybutyl (R)-3-hydroxybutyrate in healthy adult subjects. Regulatory Toxicology and Pharmacology, 63(3), 401–408.</span></p>
                                     </div>
+                                </div>
+                                <div class="references-item">
                                     <div class="references-details">
                                         <p>7. <span>How Magnesium Affects Weight Loss Efforts.</span> Health.com, 2024.</p>
                                     </div>
                                     <div class="references-details">
                                         <p>8. Stubbs, B. J., et al. (2018). <span>A Ketone Ester Drink Lowers Human Ghrelin and Appetite. Obesity, 26(2), 269–273.</span></p>
                                     </div>
-                                </div>
-                                <div class="references-item">
                                     <div class="references-details">
                                         <p>9. Evans, M., et al. (2023). <span>Effects of Exogenous Ketone Supplementation on Blood Glucose: A Systematic Review. Advances in Nutrition.</span></p>
                                     </div>
@@ -982,6 +982,9 @@
                                     <div class="references-details">
                                         <p>12. Farquhar, W. B., et al. (2015). <span>Dietary Sodium and Health: More Than Just Blood Pressure. Journal of the American College of Cardiology, 65(10), 1042-1050.</span></p>
                                     </div>
+                                </div>
+
+                                <div class="references-item">
                                     <div class="references-details">
                                         <p>13. Cunnane, S. C., et al. (2016). <span>Can Ketones Help Rescue Brain Fuel Supply in Later Life? Implications for Cognitive Health during Aging and the Treatment of Alzheimer’s Disease. Frontiers in Molecular Neuroscience, 9, 53.</span></p>
                                     </div>

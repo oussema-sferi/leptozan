@@ -122,7 +122,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<!--<li>You save $200!</li>-->
+											<li>You save $200!</li>
 											<li>180 Days Guarantee</li>
 										</ul>
 									</div>
@@ -154,7 +154,7 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL:<strong>$158</strong></p>
+										<p>TOTAL: <span>$358</span> <strong>$158</strong></p>
 										<p>+ 9.95 Shipping</p>
 									</div>
 								</div>
@@ -181,7 +181,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<!--<li>You save $780!</li>-->
+											<li>You save $780!</li>
 											<li>Biggest Discount</li>
 											<li>180 Days Guarantee</li>
 										</ul>
@@ -214,8 +214,8 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL: <!--<span>$210</span>--> <strong>$294</strong></p>
-										<p>Free Shipping</p>
+										<p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
+										<p class="free-shipping">Free Shipping</p>
 									</div>
 								</div>
 							</div>
@@ -241,7 +241,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<!--<li>You save $360!</li>-->
+											<li>You save $360!</li>
 											<li>180 Days Guarantee</li>
 										</ul>
 									</div>
@@ -273,8 +273,8 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL:<strong>$207</strong></p>
-										<p>Free Shipping</p>
+										<p>TOTAL: <span>$537</span> <strong>$207</strong></p>
+										<p class="free-shipping">Free Shipping</p>
 									</div>
 								</div>
 							</div>
@@ -646,7 +646,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<!--<li>You save $200!</li>-->
+											<li>You save $200!</li>
 											<li>180 Days Guarantee</li>
 										</ul>
 									</div>
@@ -678,7 +678,7 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL:<strong>$158</strong></p>
+										<p>TOTAL: <span>$358</span> <strong>$158</strong></p>
 										<p>+ 9.95 Shipping</p>
 									</div>
 								</div>
@@ -705,7 +705,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<!--<li>You save $780!</li>-->
+											<li>You save $780!</li>
 											<li>Biggest Discount</li>
 											<li>180 Days Guarantee</li>
 										</ul>
@@ -738,8 +738,8 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL: <!--<span>$210</span>--> <strong>$294</strong></p>
-										<p>Free Shipping</p>
+										<p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
+										<p class="free-shipping">Free Shipping</p>
 									</div>
 								</div>
 							</div>
@@ -765,7 +765,7 @@
 									</div>
 									<div class="common-list">
 										<ul>
-											<!--<li>You save $360!</li>-->
+											<li>You save $360!</li>
 											<li>180 Days Guarantee</li>
 										</ul>
 									</div>
@@ -797,8 +797,8 @@
 										</ul>
 									</div>
 									<div class="offers-total">
-										<p>TOTAL:<strong>$207</strong></p>
-										<p>Free Shipping</p>
+										<p>TOTAL: <span>$537</span> <strong>$207</strong></p>
+										<p class="free-shipping">Free Shipping</p>
 									</div>
 								</div>
 							</div>

@@ -226,6 +226,48 @@ ol li a:hover {
 /* Remove margin or padding from the next section */
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .navbar-toggler {
 	border: none;
 	/* Adjust color as needed */
@@ -255,7 +297,7 @@ ol li a:hover {
 	display: none;
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
 	.header {
 		position: fixed;
 		top: 0!important;
@@ -266,7 +308,7 @@ ol li a:hover {
 		bottom: 0;
 		z-index: 1000;
 		width: 100%;
-		/* Ensure it has a background to prevent transparency issues */
+		!* Ensure it has a background to prevent transparency issues *!
 
 		max-height: 100px;
 	}
@@ -291,33 +333,33 @@ ol li a:hover {
 	}
 	.header .navbar-collapse {
 		transition: all 0.3s ease-in-out;
-		top: 100%; /* Place the expanded menu below the navbar */
+		top: 100%; !* Place the expanded menu below the navbar *!
 		left: 0;
 		right: 0;
-		border-top: 1px solid #ddd; /* Optional: Add a border for separation */
+		border-top: 1px solid #ddd; !* Optional: Add a border for separation *!
 		text-align: center;
 	}
 	.navbar-collapse.show {
-		 /* Ensure it displays vertically when expanded */
-		max-height: 470px; /* Adjust the height as per the number of menu items */
+		 !* Ensure it displays vertically when expanded *!
+		max-height: 470px; !* Adjust the height as per the number of menu items *!
 	}
 
 
-	/*Hide navbar in mobile*/
+	!*Hide navbar in mobile*!
 	.navbar-desktop-view {
 		display: none;
 	}
 
-	/*Show logo in mobile*/
+	!*Show logo in mobile*!
 	.header-mobile-view {
-		display: block; /* Show only on mobile/tablet */
+		display: block; !* Show only on mobile/tablet *!
 	}
 
 	.mobile-view-logo-container {
 		margin: 0 25px 0;
 	}
 
-}
+}*/
 
 
 
