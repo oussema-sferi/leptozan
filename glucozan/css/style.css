@@ -64,6 +64,15 @@
 @import url('custom/privacy-policy.css');
 /*========== Privacy Policy Page End ==========*/
 
+
+/*========== Glucozan Home Page Stylesheets Start ==========*/
+
+/*========== Blood Sugar Balance Start ==========*/
+@import url('custom/blood-sugar-balance.css');
+/*========== Blood Sugar Balance Policy Page End ==========*/
+
+/*========== Glucozan Home Page Stylesheets End ==========*/
+
 /*---------- Google Fonts ----------*/
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 /* font-family: "DM Sans", serif; */

@@ -68,209 +68,59 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
     <!-- HEADER SECTION End -->
 
-
-
-    <!-- special-deal-section -->
-    <!--<section class="upsell-special-deal-section special-deal-section" style="background: var(--grey3); display: none">
+    <!-- Section: The Vicious Cycle of Blood Sugar -->
+    <section class="blood-sugar-section">
         <div class="container">
-            <div class="special-deal-wrap">
-                <div class="special-deal-detail text-center">
-                    <div class="large-detail">
-                        <p>This is a Special Deal for</p>
-                    </div>
-                    <div class="section-title">
-                        <h2><span>New</span> Customers Only!</h2>
-                    </div>
+            <div class="row align-items-center">
+                <!-- Left Side: Text Content -->
+                <div class="col-lg-6 col-md-12 text-content">
+                    <h2 class="section-title">
+                        The Vicious Cycle of <span class="highlight">Blood Sugar Imbalance</span>
+                    </h2>
+                    <p>It all starts when your blood sugar levels fluctuate, throwing off your <strong>body’s natural energy balance.</strong></p>
+                    <p>Fluctuating blood sugar levels can impact how effectively our bodies process energy from the food we eat.</p>
+                    <p>So your body adjusts to compensate, but those changes can lead to <strong>increased cravings and energy dips.</strong></p>
+                    <p>So even if you’re trying to maintain healthy blood sugar levels, the cycle your body is stuck in can make it an <strong>uphill battle.</strong></p>
+                    <p>To make matters worse, these imbalances can spark cravings that are nearly impossible to resist, making it all too easy for extra calories to stick around.</p>
+                    <p>And as your blood sugar continues to swing unpredictably week after week, it can result in unwanted weight gain, dwindling energy, and an even harder time keeping things under control.</p>
                 </div>
-                <div class="special-deal-main">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6">
-                            <div class="special-deal-left">
-                                <div class="special-deal-top-left text-center">
-                                    <div class="block-title">
-                                        <h3>Add an Additional <br> <span>3 Bottles To Your Order</span></h3>
-                                    </div>
-                                </div>
-                                <div class="special-deal-img text-center" style="background-color: var(--white);">
-                                    <figure>
-                                        <img width="370" src="/images/offers-img-3.png" alt="order-img" class="img-fluid">
-                                    </figure>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6">
-                            <div class="special-deal-right">
-                                <div class="saving-banner">
-                                    <div class="left-details text-center">
-                                        <div class="saving-details">
-                                            <span>Just</span>
-                                            <sup><b>$</b></sup>
-                                            <span>59</span>
-                                            <sup>Per
-                                                Bottle</sup>
-                                            <div class="details">
-                                                <p>YOU SAVE $120</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
-                                        <div class="right-details-img">
-                                            <figure>
-                                                <img src="/images/total-saving.png" alt="total-saving" class="img-fluid">
-                                            </figure>
-                                        </div>
-                                        <div class="small-title">
-                                            <span>Total</span>
-                                        </div>
-                                        <div class="saving-details" style="color: var(--white);">
-                                            <sup><b style="color: var(--white);">$</b></sup>
-                                            <span>177</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="deal-list">
-                                    <ul>
-                                        <li><span>This is the absolute <strong> lowest price </strong>you’ll ever see for 3 bottles of  <strong>LEPTOZAN.</strong></span></li>
-                                        <li><span>It <strong> protects </strong>you from future price increases as well as <strong> out of stocks.</strong></span></li>
-                                    </ul>
-                                </div>
-                                <div class="btn-contain">
-                                    <a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $177</span> </a>
-                                </div>
-                                <div class="icon-list">
-                                    <ul>
-                                        <li><a href="#"><img src="/images/badge1.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/images/badge2.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/images/badge3.png" alt="badge"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="details-bottom text-center">
-                    <p><a id="no-thanks-link" href="#">No, Thanks.</a> <a href="#" class="details-bottom-text">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer.</a></p>
+                <!-- Right Side: Image -->
+                <div class="col-lg-6 col-md-12">
+                    <img src="/images/glucozan/blood-sugar-imbalance.png" alt="Blood Sugar Imbalance" class="img-fluid rounded">
                 </div>
             </div>
         </div>
-    </section>-->
-    <!-- special-deal-section -->
+    </section>
 
-    <!-- NO-THANKS special-deal-section start-->
-
-    <!--<section class="no-thanks-special-deal-section special-deal-section" style="background: var(--grey3); display: none">
+    <!-- Section: Discovering a New Path -->
+    <section class="new-path-section">
         <div class="container">
-            <div class="special-deal-wrap">
-                <div class="special-deal-detail text-center">
-                    <div class="large-detail">
-                        <p>This is a Special Deal for</p>
-                    </div>
-                    <div class="section-title">
-                        <h2><span>New</span> Customers Only!</h2>
-                    </div>
-                </div>
-                <div class="special-deal-main">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6">
-                            <div class="special-deal-left">
-                                <div class="special-deal-top-left text-center">
-                                    <div class="block-title">
-                                        <h3 class="title-blink">OK. Maybe 3 bottles was a little too much, but how about an <span>additional 2 BOTTLES?</span></h3>
-                                    </div>
-                                </div>
-                                <div class="special-deal-img text-center" style="background-color: var(--white);">
-                                    <figure>
-                                        <img width="370" src="/images/offers-img-1.png" alt="order-img" class="img-fluid">
-                                    </figure>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6">
-                            <div class="special-deal-right">
-                                <div class="saving-banner">
-                                    <div class="left-details text-center">
-                                        <div class="saving-details">
-                                            <span>Just</span>
-                                            <sup><b>$</b></sup>
-                                            <span class="price-blink">49</span>
-                                            <sup>Per
-                                                Bottle</sup>
-                                            <div class="details">
-                                                <p>YOU SAVE $120</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
-                                        <div class="right-details-img">
-                                            <figure>
-                                                <img src="/images/total-saving.png" alt="total-saving" class="img-fluid">
-                                            </figure>
-                                        </div>
-                                        <div class="small-title">
-                                            <span>Total</span>
-                                        </div>
-                                        <div class="saving-details" style="color: var(--white);">
-                                            <sup><b style="color: var(--white);">$</b></sup>
-                                            <span>177</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="deal-list">
-                                    <ul>
-                                        <li><span>This is the absolute <strong> lowest price </strong>you’ll ever see for 2 bottles of  <strong>LEPTOZAN.</strong></span></li>
-                                        <li><span>It <strong> protects </strong>you from future price increases as well as <strong> out of stocks.</strong></span></li>
-                                    </ul>
-                                </div>
-                                <div class="btn-contain">
-                                    <a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
-                                </div>
-                                <div class="icon-list">
-                                    <ul>
-                                        <li><a href="#"><img src="/images/badge1.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/images/badge2.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/images/badge3.png" alt="badge"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+            <div class="row align-items-center">
+
+                <!-- Right Side: Text Content -->
+                <div class="col-lg-6 col-md-12 text-content">
+                    <h2 class="section-title">
+                        Discovering a New Path to <span class="highlight">Blood Sugar Balance</span>
+                    </h2>
+                    <div class="content-box">
+                        <p>I realized early on that managing Amanda's blood sugar levels was crucial for effective weight management. While <strong>Leptozan</strong> could offer some metabolic support, I knew there was more to be done.</p>
+                        <p>Driven by our experiences and the desire to help others, I developed <strong>Glucozan</strong>—a formula specifically designed for individuals seeking support for blood sugar balance and metabolic health.</p>
                     </div>
                 </div>
-                <div class="details-bottom text-center">
-                    <p><a href="#">No, Thanks.</a> <a href="#">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer. </a> </p>
+
+                <!-- Right Side: Image -->
+                <div class="col-lg-6 col-md-12">
+                    <img src="/images/glucozan/blood-sugar-balance.png" alt="Blood Sugar Imbalance" class="img-fluid rounded">
                 </div>
             </div>
         </div>
-    </section>-->
-    <!-- NO-THANKS special-deal-section end-->
+    </section>
 
-    <!--<section class="official-page" style="background-color: #D4F1F2;display: none">
-        <div class="container">
-            <div class="official-page-wrap text-center">
-                <div class="official-page-top">
-                    <div class="block-title">
-                        <h3>Leptozan is uniquely available on this <br> <span>official page only.</span></h3>
-                    </div>
-                    <div class="detail">
-                        <p>(To ensure the best possible prices, it is NOT available on Amazon, eBay, Walmart, pharmacies, or anywhere else.)</p>
-                    </div>
-                </div>
-                <div class="official-page-logo">
-                    <ul>
-                        <li><a href="#"><img src="/images/amazon.png" alt="img"></a></li>
-                        <li><a href="#"><img src="/images/ebay.png" alt="img"></a></li>
-                        <li><a href="#"><img src="/images/walmart 1.png" alt="img"></a></li>
-                        <li><a href="#"><img src="/images/available.png" alt="img"></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>-->
 
 </div>
 <!-- content end -->
