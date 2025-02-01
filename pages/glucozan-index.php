@@ -304,6 +304,42 @@
         </div>
     </section>
 
+    <!-- Section: Unlock Your Body-->
+    <section class="unlock-your-body-section">
+        <div class="container">
+            <!-- Centered Title -->
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title text-center">
+                        Unlock Your Body’s <span class="highlight">Full Potential</span>
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row align-items-start">
+                <!-- Left Side: Image -->
+                <div class="col-lg-4 col-md-12">
+                    <img src="/images/glucozan/unlock-your-body.png" alt="Blood Sugar balance benefits" class="img-fluid rounded">
+                </div>
+                <!-- Right Side: Text Content -->
+                <div class="col-lg-8 col-md-12 text-content">
+                    <p>I’ve secured a <strong><em>limited supply</em></strong> of Glucozan to share with folk like yourself.</p>
+                    <p>I was initially reluctant but acknowledged the amazing power these ingredients have when used together and finally agreed.</p>
+                    <p>Because we want you to see the same <strong><em>life-changing transformation</em></strong> that I did.</em></strong></p>
+                    <p>I want you to be able to admire a <strong><em>healthy, vibrant figure</em></strong> in the mirror for years to come…</p>
+                    <p>To rekindle the spark and excitement that may have faded in your relationship…</p>
+                    <p>Have coworkers or family secretly jealous of the <strong><em>“new you”…</em></strong></p>
+                    <p>And to look and feel like you did <strong><em>10, 20, or maybe even 30 years ago.</em></strong></p>
+                    <p>There was just one catch.</p>
+                    <p>I charge private patients $99 for a single bottle of Glucozan.</p>
+                    <p>My patients happily pay this, knowing what Glucozan can do for their health and life.</p>
+                    <p>In fact, that’s what I paid for the first six bottles for myself.</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
 
     <!-- References Start -->
     <section class="references-wrp">
