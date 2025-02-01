@@ -367,6 +367,27 @@
         </div>
     </section>
 
+    <!-- Section: Money-Back Guarantee -->
+    <section class="money-back-section">
+        <div class="container">
+            <div class="guarantee-box">
+                <!-- Guarantee Seal (Overlapping) -->
+                <div class="guarantee-seal">
+                    <img src="/images/glucozan/money-back-guarantee-badge.png" alt="Money Back Guarantee" class="seal-img">
+                </div>
+
+                <!-- Guarantee Content -->
+                <div class="guarantee-content">
+                    <h2 class="guarantee-title">Try Glucozan <em>Risk-Free</em></h2>
+                    <p>Whether you just want a single bottle or can’t wait to see the <em>revitalizing benefits</em> for months to come, you’re covered by the same <strong>180-day money-back guarantee.</strong></p>
+                    <p>So try it for yourself.</p>
+                    <p>If you’re not <strong>100% satisfied</strong> with your new energy, vitality, and health, you can contact us to get every single penny refunded.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
 
     <!-- Section: Certification Logos -->
     <section class="certification-logos">

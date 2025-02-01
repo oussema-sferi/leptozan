@@ -1,0 +1,65 @@
+/* Section Background */
+.money-back-section {
+    background: linear-gradient(to bottom, #7A72C0, #CE3B5F); /* Gradient from top to bottom */
+    padding: 100px 0;
+    text-align: center;
+}
+
+/* Centered Guarantee Box */
+.guarantee-box {
+    max-width: 600px;
+    background: white;
+    border-radius: 12px;
+    padding: 40px 30px;
+    margin: 0 auto;
+    position: relative;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Guarantee Seal */
+.guarantee-seal {
+    position: absolute;
+    top: -40px; /* Overlapping effect */
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.seal-img {
+    width: 80px; /* Adjust size */
+    height: auto;
+}
+
+/* Title */
+.guarantee-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #7A0728;
+    margin-bottom: 15px;
+}
+
+/* Text Content */
+.guarantee-content p {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .guarantee-box {
+        max-width: 90%;
+        padding: 30px 20px;
+    }
+
+    .seal-img {
+        width: 60px; /* Make seal smaller on mobile */
+    }
+
+    .guarantee-title {
+        font-size: 22px;
+    }
+
+    .guarantee-content p {
+        font-size: 16px;
+    }
+}
