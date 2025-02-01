@@ -32,9 +32,11 @@
 /* Image Styling */
 .glucozan-benefits img {
     max-width: 100%;
-    height: auto;
+    /*height: auto;*/
+    max-height: 580px; /* Adjust as needed */
     display: block;
-    margin: 0 auto;
+    vertical-align: bottom;
+    margin: 0;
 }
 
 /* Responsive Adjustments */

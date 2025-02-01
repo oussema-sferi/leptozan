@@ -20,6 +20,11 @@
     padding: 0 12px;
 }
 
+.highlight {
+    color: #871127!important; /* Dark red for emphasis */
+    font-style: italic;
+}
+
 .ingredients-logos img {
     width: 65px;
 }
@@ -56,6 +61,7 @@
 
 .ingredients-content .small-title {
     margin: 0 0 12px;
+    color: #871127!important;
 }
 
 .ingredients-img img {

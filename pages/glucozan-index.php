@@ -200,7 +200,77 @@
         </div>
     </section>
 
-
+    <!-- Fat Loss Ingredients Start -->
+    <section id="leptozan-ingredients" class="ingredients-wrp">
+        <div class="container">
+            <div class="ingredients-main">
+                <div class="ingredients-title">
+                    <div class="section-title">
+                        <h2>That’s why <span class="highlight">Glucozan also contains…</span></h2>
+                    </div>
+                </div>
+                <div class="ingredients-section">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+                            <div class="ingredients-block">
+                                <div class="ingredients-img">
+                                    <figure>
+                                        <img src="/images/glucozan/ingredient-1.png" alt="ingredients-img" class="img-fluid">
+                                    </figure>
+                                </div>
+                                <div class="ingredients-content">
+                                    <div class="small-title">
+                                        <h3>Saffron Bulb Extract</h3>
+                                    </div>
+                                    <div class="common-detail">
+                                        <p>Saffron, known for its antioxidant benefits, supports overall metabolic health.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+                            <div class="ingredients-block">
+                                <div class="ingredients-img">
+                                    <figure>
+                                        <img src="/images/glucozan/ingredient-2.png" alt="ingredients-img" class="img-fluid">
+                                    </figure>
+                                </div>
+                                <div class="ingredients-content">
+                                    <div class="small-title">
+                                        <h3>Fucoxanthin & Fucoidan</h3>
+                                    </div>
+                                    <div class="common-detail">
+                                        <p>These seaweed-derived ingredients support metabolic health by promoting fat oxidation and reducing inflammation.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+                            <div class="ingredients-block">
+                                <div class="ingredients-img">
+                                    <figure>
+                                        <img src="/images/glucozan/ingredient-3.png" alt="ingredients-img" class="img-fluid">
+                                    </figure>
+                                </div>
+                                <div class="ingredients-content">
+                                    <div class="small-title">
+                                        <h3>Oleuropein</h3>
+                                    </div>
+                                    <div class="common-detail">
+                                        <p>Oleuropein, which scientists have found, can play a role in supporting healthy metabolism.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <p class="text-center">All packed into a single supplement to help almost anyone support their blood sugar levels.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Fat Loss Ingredients End -->
 
 
 
