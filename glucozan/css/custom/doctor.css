@@ -1,0 +1,40 @@
+/* Section: Dr. Mitchell */
+.dr-mitchell-section {
+    padding: 60px 0;
+    background-color: #fff; /* Keep it clean */
+}
+
+.dr-mitchell-section .container {
+    max-width: 1284px; /* Adjust as needed */
+    width: 95%; /* Increase width without being fully fluid */
+}
+
+/* Section Title */
+.dr-mitchell-section .section-title {
+    font-family: 'Crimson Pro', serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: left;
+    text-transform: none !important;
+    /*margin-bottom: 20px;*/
+}
+
+/* Text Content */
+.dr-mitchell-section .text-content {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .dr-mitchell-section .section-title {
+        text-align: center;
+        font-size: 28px;
+    }
+    .dr-mitchell-section .text-content {
+        text-align: center;
+    }
+
+}
+

@@ -18,6 +18,11 @@
     background-color: #F6F6F6;
 }
 
+.blood-sugar-section .container {
+    max-width: 1284px; /* Adjust as needed */
+    width: 95%; /* Increase width without being fully fluid */
+}
+
 .blood-sugar-section .text-content {
     font-size: 18px;
     color: #333;
@@ -28,6 +33,11 @@
 .new-path-section {
     padding: 80px 0;
     background-color: #F6F6F6;
+}
+
+.new-path-section .container {
+    max-width: 1284px; /* Adjust as needed */
+    width: 95%; /* Increase width without being fully fluid */
 }
 
 /* Background Box for Content + Image */

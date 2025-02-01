@@ -67,9 +67,13 @@
 
 /*========== Glucozan Home Page Stylesheets Start ==========*/
 
-/*========== Blood Sugar Balance Start ==========*/
+/*========== Blood Sugar Section Start ==========*/
 @import url('custom/blood-sugar-balance.css');
-/*========== Blood Sugar Balance Policy Page End ==========*/
+/*========== Blood Sugar Section End ==========*/
+
+/*========== Dr. Mitchell's Message Section Start ==========*/
+@import url('custom/doctor.css');
+/*========== Dr. Mitchell's Message Section End ==========*/
 
 /*========== Glucozan Home Page Stylesheets End ==========*/
 

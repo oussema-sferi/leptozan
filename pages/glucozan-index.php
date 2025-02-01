@@ -73,6 +73,31 @@
     </section>
     <!-- HEADER SECTION End -->
 
+    <!-- Section: Dr. Mitchell's Message -->
+    <section class="dr-mitchell-section">
+        <div class="container">
+            <div class="row align-items-start">
+                <!-- Left Side: Image -->
+                <div class="col-lg-3 col-md-12">
+                    <img src="/images/glucozan/doctor.png" alt="Dr. Mitchell" class="img-fluid rounded">
+                </div>
+
+                <!-- Right Side: Text Content -->
+                <div class="col-lg-9 col-md-12 text-content">
+                    <h2 class="section-title">Hey, it’s Dr. Mitchell here.</h2>
+                    <p>You’re about to see incredible changes with Leptozan. Don’t be surprised if in just a couple of weeks you notice your energy levels soaring, your focus sharpening, and your overall well-being improving. Friends will be asking how you did it!</p>
+                    <p>But there’s one question the men and women who want the most dramatic results with Leptozan always ask me:</p>
+                    <p><strong><em>“What else can I do to support my blood sugar levels faster?”</em></strong></p>
+                    <p>They don’t want to starve or work out until they’re half-dead from exhaustion. And as you now know, the “calories in, calories out” argument is outdated and flat-out wrong.</p>
+                    <p>Leptozan helps you tackle one of the biggest obstacles to weight loss: <strong>a slow metabolism.</strong></p>
+                    <p>But there's another major factor that can make or break your blood sugar balance — helping you stay steady or causing frustrating ups and downs.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
     <!-- Section: The Vicious Cycle of Blood Sugar -->
     <section class="blood-sugar-section">
         <div class="container">
