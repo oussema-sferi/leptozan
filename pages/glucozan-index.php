@@ -340,6 +340,31 @@
         </div>
     </section>
 
+    <!-- Section: Certification Logos -->
+    <section class="certification-logos">
+        <div class="container">
+            <div class="row justify-content-center align-items-center">
+                <!-- Individual Logos -->
+                <div class="col-auto">
+                    <img src="/images/glucozan/certification-logos/gmp.png" alt="GMP Certified" class="logo-img">
+                </div>
+                <div class="col-auto">
+                    <img src="/images/glucozan/certification-logos/fda.png" alt="FDA Approved" class="logo-img">
+                </div>
+                <div class="col-auto">
+                    <img src="/images/glucozan/certification-logos/natural.png" alt="Natural Ingredients" class="logo-img">
+                </div>
+                <div class="col-auto">
+                    <img src="/images/glucozan/certification-logos/made-in-usa.png" alt="Made in USA" class="logo-img">
+                </div>
+                <div class="col-auto">
+                    <img src="/images/glucozan/certification-logos/non-gmo.png" alt="Non-GMO" class="logo-img">
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <!-- Section: Glucozan Formula Image-->
     <section class="glucozan-formula">
         <div class="container">
