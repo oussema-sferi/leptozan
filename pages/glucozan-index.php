@@ -340,6 +340,16 @@
         </div>
     </section>
 
+    <!-- Section: Glucozan Formula Image-->
+    <section class="glucozan-formula">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-auto">
+                    <img src="/images/glucozan/formula.png" alt="Glucozan Formula" class="formula-img">
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- References Start -->
     <section class="references-wrp">
