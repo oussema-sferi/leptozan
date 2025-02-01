@@ -1,8 +1,8 @@
 .offers-wrp {
     padding: 50px 20px 64px;
     margin: 0 32px 0;
-    background-color: var(--sky);
-    background-image: url("/images/offers-lines.png");
+    /*background-color: var(--sky);
+    background-image: url("/images/offers-lines.png");*/
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 12px;
@@ -53,8 +53,8 @@
 }
 
 .offers-block-title {
-    background-color: var(--teal);
-    clip-path: polygon(100% 0, 100% 76%, 50% 100%, 0 72%, 0 0);
+    background-color: #6F68AF;
+    /*clip-path: polygon(100% 0, 100% 76%, 50% 100%, 0 72%, 0 0);*/
     text-align: center;
     padding: 24px 0 32px;
     color: var(--white);
