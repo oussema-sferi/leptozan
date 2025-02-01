@@ -159,6 +159,48 @@
         </div>
     </section>
 
+    <!-- Section: Glucozan Benefits -->
+    <section class="glucozan-benefits">
+        <div class="container">
+            <!-- Centered Heading -->
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title text-center">Glucozan</h2>
+                </div>
+            </div>
+
+            <!-- Centered Subtext -->
+            <div class="row">
+                <div class="col-12">
+                    <p class="subtext text-center">Glucozan is designed to support <strong><em>healthy blood sugar levels</em></strong> using several special ingredients.</p>
+                </div>
+            </div>
+
+            <!-- Two Column Layout -->
+            <div class="row align-items-start">
+                <!-- Left Side: Text Content -->
+                <div class="col-lg-6 col-md-12 text-content">
+                    <p>For a start, <strong><em> Ceylon Cinnamon</em></strong> is a powerful ingredient few know about.</p>
+                    <p>This spice has been used for centuries in traditional medicine to help <strong><em>regulate blood sugar levels,</em></strong> especially after meals.</p>
+                    <p>But one ingredient, no matter how effective, was going to be enough.</p>
+                    <p>That’s why I also included <strong><em>Corosolic Acid from Banaba Leaf Extract.</em></strong></p>
+                    <p>If you ever see the leaves of this tree, you'd probably think they were unremarkable. But each leaf is packed with compounds that studies suggest may <strong><em>promote healthy blood sugar levels.</em></strong></p>
+                    <p>For example, the corosolic acid found in banaba leaves is shown to lower blood sugar by increasing <strong><em>insulin sensitivity.</em></strong></p>
+                    <p>Another ingredient you’ll find in here is Berberine HCL.</p>
+                    <p>This powerful compound has a <strong><em>clinically-proven</em></strong> effect on blood sugar.</p>
+                    <p>Studies reveal that Berberine helps <strong><em>improve insulin sensitivity</em></strong> and supports <strong><em>metabolic health</em></strong>, making it the perfect ingredient for Glucozan!</p>
+                    <p>But I wasn’t content with just this.</p>
+                </div>
+
+                <!-- Right Side: Image -->
+                <div class="col-lg-6 col-md-12">
+                    <img src="/images/glucozan/glucozan-bottle.png" alt="Glucozan Bottle" class="img-fluid rounded">
+                </div>
+            </div>
+        </div>
+    </section>
+
+
 
 
 
