@@ -272,6 +272,38 @@
     </section>
     <!-- Glucozan Ingredients End -->
 
+    <!-- Section: Balanced Blood Sugar Benefits-->
+    <section class="balanced-blood-sugar-benefits-section">
+        <div class="container">
+            <!-- Centered Title -->
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title text-center">
+                        Ready to Experience the Benefits of <span class="highlight">Balanced Blood Sugar?</span>
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row align-items-center">
+                <!-- Left Side: Text Content -->
+                <div class="col-lg-6 col-md-12 text-content">
+                    <p>I wanted to have the best chance of getting my health and body back, so I didn't hesitate.</p>
+                    <p>Using Glucozan, I switched off my <strong><em>body's fat storage mode.</em></strong></p>
+                    <p>And within a few weeks, I saw an <strong><em>unbelievable transformation.</em></strong></p>
+                    <p>Soon, the energy was <strong><em>soaring even faster…</em></strong></p>
+                    <p>I woke up with <strong><em>energy he hadn't felt since his 20s…</em></strong></p>
+                    <p>And once he started supporting healthy blood sugar levels, I was able to support <strong><em>optimal health.</em></strong></p>
+                    <p>Along with the metabolic-supporting power of Glucozan, I finally had the perfect <strong><em>combination</em></strong> to escape the blood sugar battles I'd been stuck in for more than 20 years.</p>
+                    <p>Now, you have the chance to accelerate your health journey.</p>
+                </div>
+                <!-- Right Side: Image -->
+                <div class="col-lg-6 col-md-12">
+                    <img src="/images/glucozan/balanced-blood-sugar-benefits.png" alt="Blood Sugar balance benefits" class="img-fluid rounded">
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!-- References Start -->
     <section class="references-wrp">

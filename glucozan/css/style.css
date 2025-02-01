@@ -67,9 +67,9 @@
 
 /*========== Glucozan Home Page Stylesheets Start ==========*/
 
-/*========== Blood Sugar Section Start ==========*/
-@import url('custom/blood-sugar-balance.css');
-/*========== Blood Sugar Section End ==========*/
+/*========== Blood Sugar Two Sections Start ==========*/
+@import url('custom/blood-sugar-sections.css');
+/*========== Blood Sugar Two Sections End ==========*/
 
 /*========== Dr. Mitchell's Message Section Start ==========*/
 @import url('custom/doctor.css');
@@ -78,6 +78,10 @@
 /*========== Dr. Glucozan Benefits Section Start ==========*/
 @import url('custom/benefits.css');
 /*========== Dr. Glucozan Benefits Section End ==========*/
+
+/*========== Balanced Blood Sugar Benefits Section Start ==========*/
+@import url('custom/balanced-blood-sugar-benefits.css');
+/*========== Balanced Blood Sugar Benefits Section End ==========*/
 
 /*========== Glucozan Home Page Stylesheets End ==========*/
 
