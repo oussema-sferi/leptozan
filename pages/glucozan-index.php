@@ -402,16 +402,16 @@
                             <div class="offers-block desktop-view">
                                 <div class="offers-block-title">
                                     <div class="section-title">
-                                        <h2>2 for You</h2>
+                                        <h2>1 Bottle</h2>
                                     </div>
                                     <div class="large-detail">
-                                        <p>60 Days, 2 Bottles</p>
+                                        <p>1-Month Supply</p>
                                     </div>
                                 </div>
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/glucozan/offers-1-bottle.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -461,16 +461,19 @@
                             <div class="offers-block best-offer-block">
                                 <div class="offers-block-title">
                                     <div class="section-title">
-                                        <h2>Best Offer!</h2>
+                                        <h2>Most Popular</h2>
                                     </div>
                                     <div class="large-detail">
-                                        <p>180 Days, 6 Bottles</p>
+                                        <p>6 Bottles</p>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>6-Month Supply</p>
                                     </div>
                                 </div>
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/glucozan/offers-6-bottles.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -521,16 +524,16 @@
                             <div class="offers-block">
                                 <div class="offers-block-title">
                                     <div class="section-title">
-                                        <h2>3 for You</h2>
+                                        <h2>3 Bottles</h2>
                                     </div>
                                     <div class="large-detail">
-                                        <p>90 Days, 3 Bottles</p>
+                                        <p>3-Month Supply</p>
                                     </div>
                                 </div>
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/glucozan/offers-3-bottles.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">

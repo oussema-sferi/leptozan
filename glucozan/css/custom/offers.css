@@ -188,14 +188,14 @@
 
 .best-offer-block {
     background-color: #ECF6F6;
-    border: 5px solid var(--orange);
+    border: 5px solid #AB2D4C;
     -moz-box-shadow: 0px 260px 73px 0px rgba(0, 0, 0, 0.00), 0px 166px 67px 0px rgba(0, 0, 0, 0.01), 0px 94px 56px 0px rgba(0, 0, 0, 0.02), 0px 42px 42px 0px rgba(0, 0, 0, 0.04), 0px 10px 23px 0px rgba(0, 0, 0, 0.04);
     -webkit-box-shadow: 0px 260px 73px 0px rgba(0, 0, 0, 0.00), 0px 166px 67px 0px rgba(0, 0, 0, 0.01), 0px 94px 56px 0px rgba(0, 0, 0, 0.02), 0px 42px 42px 0px rgba(0, 0, 0, 0.04), 0px 10px 23px 0px rgba(0, 0, 0, 0.04);
     box-shadow: 0px 260px 73px 0px rgba(0, 0, 0, 0.00), 0px 166px 67px 0px rgba(0, 0, 0, 0.01), 0px 94px 56px 0px rgba(0, 0, 0, 0.02), 0px 42px 42px 0px rgba(0, 0, 0, 0.04), 0px 10px 23px 0px rgba(0, 0, 0, 0.04);
 }
 
 .best-offer-block .offers-block-title {
-    background-color: var(--orange);
+    background-color: #AB2D4C;
     padding: 32px 0 40px;
     border-radius: 0;
     -webkit-border-radius: 0;
