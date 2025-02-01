@@ -270,7 +270,42 @@
             </div>
         </div>
     </section>
-    <!-- Fat Loss Ingredients End -->
+    <!-- Glucozan Ingredients End -->
+
+
+    <!-- References Start -->
+    <section class="references-wrp">
+        <div class="container">
+            <div class="references-main">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-xl-6 col-xxl-6">
+                        <div class="references-img">
+                            <figure>
+                                <img src="/images/glucozan/references.png" alt="reference-img" class="img-fluid">
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-6 col-xxl-6">
+                        <div class="references-right">
+                            <div class="section-title">
+                                <h2>Scientific References</h2>
+                            </div>
+                            <div class="references-details">
+                                <p>https://pubmed.ncbi.nlm.nih.gov/28619294/</p>
+                                <p>https://pubmed.ncbi.nlm.nih.gov/22095937/</p>
+                                <p>https://www.sciencedirect.com/science/article/abs/pii/S2405457718304698</p>
+                                <p>https://pubmed.ncbi.nlm.nih.gov/21211558/</p>
+                                <p>https://pmc.ncbi.nlm.nih.gov/articles/PMC10650557/</p>
+                                <p>https://pmc.ncbi.nlm.nih.gov/articles/PMC6415286/</p>
+                                <p>https://www.sciencedirect.com/science/article/abs/pii/S0378874120330981</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- References End -->
 
 
 

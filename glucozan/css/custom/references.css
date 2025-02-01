@@ -8,12 +8,13 @@
 }
 
 .references-right .section-title {
-    margin: 0 0 56px;
+    text-align: left;
+    margin: 0 0 45px;
 }
 
 .references-details {
     font-size: 14px;
-    line-height: 20px;
+    line-height: 1.4;
     margin: 0 0 16px;
 }
 
@@ -21,9 +22,9 @@
     margin-bottom: 0;
 }
 
-.references-details p {
+/*.references-details p {
     margin: 0 0 4px;
-}
+}*/
 
 .references-details p:last-child {
     margin-bottom: 0;
