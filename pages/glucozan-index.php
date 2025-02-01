@@ -340,6 +340,34 @@
         </div>
     </section>
 
+    <!-- Section: Special Offer Box -->
+    <section class="special-offer">
+        <div class="container">
+            <div class="offer-box">
+                <!-- Special Heading Inside Border -->
+                <div class="offer-heading">BUT...</div>
+
+                <!-- Top Text Content -->
+                <div class="offer-content">
+                    <p>I knew people <em>100% determined</em> to support their health would want this, but be unable to afford it at the regular price.</p>
+                    <p>So I negotiated with suppliers to slash the price to just <strong>$39 per bottle.</strong></p>
+
+                    <!-- Image -->
+                    <div class="offer-image">
+                        <img src="/images/glucozan/special-offer-box.png" alt="Glucozan Offer" class="img-fluid">
+                    </div>
+
+                    <!-- Bottom Text Content -->
+                    <p>So I negotiated with suppliers to slash the price to just $39 per bottle.</p>
+                    <p>To make things even easier, we can also ship the 3 or 6-bottle packs to you <em>completely free!</em></p>
+                    <p>However, we could only get a single batch at this <em>low rate</em>, so I can only offer this discount to you right now.</p>
+                    <p>Glucozan will NEVER be sold on our website at this price, so I urge you to take advantage while you can.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <!-- Section: Certification Logos -->
     <section class="certification-logos">
         <div class="container">
