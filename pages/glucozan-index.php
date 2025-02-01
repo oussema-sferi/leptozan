@@ -379,9 +379,9 @@
                 <!-- Guarantee Content -->
                 <div class="guarantee-content">
                     <h2 class="guarantee-title">Try Glucozan <em>Risk-Free</em></h2>
-                    <p>Whether you just want a single bottle or can’t wait to see the <em>revitalizing benefits</em> for months to come, you’re covered by the same <strong>180-day money-back guarantee.</strong></p>
+                    <p>Whether you just want a single bottle or can’t wait to see the <strong><em>revitalizing benefits</em></strong> for months to come, you’re covered by the same <strong><em>180-day money-back guarantee.</em></strong></p>
                     <p>So try it for yourself.</p>
-                    <p>If you’re not <strong>100% satisfied</strong> with your new energy, vitality, and health, you can contact us to get every single penny refunded.</p>
+                    <p>If you’re not <strong><em>100% satisfied</em></strong> with your new energy, vitality, and health, you can contact us to get every single penny refunded.</p>
                 </div>
             </div>
         </div>

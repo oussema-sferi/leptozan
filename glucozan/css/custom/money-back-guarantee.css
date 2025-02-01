@@ -1,8 +1,9 @@
 /* Section Background */
 .money-back-section {
+    font-family: 'Crimson Pro', serif;
     background: linear-gradient(to bottom, #7A72C0, #CE3B5F); /* Gradient from top to bottom */
     padding: 100px 0;
-    text-align: center;
+    text-align: left;
 }
 
 /* Centered Guarantee Box */
@@ -19,14 +20,18 @@
 /* Guarantee Seal */
 .guarantee-seal {
     position: absolute;
-    top: -40px; /* Overlapping effect */
+    top: -70px; /* Overlapping effect */
     left: 50%;
     transform: translateX(-50%);
 }
 
 .seal-img {
-    width: 80px; /* Adjust size */
+    width: 130px; /* Adjust size */
     height: auto;
+}
+
+.guarantee-content {
+    margin-top: 40px;
 }
 
 /* Title */
@@ -35,13 +40,14 @@
     font-weight: bold;
     color: #7A0728;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 /* Text Content */
 .guarantee-content p {
-    font-size: 18px;
+    font-size: 15px;
     color: #333;
-    margin-bottom: 15px;
+    margin: 15px;
 }
 
 /* Responsive Design */
@@ -51,8 +57,12 @@
         padding: 30px 20px;
     }
 
+    .guarantee-seal {
+        top: -60px;
+    }
+
     .seal-img {
-        width: 60px; /* Make seal smaller on mobile */
+        width: 110px; /* Make seal smaller on mobile */
     }
 
     .guarantee-title {
@@ -63,3 +73,14 @@
         font-size: 16px;
     }
 }
+
+/*
+@media (max-width: 768px) {
+    .guarantee-seal {
+        top: -40px; !* Adjust for smaller screens *!
+    }
+
+    .seal-img {
+        width: 90px; !* Smaller badge on mobile *!
+    }
+}*/

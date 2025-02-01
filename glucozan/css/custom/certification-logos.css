@@ -16,15 +16,15 @@
 @media (max-width: 768px) {
     .certification-logos .row {
         flex-wrap: wrap; /* Wrap logos to fit smaller screens */
-        gap: 15px;
+        gap: 0;
     }
 
     .certification-logos .col-auto {
-        flex: 1 1 30%; /* Ensures three logos per row on small screens */
+        flex: 1 1 25%; /* Ensures three logos per row on small screens */
         text-align: center;
     }
 
     .certification-logos .logo-img {
-        max-width: 80px; /* Reduce size on mobile */
+        max-width: 70px; /* Reduce size on mobile */
     }
 }
