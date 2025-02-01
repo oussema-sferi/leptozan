@@ -1,10 +1,11 @@
 /* Global Section Styles */
-.section-title {
+.balanced-blood-sugar-benefits-section .section-title {
     font-family: 'Crimson Pro', serif;
     font-size: 32px;
     font-weight: 700;
-    text-align: center; /* Centers the title */
-    margin-bottom: 40px;
+    /*text-align: center;*/ /* Centers the title */
+    margin: 0 auto 40px;
+    max-width: 460px;
 }
 
 .highlight {
@@ -24,7 +25,7 @@
 }
 
 .balanced-blood-sugar-benefits-section .text-content {
-    font-size: 18px;
+    font-size: 15px;
     color: #333;
     line-height: 1.6;
 }
