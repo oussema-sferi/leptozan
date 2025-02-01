@@ -76,12 +76,18 @@
     <!-- Section: The Vicious Cycle of Blood Sugar -->
     <section class="blood-sugar-section">
         <div class="container">
+            <!-- Centered Title -->
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title text-center">
+                        The Vicious Cycle of <span class="highlight">Blood Sugar Imbalance</span>
+                    </h2>
+                </div>
+            </div>
+
             <div class="row align-items-center">
                 <!-- Left Side: Text Content -->
                 <div class="col-lg-6 col-md-12 text-content">
-                    <h2 class="section-title">
-                        The Vicious Cycle of <span class="highlight">Blood Sugar Imbalance</span>
-                    </h2>
                     <p>It all starts when your blood sugar levels fluctuate, throwing off your <strong>body’s natural energy balance.</strong></p>
                     <p>Fluctuating blood sugar levels can impact how effectively our bodies process energy from the food we eat.</p>
                     <p>So your body adjusts to compensate, but those changes can lead to <strong>increased cravings and energy dips.</strong></p>
@@ -100,26 +106,35 @@
     <!-- Section: Discovering a New Path -->
     <section class="new-path-section">
         <div class="container">
-            <div class="row align-items-center">
-
-                <!-- Right Side: Text Content -->
-                <div class="col-lg-6 col-md-12 text-content">
-                    <h2 class="section-title">
+            <!-- Centered Title -->
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title text-center">
                         Discovering a New Path to <span class="highlight">Blood Sugar Balance</span>
                     </h2>
-                    <div class="content-box">
-                        <p>I realized early on that managing Amanda's blood sugar levels was crucial for effective weight management. While <strong>Leptozan</strong> could offer some metabolic support, I knew there was more to be done.</p>
-                        <p>Driven by our experiences and the desire to help others, I developed <strong>Glucozan</strong>—a formula specifically designed for individuals seeking support for blood sugar balance and metabolic health.</p>
-                    </div>
                 </div>
+            </div>
 
-                <!-- Right Side: Image -->
-                <div class="col-lg-6 col-md-12">
-                    <img src="/images/glucozan/blood-sugar-balance.png" alt="Blood Sugar Imbalance" class="img-fluid rounded">
+            <!-- Background Box (Fits Text + Image) -->
+            <div class="row justify-content-center">
+                <div class="col-lg-10 col-md-12 content-box">
+                    <div class="row align-items-center">
+                        <!-- Left Side: Text Content -->
+                        <div class="col-lg-6 col-md-12 text-content">
+                            <p>I realized early on that managing Amanda's blood sugar levels was crucial for effective weight management. While <strong>Leptozan</strong> could offer some metabolic support, I knew there was more to be done.</p>
+                            <p>Driven by our experiences and the desire to help others, I developed <strong>Glucozan</strong>—a formula specifically designed for individuals seeking support for blood sugar balance and metabolic health.</p>
+                        </div>
+                        <!-- Right Side: Image -->
+                        <div class="col-lg-6 col-md-12">
+                            <img src="/images/glucozan/blood-sugar-balance.png" alt="Blood Sugar Balance" class="img-fluid rounded">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
+
+
 
 
 </div>
