@@ -28,6 +28,7 @@
 }
 
 .offers-block {
+    border: 5px solid #6F68AF;
     padding: 0 0 32px;
     cursor: pointer;
     /*overflow: hidden;
@@ -75,7 +76,7 @@
 }
 
 .offers-product-price {
-    margin: -21px 0 12px;
+    margin: 8px 0  0 12px;
 }
 
 .offers-product-price h3 {
@@ -87,6 +88,7 @@
 
 .offers-product-price span {
     font-family: "Fira Sans Condensed", serif;
+    color: #871127;
     font-size: 124px;
     line-height: 132px;
     font-weight: 700;
@@ -96,6 +98,7 @@
 
 .offers-product-price b {
     font-family: "DM Sans", serif;
+    color: #871127;
     font-size: 32px;
     line-height: 40px;
     font-weight: 700;
@@ -105,6 +108,7 @@
 .offers-product-price small {
     font-size: 18px;
     line-height: 20px;
+    color: #686868;
     font-weight: 500;
     display: block;
     max-width: 52px;
@@ -155,11 +159,11 @@
 }
 
 .payments-block {
-    margin: 32px 0 24px;
+    margin: 15px 0;
 }
 
 .offers-total p {
-    margin: 0 0 2px 0;
+    margin: 25px 0;
     text-align: center;
     color: #0A0A0B;
 }
