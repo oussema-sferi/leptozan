@@ -7,7 +7,7 @@
 /* Centered Section Title */
 .glucozan-benefits .section-title {
     font-family: 'Crimson Pro', serif;
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 700;
     text-align: center;
     margin-bottom: 40px;
@@ -49,9 +49,9 @@
 }
 
 @media (max-width: 768px) {
-    .glucozan-benefits .section-title {
+    /*.glucozan-benefits .section-title {
         font-size: 30px;
-    }
+    }*/
 
     .glucozan-benefits .subtext {
         font-size: 18px;
@@ -60,5 +60,14 @@
     .glucozan-benefits .text-content {
         font-size: 16px;
         text-align: center;
+    }
+
+    .glucozan-benefits .row {
+        display: flex;
+        flex-direction: column; /* Stack items */
+    }
+
+    .glucozan-benefits .col-lg-6:last-child {
+        order: 2; /* Move image to the bottom */
     }
 }
