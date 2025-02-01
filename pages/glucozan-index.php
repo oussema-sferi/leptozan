@@ -88,10 +88,10 @@
             <div class="row align-items-center">
                 <!-- Left Side: Text Content -->
                 <div class="col-lg-6 col-md-12 text-content">
-                    <p>It all starts when your blood sugar levels fluctuate, throwing off your <strong>body’s natural energy balance.</strong></p>
+                    <p>It all starts when your blood sugar levels fluctuate, throwing off your <strong><em>body’s natural energy</em></strong> balance.</p>
                     <p>Fluctuating blood sugar levels can impact how effectively our bodies process energy from the food we eat.</p>
-                    <p>So your body adjusts to compensate, but those changes can lead to <strong>increased cravings and energy dips.</strong></p>
-                    <p>So even if you’re trying to maintain healthy blood sugar levels, the cycle your body is stuck in can make it an <strong>uphill battle.</strong></p>
+                    <p>So your body adjusts to compensate, but those changes can lead to <strong><em>increased cravings and energy dips.</em></strong></p>
+                    <p>So even if you’re trying to maintain healthy blood sugar levels, the cycle your body is stuck in can make it an <strong><em>uphill battle.</em></strong></p>
                     <p>To make matters worse, these imbalances can spark cravings that are nearly impossible to resist, making it all too easy for extra calories to stick around.</p>
                     <p>And as your blood sugar continues to swing unpredictably week after week, it can result in unwanted weight gain, dwindling energy, and an even harder time keeping things under control.</p>
                 </div>
