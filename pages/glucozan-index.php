@@ -391,10 +391,31 @@
     <!-- Offers Start -->
     <section id="buy-now" class="offers-wrp">
         <div class="container">
-            <div class="offers-main">
-                <div class="section-title">
-                    <h2>Get Your Specially-Discounted Leptozan <span>Before It’s All Gone</span></h2>
+            <!-- Centered Title -->
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title first-title text-center">
+                        <em>The Most Important Health Investment You Can Make</em>
+                    </h2>
+                    <div class="first-content">
+                        <p>It’s time to say NO to sky-high blood sugar and YES to a healthier you.</p>
+                        <p>Click the pack you want below and I’ll ship it out as soon as I can.</p>
+                    </div>
                 </div>
+            </div>
+
+            <!-- Centered Title -->
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="section-title second-title text-center">
+                        Let's take back control and start feeling <span class="highlight">your best right now!</span>
+                    </h2>
+                </div>
+            </div>
+            <div class="offers-main">
+                <!--<div class="section-title">
+                    <h2>Get Your Specially-Discounted Leptozan <span>Before It’s All Gone</span></h2>
+                </div>-->
                 <div class="offers-section">
                     <div class="row align-items-center">
                         <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-3 order-md-1">
@@ -415,7 +436,7 @@
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
-                                        <h3><b>$</b><span>69</span><small>Per Bottle</small></h3>
+                                        <h3><b>$</b><span>69</span><small>per bottle</small></h3>
                                     </div>
                                     <!--<div class="common-list">
                                         <ul>
@@ -481,7 +502,7 @@
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
-                                        <h3><b>$</b><span>39</span><small>Per Bottle</small></h3>
+                                        <h3><b>$</b><span>39</span><small>per bottle</small></h3>
                                     </div>
                                     <!--<div class="common-list">
                                         <ul>
@@ -544,7 +565,7 @@
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
-                                        <h3><b>$</b><span>49</span><small>Per Bottle</small></h3>
+                                        <h3><b>$</b><span>49</span><small>per bottle</small></h3>
                                     </div>
                                     <!--<div class="common-list">
                                         <ul>

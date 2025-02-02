@@ -1,5 +1,8 @@
 @charset "utf-8";
 
+/* Import Crimson Pro font */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&display=swap');
+
 /*========== Common Style Start ==========*/
 @import url('custom/common-style.css');
 /*========== Common Style End ==========*/
@@ -109,6 +112,14 @@
 /* font-family: "Inter", serif; */
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@700&display=swap');
 /* font-family: "Fira Sans Condensed", serif; */
+
+@font-face {
+	font-family: 'Brandon Grotesque';
+	src: url('/assets/fonts/brandon-grotesque/HvDTrial_BrandonGrotesque-Black.woff2') format('woff2'),
+	url('/assets/fonts/brandon-grotesque/HvDTrial_BrandonGrotesque-Black.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+}
 
 :root {
 	--white: #fff;
