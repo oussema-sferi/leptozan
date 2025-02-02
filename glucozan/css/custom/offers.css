@@ -92,6 +92,7 @@
     -o-transform: scale(1.025);
 }*/
 .offers-block {
+    /*padding: 0 0 15px;*/
     position: relative;
     border-radius: 12px;
     background: white;
@@ -109,7 +110,7 @@
     width: 100%;
     height: 100%;
     border-radius: 12px;
-    border: 3px solid rgba(200, 200, 200, 1); /* Grey border */
+    border: 2px solid #e6e6e6; /* Grey border */
     box-shadow: inset 0px 4px 10px rgba(150, 150, 150, 0.2); /* Inner shadow for depth */
     z-index: 1;
     pointer-events: none; /* Ensures it doesn’t interfere with interactions */
@@ -118,6 +119,16 @@
 /* Hover Effect - Enhance 3D Look */
 .offers-block:hover {
     box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5); /* Stronger shadow for lift effect */
+    /*background-color: #FFFDF1;*/
+}
+.offers-block:hover .offers-inner {
+    background-color: #FFFDF1; /* Light cream color on hover */
+    transition: background-color 0.3s ease-in-out; /* Smooth transition effect */
+}
+
+/* Ensure .payments-block keeps its original background */
+.offers-block:hover .offers-inner .payments-block {
+    background-color: #FAFAFA !important; /* Keep grey background */
 }
 
 .offers-block:hover::before {
@@ -244,6 +255,13 @@
 /*.payments-block {
     margin: 15px 0;
 }*/
+.payments-block {
+    background: #FAFAFA; /* Light Grey Background */
+    padding: 12px 0; /* Add some spacing */
+    text-align: center;
+    border-top: 1px solid rgba(169, 169, 169, 0.6); /* Grey Top Border */
+    border-radius: 0 0 12px 12px; /* Keep rounded corners only at the bottom */
+}
 
 .offers-total p {
     margin: 25px 0;
@@ -266,11 +284,12 @@
 }
 
 .offers-btn {
-    margin: 24px 32px 0;
+    margin: 24px 10px 0;
 }
 
 .offers-btn .btn {
-    width: 100%;
+    width: 100%!important;
+    padding: 12px 32px; /* Make it larger */
 }
 
 .best-offer-block {
@@ -297,8 +316,8 @@
 
 .offers-btn .btn {
     font-size: 24px;
-    line-height: 32px;
-    border-radius: 40px;
+    /*line-height: 32px;*/
+    /*border-radius: 40px;*/
     -webkit-border-radius: 40px;
     -moz-border-radius: 40px;
     -ms-border-radius: 40px;

@@ -448,7 +448,11 @@
                                         <p>+ FREE SHIPPING</p>
                                     </div>
                                     <div class="offers-btn">
-                                        <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>BEST OFFER</span></a>
+                                        <!--<a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>BEST OFFER</span></a>-->
+                                        <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">
+                                            <i class="fa-solid fa-cart-shopping"></i> BUY NOW <span>BEST OFFER</span>
+                                        </a>
+
                                     </div>
 
                                     <div class="offers-total">
