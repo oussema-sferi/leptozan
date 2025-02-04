@@ -15,59 +15,80 @@
 <div class="content">
 
     <!-- HEADER SECTION Start -->
-    <section class="vsl-banner-wrp vsl-banner-wrp2 upsell-page" style="background-color: #D4F1F2;">
+    <section class="vsl-banner-wrp upsell-page">
         <div class="container">
-            <div class="header-text">
-                <p>Leptozan Ignites Your <br>Body’s <em>“Fat-Burning”</em> Mode <br>—Discover How to Achieve Even <em>FASTER</em> <br><em>Results</em> with Our New Breakthrough</p>
-            </div>
+
             <div class="vsl-banner-main">
-                <div class="banner-order-steps">
-                    <div class="order-step">
-                        <div class="icon" style="background-color: #AB2D4C;">
+                <div class="row">
+                    <div class="banner-order-steps">
+                        <div class="order-step">
+                            <div class="icon" style="background-color: #AB2D4C;">
+                                <figure>
+                                    <img src="/images/Subtract.svg" alt="order-img" class="img-fluid">
+                                </figure>
+                            </div>
+                            <div class="order-details">
+                                <div class="small-title">
+                                    <span>Order confirmation</span>
+                                </div>
+                                <div class="details" style="color: #979797;">
+                                    <p>Leptozan</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="order-step active">
+                            <div class="icon" style="background-color: var(--white);">
+                                <div class="section-title" style="color: #AB2D4C;">
+                                    <h2>2</h2>
+                                </div>
+                            </div>
+                            <div class="order-details">
+                                <div class="small-title" style="color: var(--white);">
+                                    <span>Special upgrade</span>
+                                </div>
+                                <div class="details" style="color: var(--white);">
+                                    <p>Important Announcement</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="order-step">
+                            <div class="icon" style="background-color: #AB2D4C;">
+                                <div class="section-title">
+                                    <h2>3</h2>
+                                </div>
+                            </div>
+                            <div class="order-details">
+                                <div class="small-title">
+                                    <span>Order Complete</span>
+                                </div>
+                                <div class="details" style="color: #979797;">
+                                    <p>Shipping Initiated</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+                        <div class="banner-content">
+                            <div class="header-text">
+                                <p>Leptozan Ignites Your <br>Body’s <em>“Fat-Burning”</em> Mode <br>—Discover How to Achieve Even <em>FASTER</em> <br><em>Results</em> with Our New Breakthrough</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+                        <div class="banner-img">
                             <figure>
-                                <img src="/images/Subtract.svg" alt="order-img" class="img-fluid">
+                                <img src="/images/Product.png" alt="Product" class="img-fluid">
                             </figure>
                         </div>
-                        <div class="order-details">
-                            <div class="small-title">
-                                <span>Order confirmation</span>
-                            </div>
-                            <div class="details" style="color: #979797;">
-                                <p>Leptozan</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="order-step active">
-                        <div class="icon" style="background-color: var(--white);">
-                            <div class="section-title" style="color: #AB2D4C;">
-                                <h2>2</span>
-                            </div>
-                        </div>
-                        <div class="order-details">
-                            <div class="small-title" style="color: var(--white);">
-                                <span>Special upgrade</span>
-                            </div>
-                            <div class="details" style="color: var(--white);">
-                                <p>Important Announcement</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="order-step">
-                        <div class="icon" style="background-color: #AB2D4C;">
-                            <div class="section-title">
-                                <h2>3</span>
-                            </div>
-                        </div>
-                        <div class="order-details">
-                            <div class="small-title">
-                                <span>Order Complete</span>
-                            </div>
-                            <div class="details" style="color: #979797;">
-                                <p>Shipping Initiated</p>
-                            </div>
-                        </div>
-                    </div>
+                    </div>-->
                 </div>
+
+
+
+                <!--<div class="header-text">
+                    <p>Leptozan Ignites Your <br>Body’s <em>“Fat-Burning”</em> Mode <br>—Discover How to Achieve Even <em>FASTER</em> <br><em>Results</em> with Our New Breakthrough</p>
+                </div>-->
+
             </div>
         </div>
     </section>
@@ -78,7 +99,7 @@
         <div class="container">
             <div class="row align-items-start">
                 <!-- Left Side: Image -->
-                <div class="col-lg-3 col-md-12">
+                <div class="col-lg-3 col-md-12 doctor-img">
                     <img src="/images/glucozan/doctor.png" alt="Dr. Mitchell" class="img-fluid rounded">
                 </div>
 
@@ -654,7 +675,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-auto">
-                    <img src="/images/glucozan/formula.png" alt="Glucozan Formula" class="formula-img">
+                    <img src="/images/glucozan/formula.png" alt="Glucozan Formula" class="formula-img img-fluid">
                 </div>
             </div>
         </div>

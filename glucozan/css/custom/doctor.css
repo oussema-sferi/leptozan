@@ -29,11 +29,23 @@
 /* Responsive Adjustments */
 @media (max-width: 768px) {
     .dr-mitchell-section .section-title {
-        text-align: center;
-        font-size: 28px;
+        font-size: 39px;
     }
     .dr-mitchell-section .text-content {
+        margin-top: 25px;
+    }
+    /*.dr-mitchell-section .doctor-img {
         text-align: center;
+    }*/
+    .dr-mitchell-section .doctor-img {
+        text-align: center; /* Center the image */
+        width: 100%; /* Ensure full width */
+    }
+
+    .dr-mitchell-section .doctor-img img {
+        width: 100%; /* Make the image take full width */
+        max-width: none; /* Override any max-width restrictions */
+        display: block;
     }
 }
 

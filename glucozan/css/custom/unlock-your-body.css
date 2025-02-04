@@ -8,7 +8,7 @@
     max-width: 460px;
 }
 
-.highlight {
+.unlock-your-body-section .highlight {
     color: #871127!important; /* Dark red */
     font-style: italic;
 }
@@ -36,11 +36,11 @@
 
 /* Responsive Adjustments */
 @media (max-width: 768px) {
-    .section-title {
+    .unlock-your-body-section .section-title {
         text-align: center;
         font-size: 28px;
     }
-    .text-content {
+    .unlock-your-body-section .text-content {
         text-align: center;
     }
 }

@@ -152,7 +152,8 @@
     /* Header End */
 
     /* Home Page Start */
-    .banner-wrp { margin: 20px 20px 0; padding: 104px 0 9px; background-image: url("../images/banner-Subtract-mobile.svg"); }
+    /*.banner-wrp { margin: 20px 20px 0; padding: 104px 0 9px; background-image: url("../images/banner-Subtract-mobile.svg"); }*/
+    .banner-wrp { margin: 20px 20px 0; padding: 104px 0 9px; background-image: url("/images/glucozan/header-img.png"); }
     .banner-content .main-title { margin: 0 0 16px; }
     .banner-content .large-detail { margin: 0 0 24px; }
     .banner-img { margin: -5px -22px 0; }
@@ -202,8 +203,10 @@
     /* Home Page End */
 
     /* VSL Page Start */
-    .vsl-banner-wrp {margin: 0 20px 40px; padding: 20px 0 40px; background-image: url("../images/banner-Subtract-mobile.svg"); }
-    .vsl-banner-wrp::before {display: none;}
+    /*.vsl-banner-wrp {margin: 0 20px 40px; padding: 20px 0 40px; background-image: url("../images/banner-Subtract-mobile.svg"); }*/
+    /*.vsl-banner-wrp {padding: 104px 0 9px; background-image: url("/images/glucozan/header-img.png"); border-radius: 0; background-size: auto 100%;}*/
+    /*.vsl-banner-wrp::before {background-size: auto 100%; background-position: center center;}*/
+    .vsl-banner-wrp {background-size: cover; background-position: center center; width: 100%;}
     .play-icon { width: 28px; height: 28px; display: block; }
     .vsl-video { border-width: 3px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px; -o-border-radius: 4px; }
     .vsl-banner-wrp .scroll-down {bottom: -30px;}
@@ -256,16 +259,20 @@
     /* Privacy Page End */
 
     /* Upsell Page Start */
-    .banner-order-steps .order-step  .small-title{font-size: 19px; line-height: 26px;}
+    .banner-order-steps .order-step  .small-title{font-size: 28px; line-height: 26px;}
     .banner-order-steps .icon{width: 52px; height: 52px; margin-right: 14px;}
     .banner-order-steps .order-step.active .icon {width: 66px; height: 66px;}
-    .banner-order-steps .order-step.active .small-title{font-size: 23px; line-height: 29px;}
+    .banner-order-steps .order-step.active .small-title{font-size: 28px; line-height: 29px;}
     .vsl-banner-wrp.upsell-page .vsl-banner-main .banner-order-steps{flex-direction: column;}
-    .banner-order-steps .order-step.active{ max-width: 313px; margin: 15px -32px; padding: 6px; }
-    .vsl-banner-wrp.upsell-page { padding: 30px 0 140px; margin-bottom: 100px; }
+    .banner-order-steps .order-step.active{ max-width: 480px; margin: 15px -23px; padding: 6px; }
+    /* glucozan banner */
+    .vsl-banner-wrp.upsell-page { padding: 30px 0 1110px; /*height: 800px*/}
+    .vsl-banner-wrp.banner-content.header-text { margin: 0 0 16px; }
     .vsl-banner-wrp.upsell-page .vsl-banner-main .vsl-video {margin: 0px auto -210px auto;}
+
     .banner-order-steps .order-step.active .order-details .details{font-size: 14px; line-height: 23px;}
-    .vsl-banner-wrp.upsell-page .vsl-banner-main .banner-order-steps{ padding: 10px 13px 10px 6px; margin-bottom: 30px; max-width: 270px; margin-left: auto; margin-right: auto; border-radius: 31px; -webkit-border-radius: 31px; -moz-border-radius: 31px; -ms-border-radius: 31px; -o-border-radius: 31px; }
+    .banner-order-steps .order-details {margin: 0 15px}
+    .vsl-banner-wrp.upsell-page .vsl-banner-main .banner-order-steps{ padding: 10px 13px 10px 6px; margin-bottom: 30px; max-width: 440px; margin-left: auto; margin-right: auto; border-radius: 31px; -webkit-border-radius: 31px; -moz-border-radius: 31px; -ms-border-radius: 31px; -o-border-radius: 31px; }
 
     .special-deal-main .special-deal-left .special-deal-top-left .block-title{font-size: 28px; line-height: 38px;}
     .saving-details span{font-size: 46px; line-height: 46px;}

@@ -9,7 +9,7 @@
 }
 
 /* Main Box */
-.offer-box {
+.special-offer .offer-box {
     max-width: 600px;
     background: white;
     border: 2px solid #7A0728; /* Dark red border */
@@ -21,7 +21,7 @@
 }
 
 /* Top Border Effect */
-.offer-box::before {
+.special-offer .offer-box::before {
     content: "";
     position: absolute;
     top: 0;
@@ -34,7 +34,7 @@
 }
 
 /* Heading Inside Border */
-.offer-heading {
+.special-offer .offer-heading {
     font-family: 'Crimson Pro', serif;
     position: absolute;
     top: -16px; /* Adjusts placement over border */
@@ -48,14 +48,14 @@
 }
 
 /* Text Content */
-.offer-content p {
+.special-offer .offer-content p {
     font-size: 15px;
     color: #333;
     margin-bottom: 15px;
 }
 
 /* Image */
-.offer-image img {
+.special-offer .offer-image img {
     width: 100%;
     max-width: 500px;
     height: auto;
@@ -66,17 +66,17 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .offer-box {
+    .special-offer .offer-box {
         max-width: 90%;
         padding: 30px 15px;
     }
 
-    .offer-heading {
+    .special-offer .offer-heading {
         font-size: 20px;
         top: -14px;
     }
 
-    .offer-content p {
+    .special-offer .offer-content p {
         font-size: 16px;
     }
 }

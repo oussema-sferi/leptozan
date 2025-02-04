@@ -7,80 +7,46 @@
 @import url('custom/common-style.css');
 /*========== Common Style End ==========*/
 
-/*========== Header Start ==========*/
-@import url('custom/header.css');
-/*========== Header End ==========*/
 
-/*========== Footer Start ==========*/
-@import url('custom/footer.css');
-/*========== Footer End ==========*/
 
-/*========== Banner Start ==========*/
-@import url('custom/banner.css');
-/*========== Banner End ==========*/
 
-/*========== Upsell Page Start ==========*/
-@import url('custom/upsell.css');
-/*========== Upsell Page End ==========*/
 
-/*========== Offers Page Start ==========*/
-@import url('custom/offers.css');
-/*========== Offers Page End ==========*/
 
-/*========== Healthy Page Start ==========*/
-@import url('custom/healthy.css');
-/*========== Healthy Page End ==========*/
 
-/*========== Fat Loss Ingredients Start ==========*/
-@import url('custom/ingredients.css');
-/*========== Fat Loss Ingredients End ==========*/
 
-/*========== Thank You Page Start ==========*/
-@import url('custom/faq.css');
-/*========== Thank You Page End ==========*/
 
-/*========== Guarantee Start ==========*/
-@import url('custom/guarantee.css');
-/*========== Guarantee End ==========*/
 
-/*========== Vsl Page Start ==========*/
-@import url('custom/vsl.css');
-/*========== Vsl Page End ==========*/
 
-/*========== Vsl Page Start ==========*/
-@import url('custom/references.css');
-/*========== Vsl Page End ==========*/
 
-/*========== Contact Page Start ==========*/
-@import url('custom/contact.css');
-/*========== Contact Page End ==========*/
 
-/*========== Vsl Opened Page End ==========*/
-@import url('custom/vsl-opened.css');
-/*========== Vsl Opened Page End ==========*/
 
-/*========== Thank You Page Start ==========*/
-@import url('custom/thank-you.css');
-/*========== Thank You Page End ==========*/
 
-/*========== Privacy Policy Page Start ==========*/
-@import url('custom/privacy-policy.css');
-/*========== Privacy Policy Page End ==========*/
+
+
+
 
 
 /*========== Glucozan Home Page Stylesheets Start ==========*/
 
-/*========== Blood Sugar Two Sections Start ==========*/
-@import url('custom/blood-sugar-sections.css');
-/*========== Blood Sugar Two Sections End ==========*/
+/*========== Banner Section Start ==========*/
+@import url('custom/header-banner.css');
+/*========== Banner Section End ==========*/
 
 /*========== Dr. Mitchell's Message Section Start ==========*/
 @import url('custom/doctor.css');
 /*========== Dr. Mitchell's Message Section End ==========*/
 
+/*========== Blood Sugar Two Sections Start ==========*/
+@import url('custom/blood-sugar-sections.css');
+/*========== Blood Sugar Two Sections End ==========*/
+
 /*========== Dr. Glucozan Benefits Section Start ==========*/
 @import url('custom/benefits.css');
 /*========== Dr. Glucozan Benefits Section End ==========*/
+
+/*========== Glucozan Ingredients Section Start ==========*/
+@import url('custom/ingredients.css');
+/*========== Glucozan Ingredients Section End ==========*/
 
 /*========== Balanced Blood Sugar Benefits Section Start ==========*/
 @import url('custom/balanced-blood-sugar-benefits.css');
@@ -94,13 +60,25 @@
 @import url('custom/special-offer-box.css');
 /*========== Special Offer Box Section End ==========*/
 
+/*========== Money Back Guarantee Section Start ==========*/
+@import url('custom/money-back-guarantee.css');
+/*========== Money Back Guarantee Section End ==========*/
+
+/*========== Offers (Buying Boxes) Section Start ==========*/
+@import url('custom/offers.css');
+/*========== Offers (Buying Boxes) Section End ==========*/
+
 /*========== Certification Logos Section Start ==========*/
 @import url('custom/certification-logos.css');
 /*========== Certification Logos Section End ==========*/
 
-/*========== Money Back Guarantee Section Start ==========*/
-@import url('custom/money-back-guarantee.css');
-/*========== Money Back Guarantee Section End ==========*/
+/*========== References Section Start ==========*/
+@import url('custom/references.css');
+/*========== References Section End ==========*/
+
+/*========== Footer Section Start ==========*/
+@import url('custom/footer.css');
+/*========== Footer Section End ==========*/
 
 
 /*========== Glucozan Home Page Stylesheets End ==========*/

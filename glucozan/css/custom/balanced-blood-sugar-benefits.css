@@ -8,7 +8,7 @@
     max-width: 460px;
 }
 
-.highlight {
+.balanced-blood-sugar-benefits-section .highlight {
     color: #871127!important; /* Dark red */
     font-style: italic;
 }
@@ -32,11 +32,11 @@
 
 /* Responsive Adjustments */
 @media (max-width: 768px) {
-    .section-title {
+    .balanced-blood-sugar-benefits-section .section-title {
         text-align: center;
         font-size: 28px;
     }
-    .text-content {
+    .balanced-blood-sugar-benefits-section .text-content {
         text-align: center;
     }
 }
