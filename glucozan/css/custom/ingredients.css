@@ -1,12 +1,7 @@
 .ingredients-wrp {
-    padding: 88px 20px 58px;
-    margin: 0 32px 40px;
+    padding: 88px 0 58px;
+    margin: 0 0 40px;
     background-color: var(--grey3);
-    border-radius: 12px;
-    -webkit-border-radius: 12px;
-    -moz-border-radius: 12px;
-    -ms-border-radius: 12px;
-    -o-border-radius: 12px;
 }
 
 .ingredients-logos-main {
@@ -29,7 +24,7 @@
     width: 65px;
 }
 
-.ingredients-title {
+.ingredients-wrp .ingredients-title {
     max-width: 728px;
     width: 100%;
     margin: 0 auto 56px;
@@ -37,6 +32,7 @@
 }
 
 .ingredients-title .section-title {
+    font-family: 'Crimson Pro', serif;
     margin: 0 0 16px;
     text-transform: unset;
 }
@@ -44,7 +40,7 @@
 .ingredients-block {
     overflow: hidden;
     background-color: var(--white);
-    border: 5px solid var(--grey4);
+    border: 1px solid var(--grey4);
     text-align: center;
     margin: 0 0 30px;
     height: calc(100% - 30px);

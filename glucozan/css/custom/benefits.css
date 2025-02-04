@@ -5,8 +5,7 @@
 }
 
 /* Centered Section Title */
-.glucozan-benefits .section-title {
-    font-family: 'Crimson Pro', serif;
+.glucozan-benefits .title {
     font-size: 80px;
     font-weight: 700;
     text-align: center;
@@ -40,28 +39,9 @@
 }
 
 /* Responsive Adjustments */
-@media (max-width: 992px) {
-    .glucozan-benefits .row {
-        flex-direction: column-reverse; /* Stack text above image on tablets/mobile */
-    }
-
-    .glucozan-benefits .text-content {
-        text-align: center;
-    }
-}
-
 @media (max-width: 768px) {
-    /*.glucozan-benefits .section-title {
-        font-size: 30px;
-    }*/
-
-    .glucozan-benefits .subtext {
-        font-size: 18px;
-    }
-
-    .glucozan-benefits .text-content {
-        font-size: 16px;
-        text-align: center;
+    .glucozan-benefits  {
+        padding: 80px 0 10px;
     }
 
     .glucozan-benefits .row {
@@ -71,5 +51,28 @@
 
     .glucozan-benefits .col-lg-6:last-child {
         order: 2; /* Move image to the bottom */
+    }
+    .dr-mitchell-section .section-title {
+        font-size: 39px;
+    }
+    .glucozan-benefits .text-content {
+        margin-bottom: 25px;
+        text-align: left;
+    }
+
+    .glucozan-benefits .benefits-img {
+        text-align: center; /* Center the image */
+        /*width: 100%;*/ /* Ensure full width */
+    }
+
+    .glucozan-benefits .benefits-img img {
+       margin: 0 auto;
+    }
+    .glucozan-benefits .subtext-container {
+        max-width: 270px;
+        margin: 0 auto;
+    }
+    .glucozan-benefits .subtext {
+        font-size: 17px;
     }
 }

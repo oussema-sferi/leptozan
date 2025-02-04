@@ -165,7 +165,7 @@
     .healthy-title .detail { margin: 0; }
     .healthy-block {margin: 60px 0 20px; height: calc(100% - 80px); }
 
-    .ingredients-wrp { padding: 48px 0 24px; margin: 0 20px 32px; }
+    .ingredients-wrp { padding: 48px 0 24px; margin: 0 0 32px; }
     .ingredients-logos-main {margin: 0 -8px 16px; flex-wrap: wrap; }
     .ingredients-logos { padding: 0px 8px 16px; }
     .ingredients-logos img {width: 48px;}

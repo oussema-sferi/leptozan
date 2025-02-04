@@ -125,7 +125,7 @@
             <!-- Centered Title -->
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title text-center">
+                    <h2 class="title text-center">
                         The Vicious Cycle of <span class="highlight">Blood Sugar Imbalance</span>
                     </h2>
                 </div>
@@ -155,7 +155,7 @@
             <!-- Centered Title -->
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title text-center">
+                    <h2 class="title text-center">
                         Discovering a New Path to <span class="highlight">Blood Sugar Balance</span>
                     </h2>
                 </div>
@@ -186,12 +186,12 @@
             <!-- Centered Heading -->
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title text-center">Glucozan</h2>
+                    <h2 class="title text-center">Glucozan</h2>
                 </div>
             </div>
 
             <!-- Centered Subtext -->
-            <div class="row">
+            <div class="row subtext-container">
                 <div class="col-12">
                     <p class="subtext text-center">Glucozan is designed to support <strong><em>healthy blood sugar levels</em></strong> using several special ingredients.</p>
                 </div>
@@ -214,7 +214,7 @@
                 </div>
 
                 <!-- Right Side: Image -->
-                <div class="col-lg-6 col-md-12">
+                <div class="col-lg-6 col-md-12 benefits-img">
                     <img src="/images/glucozan/glucozan-bottle.png" alt="Glucozan Bottle" class="img-fluid rounded">
                 </div>
             </div>
@@ -285,7 +285,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <p class="text-center">All packed into a single supplement to help almost anyone support their blood sugar levels.</p>
+                        <p class="text-center"><em>All packed into a single supplement to help almost anyone support their blood sugar levels.</em></p>
                     </div>
                 </div>
             </div>
