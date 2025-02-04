@@ -507,6 +507,135 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-1 order-md-2">
+                            <div class="offers-block best-offer-block">
+                                <div class="offers-block-title">
+                                    <div class="section-title">
+                                        <h2>Most Popular</h2>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>6 Bottles</p>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>6-Month Supply</p>
+                                    </div>
+                                </div>
+                                <div class="offers-inner">
+                                    <div class="offers-product-img">
+                                        <figure>
+                                            <img src="/images/glucozan/offers-6-bottles.png" alt="offers-img" class="img-fluid">
+                                        </figure>
+                                    </div>
+                                    <div class="offers-product-price">
+                                        <h3><b>$</b><span>39</span><small>per bottle</small></h3>
+                                    </div>
+                                    <!--<div class="common-list">
+                                        <ul>
+                                            <li>You save $780!</li>
+                                            <li>Biggest Discount</li>
+                                            <li>180 Days Guarantee</li>
+                                        </ul>
+                                    </div>-->
+                                    <div class="text-center">
+                                        <p>+ FREE SHIPPING</p>
+                                    </div>
+                                    <div class="offers-btn">
+                                        <a href="#buy-now" class="btn" style="background-color: #871127; color: white">BUY NOW <span>Best Offer!</span></a>
+                                    </div>
+                                    <div class="offers-total">
+                                        <p>TOTAL: <!--<span>$1074</span>--><strong>$234</strong></p>
+                                        <!--<p class="free-shipping">Free Shipping</p>-->
+                                    </div>
+                                    <div class="payments-block">
+                                        <ul>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-2 order-md-3">
+                            <div class="offers-block desktop-view">
+                                <div class="offers-block-title">
+                                    <div class="section-title">
+                                        <h2>3 Bottles</h2>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>3-Month Supply</p>
+                                    </div>
+                                </div>
+                                <div class="offers-inner">
+                                    <div class="offers-product-img">
+                                        <figure>
+                                            <img src="/images/glucozan/offers-3-bottles.png" alt="offers-img" class="img-fluid">
+                                        </figure>
+                                    </div>
+                                    <div class="offers-product-price">
+                                        <h3><b>$</b><span>49</span><small>per bottle</small></h3>
+                                    </div>
+                                    <!--<div class="common-list">
+                                        <ul>
+                                            <li>You save $200!</li>
+                                            <li>180 Days Guarantee</li>
+                                        </ul>
+                                    </div>-->
+                                    <div class="text-center">
+                                        <p>+ FREE SHIPPING</p>
+                                    </div>
+                                    <div class="offers-btn">
+                                        <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>BEST OFFER</span></a>
+                                    </div>
+
+                                    <div class="offers-total">
+                                        <p>TOTAL: <strong>$147</strong></p>
+                                        <!--<p>+ 9.95 Shipping</p>-->
+                                    </div>
+                                    <div class="payments-block">
+                                        <ul>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

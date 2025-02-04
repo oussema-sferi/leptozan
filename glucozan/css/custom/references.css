@@ -56,5 +56,7 @@
     .references-wrp .references-details {
         text-align: left!important;
     }
-
+    .references-wrp .row {
+        flex-direction: column-reverse; /* Flips the order */
+    }
 }
