@@ -437,12 +437,19 @@ ol li a:hover {
 /*==================================================================*/
 
 /*let the page not scrollable horizontally*/
-.container {
+/*.container {
 	max-width: 100%;
 	overflow-x: hidden;
-}
+}*/
 
-.row {
+/*.row {
 	margin-right: 0;
 	margin-left: 0;
+}*/
+
+@media (max-width: 768px) {
+	html, body {
+		overflow-x: hidden !important;
+		width: 100%;
+	}
 }
