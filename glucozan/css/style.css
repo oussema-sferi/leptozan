@@ -435,3 +435,14 @@ ol li a:hover {
 /*==================================================================*/
 /*========== Custom Styles End ==========*/
 /*==================================================================*/
+
+/*let the page not scrollable horizontally*/
+.container {
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+.row {
+	margin-right: 0;
+	margin-left: 0;
+}
