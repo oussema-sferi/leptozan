@@ -1,6 +1,6 @@
 /* Blood Sugar Section */
 .blood-sugar-section {
-    padding: 80px 0;
+    padding: 30px 0;
     background-color: #F6F6F6;
 }
 
@@ -43,7 +43,6 @@
 .new-path-section .content-box {
     background: linear-gradient(to bottom, #7A72C0, #CE3B5F); /* Gradient from top to bottom */
     padding: 40px;
-    border-radius: 5px;
     color: white;
     display: flex;
     align-items: center;

@@ -100,7 +100,7 @@
             <div class="row align-items-start">
                 <!-- Left Side: Image -->
                 <div class="col-lg-3 col-md-12 doctor-img">
-                    <img src="/images/glucozan/doctor.png" alt="Dr. Mitchell" class="img-fluid rounded">
+                    <img src="/images/glucozan/doctor.png" alt="Dr. Mitchell" class="img-fluid">
                 </div>
 
                 <!-- Right Side: Text Content -->
@@ -143,7 +143,7 @@
                 </div>
                 <!-- Right Side: Image -->
                 <div class="col-lg-6 col-md-12">
-                    <img src="/images/glucozan/blood-sugar-imbalance.png" alt="Blood Sugar Imbalance" class="img-fluid rounded">
+                    <img src="/images/glucozan/blood-sugar-imbalance.png" alt="Blood Sugar Imbalance" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -172,7 +172,7 @@
                         </div>
                         <!-- Right Side: Image -->
                         <div class="col-lg-6 col-md-12">
-                            <img src="/images/glucozan/blood-sugar-balance.png" alt="Blood Sugar Balance" class="img-fluid rounded">
+                            <img src="/images/glucozan/blood-sugar-balance.png" alt="Blood Sugar Balance" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
 
                 <!-- Right Side: Image -->
                 <div class="col-lg-6 col-md-12 benefits-img">
-                    <img src="/images/glucozan/glucozan-bottle.png" alt="Glucozan Bottle" class="img-fluid rounded">
+                    <img src="/images/glucozan/glucozan-bottle.png" alt="Glucozan Bottle" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -299,7 +299,7 @@
             <!-- Centered Title -->
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title text-center">
+                    <h2 class="title">
                         Ready to Experience the Benefits of <span class="highlight">Balanced Blood Sugar?</span>
                     </h2>
                 </div>
@@ -319,7 +319,7 @@
                 </div>
                 <!-- Right Side: Image -->
                 <div class="col-lg-6 col-md-12">
-                    <img src="/images/glucozan/balanced-blood-sugar-benefits.png" alt="Blood Sugar balance benefits" class="img-fluid rounded">
+                    <img src="/images/glucozan/balanced-blood-sugar-benefits.png" alt="Blood Sugar balance benefits" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -331,16 +331,16 @@
             <!-- Centered Title -->
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title text-center">
+                    <h2 class="title text-center">
                         Unlock Your Body’s <span class="highlight">Full Potential</span>
                     </h2>
                 </div>
             </div>
 
-            <div class="row align-items-start">
+            <div class="row align-items-start content">
                 <!-- Left Side: Image -->
-                <div class="col-lg-4 col-md-12">
-                    <img src="/images/glucozan/unlock-your-body.png" alt="Blood Sugar balance benefits" class="img-fluid rounded">
+                <div class="col-lg-4 col-md-12 img-container">
+                    <img src="/images/glucozan/unlock-your-body.png" alt="Blood Sugar balance benefits" class="img-fluid">
                 </div>
                 <!-- Right Side: Text Content -->
                 <div class="col-lg-8 col-md-12 text-content">
@@ -413,9 +413,9 @@
     <section id="buy-now" class="offers-wrp">
         <div class="container">
             <!-- Centered Title -->
-            <div class="row">
+            <div class="row titles-container">
                 <div class="col-12">
-                    <h2 class="section-title first-title text-center">
+                    <h2 class="second-title text-center">
                         <em>The Most Important Health Investment You Can Make</em>
                     </h2>
                     <div class="first-content">
@@ -428,7 +428,7 @@
             <!-- Centered Title -->
             <div class="row">
                 <div class="col-12">
-                    <h2 class="section-title second-title text-center">
+                    <h2 class="second-title text-center">
                         Let's take back control and start feeling <span class="highlight">your best right now!</span>
                     </h2>
                 </div>

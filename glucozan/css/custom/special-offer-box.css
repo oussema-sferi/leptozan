@@ -1,9 +1,10 @@
 /* Section: Special Offer */
 .special-offer {
+    font-family: 'Crimson Pro', serif!important;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 80px 0;
+    padding: 30px 0;
     text-align: left;
     width: 100%; /* Ensure full width */
 }
@@ -35,7 +36,6 @@
 
 /* Heading Inside Border */
 .special-offer .offer-heading {
-    font-family: 'Crimson Pro', serif;
     position: absolute;
     top: -16px; /* Adjusts placement over border */
     left: 50%;

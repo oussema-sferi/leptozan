@@ -12,24 +12,29 @@
     -o-border-radius: 12px;
 }
 
-.offers-main > .section-title {
+/*.offers-main > .section-title {
     max-width: 800px;
     width: 100%;
     margin: 0 auto 56px;
     text-align: center;
-}
+}*/
 
 /*.offers-wrp .section-title {
     text-transform: none;
 }*/
 
 .offers-wrp .first-title {
-    width: 40%;
-    margin: 0 auto;
+    font-size: 32px;
+    font-weight: 700;
+    max-width: 45%;
+    margin: 20px auto 40px;
+    text-transform: none;
 }
 
 .offers-wrp .second-title {
-    width: 45%;
+    font-size: 32px;
+    font-weight: 700;
+    max-width: 45%;
     margin: 20px auto 40px;
     text-transform: none;
 }
@@ -358,4 +363,11 @@
     left: -5px;
     right: 0;
     top: 11px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .offers-wrp .first-title, .offers-wrp .second-title {
+        max-width: unset;
+    }
 }

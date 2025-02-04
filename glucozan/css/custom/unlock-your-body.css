@@ -1,5 +1,10 @@
-/* Global Section Styles */
-.unlock-your-body-section .section-title {
+/* Unlock Your Body Section Section */
+.unlock-your-body-section {
+    padding: 30px 0;
+    /*background-color: #F6F6F6;*/
+}
+
+.unlock-your-body-section .title {
     font-family: 'Crimson Pro', serif;
     font-size: 32px;
     font-weight: 700;
@@ -11,12 +16,6 @@
 .unlock-your-body-section .highlight {
     color: #871127!important; /* Dark red */
     font-style: italic;
-}
-
-/* Unlock Your Body Section Section */
-.unlock-your-body-section {
-    padding: 80px 0;
-    /*background-color: #F6F6F6;*/
 }
 
 .unlock-your-body-section .container {
@@ -36,11 +35,11 @@
 
 /* Responsive Adjustments */
 @media (max-width: 768px) {
-    .unlock-your-body-section .section-title {
-        text-align: center;
+    .unlock-your-body-section .title {
         font-size: 28px;
+        max-width: 280px;
     }
-    .unlock-your-body-section .text-content {
-        text-align: center;
+    .unlock-your-body-section .img-container {
+        margin-bottom: 20px;
     }
 }

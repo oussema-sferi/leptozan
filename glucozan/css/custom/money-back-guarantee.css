@@ -36,8 +36,8 @@
 
 /* Title */
 .guarantee-title {
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 32px;
+    font-weight: 700;
     color: #7A0728;
     margin-bottom: 15px;
     text-align: center;
@@ -52,6 +52,10 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .money-back-section {
+        padding: 65px 0;
+    }
+
     .guarantee-box {
         max-width: 90%;
         padding: 30px 20px;

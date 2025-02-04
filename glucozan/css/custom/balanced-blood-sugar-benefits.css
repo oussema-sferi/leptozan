@@ -1,22 +1,21 @@
-/* Global Section Styles */
-.balanced-blood-sugar-benefits-section .section-title {
+/* Balanced Blood Sugar Benefits Section */
+.balanced-blood-sugar-benefits-section {
+    padding: 50px 0;
+    /*background-color: #F6F6F6;*/
+}
+
+.balanced-blood-sugar-benefits-section .title {
     font-family: 'Crimson Pro', serif;
     font-size: 32px;
     font-weight: 700;
-    /*text-align: center;*/ /* Centers the title */
+    text-align: center; /* Centers the title */
     margin: 0 auto 40px;
     max-width: 460px;
 }
 
-.balanced-blood-sugar-benefits-section .highlight {
+.highlight {
     color: #871127!important; /* Dark red */
     font-style: italic;
-}
-
-/* Balanced Blood Sugar Benefits Section */
-.balanced-blood-sugar-benefits-section {
-    padding: 80px 0;
-    /*background-color: #F6F6F6;*/
 }
 
 .balanced-blood-sugar-benefits-section .container {
@@ -30,13 +29,15 @@
     line-height: 1.6;
 }
 
+
 /* Responsive Adjustments */
 @media (max-width: 768px) {
-    .balanced-blood-sugar-benefits-section .section-title {
+    .balanced-blood-sugar-benefits-section .title {
         text-align: center;
-        font-size: 28px;
+        font-size: 44px!important;
+        max-width: 375px;
     }
-    .balanced-blood-sugar-benefits-section .text-content {
-        text-align: center;
+    .balanced-blood-sugar-benefits-section .content {
+        margin-top: 10px;
     }
 }
