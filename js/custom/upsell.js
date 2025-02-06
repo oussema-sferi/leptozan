@@ -1,4 +1,47 @@
 $(document).ready(function() {
+    let scrollsCounter = 0;
+    let priceAnimationTriggered = false; // Flag to track if animation has run
+    const upsellContent = $('.vsl-banner-wrp, .upsell-special-deal-section');
+    const noThanksContent = $('.banner-upsell, .no-thanks-special-deal-section');
+    function startPriceAnimation() {
+        console.log(scrollsCounter);
+        if (scrollsCounter !== 4) return;
+        /*if (priceAnimationTriggered) return;*/ // Prevent running animation multiple times
+        priceAnimationTriggered = true; // Mark animation as triggered
+        // Animate the total price from 79 to 58
+        const totalPriceElementOne = noThanksContent.find(".right-details .saving-details span"); // Target the span containing 79
+        const totalPriceElementTwo = noThanksContent.find(".btn-contain .btn-orange .price"); // Target the span containing 79
+        const startPrice = 177;
+        const endPrice = 98;
+        const totalDuration = 3000; // Total animation duration in milliseconds
+        const stepTime = 50; // Time between updates in milliseconds
+
+        let currentPrice = startPrice;
+        const totalSteps = totalDuration / stepTime; // Counting the total number of steps
+        let stepCount = 0;
+
+        // Easing logic: slow at first, then faster
+        const easingFunction = (t) => t * t; // Quadratic easing (t^2) for acceleration
+
+        const priceInterval = setInterval(() => {
+            stepCount++;
+            const progress = stepCount / totalSteps; // Progress from 0 to 1
+            const easedProgress = easingFunction(progress); // Apply easing function
+            currentPrice = startPrice - (startPrice - endPrice) * easedProgress; // Calculate new price
+            /*console.log(currentPrice);*/
+            // Update the price in the span
+            totalPriceElementOne.text(Math.ceil(currentPrice));
+            totalPriceElementTwo.text(Math.ceil(currentPrice));
+
+            // Stop the interval when the target is reached
+            if (progress >= 1) {
+                clearInterval(priceInterval);
+                totalPriceElementOne.text(endPrice); // Ensure it ends exactly at the target
+                totalPriceElementTwo.text(endPrice); // Ensure it ends exactly at the target
+            }
+        }, stepTime);
+    }
+
     console.log("i am in upsell webpage");
     // Listen for click event on the play icon
     const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page")
@@ -64,8 +107,7 @@ $(document).ready(function() {
     // no-thanks link action
     $(".no-thanks-link").click("on", function(evt) {
         evt.preventDefault();
-        const upsellContent = $('.vsl-banner-wrp, .upsell-special-deal-section');
-        const noThanksContent = $('.banner-upsell, .no-thanks-special-deal-section');
+
         console.log("no thanks link clicked!");
         // Pause the video when the user clicks "No, Thanks"
         getVidalyticsPlayer(EMBED_ID).then(player => {
@@ -78,41 +120,8 @@ $(document).ready(function() {
         $('html, body').animate({ scrollTop: 0 }, 10); // Adjust 'slow' or specify time in milliseconds
 
 
-        // Wait 1 second before starting the price animation
-        setTimeout(() => {
-            // Animate the total price from 79 to 58
-            const totalPriceElementOne = noThanksContent.find(".right-details .saving-details span"); // Target the span containing 79
-            const totalPriceElementTwo = noThanksContent.find(".btn-contain .btn-orange .price"); // Target the span containing 79
-            const startPrice = 177;
-            const endPrice = 98;
-            const totalDuration = 3000; // Total animation duration in milliseconds
-            const stepTime = 50; // Time between updates in milliseconds
-
-            let currentPrice = startPrice;
-            const totalSteps = totalDuration / stepTime; // Counting the total number of steps
-            let stepCount = 0;
-
-            // Easing logic: slow at first, then faster
-            const easingFunction = (t) => t * t; // Quadratic easing (t^2) for acceleration
-
-            const priceInterval = setInterval(() => {
-                stepCount++;
-                const progress = stepCount / totalSteps; // Progress from 0 to 1
-                const easedProgress = easingFunction(progress); // Apply easing function
-                currentPrice = startPrice - (startPrice - endPrice) * easedProgress; // Calculate new price
-                /*console.log(currentPrice);*/
-                // Update the price in the span
-                totalPriceElementOne.text(Math.ceil(currentPrice));
-                totalPriceElementTwo.text(Math.ceil(currentPrice));
-
-                // Stop the interval when the target is reached
-                if (progress >= 1) {
-                    clearInterval(priceInterval);
-                    totalPriceElementOne.text(endPrice); // Ensure it ends exactly at the target
-                    totalPriceElementTwo.text(endPrice); // Ensure it ends exactly at the target
-                }
-            }, stepTime);
-        }, 1000); // Delay of 1 second before starting
+        // Wait 1 second before starting price animation
+        /*setTimeout(startPriceAnimation, 1000);*/
     })
 
     // blink effect on price & buying box title (No Thanks page)
@@ -124,7 +133,9 @@ $(document).ready(function() {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
                     entry.target.classList.add("fade-blink-animation");
-
+                    // Wait 1 second before starting price animation
+                    setTimeout(startPriceAnimation, 1000);
+                    scrollsCounter++;
                     // Remove the animation class after 5 blinks (7.5s duration)
                     setTimeout(() => {
                         entry.target.classList.remove("fade-blink-animation");
