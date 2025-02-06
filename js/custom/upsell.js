@@ -58,8 +58,8 @@ $(document).ready(function() {
     });*/
 
     // Initialize Vidalytics Instance + binding time update event
-    const EMBED_ID = 'vidalytics_embed_tUiR3D3NTucP8aJ1';
-    /*const EMBED_ID = 'vidalytics_embed_oo86lpbKzHm8_r2O';*/
+    /*const EMBED_ID = 'vidalytics_embed_tUiR3D3NTucP8aJ1';*/
+    const EMBED_ID = 'vidalytics_embed_oo86lpbKzHm8_r2O';
     !function(v,a,p,i){
         v.getVidalyticsPlayer=n=>{v[a]=v[a]||{},v[a][p]=v[a][p]||{};let d=v[a][p][n]=v[a][p][n]||{};
             return new Promise((e=>{if(d[i])return void e(d[i]);let t;
@@ -94,7 +94,7 @@ $(document).ready(function() {
 
         // do something after 5s of playback
         let isTimeTrapTriggered = false;
-        const actionTime = 2;
+        const actionTime = 5;
         player.on('timeupdate', () => {
             if (isTimeTrapTriggered) return;
             const currentTime = Math.floor(player.currentTime());

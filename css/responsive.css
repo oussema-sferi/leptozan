@@ -341,7 +341,7 @@
     .left-details .saving-details span { font-size: 30px; }
     .saving-details span { font-size: 38px; line-height: 50px; }
     .saving-banner .right-details { padding: 12px 5px 12px 5px; }
-    .saving-banner .left-details { max-width: 100%; width: calc(100% - 84px); }
+    .saving-banner .left-details { max-width: 100%; width: calc(100% - 98px); }
     .saving-details { padding: 16px 2px 8px; }
     .special-deal-right .icon-list ul li img { height: 75px; }
 }
