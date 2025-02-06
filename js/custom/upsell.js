@@ -5,7 +5,7 @@ $(document).ready(function() {
     const noThanksContent = $('.banner-upsell, .no-thanks-special-deal-section');
     function startPriceAnimation() {
         console.log(scrollsCounter);
-        if (scrollsCounter !== 4) return;
+        /*if (scrollsCounter !== 4) return;*/
         /*if (priceAnimationTriggered) return;*/ // Prevent running animation multiple times
         priceAnimationTriggered = true; // Mark animation as triggered
         // Animate the total price from 79 to 58
@@ -17,6 +17,8 @@ $(document).ready(function() {
         const stepTime = 50; // Time between updates in milliseconds
 
         let currentPrice = startPrice;
+        totalPriceElementOne.text(startPrice)
+        totalPriceElementTwo.text(startPrice)
         const totalSteps = totalDuration / stepTime; // Counting the total number of steps
         let stepCount = 0;
 
@@ -134,7 +136,8 @@ $(document).ready(function() {
                 if (entry.isIntersecting) {
                     entry.target.classList.add("fade-blink-animation");
                     // Wait 1 second before starting price animation
-                    setTimeout(startPriceAnimation, 1000);
+                    /*setTimeout(startPriceAnimation, 1000);*/
+                    startPriceAnimation()
                     scrollsCounter++;
                     // Remove the animation class after 5 blinks (7.5s duration)
                     setTimeout(() => {

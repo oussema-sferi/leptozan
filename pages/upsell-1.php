@@ -131,7 +131,7 @@
     </section>
 
 	<!-- special-deal-section -->
-	<section class="upsell-special-deal-section special-deal-section">
+	<section class="upsell-special-deal-section special-deal-section" >
 		<div class="container">
 			<div class="special-deal-wrap">
 				<div class="special-deal-detail text-center">
