@@ -209,7 +209,7 @@
 					</div>
 				</div>
 				<div class="details-bottom text-center">
-					<p><a id="no-thanks-link" href="#">No, Thanks.</a> <a href="#" class="details-bottom-text">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer.</a></p>
+					<p><a class="no-thanks-link" href="#">No, Thanks.</a> <a href="#" class="details-bottom-text no-thanks-link">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer.</a></p>
 				</div>
 			</div>
 		</div>
@@ -240,7 +240,7 @@
                                 </div>
                                 <div class="special-deal-img text-center" style="background-color: var(--white);">
                                     <figure>
-                                        <img width="370" src="/images/offers-img-1.png" alt="order-img" class="img-fluid">
+                                        <img width="400" src="/images/offers-img-1.png" alt="order-img" class="img-fluid">
                                     </figure>
                                 </div>
                             </div>

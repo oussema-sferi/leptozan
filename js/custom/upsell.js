@@ -62,7 +62,7 @@ $(document).ready(function() {
     });
 
     // no-thanks link action
-    $("#no-thanks-link").click("on", function(evt) {
+    $(".no-thanks-link").click("on", function(evt) {
         evt.preventDefault();
         const upsellContent = $('.vsl-banner-wrp, .upsell-special-deal-section');
         const noThanksContent = $('.banner-upsell, .no-thanks-special-deal-section');
