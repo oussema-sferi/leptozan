@@ -85,7 +85,7 @@
 }
 
 .special-deal-section .special-deal-wrap .special-deal-detail{
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .special-deal-section .special-deal-wrap .special-deal-right .saving-banner {
@@ -121,7 +121,7 @@
 
 .saving-banner .right-details{
     position: relative;
-    padding: 12px;
+    padding: 15px;
     border-radius: 0 12px 12px 0;
     -webkit-border-radius: 0 12px 12px 0;
     -moz-border-radius: 0 12px 12px 0;
@@ -139,7 +139,7 @@
 }
 
 .special-deal-detail .large-detail *{
-    margin-bottom: 4px;
+    /*margin-bottom: 4px;*/
 }
 
 .special-deal-main .special-deal-left{
@@ -167,7 +167,7 @@
 }*/
 
 .special-deal-main .special-deal-left .special-deal-top-left {
-    padding: 24px 20px 24px;
+    padding: 30px 20px 24px;
 }
 
 .special-deal-main .special-deal-left .special-deal-top-left .block-title {
@@ -180,11 +180,16 @@
 }
 
 .saving-details {
-    padding: 16px 24px 16px 40px;
+    padding: 16px 24px 18px 40px;
 }
 
 .right-details .saving-details {
     padding: 0 24px 0 40px;
+    /*padding: 0 32px 0 32px;*/
+}
+
+.right-details .small-title {
+    padding: 0 24px 0 47px;
     /*padding: 0 32px 0 32px;*/
 }
 
@@ -212,12 +217,20 @@
 }
 
 .saving-details span:first-child{
-    margin-right: 16px;
+    margin-right: 6px;
     display: inline-block;
 }
 
 .saving-details sup{
-    top: -1.9em;
+    top: -23px;
+}
+
+.saving-details .per-bottle {
+    top: -18px;
+}
+
+.saving-details .you-save {
+    padding: 2px 0;
 }
 
 .saving-details sup{
@@ -225,7 +238,7 @@
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
-    line-height: 12px; /* 100% */
+    line-height: 11px; /* 100% */
     display: inline-block;
     max-width: 34px;
     text-align: left;
