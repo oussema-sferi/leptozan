@@ -111,7 +111,7 @@
 }
 
 .saving-banner .left-details .price-blink {
-    color: #ED4E1E;
+    color: var(--orange)
 }
 
 .saving-banner .left-details,
@@ -227,6 +227,51 @@
 
 .saving-details .per-bottle {
     top: -18px;
+}
+@media (max-width: 575px) {
+
+    /* Mobile Banner left details */
+    .left-details .saving-details sup {
+        top: -18px!important;
+    }
+    .left-details .saving-details sup.per-bottle {
+        top: -12px!important;
+    }
+
+    .right-details .saving-details sup {
+        top: -18px!important;
+    }
+
+    .right-details {
+        width: 116px!important;
+    }
+    /* Mobile Banner right details */
+    /*.special-deal-section .special-deal-wrap .special-deal-right .saving-banner .right-details {
+        padding: 0!important;
+    }*/
+    .saving-banner {
+        max-width: 100%!important;
+        overflow-x: hidden; /* Prevents any extra width */
+    }
+
+    /*.saving-banner .left-details .saving-details{
+        padding: 0!important;
+        margin: 0!important;
+    }*/
+    /*.saving-banner .right-details {
+        max-width: 50px;
+    }*/
+    /*.saving-banner .right-details .saving-details{
+        padding: 0!important;
+        margin: 0!important;
+    }*/
+    .saving-banner .right-details {
+        padding: 12px 0 12px 0 !important;
+    }
+    .right-details .small-title {
+        padding: 0;
+        margin: 0 auto!important;
+    }
 }
 
 .saving-details .you-save {
@@ -485,10 +530,10 @@
     animation: fadeBlink 1.5s ease-in-out 6; /* 1.5s per fade, 5 full blinks */
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
 
 
     .special-deal-section .special-deal-wrap .special-deal-right .saving-banner .right-details {
         padding: 12px 0px 12px 15px;
     }
-}
+}*/
