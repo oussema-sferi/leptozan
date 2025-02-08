@@ -36,5 +36,14 @@ $(document).ready(function() {
         }
     });*/
 
+    let header = document.querySelector(".header");
+    let fixedNavbar = document.querySelector(".fixed-navbar");
 
+    window.addEventListener("scroll", function () {
+        if (window.scrollY > header.offsetHeight) {
+            fixedNavbar.classList.add("visible");
+        } else {
+            fixedNavbar.classList.remove("visible");
+        }
+    });
 })

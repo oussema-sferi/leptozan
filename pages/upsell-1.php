@@ -131,7 +131,7 @@
     </section>
 
 	<!-- special-deal-section -->
-	<section class="upsell-special-deal-section special-deal-section">
+	<section class="upsell-special-deal-section special-deal-section" style="background: var(--grey3); display: none">
 		<div class="container">
 			<div class="special-deal-wrap">
 				<div class="special-deal-detail text-center">
@@ -253,7 +253,7 @@
                                             <span>Just</span>
                                             <sup><b>$</b></sup>
                                             <span class="price-blink">49</span>
-                                            <sup>Per
+                                            <sup  class="per-bottle">Per
                                                 Bottle</sup>
                                             <div class="details">
                                                 <p>YOU SAVE $120</p>

@@ -282,7 +282,7 @@
     .banner-upsell{margin: 0 20px 20px;}
     .official-page{margin-left: 20px; margin-right: 20px;}
     .special-deal-section{margin: 20px;}
-    .right-details .saving-details { padding: 0 8px 0 8px; }
+    .right-details .saving-details { padding: 0 8px 0 0; }
     .special-deal-right .deal-list { padding: 40px 0 32px 0; }
 
     .left-details .saving-details span {font-size: 46px;}
@@ -333,14 +333,18 @@
     .special-deal-wrap .details-bottom{margin: 32px auto 0;}
     .special-deal-right .btn-orange{padding: 16px 18px; width: 100%;}
     .saving-banner .right-details{padding: 12px 15px 12px 15px;}
-    .saving-details sup{top: -1.9em;}
+    .left-details .saving-details sup{top: -7px;}
+    .left-details .saving-details .per-bottle{top: 0!important;}
+    .right-details .saving-details sup{top: -11px;}
     /* Upsell Page End */
 }
 
 @media (max-width: 424px) {
+    .saving-banner { overflow-x: hidden; }
     .left-details .saving-details span { font-size: 30px; }
     .saving-details span { font-size: 38px; line-height: 50px; }
-    .saving-banner .right-details { padding: 12px 5px 12px 5px; }
+    .saving-banner .right-details { padding: 12px 5px 12px 0; width: 106px}
+    .right-details .small-title {padding: 0;margin: 0 auto!important;}
     .saving-banner .left-details { max-width: 100%; width: calc(100% - 98px); }
     .saving-details { padding: 16px 2px 8px; }
     .special-deal-right .icon-list ul li img { height: 75px; }
