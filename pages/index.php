@@ -655,14 +655,14 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
                                     <div class="small-title">
-                                        <h3>How does Leptozan work?</h3>
+                                        <h3>Do I need to change my lifestyle to see results?</h3>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="detail">
-                                        <p>Leptozan uses three science-backed ingredients to enhance your metabolism: Magnesium Magnesium Beta Hydroxybutyrate, Calcium Beta Hydroxybutyrate, and Sodium Beta Hydroxybutyrate. These minerals work to make weight loss easier, provide daily energy, and a number of other benefits.</p>
+                                        <p>No, you don’t have to commit to intense exercise or restrictive dieting. However, incorporating a balanced diet and light physical activity can enhance your results if you choose to do so.</p>
                                     </div>
                                 </div>
                             </div>
@@ -671,14 +671,14 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                     <div class="small-title">
-                                        <h3>Is Leptozan safe to use?</h3>
+                                        <h3>Is Leptozan safe for daily use?</h3>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="detail">
-                                        <p>100%. Leptozan only uses natural ingredients that have been manufactured in an FDA-registered facility. However, it’s always a good idea to consult your healthcare provider before taking any new supplement.</p>
+                                        <p>Yes! Leptozan is made with natural ingredients and produced in an FDA-registered facility. That said, we always recommend consulting your healthcare provider before starting any new supplement.</p>
                                     </div>
                                 </div>
                             </div>
@@ -687,14 +687,14 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                     <div class="small-title">
-                                        <h3>How quickly will it take to see results?</h3>
+                                        <h3>When can I expect to notice changes?</h3>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="detail">
-                                        <p>Many people who use Leptozan report seeing noticeable changes within the first few weeks. However, to ensure the best results, we suggest using it daily for at least 3 months as weight loss is about consistency, not quick fixes!</p>
+                                        <p>Many customers begin noticing changes within the first few weeks of using Leptozan. However, for optimal results, we recommend taking it daily for at least three months, as weight loss is a gradual process.</p>
                                     </div>
                                 </div>
                             </div>
@@ -703,14 +703,14 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                     <div class="small-title">
-                                        <h3>Will I need to do exercise or stay on a strict diet?</h3>
+                                        <h3>Can Leptozan be taken alongside my current diet plan?</h3>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="detail">
-                                        <p>The short answer is no! You do not need to start any extreme workouts or restrictive diets. Should you wish, you can safely combine Leptozan with a balanced diet and regular movement to help you see even better results.</p>
+                                        <p>Absolutely! Leptozan is designed to complement various eating habits, whether you're following keto, low-carb, or a balanced diet.</p>
                                     </div>
                                 </div>
                             </div>
@@ -719,14 +719,14 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                     <div class="small-title">
-                                        <h3>How many bottles should I order?</h3>
+                                        <h3>How much Leptozan should I buy for the best results?</h3>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="detail">
-                                        <p>To maximise the benefits of Leptozan, we suggest starting with a 3 or 6 month supply. This allows you to see the most dramatic changes and also get the biggest saving.</p>
+                                        <p>For the best experience and most noticeable transformation, we suggest purchasing a 3- or 6-month supply. This ensures consistency and allows you to get the best savings.</p>
                                     </div>
                                 </div>
                             </div>
@@ -735,16 +735,48 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
                                     <div class="small-title">
-                                        <h3>What if this doesn’t work for me?</h3>
+                                        <h3>What if I don’t get the results I was hoping for?</h3>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="detail">
-                                        <p>Order Leptozan and you have 180 days to see how well it works for you. If you’re not happy for any reason, simply let us know and you’ll be given a full refund, no questions asked.</p>
-                                        <p>This means you only pay if it works for you, which means all the risk is on us.</p>
-                                        <p>However, we encourage you to order right now to get your discount. The six month supply provides the biggest saving and will help you the most, but please choose whichever option works best for you.</p>
+                                        <p>We offer a 180-day money-back guarantee, so you can try Leptozan risk-free. If you’re not satisfied for any reason, just reach out, and we’ll provide a full refund—no questions asked.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                                    <div class="small-title">
+                                        <h3>How long does shipping take?</h3>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="detail">
+                                        <p>Delivery times depend on your location, but most orders arrive within a few business days. Once your order ships, you'll receive a tracking link to follow its progress.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                                    <div class="small-title">
+                                        <h3>How should I take Leptozan for maximum effectiveness?</h3>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="detail">
+                                        <p>For the best results, take the recommended dosage daily, preferably with water. Consistency is key to seeing optimal benefits.</p>
                                     </div>
                                 </div>
                             </div>
