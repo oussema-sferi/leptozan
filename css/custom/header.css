@@ -199,7 +199,7 @@
 
 .fixed-navbar .navbar-nav {
     display: flex;
-    gap: 15px;
+    gap: 40px;
 }
 
 .fixed-navbar .navbar-nav .nav-item {
@@ -208,7 +208,8 @@
 
 .fixed-navbar .header-btn .btn {
     font-size: 16px;
-    padding: 8px 20px;
+    padding: 14px 32px;
+    border-radius: 30px;
 }
 .header-btn {
     display: flex;
