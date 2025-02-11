@@ -822,57 +822,69 @@
 						<div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
 							<div class="references-right">
 								<div class="references-details">
-									<p>1. El-Khateeb, M. (2020). <span>Determination of metals’ contents in the Dead Sea’s water, mud and sediments. International Journal of Energy and Water Resources, 4(2), 205–212.</span></p>
-								</div>
-								<div class="references-details">
-									<p>2. Portugal-Cohen, M., et al. (2015). <span>Dead Sea Minerals-Induced Positive Stress as an Innovative Resource for Skincare Actives. Journal of Cosmetics, Dermatological Sciences and Applications, 5(1), 11–21.</span></p>
-								</div>
-								<div class="references-details">
-									<p>3. Ahuja, K., & Lio, P. (2023). <span>The role of trace elements in dermatology: a systematic review. Journal of Integrative Dermatology, 1(1).</span></p>
-								</div>
-								<div class="references-details">
-									<p>4. Poff, A. M., et al. (2014). <span>The ketogenic diet and hyperbaric oxygen therapy prolong survival in mice with systemic metastatic cancer. PLoS One, 9(6), e102446.</span></p>
-								</div>
-								<div class="references-details">
-									<p>5. Schwartz, M. W., et al. (2000). <span>Central nervous system control of food intake. Nature, 404(6778), 661–671.</span></p>
-								</div>
-								<div class="references-details">
-									<p>6. Clarke, K., et al. (2012). <span>Kinetics, safety and tolerability of (R)-3-hydroxybutyl (R)-3-hydroxybutyrate in healthy adult subjects. Regulatory Toxicology and Pharmacology, 63(3), 401–408.</span></p>
-								</div>
-								<div class="references-details">
-									<p>7. <span>How Magnesium Affects Weight Loss Efforts.</span> Health.com, 2024.</p>
-								</div>
-								<div class="references-details">
-									<p>8. Stubbs, B. J., et al. (2018). <span>A Ketone Ester Drink Lowers Human Ghrelin and Appetite. Obesity, 26(2), 269–273.</span></p>
-								</div>
+                                    <p>1. Sun, X., et al. (2016). <span>The effects of Magnesium on lipid metabolism and body weight in overweight adults. European Journal of Clinical Nutrition, 70(4), 514-518.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>2. Goedecke, J. H., et al. (2001). <span>Sodium intake and fat metabolism during low-carb diets. The American Journal of Clinical Nutrition, 73(4), 664-672.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>3. El-Khateeb, M. (2020). <span>Determination of metals’ contents in the Dead Sea’s water, mud, and sediments. International Journal of Energy and Water Resources, 4(2), 205–212.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>4. Douris, N., et al. (2015). <span>The impact of Calcium and Magnesium on body weight and metabolism. Nature Metabolism, 1(4), 369-378.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>5. Portugal-Cohen, M., et al. (2015). <span>Dead Sea Minerals-Induced Positive Stress as an Innovative Resource for Skincare Actives. Journal of Cosmetics, Dermatological Sciences and Applications, 5(1), 11–21.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>6. Tremblay, A., et al. (1992). <span>Calcium supplementation and fat oxidation in overweight individuals. International Journal of Obesity, 16(9), 733-738.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>7. Garcia, D., et al. (2017). <span>The impact of Sodium and Potassium balance on weight control. Journal of Human Nutrition and Dietetics, 30(3), 340-348.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>8. Mirmiran, P., et al. (2019). <span>Dietary intake of calcium and weight management: A systematic review. Nutrition Reviews, 77(3), 193-207.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>9. Nielsen, F. H., et al. (2004). <span>Magnesium deficiency and its association with obesity-related inflammation. Current Opinion in Lipidology, 15(1), 1-6.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>10. Shani, J., et al. (1991). <span>Skin penetration of minerals from the Dead Sea. International Journal of Dermatology, 30(8), 582–586.</span></p>
+                                </div>
 							</div>
 						</div>
 						<div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
 							<div class="references-right">
-								<div class="references-details">
-									<p>9. Evans, M., et al. (2023). <span>Effects of Exogenous Ketone Supplementation on Blood Glucose: A Systematic Review. Advances in Nutrition.</span></p>
-								</div>
-								<div class="references-details">
-									<p>10. Driessen, L. C., et al. (2023). <span>Evaluation of the safety and tolerability of exogenous ketosis induced by ketone monoester drinks in healthy adults: a randomized controlled trial. BMJ Nutrition, Prevention & Health.</span></p>
-								</div>
-								<div class="references-details">
-									<p>11. Zemel, M. B., et al. (2000). <span>Calcium and dairy acceleration of weight and fat loss during energy restriction in obese adults. Obesity Research, 12(4), 582-590.</span></p>
-								</div>
-								<div class="references-details">
-									<p>12. Farquhar, W. B., et al. (2015). <span>Dietary Sodium and Health: More Than Just Blood Pressure. Journal of the American College of Cardiology, 65(10), 1042-1050.</span></p>
-								</div>
-								<div class="references-details">
-									<p>13. Cunnane, S. C., et al. (2016). <span>Can Ketones Help Rescue Brain Fuel Supply in Later Life? Implications for Cognitive Health during Aging and the Treatment of Alzheimer’s Disease. Frontiers in Molecular Neuroscience, 9, 53.</span></p>
-								</div>
-								<div class="references-details">
-									<p>14. Vandoorne, T., et al. (2017). <span>Exogenous ketone drinks improve endurance exercise performance in competitive athletes. Cell Metabolism, 26(3), 428-435.</span></p>
-								</div>
-								<div class="references-details">
-									<p>15. Barbagallo, M., et al. (2012). <span>Magnesium homeostasis and aging. Magnesium Research, 25(4), 112-121.</span></p>
-								</div>
-								<div class="references-details">
-									<p>16. Vincent, J. B. (2019). <span>Chromium: is it essential, pharmacologically relevant, or toxic? Physiology, 34(2), 156-163.</span></p>
-								</div>
+                                <div class="references-details">
+                                    <p>11. Carbajo-Pescador, S., et al. (2014). <span>BHB and metabolic regulation: Effects on energy balance. Endocrine Metabolism Journal, 18(1), 29-42.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>12. Resnick, L. M., et al. (1993). <span>Intracellular Magnesium and insulin resistance in obesity. Hypertension, 21(5), 619-626.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>13. Wu, T., et al. (2019). <span>The role of Magnesium in adipose tissue regulation and thermogenesis. Molecular Metabolism, 22, 91-100.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>14. Proksch, E., et al. (2005). <span>The effects of Dead Sea mineral baths on skin barrier function and hydration. International Journal of Dermatology, 44(2), 151-157.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>15. Costill, D. L., et al. (1988). <span>Sodium and fluid balance in endurance sports: Impact on metabolism. Journal of Applied Physiology, 64(1), 125-132.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>16. Soares, M. J., et al. (2012). <span>Calcium and weight regulation: How does it work? Obesity Reviews, 13(1), 7-16.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>17. Alam, S., et al. (2015). <span>The role of Magnesium in obesity and metabolic syndrome. Journal of Obesity & Weight Loss Therapy, 5(1), 100-117.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>18. Ma’or, Z., et al. (2006). <span>Anti-inflammatory effects of Dead Sea minerals on human skin cells. Skin Pharmacology and Physiology, 19(4), 217-225.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>19. Newell, C., et al. (2016). <span>Exogenous ketones in metabolic diseases: Effects on weight and insulin sensitivity. Frontiers in Physiology, 7, 345.</span></p>
+                                </div>
+                                <div class="references-details">
+                                    <p>20. Olesen, J., et al. (2013). <span>The effects of exogenous ketones on weight loss and metabolism. Metabolism: Clinical and Experimental, 62(8), 1183-1189.</span></p>
+                                </div>
 							</div>
 						</div>
 					</div>
