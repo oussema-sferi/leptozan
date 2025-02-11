@@ -25,25 +25,4 @@ $(document).ready(function() {
         }
 
     })
-
-    // Shrink navbar logo on scroll down
-    /*const navbarLogo = document.querySelector(".navbar-logo");
-    window.addEventListener("scroll", function () {
-        if (window.scrollY > 50) { // Adjust the value as needed
-            navbarLogo.classList.add("shrink");
-        } else {
-            navbarLogo.classList.remove("shrink");
-        }
-    });*/
-
-    let header = document.querySelector(".header");
-    let fixedNavbar = document.querySelector(".fixed-navbar");
-
-    window.addEventListener("scroll", function () {
-        if (window.scrollY > header.offsetHeight) {
-            fixedNavbar.classList.add("visible");
-        } else {
-            fixedNavbar.classList.remove("visible");
-        }
-    });
 })

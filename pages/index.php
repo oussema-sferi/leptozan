@@ -10,53 +10,6 @@
 </head>
 <body>
 
-<!-- header start -->
-<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/components/index-navbar.php'; */?>
-<!-- header end -->
-
-<!-- mobile header start -->
-<!--<header class="header-mobile-view">
-    <div class="custom-header-container text-left">
-        <div class="mobile-view-logo-container">
-            <a href="/">
-                <figure>
-                    <img src="/images/logo.png" alt="logo" class="img-fluid" style="width: 90px; height: auto;">
-                </figure>
-            </a>
-        </div>
-    </div>
-</header>-->
-<!-- mobile header end -->
-
-<!-- desktop header start -->
-
-<header class="header">
-    <div class="container">
-        <nav class="navbar navbar-expand-md">
-            <a class="navbar-brand" href="/">
-                <figure>
-                    <img src="/images/logo.png" alt="logo" class="img-fluid">
-                </figure>
-            </a>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav m-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="/">About Leptozan</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#leptozan-ingredients">Ingredients</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#leptozan-faq">FAQ</a>
-                    </li>
-                </ul>
-                <div class="header-btn">
-                    <a href="#buy-now" class="btn btn-orange">BUY NOW</a>
-                </div>
-            </div>
-        </nav>
-    </div>
-</header>
 
 <!-- Sticky Navbar -->
 <nav class="navbar navbar-expand-md fixed-navbar">
@@ -71,13 +24,13 @@
         <div class="collapse navbar-collapse" id="stickyNavbar">
             <ul class="navbar-nav m-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">About Leptozan</a>
+                    <a class="nav-link" href="/">Origin</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#leptozan-ingredients">Ingredients</a>
+                    <a class="nav-link" href="#leptozan-ingredients">Formula</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#leptozan-faq">FAQ</a>
+                    <a class="nav-link" href="#leptozan-faq">Add FAQ</a>
                 </li>
             </ul>
             <div class="header-btn">
@@ -119,11 +72,11 @@
                 </div>
             </div>
         </div>
-        <!--<a href="#scroll-bottom" class="scroll-down">
+        <a href="#scroll-bottom" class="scroll-down">
             <figure>
                 <img src="images/scroll-down.svg" alt="scroll-down" class="img-fluid">
             </figure>
-        </a>-->
+        </a>
     </section>
     <!-- Banner End -->
 
@@ -417,55 +370,6 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <!-- Mobile Structure -->
-                            <!--<div class="offers-block mobile-view">
-                                <div class="offers-block-title">
-                                    <h2>2 for You</h2>
-                                    <p>60 Days, 2 Bottles</p>
-                                </div>
-                                <div class="offers-inner">
-                                    <div class="row">
-                                        <div class="col-6 offers-product-img">
-                                            <figure>
-                                                <img src="images/offers-img-1.png" alt="offers-img" class="img-fluid">
-                                            </figure>
-                                        </div>
-                                        <div class="col-6">
-                                            <div class="offers-product-price">
-                                                <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
-                                            </div>
-                                            <div class="common-list">
-                                                <ul>
-                                                    <li>You save $200!</li>
-                                                    <li>180 Days Guarantee</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="offers-btn">
-                                        <a href="#buy-now" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
-                                    </div>
-                                    <div class="payments-block">
-                                        <ul>
-                                            <li>
-                                                <figure>
-                                                    <img src="images/Mastercard.svg" alt="Mastercard" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="images/visa-logo.svg" alt="visa" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="offers-total">
-                                        <p>TOTAL: <span>$358</span> <strong>$158</strong></p>
-                                        <p>+ 9.99 Shipping</p>
-                                    </div>
-                                </div>
-                            </div>-->
                         </div>
                         <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-1 order-md-2">
                             <div class="offers-block best-offer-block">
