@@ -1,163 +1,3 @@
-/*.header {
-    position: absolute;
-    left: 32px;
-    right: 32px;
-    top: 52px;
-    z-index: 999;
-}
-
-.header .navbar {
-    padding: 0;
-}
-
-.header .navbar-brand {
-    max-width: 93px;
-    width: 100%;
-    padding: 0;
-    margin: 0;
-}
-
-.header .navbar-nav {
-    padding: 14px 2px;
-    background-color: var(--white);
-    border-radius: 40px;
-    -webkit-border-radius: 40px;
-    -moz-border-radius: 40px;
-    -ms-border-radius: 40px;
-    -o-border-radius: 40px;
-}
-
-.header .navbar-nav .nav-item {
-    padding: 0 28px;
-}
-
-!* .header .navbar-nav .nav-item:first-child {
-	padding-left: 0;
-}
-
-.header .navbar-nav .nav-item:last-child {
-	padding-right: 0;
-} *!
-
-.header .navbar-nav .nav-item .nav-link {
-    font-size: 16px;
-    line-height: 24px;
-    font-weight: 400;
-    color: var(--black);
-    padding: 0;
-    position: relative;
-}
-
-.header .navbar-nav .nav-item .nav-link::after {
-    content: "";
-    background-color: var(--teal);
-    width: 0;
-    height: 1px;
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    transition: 0.5s;
-    -webkit-transition: 0.5s;
-    -moz-transition: 0.5s;
-    -ms-transition: 0.5s;
-    -o-transition: 0.5s;
-}
-
-.header .navbar-nav .nav-item .nav-link:hover,
-.header .navbar-nav .nav-item .nav-link.active {
-    color: var(--teal);
-}
-
-.header .navbar-nav .nav-item .nav-link:hover::after,
-.header .navbar-nav .nav-item .nav-link.active::after {
-    width: 100%;
-}
-
-.header-btn .btn {
-    font-size: 16px;
-    line-height: 24px;
-    padding: 12px 30px;
-}
-
-!*new custom css start*!
-
-@media (max-width: 768px) {
-
-
-    .header .navbar-brand {
-        margin: 0 0 0 12px;
-    }
-
-
-}
-
-!*@media (max-width: 768px) {
-    .header {
-        position: fixed;
-        top: 0!important;
-        margin: 0 !important;
-        padding: 0 !important;
-        left: 0 !important;
-        right: 0;
-        bottom: 0;
-        z-index: 1000;
-        width: 100%;
-        !* Ensure it has a background to prevent transparency issues *!
-
-        max-height: 100px;
-    }
-
-    .header .navbar-brand {
-        margin: 0 0 0 32px;
-    }
-    .ingredients-wrp {
-        padding: 48px 20px 24px!important;
-    }
-    .inner-bnr-wrp {
-
-        margin: 100px 0!important;
-        min-height: 190px!important;
-
-    }
-
-    .header .navbar {
-        overflow: visible;
-        position: relative;
-        z-index: 1000;
-    }
-    .header .navbar-collapse {
-        transition: all 0.3s ease-in-out;
-        top: 100%; !* Place the expanded menu below the navbar *!
-        left: 0;
-        right: 0;
-        border-top: 1px solid #ddd; !* Optional: Add a border for separation *!
-        text-align: center;
-    }
-    .navbar-collapse.show {
-        !* Ensure it displays vertically when expanded *!
-        max-height: 470px; !* Adjust the height as per the number of menu items *!
-    }
-
-
-    !*Hide navbar in mobile*!
-    .navbar-desktop-view {
-        display: none;
-    }
-
-    !*Show logo in mobile*!
-    .header-mobile-view {
-        display: block; !* Show only on mobile/tablet *!
-    }
-
-    .mobile-view-logo-container {
-        margin: 0 25px 0;
-    }
-
-}*!*/
-
-/*new custom css end*/
-
 /* Sticky Navbar */
 
 .fixed-navbar {
@@ -170,9 +10,7 @@
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Keep subtle shadow */
     transition: transform 0.3s ease-in-out; /* Smooth animation if hiding on scroll */
     z-index: 1000; /* Ensure it stays above other content */
-    display: flex;
-    align-items: center;
-    padding: 0; /* Remove extra padding */
+    /*padding: 0 40px;*/ /* Add horizontal padding for better spacing */
 }
 
 
@@ -182,20 +20,25 @@
     height: auto;
 }
 
-/* Reduce navbar padding */
+.navbar-toggler {
+    border: none; /* Remove default border */
+    background-color: transparent; /* Keep background transparent */
+}
 
-/*.fixed-navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background: #b0e6e8;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    !*transform: translateY(-100%);*!
-    transition: transform 0.3s ease-in-out;
-    z-index: 1000;
-    padding: 5px 0; !* Reduce padding to make it more compact *!
-}*/
+.navbar-toggler-icon {
+    width: 24px; /* Set width */
+    height: 24px; /* Set height */
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23171717' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+/* When button is clicked, show your PNG */
+.navbar-toggler.open .navbar-toggler-icon {
+    background-image: url('/images/times.png') !important; /* Replace with the actual file path */
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 14px; /* Set width */
+    height: 14px; /* Set height */
+}
 
 .fixed-navbar .navbar-nav {
     display: flex;
@@ -219,9 +62,22 @@
 
 /* Responsive */
 @media (max-width: 768px) {
-    .header {
-        left: 12px;
-        right: 12px;
+    .fixed-navbar {
+        height: auto; /* Allow expansion */
+        min-height: 60px; /* Keep navbar visible when collapsed */
+        padding: 0;
+
+    }
+    .fixed-navbar .container {
+        padding: 0 20px; /* Apply padding inside */
+    }
+
+    .fixed-navbar .navbar-nav .nav-item {
+        padding: 12px 0;
+    }
+
+    .fixed-navbar .navbar-nav .nav-item a {
+        line-height: 160%;
     }
 
     .header .navbar-brand {
@@ -230,12 +86,20 @@
 
     .fixed-navbar .navbar-nav {
         flex-direction: column;
-        /*align-items: flex-start;*/
-        align-items: center;
+        align-items: flex-start;
+        /*align-items: center;*/
+        /*background-color: #F6F7F7;*/
+        padding: 24px 20px;
+
     }
 
     .header-btn {
         margin-top: 10px;
+    }
+    .fixed-navbar .header-btn .btn {
+        font-size: 16px;
+        font-weight: bold;
+        width: 335px;
     }
 }
 

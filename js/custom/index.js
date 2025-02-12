@@ -25,4 +25,9 @@ $(document).ready(function() {
         }
 
     })
+
+    document.querySelector('.navbar-toggler').addEventListener('click', function() {
+        this.classList.toggle('open'); // Toggles the class to change the icon
+    });
+
 })
