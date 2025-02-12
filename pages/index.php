@@ -48,7 +48,7 @@
     <section class="banner-wrp">
         <div class="banner-main">
             <div class="container">
-                <div class="banner-row">
+                <div class="banner-row d-none d-md-block">
                     <div class="row align-items-center">
                         <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="banner-content">
@@ -70,6 +70,40 @@
                         </div>
                     </div>
                 </div>
+
+                <!-- ✅ Mobile Version (Only shown in mobile) -->
+                <div class="banner-row d-block d-md-none">
+                    <div class="row align-items-center">
+
+                        <!-- Left Column: Title Only -->
+                        <div class="col-6">
+                            <div class="banner-content">
+                                <div class="main-title">
+                                    <h1>Discover How Leptozan Can Support <span>Healthy Weight Loss</span></h1>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- ✅ Right Column: Image + Button (Stacked Vertically) -->
+                        <div class="col-6 text-center d-flex flex-column align-items-center">
+                            <div class="banner-img">
+                                <figure>
+                                    <img src="/images/Product-new.png" alt="Product" class="img-fluid">
+                                </figure>
+                                <a href="#buy-now" class="btn btn-orange">BUY NOW</a>
+                            </div>
+                        </div>
+
+                        <!-- Full Width Below: Paragraph -->
+                        <div class="col-12">
+                            <div class="large-detail text-center">
+                                <p>Finally, The Easiest Way To Achieve Your Dream Body</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
             </div>
         </div>
         <a href="#scroll-bottom" class="scroll-down">
@@ -186,25 +220,50 @@
                 </div>
                 <div class="ingredients-section">
                     <div class="row">
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-                            <div class="ingredients-block">
-                                <div class="ingredients-img">
-                                    <figure>
-                                        <img src="/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
-                                    </figure>
-                                </div>
-                                <div class="ingredients-content">
-                                    <div class="small-title">
-                                        <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
+                        <!-- ✅ LEFT COLUMN: Two stacked ingredients -->
+                        <div class="col-md-6 d-flex flex-column">
+                            <div class="ingredients-block row align-items-center flex-md-row flex-column">
+                                <div class="col-12 col-md-5">
+                                    <div class="ingredients-img">
+                                        <figure>
+                                            <img src="/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
+                                        </figure>
                                     </div>
-                                    <div class="common-detail">
-                                        <p>Helps convert food into clean energy and supports metabolic health.</p>
+                                </div>
+                                <div class="col-12 col-md-7">
+                                    <div class="ingredients-content">
+                                        <div class="small-title">
+                                            <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
+                                        </div>
+                                        <div class="common-detail">
+                                            <p>Helps convert food into clean energy and supports metabolic health.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ingredients-block row align-items-center flex-md-row flex-column">
+                                <div class="col-12 col-md-5">
+                                    <div class="ingredients-img">
+                                        <figure>
+                                            <img src="/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
+                                        </figure>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-7">
+                                    <div class="ingredients-content">
+                                        <div class="small-title">
+                                            <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
+                                        </div>
+                                        <div class="common-detail">
+                                            <p>Helps convert food into clean energy and supports metabolic health.</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-                            <div class="ingredients-block">
+
+                        <div class="col-md-6  d-flex flex-column">
+                            <div class="ingredients-block row align-items-center flex-md-row flex-column">
                                 <div class="ingredients-img">
                                     <figure>
                                         <img src="/images/ingredients-img-2.jpg" alt="ingredients-img" class="img-fluid">
@@ -216,23 +275,6 @@
                                     </div>
                                     <div class="common-detail">
                                         <p>Supports fat burning and helps the body get rid of fat more easily.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-                            <div class="ingredients-block">
-                                <div class="ingredients-img">
-                                    <figure>
-                                        <img src="/images/ingredients-img-3.jpg" alt="ingredients-img" class="img-fluid">
-                                    </figure>
-                                </div>
-                                <div class="ingredients-content">
-                                    <div class="small-title">
-                                        <h3>Sodium Beta Hydroxybutyrate (BHB)</h3>
-                                    </div>
-                                    <div class="common-detail">
-                                        <p>Boosts energy levels to help burn more calories all day long.</p>
                                     </div>
                                 </div>
                             </div>

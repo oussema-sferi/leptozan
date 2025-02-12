@@ -8,11 +8,11 @@
     padding: 90px 0 38px;
     position: relative;
     z-index: 9;
-    border-radius: 12px;
+    /*border-radius: 12px;
     -webkit-border-radius: 12px;
     -moz-border-radius: 12px;
     -ms-border-radius: 12px;
-    -o-border-radius: 12px;
+    -o-border-radius: 12px;*/
 }
 
 .banner-wrp::before {
