@@ -64,7 +64,7 @@
                         <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="banner-img">
                                 <figure>
-                                    <img src="/images/Product.png" alt="Product" class="img-fluid">
+                                    <img src="/images/Product-new.png" alt="Product" class="img-fluid">
                                 </figure>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="feature-box light-bg">
-                                <h4 style="font-size: 32px">Enhances Fat Burning</h4>
+                                <h4 style="font-size: 32px;">Enhances Fat Burning</h4>
                                 <p>Focuses on stubborn fat areas, including the belly, hips, and thighs.</p>
                             </div>
                         </div>

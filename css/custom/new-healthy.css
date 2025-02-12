@@ -38,6 +38,11 @@
     background-color: #ffffff;
 }
 
+.healthy-wrp .healthy-section .row {
+    border-radius: 12px; /* Adjust to match Figma */
+    overflow: hidden; /* Ensures child elements don't overflow the rounded corners */
+}
+
 .force-break {
     white-space: nowrap; /* Prevents "And Healthy" from breaking apart */
     display: inline-block; /* Ensures it stays on one line */
@@ -75,7 +80,8 @@
     font-size: 28px;
     font-family: "DM Sans", serif;
     font-weight: 700;
-    /*margin-bottom: 10px;*/
+    margin-bottom: 15px;
+    line-height: 40px;
 }
 
 /* Feature Text */
@@ -83,6 +89,9 @@
     font-size: 18px;
     font-family: "Inter", serif;
     color: #171717;
+    line-height: 28px;
+    max-width: 290px;
+    margin: 0 auto;
 }
 
 /* Make the orange boxes text white */
@@ -102,4 +111,15 @@
 .healthy-section .row .col-md-4 {
     padding-left: 0 !important;
     padding-right: 0 !important;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .healthy-wrp {
+        padding: 32px 0;
+
+    }
+    .banner-wrp .scroll-down {
+        display: none;
+    }
 }
