@@ -86,15 +86,17 @@
             <div class="healthy-main">
                 <div class="healthy-title">
                     <div class="section-title">
-                        <h2>Natural <span>Weight Loss</span> Designed For Your Body</h2>
+                        <!--<h2>Natural <span>Weight Loss</span> Designed For Your Body</h2>-->
+                        <h2>Activate Your Natural And Healthy <span>Weight Control</span></h2>
                     </div>
                     <div class="detail">
-                        <p>Use <span class="make-bold">Leptozan</span> to kickstart your fat-burning processes in a healthy, natural way.</p>
+                        <!--<p>Use <span class="make-bold">Leptozan</span> to kickstart your fat-burning processes in a healthy, natural way.</p>-->
+                        <p>LEPTOZAN is the powerful formula that works with your body to burn fat efficiently and naturally.</p>
                     </div>
                 </div>
                 <div class="healthy-section">
                     <div class="row">
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+                        <!--<div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
                             <div class="healthy-block">
                                 <div class="healthy-icon">
                                     <figure>
@@ -193,6 +195,47 @@
                                     <div class="common-detail">
                                         <p>Reduces oxidative stress and supports brain regeneration to keep your brain fit and firing.</p>
                                     </div>
+                                </div>
+                            </div>
+                        </div>-->
+
+
+                        <!-- Features Grid -->
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="feature-box light-bg">
+                                    <h4 style="font-size: 32px">Enhances Fat Burning</h4>
+                                    <p>Focuses on stubborn fat areas, including the belly, hips, and thighs.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-box orange-bg">
+                                    <h4>Speeds Up Your Metabolism</h4>
+                                    <p>Allows you to burn extra calories, even while at rest.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-box light-bg">
+                                    <h4>Suppresses Your Appetite</h4>
+                                    <p>Controls cravings and helps you stay fuller for longer.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-box orange-bg">
+                                    <h4>Delivers Consistent Energy</h4>
+                                    <p>Eliminates fatigue, keeping you active and motivated all day.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-box light-bg">
+                                    <h4>Promotes Smooth Digestion</h4>
+                                    <p>Supports gut health, aiding in overall weight management.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="feature-box orange-bg">
+                                    <h4>Completely Natural and Safe</h4>
+                                    <p>Crafted with ingredients your body knows and utilizes efficiently, free from harsh chemicals.</p>
                                 </div>
                             </div>
                         </div>

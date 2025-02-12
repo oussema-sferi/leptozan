@@ -25,8 +25,12 @@
 /*========== Offers Page End ==========*/
 
 /*========== Healthy Page Start ==========*/
-@import url('custom/healthy.css');
+/*@import url('custom/healthy.css');*/
 /*========== Healthy Page End ==========*/
+
+/*========== New Healthy Page Start ==========*/
+@import url('custom/new-healthy.css');
+/*========== New Healthy Page End ==========*/
 
 /*========== Fat Loss Ingredients Start ==========*/
 @import url('custom/ingredients.css');
