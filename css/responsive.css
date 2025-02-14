@@ -195,9 +195,9 @@
 
     .banner-wrp .banner-img .btn-orange {
             display: block;
-            /*width: 80%;*/
+            width: 100%;
             padding: 11px 24px;
-            width: 164px!important;
+           /* width: 164px!important;*/
             text-align: center;
         }
 
@@ -221,7 +221,7 @@
 
         /* Mobile: Paragraph Below */
     .banner-wrp .large-detail {
-        margin-top: 9px;
+        /*margin-top: 9px;*/
         text-align: left!important;
         line-height: 28px!important;
         }
@@ -413,7 +413,7 @@
 
 @media (max-width: 575px) {
     /* Home Page Start */
-    .ingredients-logos-main { margin: 0 auto 16px; width: 100%; }
+    /*.ingredients-logos-main { margin: 0 auto 16px; width: 100%; }*/
     /* Home Page End */
 
     /* Upsell Page Start */

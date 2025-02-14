@@ -163,6 +163,8 @@
         margin: 0;
         padding: 32px 20px;
     }
+
+    .ingredients-logos-main { margin: 0 auto 16px; width: 100%; }
     .ingredients-wrp .ingredients-title {
 
         margin: 0 14px;

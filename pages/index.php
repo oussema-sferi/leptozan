@@ -76,7 +76,7 @@
                     <div class="row align-items-center">
 
                         <!-- Left Column: Title Only -->
-                        <div class="col-6">
+                        <div class="col-5">
                             <div class="banner-content">
                                 <div class="main-title">
                                     <h1>Discover How <span>Leptozan</span> Can Support <span>Healthy Weight Loss</span></h1>
@@ -85,7 +85,7 @@
                         </div>
 
                         <!-- ✅ Right Column: Image + Button (Stacked Vertically) -->
-                        <div class="col-6 text-center d-flex flex-column align-items-center">
+                        <div class="col-7 text-center d-flex flex-column align-items-center">
                             <div class="banner-img">
                                 <figure>
                                     <img src="/images/new/Product.png" alt="Product" class="img-fluid">
@@ -106,11 +106,11 @@
 
             </div>
         </div>
-        <a href="#scroll-bottom" class="scroll-down">
+        <!--<a href="#scroll-bottom" class="scroll-down">
             <figure>
                 <img src="images/scroll-down.svg" alt="scroll-down" class="img-fluid">
             </figure>
-        </a>
+        </a>-->
     </section>
     <!-- Banner End -->
 
