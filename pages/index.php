@@ -180,13 +180,12 @@
     <!-- Healthy End -->
 
     <!-- Fat Loss Ingredients Start -->
-    <section id="leptozan-ingredients" class="ingredients-wrp">
+    <!--<section id="leptozan-ingredients" class="ingredients-wrp">
         <div class="container">
             <div class="ingredients-main">
 
                 <div class="ingredients-title">
                     <div class="section-title">
-                        <!--<h2>Harness The Power Of These Research-Backed <span>Dead Sea Minerals</span></h2>-->
                         <h2>Unleash the Power of Science-Backed <span>Ingredients for Fat Loss</span></h2>
                     </div>
                     <div class="detail">
@@ -287,8 +286,212 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
+    <!--<section id="leptozan-ingredients" class="ingredients-wrp">
+        <div class="container">
+            <div class="ingredients-main">
+                <div class="ingredients-logos-main">
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-1.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-2.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-3.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-4.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-5.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                </div>
+                <div class="ingredients-title">
+                    <div class="section-title">
+                        <h2>Harness The Power Of These Research-Backed <span>Dead Sea Minerals</span></h2>
+                    </div>
+                    <div class="detail">
+                        <p>With Leptozan, you have a formula that combines ancient minerals proven by science to accelerate your metabolism.</p>
+                    </div>
+                </div>
+                <div class="ingredients-section">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+                            <div class="ingredients-block">
+                                <div class="ingredients-img">
+                                    <figure>
+                                        <img src="/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
+                                    </figure>
+                                </div>
+                                <div class="ingredients-content">
+                                    <div class="small-title">
+                                        <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
+                                    </div>
+                                    <div class="common-detail">
+                                        <p>Helps convert food into clean energy and supports metabolic health.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+                            <div class="ingredients-block">
+                                <div class="ingredients-img">
+                                    <figure>
+                                        <img src="/images/ingredients-img-2.jpg" alt="ingredients-img" class="img-fluid">
+                                    </figure>
+                                </div>
+                                <div class="ingredients-content">
+                                    <div class="small-title">
+                                        <h3>Calcium Beta Hydroxybutyrate (BHB)</h3>
+                                    </div>
+                                    <div class="common-detail">
+                                        <p>Supports fat burning and helps the body get rid of fat more easily.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
+                            <div class="ingredients-block">
+                                <div class="ingredients-img">
+                                    <figure>
+                                        <img src="/images/ingredients-img-3.jpg" alt="ingredients-img" class="img-fluid">
+                                    </figure>
+                                </div>
+                                <div class="ingredients-content">
+                                    <div class="small-title">
+                                        <h3>Sodium Beta Hydroxybutyrate (BHB)</h3>
+                                    </div>
+                                    <div class="common-detail">
+                                        <p>Boosts energy levels to help burn more calories all day long.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>-->
     <!-- Fat Loss Ingredients End -->
+
+    <section id="leptozan-ingredients" class="ingredients-wrp">
+        <div class="container">
+            <div class="ingredients-main">
+                <div class="ingredients-title">
+                    <div class="section-title">
+                        <h2>Unleash the Power of Science-Backed <span>Ingredients for Fat Loss</span></h2>
+                    </div>
+                    <div class="detail">
+                        <p>The formula of LEPTOZAN blends advanced ingredients that work to enhance your metabolism.</p>
+                    </div>
+                </div>
+
+                <div class="ingredients-logos-main">
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-1.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-2.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-3.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-4.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                    <div class="ingredients-logos">
+                        <figure>
+                            <img src="/images/logo-5.png" alt="logo" class="img-fluid">
+                        </figure>
+                    </div>
+                </div>
+
+                <!-- Modified ingredients section -->
+                <div class="ingredients-section">
+                    <div class="row">
+                        <!-- Left column with 2 boxes -->
+                        <div class="col-lg-7">
+                            <!-- First ingredient box -->
+                            <div class="ingredients-block horizontal">
+                                <div class="ingredients-block-inner">
+                                    <div class="ingredients-img">
+                                        <figure>
+                                            <img src="/images/leptozan-new-ingredients/ingredients-img-1.png" alt="ingredients-img" class="img-fluid">
+                                        </figure>
+                                    </div>
+                                    <div class="ingredients-content">
+                                        <div class="small-title">
+                                            <h3>Calcium Beta Hydroxybutyrate (BHB)</h3>
+                                        </div>
+                                        <div class="common-detail">
+                                            <p>Assists in the fat-burning process, making it easier for your body to shed pounds.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Second ingredient box -->
+                            <div class="ingredients-block horizontal">
+                                <div class="ingredients-block-inner">
+                                    <div class="ingredients-img">
+                                        <figure>
+                                            <img src="/images/leptozan-new-ingredients/ingredients-img-2.png" alt="ingredients-img" class="img-fluid">
+                                        </figure>
+                                    </div>
+                                    <div class="ingredients-content">
+                                        <div class="small-title">
+                                            <h3>Sodium Beta Hydroxybutyrate (BHB)</h3>
+                                        </div>
+                                        <div class="common-detail">
+                                            <p>Supports fat burning and helps the body get rid of fat more easily.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Right column with 1 box -->
+                        <div class="col-lg-5">
+                            <div class="ingredients-block vertical">
+                                <div class="ingredients-img">
+                                    <figure>
+                                        <img src="/images/leptozan-new-ingredients/ingredients-img-3.png" alt="ingredients-img" class="img-fluid">
+                                    </figure>
+                                </div>
+                                <div class="ingredients-content">
+                                    <div class="small-title">
+                                        <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
+                                    </div>
+                                    <div class="common-detail">
+                                        <p>Provides clean energy and supports your body in burning fat instead of carbs.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Offers Start -->
     <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
