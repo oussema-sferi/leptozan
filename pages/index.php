@@ -53,7 +53,7 @@
                         <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="banner-content">
                                 <div class="main-title">
-                                    <h1>Discover How Leptozan Can Support <span> Healthy Weight Loss</span></h1>
+                                    <h1>Discover How <span>Leptozan</span> Can Support <span> Healthy Weight Loss</span></h1>
                                 </div>
                                 <div class="large-detail">
                                     <p>Finally, The Easiest Way To Achieve Your Dream Body</p>
@@ -79,7 +79,7 @@
                         <div class="col-6">
                             <div class="banner-content">
                                 <div class="main-title">
-                                    <h1>Discover How Leptozan Can Support <span>Healthy Weight Loss</span></h1>
+                                    <h1>Discover How <span>Leptozan</span> Can Support <span>Healthy Weight Loss</span></h1>
                                 </div>
                             </div>
                         </div>
@@ -617,7 +617,7 @@
                                     </div>
                                     <div class="offers-total">
                                         <p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
-                                        <p class="free-shipping">Free Shipping</p>
+                                        <p><span class="free-shipping">Free</span> Shipping</p>
                                     </div>
                                 </div>
                             </div>
@@ -676,7 +676,7 @@
                                     </div>
                                     <div class="offers-total">
                                         <p>TOTAL: <span>$537</span> <strong>$207</strong></p>
-                                        <p class="free-shipping">Free Shipping</p>
+                                        <p><span class="free-shipping">Free</span> Shipping</p>
                                     </div>
                                 </div>
                             </div>
@@ -1010,7 +1010,7 @@
                                     </div>
                                     <div class="offers-total">
                                         <p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
-                                        <p class="free-shipping">Free Shipping</p>
+                                        <p><span class="free-shipping">Free</span> Shipping</p>
                                     </div>
                                 </div>
                             </div>
@@ -1069,7 +1069,7 @@
                                     </div>
                                     <div class="offers-total">
                                         <p>TOTAL: <span>$537</span> <strong>$207</strong></p>
-                                        <p class="free-shipping">Free Shipping</p>
+                                        <p><span class="free-shipping">Free</span> Shipping</p>
                                     </div>
                                 </div>
                             </div>

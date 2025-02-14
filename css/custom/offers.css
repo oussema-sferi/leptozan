@@ -52,6 +52,7 @@
     -o-transform: scale(1.025);
 }
 
+
 .offers-block-title {
     background-color: var(--teal);
     clip-path: polygon(100% 0, 100% 76%, 50% 100%, 0 72%, 0 0);
@@ -192,7 +193,9 @@
 }
 
 .offers-total .free-shipping {
-    color: var(--teal)!important;
+    color: #F67930!important;
+    position: unset;
+    margin: unset;
 }
 
 .offers-btn {
@@ -262,11 +265,11 @@
 
 .offers-total span::after {
     content: "";
-    background-color: #ED0006;
-    width: 48px;
+    background-color: var(--black);
+    width: 47px;
     height: 3px;
     position: absolute;
-    left: -5px;
+    left: -2px;
     right: 0;
     top: 11px;
 }
