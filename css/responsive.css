@@ -152,7 +152,7 @@
     /* Header End */
 
     /* Home Page Start */
-    .banner-wrp { margin: 20px 0 0; padding: 104px 0 9px; background-image: url("../images/BG.png"); }
+    .banner-wrp { margin: 0 0; padding: 104px 0 9px; background-image: url("../images/BG.png"); text-align: left;}
     .banner-content .main-title { margin: 0 0 16px; }
     .banner-content .large-detail { margin: 0 0 24px; }
     .banner-img { margin: -5px -22px 0; }
@@ -161,10 +161,6 @@
 
     /**/
 
-        .banner-wrp {
-            /*padding: 50px 20px;*/
-            text-align: left;
-        }
 
 
 
@@ -195,7 +191,7 @@
 
     .banner-wrp .banner-img .btn-orange {
             display: block;
-            width: 100%;
+            width: 90%;
             padding: 11px 24px;
            /* width: 164px!important;*/
             text-align: center;
@@ -290,8 +286,8 @@
     .references-right { padding: 0 15px; }
     .references-main .section-title { margin: 0 0 15px; }
     .references-img {margin: 0 0 40px;}
-    .references-right .section-title { text-align: center; margin: 0 0 32px; }
-    .references-details {text-align: center; font-size: 13px;}
+    .references-right .section-title { text-align: left; margin: 0 0 32px; }
+    .references-details {text-align: left; font-size: 13px;}
     /* Home Page End */
 
     /* VSL Page Start */
