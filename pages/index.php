@@ -183,6 +183,17 @@
     <section id="leptozan-ingredients" class="ingredients-wrp">
         <div class="container">
             <div class="ingredients-main">
+
+                <div class="ingredients-title">
+                    <div class="section-title">
+                        <!--<h2>Harness The Power Of These Research-Backed <span>Dead Sea Minerals</span></h2>-->
+                        <h2>Unleash the Power of Science-Backed <span>Ingredients for Fat Loss</span></h2>
+                    </div>
+                    <div class="detail">
+                        <p>The formula of LEPTOZAN blends advanced ingredients that work to enhance your metabolism.</p>
+                    </div>
+                </div>
+
                 <div class="ingredients-logos-main">
                     <div class="ingredients-logos">
                         <figure>
@@ -210,17 +221,10 @@
                         </figure>
                     </div>
                 </div>
-                <div class="ingredients-title">
-                    <div class="section-title">
-                        <h2>Harness The Power Of These Research-Backed <span>Dead Sea Minerals</span></h2>
-                    </div>
-                    <div class="detail">
-                        <p>With Leptozan, you have a formula that combines ancient minerals proven by science to accelerate your metabolism.</p>
-                    </div>
-                </div>
+
                 <div class="ingredients-section">
                     <div class="row">
-                        <!-- ✅ LEFT COLUMN: Two stacked ingredients -->
+
                         <div class="col-md-6 d-flex flex-column">
                             <div class="ingredients-block row align-items-center flex-md-row flex-column">
                                 <div class="col-12 col-md-5">
@@ -368,7 +372,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -428,7 +432,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -491,37 +495,41 @@
                     </figure>
                 </div>
                 <div class="section-title">
-                    <h2>Your Leptozan Guarantee</h2>
+                    <!--<h2>Your Leptozan Guarantee</h2>-->
+                    <h2>100% Satisfaction or Your Money Back 180-Day Guarantee</h2>
                 </div>
                 <div class="detail">
-                    <p>We’re so confident you’ll see big changes with your body, energy, and health, you get a 180-day money-back guarantee when you try Leptozan.</p>
+                    <!--<p>We’re so confident you’ll see big changes with your body, energy, and health, you get a 180-day money-back guarantee when you try Leptozan.</p>
                     <p>Start using Leptozan once it arrives on your doorstep. As other customers have reported, taking it daily is the best way to experience the benefits such as more energy, a new lightness, and watching a “new you” appear in the mirror.</p>
-                    <p>If you’re not completely satisfied with the results, simply contact our team using the links in the footer to get a full refund. Leptozan puts the power of your metabolic health back in your hands.</p>
+                    <p>If you’re not completely satisfied with the results, simply contact our team using the links in the footer to get a full refund. Leptozan puts the power of your metabolic health back in your hands.</p>-->
+                    <p>We're so confident you'll achieve incredible results that we back LEPTOZAN with a 100% satisfaction guarantee for 180 days.</p>
+                    <p>Start using it as soon as it arrives, and within days, you may notice an increase in energy, a clearer mind, and reduced cravings. As you continue your journey, you could start to see gradual weight loss and a reduction in stubborn fat, making it the perfect time to track your progress. If after several weeks or even months you're not completely satisfied, we'll refund your money in full. With LEPTOZAN, you're truly in control of your weight loss journey.</p>
+
                 </div>
                 <div class="ingredients-logos-main">
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-1.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/logo-1.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-2.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/logo-2.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-3.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/logo-3.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-4.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/logo-4.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-5.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/logo-5.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                 </div>
@@ -757,7 +765,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -817,7 +825,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -878,7 +886,7 @@
                     <div class="col-lg-6 col-xl-6 col-xxl-6">
                         <div class="references-img">
                             <figure>
-                                <img src="/images/reference-img.png" alt="reference-img" class="img-fluid">
+                                <img src="/images/Product-new.png" alt="reference-img" class="img-fluid">
                             </figure>
                         </div>
                     </div>

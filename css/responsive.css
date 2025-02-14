@@ -131,7 +131,7 @@
     .block-title { font-size: 28px; line-height: 36px; }
     .banner-title { font-size: 44px; line-height: 46px; }
     .large-detail { font-size: 16px; line-height: 26px; }
-    .banner-content { padding-left: 10px; }
+    /*.banner-content { padding-left: 10px; }*/
     /* Common Style End */
 
     /* Header Start */
@@ -166,8 +166,10 @@
             text-align: left;
         }
 
+
+
     .banner-wrp .banner-main {
-        margin-top: 24px!important;
+        /*margin-top: 24px!important;*/
     }
 
     .banner-wrp .banner-content span {
@@ -181,6 +183,10 @@
             align-items: center; /* Centers both image & button */
             gap: 5px; /* Adds spacing between image and button */
         }
+    /*.banner-wrp .row>* {
+         padding-left: 0 !important;
+         padding-right: 0 !important;
+    }*/
 
     .banner-wrp .banner-img img {
             width: 230px!important;
@@ -190,7 +196,7 @@
     .banner-wrp .banner-img .btn-orange {
             display: block;
             /*width: 80%;*/
-            padding: 10px 23px;
+            padding: 11px 24px;
             width: 164px!important;
             text-align: center;
         }
@@ -215,7 +221,7 @@
 
         /* Mobile: Paragraph Below */
     .banner-wrp .large-detail {
-        margin-top: 20px;
+        margin-top: 9px;
         text-align: left!important;
         line-height: 28px!important;
         }
@@ -252,7 +258,7 @@
     .offers-product-img { margin: 0 -16px; }
     .offers-block {margin: 0 0 24px;}
 
-    .guarantee-wrp {padding: 64px 0 8px; background-image: url("/images/guarantee-lines-mobile.png"); }
+    .guarantee-wrp {padding: 64px 0 8px; /*background-image: url("/images/guarantee-lines-mobile.png");*/ }
     .guarantee-main .badge-img img {width: 96px;}
     .guarantee-main .badge-img { margin: 0 0 16px; }
     .guarantee-main .section-title { margin: 0 0 16px; }

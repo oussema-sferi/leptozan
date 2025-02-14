@@ -74,6 +74,23 @@
     text-align: center;
 }
 
+/** new added **/
+.offers-product-img img {
+    max-width: 252px;
+    max-height: 252px;
+}
+
+.best-offer-block .offers-product-img img {
+    max-width: 267px;
+    max-height: 287px;
+}
+
+.offers-product-img {
+    margin-top: 30px;
+}
+
+/** new added **/
+
 .offers-product-price {
     margin: -21px 0 12px;
 }
