@@ -400,27 +400,27 @@
                 <div class="ingredients-logos-main">
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-1.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/ingredients/logo-1.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-2.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/ingredients/logo-2.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-3.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/ingredients/logo-3.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-4.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/ingredients/logo-4.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/logo-5.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/ingredients/logo-5.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                 </div>
@@ -575,7 +575,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -635,7 +635,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -712,27 +712,27 @@
                 <div class="ingredients-logos-main">
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/logo-1.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-1.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/logo-2.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-2.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/logo-3.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-3.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/logo-4.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-4.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/logo-5.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-5.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                 </div>
@@ -968,7 +968,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -1028,7 +1028,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">

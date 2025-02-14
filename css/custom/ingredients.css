@@ -2,18 +2,18 @@
     padding: 88px 20px 58px;
     margin: 0 32px 40px;
     background-color: var(--grey3);
-    border-radius: 12px;
+    /*border-radius: 12px;
     -webkit-border-radius: 12px;
     -moz-border-radius: 12px;
     -ms-border-radius: 12px;
-    -o-border-radius: 12px;
+    -o-border-radius: 12px;*/
 }
 
 .ingredients-logos-main {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0 -12px 24px;
+    margin: 0 -12px 48px;
 }
 
 .ingredients-logos {
@@ -39,7 +39,7 @@
 .ingredients-block {
     overflow: hidden;
     background-color: var(--white);
-    border: 5px solid var(--grey4);
+    /*border: 5px solid var(--grey4);*/
     text-align: left;
     margin: 0 0 32px;
     height: 100%;
