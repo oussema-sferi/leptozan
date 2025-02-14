@@ -30,7 +30,7 @@
                     <a class="nav-link" href="#leptozan-ingredients">Formula</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#leptozan-faq">Add FAQ</a>
+                    <a class="nav-link" href="#leptozan-faq">FAQ</a>
                 </li>
             </ul>
             <div class="header-btn">

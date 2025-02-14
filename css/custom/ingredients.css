@@ -154,16 +154,40 @@
 }
 
 /* Responsive styles */
-@media (max-width: 991px) {
+@media (max-width: 768px) {
+    .ingredients-wrp .container {
+        padding: 0;
+    }
     .ingredients-wrp {
-        margin: 0 15px 40px;
-        padding: 40px 15px;
+        /*margin: 0 15px 40px;*/
+        margin: 0;
+        padding: 32px 20px;
+    }
+    .ingredients-wrp .ingredients-title {
+
+        margin: 0 14px;
+        text-align: left;
+
+    }
+    .ingredients-wrp .section-title {
+
+        margin: 14px 0;
+
+    }
+
+    .ingredients-logos { padding: 0px 8px 16px; }
+    /*.ingredients-logos img {width: 56px;}
+    .ingredients-logos-main {width: 100%;}*/
+
+    .ingredients-title .detail {
+        margin: 0 0 14px;
+        text-transform: unset;
     }
 
     .ingredients-block.horizontal,
     .ingredients-block.vertical {
         height: auto;
-        margin-bottom: 32px;
+        margin-bottom: 20px;
     }
 
     .ingredients-block.horizontal .ingredients-block-inner {
@@ -176,8 +200,8 @@
     }
 
     .ingredients-block.horizontal .ingredients-content {
-        text-align: center;
-        padding: 24px;
+        text-align: left;
+        padding: 29px 16px;
     }
 
     .ingredients-block.vertical .ingredients-img {
@@ -185,22 +209,39 @@
     }
 
     .ingredients-block.vertical .ingredients-content {
-        padding: 24px;
+        padding: 29px 16px;
     }
 
     .ingredients-content .small-title {
-        font-size: 20px;
-        line-height: 28px;
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 32px;
     }
 
     .ingredients-content .common-detail p {
         font-size: 16px !important;
         line-height: 24px !important;
     }
+
+    .ingredients-section .row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ingredients-section .row > .col-lg-7 {
+        order: 2;  /* Left column with 2 boxes moves second */
+    }
+
+    .ingredients-section .row > .col-lg-5 {
+        order: 1;  /* Right column with vertical box moves first */
+    }
 }
 
-@media (max-width: 767px) {
+/*@media (max-width: 768px) {
     .ingredients-logos img {
         width: 45px;
     }
-}
+    .ingredients-wrp .container {
+        padding: 0;
+    }
+}*/

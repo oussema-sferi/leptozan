@@ -66,7 +66,7 @@
     .banner-wrp {padding: 140px 0 38px;}
 
     /*.healthy-wrp { padding: 50px 0 40px; }*/
-    .healthy-title {margin: 0 auto 40px;}
+    /*.healthy-title {margin: 0 auto 40px;}*/
 
     .ingredients-wrp { padding: 60px 20px 40px; }
     .ingredients-title {margin: 0 auto 40px;}
@@ -240,9 +240,25 @@
     .healthy-title .section-title br {display: none;}
     .healthy-title .detail { margin: 0; }
     .healthy-block {margin: 60px 0 20px; height: calc(100% - 80px); }*/
+    .healthy-wrp .healthy-title .section-title {
+        margin-bottom: 16px;
+    }
+    .healthy-wrp .healthy-title {
+       padding: 0 20px;
+        margin-bottom: 24px;
+    }
 
-    /*.ingredients-wrp { padding: 48px 0 24px; margin: 0 20px 32px; }
-    .ingredients-logos-main {margin: 0 -8px 16px; flex-wrap: wrap; }
+    .healthy-wrp .healthy-section {
+        padding: 0 20px;
+        margin: 0;
+    }
+
+    .healthy-wrp .container {
+        padding: 0;
+    }
+
+    /*.ingredients-wrp { padding: 48px 0 24px; margin: 0 20px 32px; }*/
+    /*.ingredients-logos-main {margin: 0 -8px 16px; flex-wrap: wrap; }
     .ingredients-logos { padding: 0px 8px 16px; }
     .ingredients-logos img {width: 48px;}
     .ingredients-title {margin: 0 auto 32px;}
@@ -397,7 +413,7 @@
 
 @media (max-width: 575px) {
     /* Home Page Start */
-    .ingredients-logos-main { margin: 0 auto 16px; max-width: 227px; width: 100%; }
+    .ingredients-logos-main { margin: 0 auto 16px; width: 100%; }
     /* Home Page End */
 
     /* Upsell Page Start */
