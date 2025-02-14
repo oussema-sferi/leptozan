@@ -73,6 +73,12 @@
 
 .offers-product-img {
     text-align: center;
+    .offers-product-img {
+        max-width: 252px;
+        max-height: 252px;
+        text-align: center;
+        margin: 0 auto;
+    }
 }
 
 /** new added **/

@@ -24,7 +24,7 @@
         <div class="collapse navbar-collapse" id="stickyNavbar">
             <ul class="navbar-nav m-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Origin</a>
+                    <a class="nav-link" href="#banner-section">Origin</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#leptozan-ingredients">Formula</a>
@@ -45,7 +45,7 @@
 <div class="content">
 
     <!-- Banner Start -->
-    <section class="banner-wrp">
+    <section id="banner-section" class="banner-wrp">
         <div class="banner-main">
             <div class="container">
                 <div class="banner-row d-none d-md-block">
@@ -64,7 +64,7 @@
                         <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="banner-img">
                                 <figure>
-                                    <img src="/images/Product-new.png" alt="Product" class="img-fluid">
+                                    <img src="/images/new/Product.png" alt="Product" class="img-fluid">
                                 </figure>
                             </div>
                         </div>
@@ -88,7 +88,7 @@
                         <div class="col-6 text-center d-flex flex-column align-items-center">
                             <div class="banner-img">
                                 <figure>
-                                    <img src="/images/Product-new.png" alt="Product" class="img-fluid">
+                                    <img src="/images/new/Product.png" alt="Product" class="img-fluid">
                                 </figure>
                                 <a href="#buy-now" class="btn btn-orange">BUY NOW</a>
                             </div>
@@ -635,7 +635,7 @@
                                 <div class="offers-inner">
                                     <div class="offers-product-img">
                                         <figure>
-                                            <img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
+                                            <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid">
                                         </figure>
                                     </div>
                                     <div class="offers-product-price">
@@ -1089,7 +1089,7 @@
                     <div class="col-lg-6 col-xl-6 col-xxl-6">
                         <div class="references-img">
                             <figure>
-                                <img src="/images/Product-new.png" alt="reference-img" class="img-fluid">
+                                <img src="/images/new/Product.png" alt="reference-img" class="img-fluid">
                             </figure>
                         </div>
                     </div>

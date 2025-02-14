@@ -18,7 +18,7 @@ $(document).ready(function() {
         if(targetId.includes("#"))
         {
             e.preventDefault();
-            let offset = 0; // Adjust this value based on the navbar height to not cover the section
+            let offset = 90; // Adjust this value based on the navbar height to not cover the section
             $('html, body').animate({
                 scrollTop: $(targetId).offset().top -offset
             }, 200)
