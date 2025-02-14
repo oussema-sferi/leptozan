@@ -152,7 +152,7 @@
     /* Header End */
 
     /* Home Page Start */
-    .banner-wrp { margin: 0 0; padding: 104px 0 9px; background-image: url("../images/BG.png"); text-align: left;}
+    .banner-wrp { margin: 0 0; padding: 110px 0 30px; background-image: url("../images/BG.png"); text-align: left;}
     .banner-content .main-title { margin: 0 0 16px; }
     .banner-content .large-detail { margin: 0 0 24px; }
     .banner-img { margin: -5px -22px 0; }
