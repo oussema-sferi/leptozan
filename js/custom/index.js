@@ -22,6 +22,10 @@ $(document).ready(function() {
             $('html, body').animate({
                 scrollTop: $(targetId).offset().top -offset
             }, 200)
+            // ✅ Close the navbar (only if it's expanded)
+            if ($('.navbar-collapse').hasClass('show')) {
+                $('.navbar-toggler').click(); // Triggers Bootstrap's collapse
+            }
         }
 
     })
