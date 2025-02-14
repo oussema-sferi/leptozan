@@ -3,7 +3,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding: 88px 0 25px;
+    padding: 88px 148px;
 }
 
 .guarantee-main {
@@ -34,5 +34,5 @@
 }
 
 .guarantee-main .ingredients-logos img {
-    width: 96px;
+    width: 120px;
 }
