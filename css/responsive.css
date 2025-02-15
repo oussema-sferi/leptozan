@@ -264,21 +264,31 @@
     .ingredients-title .detail { margin: 0 -10px; }
     .ingredients-block { margin: 0 auto 24px; height: auto;}*/
 
-    .offers-wrp { padding: 48px 0 1px; margin: 0 20px 0; background-image: url("../images/offers-lines-mobile.png"); background-position: center; }
+    .offers-wrp { padding: 48px 0 1px; margin: 10px 20px 0; background-image: url("../images/offers-lines-mobile.png"); background-position: center; }
     .offers-main > .section-title {margin: 0 auto 32px;}
     .offers-block-title .section-title {font-size: 44px; line-height: 52px;}
     .offers-product-img { margin: 0 -16px; }
     .offers-block {margin: 0 0 24px;}
 
-    .guarantee-wrp {padding: 64px 0 8px; /*background-image: url("/images/guarantee-lines-mobile.png");*/ }
+    .guarantee-wrp {padding: 32px 20px; /*background-image: url("/images/guarantee-lines-mobile.png");*/ }
     .guarantee-main .badge-img img {width: 96px;}
-    .guarantee-main .badge-img { margin: 0 0 16px; }
-    .guarantee-main .section-title { margin: 0 0 16px; }
+    .guarantee-main .badge-img { margin: 0 0 20px; }
+    .guarantee-main .section-title { margin: 0 0 24px; }
+    .guarantee-main .detail {
+        margin: 0 0 32px;
+    }
     .guarantee-main .ingredients-logos { padding: 0 12px 24px; }
     .guarantee-main .ingredients-logos img { width: 72px; }
     .guarantee-main .ingredients-logos-main {max-width: 100%; margin-bottom: 0;}
 
-    .faq-wrp { padding: 32px 0 48px; }
+    /*.guarantee-main .ingredients-logos img {
+        width: 120px;
+    }*/
+
+
+    /*.faq-wrp { padding: 32px 0 48px; }*/
+    .faq-wrp { padding: 0 0 48px; }
+    .faq-wrp { margin-top: 32px ; }
     .faq-section .accordion-item {margin: 0 0 16px;}
     .faq-main .section-title { margin: 0 0 32px; }
 

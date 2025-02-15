@@ -709,28 +709,28 @@
                     <p>Start using it as soon as it arrives, and within days, you may notice an increase in energy, a clearer mind, and reduced cravings. As you continue your journey, you could start to see gradual weight loss and a reduction in stubborn fat, making it the perfect time to track your progress. If after several weeks or even months you're not completely satisfied, we'll refund your money in full. With LEPTOZAN, you're truly in control of your weight loss journey.</p>
 
                 </div>
-                <div class="ingredients-logos-main">
-                    <div class="ingredients-logos">
+                <div class="guarantee-logos-main">
+                    <div class="guarantee-logos">
                         <figure>
                             <img src="/images/leptozan-new-logos/guarantee/logo-1.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
-                    <div class="ingredients-logos">
+                    <div class="guarantee-logos">
                         <figure>
                             <img src="/images/leptozan-new-logos/guarantee/logo-2.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
-                    <div class="ingredients-logos">
+                    <div class="guarantee-logos">
                         <figure>
                             <img src="/images/leptozan-new-logos/guarantee/logo-3.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
-                    <div class="ingredients-logos">
+                    <div class="guarantee-logos">
                         <figure>
                             <img src="/images/leptozan-new-logos/guarantee/logo-4.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
-                    <div class="ingredients-logos">
+                    <div class="guarantee-logos">
                         <figure>
                             <img src="/images/leptozan-new-logos/guarantee/logo-5.png" alt="logo" class="img-fluid">
                         </figure>
