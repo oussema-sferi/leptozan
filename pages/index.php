@@ -498,7 +498,7 @@
         <div class="container">
             <div class="offers-main">
                 <div class="section-title">
-                    <h2>Claim Your Discounted LEPTOZAN Now <span>While Supplies Last!</span></h2>
+                    <h2>Claim Your Discounted <span>LEPTOZAN</span> Now <span>While Supplies Last!</span></h2>
                 </div>
                 <div class="offers-section">
                     <div class="row align-items-center">
@@ -892,7 +892,7 @@
         <div class="container">
             <div class="offers-main">
                 <div class="section-title">
-                    <h2>Claim Your Discounted LEPTOZAN Now <span>While Supplies Last!</span></h2>
+                    <h2>Claim Your Discounted <span>LEPTOZAN</span> Now <span>While Supplies Last!</span></h2>
                 </div>
                 <div class="offers-section">
                     <div class="row align-items-center">

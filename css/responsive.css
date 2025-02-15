@@ -264,7 +264,7 @@
     .ingredients-title .detail { margin: 0 -10px; }
     .ingredients-block { margin: 0 auto 24px; height: auto;}*/
 
-    .offers-wrp { padding: 48px 0 1px; margin: 10px 20px 0; background-image: url("../images/offers-lines-mobile.png"); background-position: center; }
+    .offers-wrp { padding: 48px 0 1px; margin: 10px 20px 0; /*background-image: url("/images/offers-lines-mobile.png")*/; background-position: center; }
     .offers-main > .section-title {margin: 0 auto 32px;}
     .offers-block-title .section-title {font-size: 44px; line-height: 52px;}
     .offers-product-img { margin: 0 -16px; }
