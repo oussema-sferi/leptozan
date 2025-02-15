@@ -72,6 +72,11 @@
         padding: 0 20px; /* Apply padding inside */
     }
 
+    .fixed-navbar .navbar-nav {
+        display: flex;
+        gap: unset;
+    }
+
     .fixed-navbar .navbar-nav .nav-item {
         padding: 12px 0;
     }
@@ -89,7 +94,7 @@
         align-items: flex-start;
         /*align-items: center;*/
         /*background-color: #F6F7F7;*/
-        padding: 24px 20px;
+        padding: 24px 4px;
 
     }
 
