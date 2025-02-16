@@ -514,7 +514,7 @@
                                     </div>
                                 </div>
                                 <div class="offers-inner">
-                                    <div class="offers-product-img">
+                                    <!--<div class="offers-product-img">
                                         <figure>
                                             <img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
                                         </figure>
@@ -527,7 +527,33 @@
                                             <li>You save $200!</li>
                                             <li>180 Days Guarantee</li>
                                         </ul>
+                                    </div>-->
+
+                                    <div class="offers-content-wrapper">
+                                        <div class="offers-product-img">
+                                            <!-- Your existing product image code -->
+                                            <div class="offers-product-img">
+                                                <figure>
+                                                    <img src="/images/offers-img-1-new.png" alt="offers-img" class="img-fluid">
+                                                </figure>
+                                            </div>
+                                        </div>
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <!-- Your existing price code -->
+                                                <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <!-- Your existing list code -->
+                                                <ul>
+                                                    <li>You save $200!</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
+
                                     <div class="offers-btn">
                                         <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
@@ -573,21 +599,28 @@
                                     </div>
                                 </div>
                                 <div class="offers-inner">
-                                    <div class="offers-product-img">
-                                        <figure>
-                                            <img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
-                                        </figure>
+                                    <div class="offers-content-wrapper">
+                                        <div class="offers-product-img">
+                                            <figure>
+                                                <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid">
+                                            </figure>
+                                        </div>
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <h3><b>$</b><span>49</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <ul>
+                                                    <li>You save $780!</li>
+                                                    <li>Biggest Discount</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="offers-product-price">
-                                        <h3><b>$</b><span>49</span><small>Per Bottle</small></h3>
-                                    </div>
-                                    <div class="common-list">
-                                        <ul>
-                                            <li>You save $780!</li>
-                                            <li>Biggest Discount</li>
-                                            <li>180 Days Guarantee</li>
-                                        </ul>
-                                    </div>
+
+
                                     <div class="offers-btn">
                                         <a href="#buy-now" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
@@ -633,20 +666,27 @@
                                     </div>
                                 </div>
                                 <div class="offers-inner">
-                                    <div class="offers-product-img">
-                                        <figure>
-                                            <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid">
-                                        </figure>
+                                    <div class="offers-content-wrapper">
+                                        <div class="offers-product-img">
+                                            <figure>
+                                                <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid">
+                                            </figure>
+                                        </div>
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <h3><b>$</b><span>69</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <ul>
+                                                    <li>You save $360!</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="offers-product-price">
-                                        <h3><b>$</b><span>69</span><small>Per Bottle</small></h3>
-                                    </div>
-                                    <div class="common-list">
-                                        <ul>
-                                            <li>You save $360!</li>
-                                            <li>180 Days Guarantee</li>
-                                        </ul>
-                                    </div>
+
+
                                     <div class="offers-btn">
                                         <a href="#buy-now" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
@@ -888,7 +928,7 @@
     <!-- Faq End -->
 
     <!-- Offers Start -->
-    <section class="offers-wrp" style="background-color: var(--sky);">
+    <!--<section class="offers-wrp" style="background-color: var(--sky);">
         <div class="container">
             <div class="offers-main">
                 <div class="section-title">
@@ -1078,7 +1118,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- Offers End -->
 
     <!-- References Start -->
