@@ -71,30 +71,48 @@
     text-transform: unset;
 }
 
-.offers-product-img {
-    text-align: center;
-    .offers-product-img {
-        max-width: 252px;
-        max-height: 252px;
-        text-align: center;
-        margin: 0 auto;
-    }
-}
 
-/** new added **/
-.offers-product-img img {
+.offers-product-img {
     max-width: 252px;
     max-height: 252px;
+    object-fit: contain;
+    text-align: center;
+    margin: 32px auto 16px;
+
 }
 
-.best-offer-block .offers-product-img img {
+
+/** new added **/
+.offers-product-img .bottle-img {
+    width: 160px;
+    height: 175px;
+}
+
+.offers-product-img figure {
+    position: relative;
+    display: inline-block;
+}
+
+.guarantee-badge {
+    position: absolute;
+    max-width: 100px!important;
+    max-height: 100px!important;
+    top: -40px;
+    left: 97px;
+    z-index: 1;
+}
+
+/*.best-offer-block .guarantee-badge {
+    width: 100px;
+    height: 100px;
+}*/
+
+/*.best-offer-block .offers-product-img img {
     max-width: 267px;
     max-height: 287px;
-}
+}*/
 
-.offers-product-img {
-    margin-top: 30px;
-}
+
 
 /** new added **/
 
@@ -313,9 +331,10 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        object-fit: contain;
     }
 
-    .offers-product-img img {
+    .offers-product-img .bottle-img {
         width: 116px;
         height: auto;
         max-height: 180px;
@@ -383,9 +402,27 @@
         background-color: #ECF6F6;
     }
 
-    .best-offer-block .offers-product-img img {
+    /*.best-offer-block .offers-product-img img {
         max-width: 100%;
+    }*/
+    .offers-product-img figure {
+        position: relative;
+        margin: 0;
     }
+
+    .guarantee-badge {
+        width: 47px!important;
+        height: 47px!important;
+        left: 77px;
+        top: -15px;
+    }
+
+    /*.best-offer-block .guarantee-badge {
+        width: 47px!important;
+        height: 47px!important;
+        left: 77px;
+        top: -25px;
+    }*/
 }
 
 /* Additional adjustments for smaller screens */
