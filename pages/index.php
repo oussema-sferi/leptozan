@@ -53,7 +53,8 @@
                         <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                             <div class="banner-content">
                                 <div class="main-title">
-                                    <h1>Discover How <span>Leptozan</span> Can Support <span> Healthy Weight Loss</span></h1>
+                                    <!--<h1>Discover How <span>Leptozan</span> Can Support <span> Healthy Weight Loss</span></h1>-->
+                                    <h1>Discover The <span>Dead Sea Secret</span> To Healthy Weight Loss</h1>
                                 </div>
                                 <div class="large-detail">
                                     <p>Finally, The Easiest Way To Achieve Your Dream Body</p>
@@ -79,7 +80,8 @@
                         <div class="col-5">
                             <div class="banner-content">
                                 <div class="main-title">
-                                    <h1>Discover How <span>Leptozan</span> Can Support <span>Healthy Weight Loss</span></h1>
+                                    <!--<h1>Discover How <span>Leptozan</span> Can Support <span>Healthy Weight Loss</span></h1>-->
+                                    <h1>Discover The <span>Dead Sea Secret</span> To Healthy Weight Loss</h1>
                                 </div>
                             </div>
                         </div>
@@ -120,17 +122,17 @@
             <div class="healthy-main">
                 <div class="healthy-title">
                     <div class="section-title">
-                        <!--<h2>Natural <span>Weight Loss</span> Designed For Your Body</h2>-->
+                        <h2>Natural <span>Weight Loss</span> Designed For Your Body</h2>
                         <!--<h2>Activate Your Natural <br> And Healthy <span>Weight Control</span></h2>-->
-                        <h2>
+                        <!--<h2>
                             Activate Your Natural <br>
                             <span class="force-break">And Healthy</span>
                             <span>Weight Control</span>
-                        </h2>
+                        </h2>-->
                     </div>
                     <div class="detail">
-                        <!--<p>Use <span class="make-bold">Leptozan</span> to kickstart your fat-burning processes in a healthy, natural way.</p>-->
-                        <p>LEPTOZAN is the powerful formula that works with your body to burn fat efficiently and naturally.</p>
+                        <!--<p>LEPTOZAN is the powerful formula that works with your body to burn fat efficiently and naturally.</p>-->
+                        <p>Use LEPTOZAN to kickstart your fat-burning processes in a healthy, natural way.</p>
                     </div>
                 </div>
                 <div class="healthy-section">
@@ -138,38 +140,38 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="feature-box light-bg">
-                                <h4 style="font-size: 32px;">Enhances Fat Burning</h4>
-                                <p>Focuses on stubborn fat areas, including the belly, hips, and thighs.</p>
+                                <h4 style="font-size: 32px;">Accelerates Weight Loss</h4>
+                                <p>Get rid of stubborn weight still clinging on, especially around the belly and hips.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box orange-bg">
-                                <h4>Speeds Up Your Metabolism</h4>
-                                <p>Allows you to burn extra calories, even while at rest.</p>
+                                <h4>Increases Metabolism</h4>
+                                <p>Boost metabolic health to burn more calories all day, every day.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box light-bg">
-                                <h4>Suppresses Your Appetite</h4>
-                                <p>Controls cravings and helps you stay fuller for longer.</p>
+                                <h4>Curbs Craving</h4>
+                                <p>Reduces cravings so you’re not tempted by snacks that spoil your health.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box orange-bg">
-                                <h4>Delivers Consistent Energy</h4>
-                                <p>Eliminates fatigue, keeping you active and motivated all day.</p>
+                                <h4>Delivers All-Day Energy</h4>
+                                <p>Get a steady stream of energy so you can stay active for the whole day.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box light-bg">
-                                <h4>Promotes Smooth Digestion</h4>
-                                <p>Supports gut health, aiding in overall weight management.</p>
+                                <h4>Fights Inflammation</h4>
+                                <p>Stops inflammation from causing problems throughout your body.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box orange-bg">
-                                <h4>Completely Natural and Safe</h4>
-                                <p>Crafted with ingredients your body knows and utilizes efficiently, free from harsh chemicals.</p>
+                                <h4>Protects Brain Health</h4>
+                                <p>Reduces oxidative stress and supports brain regeneration to keep your brain fit and firing.</p>
                             </div>
                         </div>
                     </div>
@@ -180,220 +182,16 @@
     <!-- Healthy End -->
 
     <!-- Fat Loss Ingredients Start -->
-    <!--<section id="leptozan-ingredients" class="ingredients-wrp">
-        <div class="container">
-            <div class="ingredients-main">
-
-                <div class="ingredients-title">
-                    <div class="section-title">
-                        <h2>Unleash the Power of Science-Backed <span>Ingredients for Fat Loss</span></h2>
-                    </div>
-                    <div class="detail">
-                        <p>The formula of LEPTOZAN blends advanced ingredients that work to enhance your metabolism.</p>
-                    </div>
-                </div>
-
-                <div class="ingredients-logos-main">
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-1.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-2.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-3.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-4.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-5.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                </div>
-
-                <div class="ingredients-section">
-                    <div class="row">
-
-                        <div class="col-md-6 d-flex flex-column">
-                            <div class="ingredients-block row align-items-center flex-md-row flex-column">
-                                <div class="col-12 col-md-5">
-                                    <div class="ingredients-img">
-                                        <figure>
-                                            <img src="/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
-                                        </figure>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-7">
-                                    <div class="ingredients-content">
-                                        <div class="small-title">
-                                            <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
-                                        </div>
-                                        <div class="common-detail">
-                                            <p>Helps convert food into clean energy and supports metabolic health.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="ingredients-block row align-items-center flex-md-row flex-column">
-                                <div class="col-12 col-md-5">
-                                    <div class="ingredients-img">
-                                        <figure>
-                                            <img src="/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
-                                        </figure>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-7">
-                                    <div class="ingredients-content">
-                                        <div class="small-title">
-                                            <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
-                                        </div>
-                                        <div class="common-detail">
-                                            <p>Helps convert food into clean energy and supports metabolic health.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-6  d-flex flex-column">
-                            <div class="ingredients-block row align-items-center flex-md-row flex-column">
-                                <div class="ingredients-img">
-                                    <figure>
-                                        <img src="/images/ingredients-img-2.jpg" alt="ingredients-img" class="img-fluid">
-                                    </figure>
-                                </div>
-                                <div class="ingredients-content">
-                                    <div class="small-title">
-                                        <h3>Calcium Beta Hydroxybutyrate (BHB)</h3>
-                                    </div>
-                                    <div class="common-detail">
-                                        <p>Supports fat burning and helps the body get rid of fat more easily.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>-->
-    <!--<section id="leptozan-ingredients" class="ingredients-wrp">
-        <div class="container">
-            <div class="ingredients-main">
-                <div class="ingredients-logos-main">
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-1.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-2.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-3.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-4.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                    <div class="ingredients-logos">
-                        <figure>
-                            <img src="/images/logo-5.png" alt="logo" class="img-fluid">
-                        </figure>
-                    </div>
-                </div>
-                <div class="ingredients-title">
-                    <div class="section-title">
-                        <h2>Harness The Power Of These Research-Backed <span>Dead Sea Minerals</span></h2>
-                    </div>
-                    <div class="detail">
-                        <p>With Leptozan, you have a formula that combines ancient minerals proven by science to accelerate your metabolism.</p>
-                    </div>
-                </div>
-                <div class="ingredients-section">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-                            <div class="ingredients-block">
-                                <div class="ingredients-img">
-                                    <figure>
-                                        <img src="/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
-                                    </figure>
-                                </div>
-                                <div class="ingredients-content">
-                                    <div class="small-title">
-                                        <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
-                                    </div>
-                                    <div class="common-detail">
-                                        <p>Helps convert food into clean energy and supports metabolic health.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-                            <div class="ingredients-block">
-                                <div class="ingredients-img">
-                                    <figure>
-                                        <img src="/images/ingredients-img-2.jpg" alt="ingredients-img" class="img-fluid">
-                                    </figure>
-                                </div>
-                                <div class="ingredients-content">
-                                    <div class="small-title">
-                                        <h3>Calcium Beta Hydroxybutyrate (BHB)</h3>
-                                    </div>
-                                    <div class="common-detail">
-                                        <p>Supports fat burning and helps the body get rid of fat more easily.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4">
-                            <div class="ingredients-block">
-                                <div class="ingredients-img">
-                                    <figure>
-                                        <img src="/images/ingredients-img-3.jpg" alt="ingredients-img" class="img-fluid">
-                                    </figure>
-                                </div>
-                                <div class="ingredients-content">
-                                    <div class="small-title">
-                                        <h3>Sodium Beta Hydroxybutyrate (BHB)</h3>
-                                    </div>
-                                    <div class="common-detail">
-                                        <p>Boosts energy levels to help burn more calories all day long.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>-->
-    <!-- Fat Loss Ingredients End -->
-
     <section id="leptozan-ingredients" class="ingredients-wrp">
         <div class="container">
             <div class="ingredients-main">
                 <div class="ingredients-title">
                     <div class="section-title">
-                        <h2>Unleash the Power of Science-Backed <span>Ingredients for Fat Loss</span></h2>
+                        <!--<h2>Unleash the Power of Science-Backed <span>Ingredients for Fat Loss</span></h2>-->
+                        <h2>Harness The Power Of These Research-Backed <span>Dead Sea Minerals</span></h2>
                     </div>
                     <div class="detail">
-                        <p>The formula of LEPTOZAN blends advanced ingredients that work to enhance your metabolism.</p>
+                        <p>With Leptozan, you have a formula that combines ancient minerals proven by science to accelerate your metabolism.</p>
                     </div>
                 </div>
 
@@ -443,7 +241,7 @@
                                             <h3>Calcium Beta Hydroxybutyrate (BHB)</h3>
                                         </div>
                                         <div class="common-detail">
-                                            <p>Assists in the fat-burning process, making it easier for your body to shed pounds.</p>
+                                            <p>Supports fat burning and helps the body get rid of fat more easily.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -462,7 +260,7 @@
                                             <h3>Sodium Beta Hydroxybutyrate (BHB)</h3>
                                         </div>
                                         <div class="common-detail">
-                                            <p>Supports fat burning and helps the body get rid of fat more easily.</p>
+                                            <p>Boosts energy levels to help burn more calories all day long.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -482,7 +280,7 @@
                                         <h3>Magnesium Beta Hydroxybutyrate (BHB)</h3>
                                     </div>
                                     <div class="common-detail">
-                                        <p>Provides clean energy and supports your body in burning fat instead of carbs.</p>
+                                        <p>Helps convert food into clean energy and supports metabolic health.</p>
                                     </div>
                                 </div>
                             </div>
@@ -492,6 +290,8 @@
             </div>
         </div>
     </section>
+
+    <!-- Fat Loss Ingredients End -->
 
     <!-- Offers Start -->
     <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
@@ -741,15 +541,18 @@
                     </figure>
                 </div>-->
                 <div class="section-title">
-                    <!--<h2>Your Leptozan Guarantee</h2>-->
-                    <h2>100% Satisfaction or Your Money Back 180-Day Guarantee</h2>
+                    <h2>Your Leptozan Guarantee</h2>
+                    <!--<h2>100% Satisfaction or Your Money Back 180-Day Guarantee</h2>-->
                 </div>
                 <div class="detail">
                     <!--<p>We’re so confident you’ll see big changes with your body, energy, and health, you get a 180-day money-back guarantee when you try Leptozan.</p>
                     <p>Start using Leptozan once it arrives on your doorstep. As other customers have reported, taking it daily is the best way to experience the benefits such as more energy, a new lightness, and watching a “new you” appear in the mirror.</p>
                     <p>If you’re not completely satisfied with the results, simply contact our team using the links in the footer to get a full refund. Leptozan puts the power of your metabolic health back in your hands.</p>-->
-                    <p>We're so confident you'll achieve incredible results that we back LEPTOZAN with a 100% satisfaction guarantee for 180 days.</p>
-                    <p>Start using it as soon as it arrives, and within days, you may notice an increase in energy, a clearer mind, and reduced cravings. As you continue your journey, you could start to see gradual weight loss and a reduction in stubborn fat, making it the perfect time to track your progress. If after several weeks or even months you're not completely satisfied, we'll refund your money in full. With LEPTOZAN, you're truly in control of your weight loss journey.</p>
+                    <!--<p>We're so confident you'll achieve incredible results that we back LEPTOZAN with a 100% satisfaction guarantee for 180 days.</p>
+                    <p>Start using it as soon as it arrives, and within days, you may notice an increase in energy, a clearer mind, and reduced cravings. As you continue your journey, you could start to see gradual weight loss and a reduction in stubborn fat, making it the perfect time to track your progress. If after several weeks or even months you're not completely satisfied, we'll refund your money in full. With LEPTOZAN, you're truly in control of your weight loss journey.</p>-->
+                    <p>We’re so confident you’ll see big changes with your body, energy, and health, you get a 180-day money-back guarantee when you try Leptozan.</p>
+                    <p>Start using Leptozan once it arrives on your doorstep. As other customers have reported, taking it daily is the best way to experience the benefits such as more energy, a new lightness, and watching a “new you” appear in the mirror.</p>
+                    <p>If you’re not completely satisfied with the results, simply contact our team using the links in the footer to get a full refund. Leptozan puts the power of your metabolic health back in your hands.</p>
 
                 </div>
                 <div class="guarantee-logos-main">
@@ -1122,6 +925,241 @@
             </div>
         </div>
     </section>-->
+    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
+        <div class="container">
+            <div class="offers-main">
+                <div class="section-title">
+                    <h2>Claim Your Discounted <span>LEPTOZAN</span> Now <span>While Supplies Last!</span></h2>
+                </div>
+                <div class="offers-section">
+                    <div class="row align-items-center">
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-3 order-md-1">
+                            <!-- Desktop Structure -->
+                            <div class="offers-block desktop-view">
+                                <div class="offers-block-title">
+                                    <div class="section-title">
+                                        <h2>2 for You</h2>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>60 Days, 2 Bottles</p>
+                                    </div>
+                                </div>
+                                <div class="offers-inner">
+                                    <!--<div class="offers-product-img">
+                                        <figure>
+                                            <img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
+                                        </figure>
+                                    </div>
+                                    <div class="offers-product-price">
+                                        <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
+                                    </div>
+                                    <div class="common-list">
+                                        <ul>
+                                            <li>You save $200!</li>
+                                            <li>180 Days Guarantee</li>
+                                        </ul>
+                                    </div>-->
+
+                                    <div class="offers-content-wrapper">
+
+                                        <!-- Your existing product image code -->
+                                        <div class="offers-product-img">
+                                            <figure>
+                                                <img src="/images/offers-img-1-new.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                            </figure>
+                                        </div>
+
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <!-- Your existing price code -->
+                                                <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <!-- Your existing list code -->
+                                                <ul>
+                                                    <li>You save $200!</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="offers-btn">
+                                        <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                    </div>
+                                    <div class="payments-block">
+                                        <ul>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="offers-total">
+                                        <p>TOTAL: <span>$358</span> <strong>$158</strong></p>
+                                        <p>+ 9.95 Shipping</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-1 order-md-2">
+                            <div class="offers-block best-offer-block">
+                                <div class="offers-block-title">
+                                    <div class="section-title">
+                                        <h2>Best Offer!</h2>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>180 Days, 6 Bottles</p>
+                                    </div>
+                                </div>
+                                <div class="offers-inner">
+                                    <div class="offers-content-wrapper">
+                                        <div class="offers-product-img">
+                                            <figure>
+                                                <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                            </figure>
+                                        </div>
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <h3><b>$</b><span>49</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <ul>
+                                                    <li>You save $780!</li>
+                                                    <li>Biggest Discount</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="offers-btn">
+                                        <a href="#buy-now" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                    </div>
+                                    <div class="payments-block">
+                                        <ul>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="offers-total">
+                                        <p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
+                                        <p><span class="free-shipping">Free</span> Shipping</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-2 order-md-3">
+                            <div class="offers-block">
+                                <div class="offers-block-title">
+                                    <div class="section-title">
+                                        <h2>3 for You</h2>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>90 Days, 3 Bottles</p>
+                                    </div>
+                                </div>
+                                <div class="offers-inner">
+                                    <div class="offers-content-wrapper">
+                                        <div class="offers-product-img">
+                                            <figure>
+                                                <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                            </figure>
+                                        </div>
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <h3><b>$</b><span>69</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <ul>
+                                                    <li>You save $360!</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="offers-btn">
+                                        <a href="#buy-now" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                    </div>
+                                    <div class="payments-block">
+                                        <ul>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="offers-total">
+                                        <p>TOTAL: <span>$537</span> <strong>$207</strong></p>
+                                        <p><span class="free-shipping">Free</span> Shipping</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- Offers End -->
 
     <!-- References Start -->
