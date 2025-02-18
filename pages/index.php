@@ -535,7 +535,7 @@
                                             <div class="offers-product-img">
                                                 <figure>
                                                     <img src="/images/offers-img-1-new.png" alt="offers-img" class="img-fluid bottle-img">
-                                                    <img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">
+                                                    <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                                 </figure>
                                             </div>
 
@@ -604,7 +604,7 @@
                                         <div class="offers-product-img">
                                             <figure>
                                                 <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">
+                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
                                         <div class="offers-info-wrapper">
@@ -672,7 +672,7 @@
                                         <div class="offers-product-img">
                                             <figure>
                                                 <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <img src="/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">
+                                                <!--<img src="/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
                                         <div class="offers-info-wrapper">
@@ -735,11 +735,11 @@
     <section class="guarantee-wrp">
         <div class="container">
             <div class="guarantee-main">
-                <div class="badge-img">
+                <!--<div class="badge-img">
                     <figure>
                         <img src="/images/badge.png" alt="badge" class="img-fluid">
                     </figure>
-                </div>
+                </div>-->
                 <div class="section-title">
                     <!--<h2>Your Leptozan Guarantee</h2>-->
                     <h2>100% Satisfaction or Your Money Back 180-Day Guarantee</h2>
