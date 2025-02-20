@@ -73,8 +73,8 @@
 
 
 .offers-product-img {
-    max-width: 252px;
-    max-height: 252px;
+    /*max-width: 252px;
+    max-height: 252px;*/
     object-fit: contain;
     text-align: center;
     margin: 32px auto 16px;
@@ -84,8 +84,17 @@
 
 /** new added **/
 .offers-product-img .bottle-img {
-    width: 160px;
-    height: 175px;
+    /*width: 160px;
+    height: 175px;*/
+    width: 248px;
+    height: 287px;
+}
+
+.best-offer-block .offers-product-img .bottle-img {
+    /*width: 160px;
+    height: 175px;*/
+    width: 280px;
+    height: 288px;
 }
 
 .offers-product-img figure {
@@ -334,11 +343,20 @@
         object-fit: contain;
     }
 
-    .offers-product-img .bottle-img {
-        width: 116px;
+    .best-offer-block .offers-product-img .bottle-img, .offers-product-img .bottle-img {
+        width: 140px!important;
         height: auto;
-        max-height: 180px;
+        /*max-height: 180px;*/
         object-fit: contain;
+    }
+
+    .best-offer-block .offers-product-img .bottle-img {
+        object-fit: unset!important;
+        width: 130px!important;
+        height: 145px;
+        /*height: 140px!important;*/
+        /*max-height: 180px;*/
+
     }
 
     .offers-info-wrapper {
@@ -357,7 +375,7 @@
     }
 
     .offers-product-price span {
-        font-size: 90px;
+        font-size: 75px;
         font-weight: bold;
         line-height: 1.03;
     }

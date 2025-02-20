@@ -334,7 +334,8 @@
                                             <!-- Your existing product image code -->
                                             <div class="offers-product-img">
                                                 <figure>
-                                                    <img src="/images/offers-img-1-new.png" alt="offers-img" class="img-fluid bottle-img">
+                                                    <!--<img src="/images/offers-img-1-new.png" alt="offers-img" class="img-fluid bottle-img">-->
+                                                    <img src="/images/2-bottles.png" alt="offers-img" class="img-fluid bottle-img">
                                                     <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                                 </figure>
                                             </div>
@@ -403,7 +404,7 @@
                                     <div class="offers-content-wrapper">
                                         <div class="offers-product-img">
                                             <figure>
-                                                <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <img src="/images/6-bottles.png" alt="offers-img" class="img-fluid bottle-img">
                                                 <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
@@ -471,7 +472,7 @@
                                     <div class="offers-content-wrapper">
                                         <div class="offers-product-img">
                                             <figure>
-                                                <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <img src="/images/3-bottles.png" alt="offers-img" class="img-fluid bottle-img">
                                                 <!--<img src="/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
@@ -734,6 +735,245 @@
     <!-- Faq End -->
 
     <!-- Offers Start -->
+    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
+        <div class="container">
+            <div class="offers-main">
+                <div class="section-title">
+                    <h2>Claim Your Discounted <span>LEPTOZAN</span> Now <span>While Supplies Last!</span></h2>
+                </div>
+                <div class="offers-section">
+                    <div class="row align-items-center">
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-3 order-md-1">
+                            <!-- Desktop Structure -->
+                            <div class="offers-block desktop-view">
+                                <div class="offers-block-title">
+                                    <div class="section-title">
+                                        <h2>2 for You</h2>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>60 Days, 2 Bottles</p>
+                                    </div>
+                                </div>
+                                <div class="offers-inner">
+                                    <!--<div class="offers-product-img">
+                                        <figure>
+                                            <img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
+                                        </figure>
+                                    </div>
+                                    <div class="offers-product-price">
+                                        <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
+                                    </div>
+                                    <div class="common-list">
+                                        <ul>
+                                            <li>You save $200!</li>
+                                            <li>180 Days Guarantee</li>
+                                        </ul>
+                                    </div>-->
+
+                                    <div class="offers-content-wrapper">
+
+                                        <!-- Your existing product image code -->
+                                        <div class="offers-product-img">
+                                            <figure>
+                                                <!--<img src="/images/offers-img-1-new.png" alt="offers-img" class="img-fluid bottle-img">-->
+                                                <img src="/images/2-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                            </figure>
+                                        </div>
+
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <!-- Your existing price code -->
+                                                <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <!-- Your existing list code -->
+                                                <ul>
+                                                    <li>You save $200!</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="offers-btn">
+                                        <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                    </div>
+                                    <div class="payments-block">
+                                        <ul>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="offers-total">
+                                        <p>TOTAL: <span>$358</span> <strong>$158</strong></p>
+                                        <p>+ 9.95 Shipping</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-1 order-md-2">
+                            <div class="offers-block best-offer-block">
+                                <div class="offers-block-title">
+                                    <div class="section-title">
+                                        <h2>Best Offer!</h2>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>180 Days, 6 Bottles</p>
+                                    </div>
+                                </div>
+                                <div class="offers-inner">
+                                    <div class="offers-content-wrapper">
+                                        <div class="offers-product-img">
+                                            <figure>
+                                                <img src="/images/6-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                            </figure>
+                                        </div>
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <h3><b>$</b><span>49</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <ul>
+                                                    <li>You save $780!</li>
+                                                    <li>Biggest Discount</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="offers-btn">
+                                        <a href="#buy-now" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                    </div>
+                                    <div class="payments-block">
+                                        <ul>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="offers-total">
+                                        <p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
+                                        <p><span class="free-shipping">Free</span> Shipping</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-2 order-md-3">
+                            <div class="offers-block">
+                                <div class="offers-block-title">
+                                    <div class="section-title">
+                                        <h2>3 for You</h2>
+                                    </div>
+                                    <div class="large-detail">
+                                        <p>90 Days, 3 Bottles</p>
+                                    </div>
+                                </div>
+                                <div class="offers-inner">
+                                    <div class="offers-content-wrapper">
+                                        <div class="offers-product-img">
+                                            <figure>
+                                                <img src="/images/3-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                            </figure>
+                                        </div>
+                                        <div class="offers-info-wrapper">
+                                            <!-- Price and list content -->
+                                            <div class="offers-product-price">
+                                                <h3><b>$</b><span>69</span><small>Per Bottle</small></h3>
+                                            </div>
+                                            <div class="common-list">
+                                                <ul>
+                                                    <li>You save $360!</li>
+                                                    <li>180 Days Guarantee</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="offers-btn">
+                                        <a href="#buy-now" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                    </div>
+                                    <div class="payments-block">
+                                        <ul>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                            <li>
+                                                <figure>
+                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                </figure>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="offers-total">
+                                        <p>TOTAL: <span>$537</span> <strong>$207</strong></p>
+                                        <p><span class="free-shipping">Free</span> Shipping</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Offers End -->
+
+    <!-- Offers Start -->
     <!--<section class="offers-wrp" style="background-color: var(--sky);">
         <div class="container">
             <div class="offers-main">
@@ -925,242 +1165,10 @@
             </div>
         </div>
     </section>-->
-    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
-        <div class="container">
-            <div class="offers-main">
-                <div class="section-title">
-                    <h2>Claim Your Discounted <span>LEPTOZAN</span> Now <span>While Supplies Last!</span></h2>
-                </div>
-                <div class="offers-section">
-                    <div class="row align-items-center">
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-3 order-md-1">
-                            <!-- Desktop Structure -->
-                            <div class="offers-block desktop-view">
-                                <div class="offers-block-title">
-                                    <div class="section-title">
-                                        <h2>2 for You</h2>
-                                    </div>
-                                    <div class="large-detail">
-                                        <p>60 Days, 2 Bottles</p>
-                                    </div>
-                                </div>
-                                <div class="offers-inner">
-                                    <!--<div class="offers-product-img">
-                                        <figure>
-                                            <img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
-                                        </figure>
-                                    </div>
-                                    <div class="offers-product-price">
-                                        <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
-                                    </div>
-                                    <div class="common-list">
-                                        <ul>
-                                            <li>You save $200!</li>
-                                            <li>180 Days Guarantee</li>
-                                        </ul>
-                                    </div>-->
-
-                                    <div class="offers-content-wrapper">
-
-                                        <!-- Your existing product image code -->
-                                        <div class="offers-product-img">
-                                            <figure>
-                                                <img src="/images/offers-img-1-new.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
-                                            </figure>
-                                        </div>
-
-                                        <div class="offers-info-wrapper">
-                                            <!-- Price and list content -->
-                                            <div class="offers-product-price">
-                                                <!-- Your existing price code -->
-                                                <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
-                                            </div>
-                                            <div class="common-list">
-                                                <!-- Your existing list code -->
-                                                <ul>
-                                                    <li>You save $200!</li>
-                                                    <li>180 Days Guarantee</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="offers-btn">
-                                        <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
-                                    </div>
-                                    <div class="payments-block">
-                                        <ul>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="offers-total">
-                                        <p>TOTAL: <span>$358</span> <strong>$158</strong></p>
-                                        <p>+ 9.95 Shipping</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-1 order-md-2">
-                            <div class="offers-block best-offer-block">
-                                <div class="offers-block-title">
-                                    <div class="section-title">
-                                        <h2>Best Offer!</h2>
-                                    </div>
-                                    <div class="large-detail">
-                                        <p>180 Days, 6 Bottles</p>
-                                    </div>
-                                </div>
-                                <div class="offers-inner">
-                                    <div class="offers-content-wrapper">
-                                        <div class="offers-product-img">
-                                            <figure>
-                                                <img src="/images/offers-img-2-new.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
-                                            </figure>
-                                        </div>
-                                        <div class="offers-info-wrapper">
-                                            <!-- Price and list content -->
-                                            <div class="offers-product-price">
-                                                <h3><b>$</b><span>49</span><small>Per Bottle</small></h3>
-                                            </div>
-                                            <div class="common-list">
-                                                <ul>
-                                                    <li>You save $780!</li>
-                                                    <li>Biggest Discount</li>
-                                                    <li>180 Days Guarantee</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
 
 
-                                    <div class="offers-btn">
-                                        <a href="#buy-now" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
-                                    </div>
-                                    <div class="payments-block">
-                                        <ul>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="offers-total">
-                                        <p>TOTAL: <span>$1074</span> <strong>$294</strong></p>
-                                        <p><span class="free-shipping">Free</span> Shipping</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-2 order-md-3">
-                            <div class="offers-block">
-                                <div class="offers-block-title">
-                                    <div class="section-title">
-                                        <h2>3 for You</h2>
-                                    </div>
-                                    <div class="large-detail">
-                                        <p>90 Days, 3 Bottles</p>
-                                    </div>
-                                </div>
-                                <div class="offers-inner">
-                                    <div class="offers-content-wrapper">
-                                        <div class="offers-product-img">
-                                            <figure>
-                                                <img src="/images/offers-img-3-new.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <!--<img src="/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
-                                            </figure>
-                                        </div>
-                                        <div class="offers-info-wrapper">
-                                            <!-- Price and list content -->
-                                            <div class="offers-product-price">
-                                                <h3><b>$</b><span>69</span><small>Per Bottle</small></h3>
-                                            </div>
-                                            <div class="common-list">
-                                                <ul>
-                                                    <li>You save $360!</li>
-                                                    <li>180 Days Guarantee</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
 
 
-                                    <div class="offers-btn">
-                                        <a href="#buy-now" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
-                                    </div>
-                                    <div class="payments-block">
-                                        <ul>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                            <li>
-                                                <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
-                                                </figure>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="offers-total">
-                                        <p>TOTAL: <span>$537</span> <strong>$207</strong></p>
-                                        <p><span class="free-shipping">Free</span> Shipping</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Offers End -->
 
     <!-- References Start -->
     <section class="references-wrp">
