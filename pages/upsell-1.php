@@ -131,7 +131,7 @@
     </section>
 
 	<!-- special-deal-section -->
-	<section class="upsell-special-deal-section special-deal-section" style="background: var(--grey3); display: none">
+	<section class="upsell-special-deal-section special-deal-section" style="background: var(--grey3);display: none">
 		<div class="container">
 			<div class="special-deal-wrap">
 				<div class="special-deal-detail text-center">
@@ -208,7 +208,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="details-bottom text-center">
+				<div class="details-bottom text-center" style="color: black; font-weight: bold">
 					<p><a class="no-thanks-link" href="#">No, Thanks.</a> <a href="#" class="details-bottom-text no-thanks-link">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer.</a></p>
 				</div>
 			</div>
