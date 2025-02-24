@@ -640,7 +640,7 @@
                             <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <div class="detail">
-                                        <p>Many customers begin noticing changes within the first few weeks of using Leptozan. However, for optimal results, we recommend taking it daily for at least three months, as weight loss is a gradual process.</p>
+                                        <p>Many customers begin noticing changes within few weeks of using Leptozan. However, for optimal results, we recommend taking it daily for at least three months, as weight loss is a gradual process.</p>
                                     </div>
                                 </div>
                             </div>
