@@ -1,4 +1,47 @@
 $(document).ready(function() {
+    // Function to get URL parameters
+    function getUrlParameter(name) {
+        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+        const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+        const results = regex.exec(location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }
+
+    // Define pricing configuration for different SKUs
+        const pricingConfig = {
+            'lepto-us-01': {
+                startPrice: 177,
+                endPrice: 98
+            },
+            'lepto-us-03': {
+                startPrice: 294,
+                endPrice: 117
+            },
+            'lepto-us-06': {
+                startPrice: 351,
+                endPrice: 174
+            },
+            // Add more SKU pricing configurations as needed
+            'default': {
+                startPrice: 177,
+                endPrice: 98
+            }
+        };
+
+    // Get the SKU from the URL
+    const sku = getUrlParameter('sku');
+
+    // Set prices based on the SKU (use default if SKU not found in config)
+    const { startPrice, endPrice } = pricingConfig[sku] || pricingConfig['default'];
+
+    console.log(`SKU: ${sku}`);
+    console.log(`Start Price: $${startPrice}`);
+    console.log(`End Price: $${endPrice}`);
+
+
+
+
+
     let scrollsCounter = 0;
     let priceAnimationTriggered = false; // Flag to track if animation has run
     const upsellContent = $('.vsl-banner-wrp, .upsell-special-deal-section');
@@ -11,8 +54,8 @@ $(document).ready(function() {
         // Animate the total price from 79 to 58
         const totalPriceElementOne = noThanksContent.find(".right-details .saving-details span"); // Target the span containing 79
         const totalPriceElementTwo = noThanksContent.find(".btn-contain .btn-orange .price"); // Target the span containing 79
-        const startPrice = 177;
-        const endPrice = 98;
+        /*const startPrice = 177;
+        const endPrice = 98;*/
         const totalDuration = 3000; // Total animation duration in milliseconds
         const stepTime = 50; // Time between updates in milliseconds
 

@@ -153,7 +153,7 @@
 								</div>
 								<div class="special-deal-img text-center" style="background-color: var(--white);">
 									<figure>
-										<img width="400" src="/images/offers-img-3.png" alt="order-img" class="img-fluid">
+										<img width="400" src="/images/3-bottles.png" alt="order-img" class="img-fluid">
 									</figure>
 								</div>
 							</div>
@@ -240,7 +240,7 @@
                                 </div>
                                 <div class="special-deal-img text-center" style="background-color: var(--white);">
                                     <figure>
-                                        <img width="400" src="/images/offers-img-1.png" alt="order-img" class="img-fluid">
+                                        <img width="400" src="/images/2-bottles.png" alt="order-img" class="img-fluid">
                                     </figure>
                                 </div>
                             </div>
