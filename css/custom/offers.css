@@ -225,10 +225,11 @@
     margin-bottom: 0;
 }
 
+
+
 .offers-total .free-shipping {
-    color: #F67930!important;
-    position: unset;
-    margin: unset;
+    color: #F67930;
+    font-style: normal;
     font-weight: bold;
 }
 
