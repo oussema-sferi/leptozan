@@ -93,7 +93,7 @@
 .best-offer-block .offers-product-img .bottle-img {
     /*width: 160px;
     height: 175px;*/
-    width: 280px;
+    width: 325px;
     height: 288px;
 }
 
@@ -352,9 +352,9 @@
     }
 
     .best-offer-block .offers-product-img .bottle-img {
-        object-fit: unset!important;
+        object-fit: contain;
         width: 130px!important;
-        height: 145px;
+        height: auto;
         /*height: 140px!important;*/
         /*max-height: 180px;*/
 

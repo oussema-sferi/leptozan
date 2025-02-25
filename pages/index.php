@@ -737,40 +737,22 @@
                                     </div>
                                 </div>
                                 <div class="offers-inner">
-                                    <!--<div class="offers-product-img">
-                                        <figure>
-                                            <img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
-                                        </figure>
-                                    </div>
-                                    <div class="offers-product-price">
-                                        <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
-                                    </div>
-                                    <div class="common-list">
-                                        <ul>
-                                            <li>You save $200!</li>
-                                            <li>180 Days Guarantee</li>
-                                        </ul>
-                                    </div>-->
-
                                     <div class="offers-content-wrapper">
 
-                                        <!-- Your existing product image code -->
                                         <div class="offers-product-img">
                                             <figure>
-                                                <!--<img src="/images/offers-img-1-new.png" alt="offers-img" class="img-fluid bottle-img">-->
                                                 <img src="/images/2-bottles.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
 
                                         <div class="offers-info-wrapper">
-                                            <!-- Price and list content -->
+
                                             <div class="offers-product-price">
-                                                <!-- Your existing price code -->
+
                                                 <h3><b>$</b><span>79</span><small>Per Bottle</small></h3>
                                             </div>
                                             <div class="common-list">
-                                                <!-- Your existing list code -->
+
                                                 <ul>
                                                     <li>You save $200!</li>
                                                     <li>180 Days Guarantee</li>
@@ -848,7 +830,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="#buy-now" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -882,7 +864,7 @@
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 col-xl-4 col-xxl-4 order-2 order-md-3">
-                            <div class="offers-block">
+                            <div class="offers-block desktop-view">
                                 <div class="offers-block-title">
                                     <div class="section-title">
                                         <h2>3 for You</h2>
@@ -915,7 +897,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="#buy-now" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
