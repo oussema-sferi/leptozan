@@ -497,8 +497,19 @@
 
                         <div class="supply-banner-img">
                             <figure>
-                                <img src="/images/glucozan/banner-card@2x.png" alt="Banner">
+                                <a href="#" class="banner-popup-trigger">
+                                    <img src="/images/glucozan/banner-card@2x.png" alt="Banner">
+                                    <span class="zoom-icon"><i class="fas fa-search-plus"></i></span>
+                                </a>
                             </figure>
+                        </div>
+                    </div>
+
+                    <!-- Lightbox Popup -->
+                    <div id="banner-lightbox" class="lightbox-overlay">
+                        <div class="lightbox-container">
+                            <span class="lightbox-close">&times;</span>
+                            <img class="lightbox-image" src="/images/glucozan/banner-card@2x.png" alt="Banner">
                         </div>
                     </div>
 
