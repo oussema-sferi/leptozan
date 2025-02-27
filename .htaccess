@@ -67,8 +67,13 @@ RewriteRule ^old-index/?$ pages/old-index.php [L]
 # Redirect https://www.leptozan.com/glucozan-index/ to /pages/glucozan-index.php
 #RewriteRule ^glucozan/home/?$ pages/glucozan-index.php [L]
 
+# Redirect https://www.leptozan.com/upsell-oto-02/ to /pages/glucozan-index-backup.php
+RewriteRule ^glucozan/home/?$ pages/glucozan-index-backup.php [L]
+
 # Redirect https://www.leptozan.com/upsell-oto-02/ to /pages/glucozan-index.php
 RewriteRule ^upsell-oto-02/?$ pages/glucozan-index.php [L]
+
+
 
 <IfModule mod_headers.c>
 Header set Cache-Control "private"
