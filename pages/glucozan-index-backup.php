@@ -2,9 +2,8 @@
 <html lang="en">
     <head>
         <!-- header start -->
-        <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/glucozan/header.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/glucozan/backup/header.php'; ?>
         <!-- header end -->
-
         <title>Glucozan</title>
     </head>
     <body>

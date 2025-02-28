@@ -857,9 +857,9 @@ h1,h2{
     line-height: 30px;
 }
 .btn-secondary:hover{
-    background: #252525!important;
-    border-color: #252525!important;
-    color: #fff!important;
+    background: #252525;
+    border-color: #252525;
+    color: #fff;
 }
 .price-notebox .btn-secondary{
     margin: 0 auto;
@@ -887,76 +887,6 @@ h1,h2{
     width: 100%;
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
     border-radius: 6px;
-}
-
-/* Banner Formula Image Popup Styling */
-.supply-banner-img figure {
-    position: relative;
-    overflow: hidden;
-    cursor: pointer;
-}
-
-.supply-banner-img .zoom-icon {
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    border-radius: 50%;
-    width: 32px;
-    height: 32px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0.7;
-    transition: opacity 0.3s ease;
-}
-
-.supply-banner-img figure:hover .zoom-icon {
-    opacity: 1;
-}
-
-/* Lightbox Styling */
-.lightbox-overlay {
-    display: none;
-    position: fixed;
-    z-index: 9999;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgba(0, 0, 0, 0.9);
-}
-
-.lightbox-container {
-    position: relative;
-    margin: auto;
-    padding: 0;
-    width: 90%;
-    max-width: 900px;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.lightbox-image {
-    max-width: 100%;
-    max-height: 90vh;
-    object-fit: contain;
-}
-
-.lightbox-close {
-    position: absolute;
-    top: -30px;
-    right: 10px;
-    color: #f1f1f1;
-    font-size: 40px;
-    font-weight: bold;
-    cursor: pointer;
 }
 
 .scientific-references-block .row{
@@ -1363,7 +1293,6 @@ footer{
 .pay-notebx{
     max-width: 895px;
 }
-
 .pay-notebx p{
     font-size: 18px;
     font-weight: normal;
@@ -1371,15 +1300,5 @@ footer{
     line-height: 28px;
     text-align: center;
     margin: 0;
-}
-
-.pay-notebx p:hover{
-    color: #871127!important;
-}
-
-#no-thanks-button {
-    background-color: #FFDE21;
-    color: black;
-    border-color: black;
 }
 /* ***** End No Thanks Page ***** */

@@ -635,7 +635,7 @@
                                         <div class="discount-row">
                                             <ul>
                                                 <li>
-                                                    <h4><sup>$</sup>17.40 <span>per <br>bottle</span></h4>
+                                                    <h4><sup>$</sup>29 <span>per <br>bottle</span></h4>
                                                 </li>
                                                 <li>
                                                     <p>SAVE <sup>$</sup>258</p>
@@ -675,7 +675,9 @@
                         </div>
 
                         <div class="pay-notebx">
-                            <p>David, I'm turning down your Glucozan offer. I’m choosing to ignore this golden opportunity to accellerate my fat loss, and I know I won't be able to get Glucozan anywhere else, but I'm set on taking the more challenging route, regardless of the potential setbacks. Thanks for the offer, but I want to do things the hard way.</p>
+                            <a href="">
+                            <p>No thanks, I'm turning down your Glucozan offer. I’m choosing to ignore this golden opportunity to accellerate my fat loss, and I know I won't be able to get Glucozan anywhere else, but I'm set on taking the more challenging route, regardless of the potential setbacks. Thanks for the offer, but I want to do things the hard way.</p>
+                            </a>
                         </div>
                     </div>
                 </div>
