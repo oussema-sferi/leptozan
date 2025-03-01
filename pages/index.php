@@ -198,27 +198,27 @@
                 <div class="ingredients-logos-main">
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/ingredients/logo-1.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-1.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/ingredients/logo-2.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-2.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/ingredients/logo-3.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-3.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/ingredients/logo-4.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-4.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="ingredients-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/ingredients/logo-5.png" alt="logo" class="img-fluid">
+                            <img src="/images/leptozan-new-logos/guarantee/logo-5.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                 </div>
