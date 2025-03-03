@@ -354,7 +354,7 @@
 
                         <div class="row">
                             <div class="col-md-4 col-sm-12">
-                                <div class="pricing-block">
+                                <div class="pricing-block first">
                                     <div class="pricing-top">
                                         <h3>1 Bottle</h3>
                                         <h6>1-Month Supply</h6>
@@ -362,7 +362,10 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/product-img1.png" alt="Product">
+                                            <img src="/images/glucozan/1.webp" alt="Product">
+                                            <div class="guarantee-badge">
+                                                <img src="/images/guarantee-badge.png" alt="Guarantee">
+                                            </div>
                                         </figure>
                                     </div>
 
@@ -397,7 +400,10 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/product-img2.png" alt="Product">
+                                            <img src="/images/glucozan/6.webp" alt="Product">
+                                            <div class="guarantee-badge">
+                                                <img src="/images/guarantee-badge.png" alt="Guarantee">
+                                            </div>
                                         </figure>
                                     </div>
 
@@ -431,7 +437,10 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/product-img3.png" alt="Product">
+                                            <img src="/images/glucozan/3.webp" alt="Product">
+                                            <div class="guarantee-badge">
+                                                <img src="/images/guarantee-badge.png" alt="Guarantee">
+                                            </div>
                                         </figure>
                                     </div>
 
