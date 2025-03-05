@@ -819,12 +819,15 @@ h1,h2{
 @media (min-width: 992px) {
 
     .price-row .row {
-        margin-top: 110px;
+        margin-top: 90px;
     }
 
     .pricing-block.popular-block {
-        margin-top: -62px;
+        margin-top: -38px;
 
+    }
+    .popular-block .product-img {
+        padding: 32px 5px 56px!important;
     }
 }
 
@@ -848,7 +851,6 @@ h1,h2{
     color: #fff;
     text-transform: uppercase;
     padding: 8px;
-    text-align: center;
 }
 .popular-block .pricing-top h6,
 .popular-block .pricing-top h3{
