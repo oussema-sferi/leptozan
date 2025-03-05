@@ -221,12 +221,12 @@
 		width: 95px;
 		/*height: 60px;
 		transform: translate(0, 0);*/
-		top: 35px;
+		top: 45px;
 		right: 10px;
 	}
 	.pricing-wrp .first .guarantee-badge {
 		/* Your specific styles for the first bottle */
-		top: 10px;
+		top: 40px;
 		right: 58px;
 	}
 }

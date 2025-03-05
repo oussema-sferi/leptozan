@@ -362,7 +362,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/1.webp" alt="Product">
+                                            <img src="/images/glucozan/1.png" alt="Product">
                                             <div class="guarantee-badge">
                                                 <img src="/images/guarantee-badge.png" alt="Guarantee">
                                             </div>
@@ -400,7 +400,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/6.webp" alt="Product">
+                                            <img src="/images/glucozan/6.png" alt="Product">
                                             <div class="guarantee-badge">
                                                 <img src="/images/guarantee-badge.png" alt="Guarantee">
                                             </div>
@@ -437,7 +437,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/3.webp" alt="Product">
+                                            <img src="/images/glucozan/3.png" alt="Product">
                                             <div class="guarantee-badge">
                                                 <img src="/images/guarantee-badge.png" alt="Guarantee">
                                             </div>

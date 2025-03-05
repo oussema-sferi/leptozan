@@ -648,11 +648,24 @@ h1,h2{
 .price-row .row{align-items: center;}
 .pricing-block{
     background: #FFFFFF;
+    cursor: pointer;
     border: 5px solid #6F68AF;
     box-shadow: 0px 30px 50px rgba(0, 0, 0, 0.20);
     border-radius: 12px;
     position: relative;
     overflow: hidden;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.pricing-block:hover {
+    transform: scale(1.025);
+    -webkit-transform: scale(1.025);
+    -moz-transform: scale(1.025);
+    -ms-transform: scale(1.025);
+    -o-transform: scale(1.025);
 }
 .pricing-top{
     padding: 24px 16px;
@@ -683,7 +696,7 @@ h1,h2{
 }
 .product-img img{
     /*height: 100%;*/
-    width: 77%;
+    width: 100%;
     /*width: 260px;
     height: 300px;*/
     margin: 0 auto;
@@ -714,6 +727,7 @@ h1,h2{
     color: #686868;
     line-height: 24px;
     font-family: "Inter", serif;
+    padding: 0 5px;
 }
 .product-databx h3 b{
     font-size: 44px;
@@ -800,6 +814,20 @@ h1,h2{
     width: 100%;
     border-radius: 6px;
 }
+
+
+@media (min-width: 992px) {
+
+    .price-row .row {
+        margin-top: 110px;
+    }
+
+    .pricing-block.popular-block {
+        margin-top: -62px;
+
+    }
+}
+
 
 .popular-block{
     border-color: #AB2D4C;
@@ -1151,9 +1179,9 @@ footer{
 .stop-pricing-wrp .product-img{
     padding: 32px 5px 0;
 }
-.stop-pricing-wrp .product-img img{
+/*.stop-pricing-wrp .product-img img{
     height: 245px;
-}
+}*/
 .stop-pricing-wrp .product-databx h6{
     margin: 16px auto 10px;
 }
@@ -1271,7 +1299,7 @@ footer{
     margin: 0 0 0 15px;
 }
 .stop-pricing-wrp .popular-block .product-img img{
-    height: 367px;
+    /*height: 367px;*/
 }
 .free-box{
     margin: 40px 0;
@@ -1403,8 +1431,8 @@ footer{
 
 .guarantee-badge {
     position: absolute;
-    top: 35px;
-    right: 35px;
+    top: 65px;
+    right: 10px;
     width: 80px; /* Adjust size as needed */
     height: 80px; /* Adjust size as needed */
     z-index: 2;
@@ -1419,6 +1447,11 @@ footer{
 /* Alternative selector if the above doesn't work */
 .pricing-wrp .first .guarantee-badge {
     /* Your specific styles for the first bottle */
-    top: 10px;
+    top: 57px;
     right: 80px;
 }
+
+/*.pricing-wrp .first .product-img img {
+   width: 77%!important;
+    height: auto;
+}*/
