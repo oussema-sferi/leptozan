@@ -1,0 +1,409 @@
+@charset "utf-8";
+
+/*========== Common Style Start ==========*/
+@import url('custom/common-style.css');
+/*========== Common Style End ==========*/
+
+/*========== Header Start ==========*/
+@import url('custom/header.css');
+/*========== Header End ==========*/
+
+/*========== Footer Start ==========*/
+@import url('custom/footer.css');
+/*========== Footer End ==========*/
+
+/*========== Banner Start ==========*/
+@import url('custom/banner.css');
+/*========== Banner End ==========*/
+
+/*========== Upsell Page Start ==========*/
+@import url('custom/upsell.css');
+/*========== Upsell Page End ==========*/
+
+/*========== Offers Page Start ==========*/
+@import url('custom/offers.css');
+/*========== Offers Page End ==========*/
+
+/*========== Healthy Page Start ==========*/
+/*@import url('custom/healthy.css');*/
+/*========== Healthy Page End ==========*/
+
+/*========== New Healthy Page Start ==========*/
+@import url('custom/new-healthy.css');
+/*========== New Healthy Page End ==========*/
+
+/*========== Fat Loss Ingredients Start ==========*/
+@import url('custom/ingredients.css');
+/*========== Fat Loss Ingredients End ==========*/
+
+/*========== Thank You Page Start ==========*/
+@import url('custom/faq.css');
+/*========== Thank You Page End ==========*/
+
+/*========== Guarantee Start ==========*/
+@import url('custom/guarantee.css');
+/*========== Guarantee End ==========*/
+
+/*========== Vsl Page Start ==========*/
+@import url('custom/vsl.css');
+/*========== Vsl Page End ==========*/
+
+/*========== Vsl Page Start ==========*/
+@import url('custom/references.css');
+/*========== Vsl Page End ==========*/
+
+/*========== Contact Page Start ==========*/
+@import url('custom/contact.css');
+/*========== Contact Page End ==========*/
+
+/*========== Vsl Opened Page End ==========*/
+@import url('custom/vsl-opened.css');
+/*========== Vsl Opened Page End ==========*/
+
+/*========== Thank You Page Start ==========*/
+@import url('custom/thank-you.css');
+/*========== Thank You Page End ==========*/
+
+/*========== Privacy Policy Page Start ==========*/
+@import url('custom/privacy-policy.css');
+/*========== Privacy Policy Page End ==========*/
+
+/*---------- Google Fonts ----------*/
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+/* font-family: "DM Sans", serif; */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+/* font-family: "Inter", serif; */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@700&display=swap');
+/* font-family: "Fira Sans Condensed", serif; */
+
+:root {
+	--white: #fff;
+	--orange: #F47929;
+	--black: #171717;
+	--teal: #41A3A3;
+	--lightCyan: #75D2D4;
+	--yellow: #FAA634;
+	--sky: #D4F1F2;
+	--orange50: #FEF2EA;
+	--grey3: #F6F6F6;
+	--grey4: #F1F1F1;
+	--grey5: #DCDCDC;
+}
+
+body {
+	font-family: "Inter", serif;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 400;
+	background-color: var(--white);
+	color: var(--black);
+}
+
+figure {
+	margin: 0;
+}
+
+a,
+input,
+button,
+textarea {
+	outline: none !important;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+	transition: all ease-in-out 300ms;
+	-webkit-transition: all ease-in-out 300ms;
+	-ms-transition: all ease-in-out 300ms;
+	-o-transition: all ease-in-out 300ms;
+	-moz-transition: all ease-in-out 300ms;
+}
+
+.container-fluid,
+.container {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.row {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.row>* {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+p {
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	color: inherit;
+}
+
+p a {
+	text-decoration: none;
+	color: inherit;
+}
+
+p a:hover {
+	color: var(--orange);
+}
+
+ul li,
+ol li {
+	font-size: inherit;
+	line-height: inherit;
+	color: inherit;
+}
+
+ul li a,
+ol li a {
+	text-decoration: none;
+	color: inherit;
+}
+
+ul li a:hover,
+ol li a:hover {
+	color: var(--orange);
+}
+
+
+/*==================================================================*/
+/*========== New Class Add Start ==========*/
+/*==================================================================*/
+
+
+/*========== Home Page Start ==========*/
+
+
+/*========== Home Page End ==========*/
+
+
+/*==================================================================*/
+/*========== New Class Add End ==========*/
+/*==================================================================*/
+
+
+/*==================================================================*/
+/*========== Custom Styles Start ==========*/
+/*==================================================================*/
+
+.make-bold {
+	font-weight: bold;
+}
+
+.make-italic {
+	font-style: italic;
+}
+
+/*.header {
+	!*height: 75px;*! !* Adjust as needed *!
+	line-height: 75px; !* Vertically center the content *!
+	position: sticky;
+	z-index: 1050; !* Ensure it stays above other elements *!
+	!*background-color: #7fcccc;*! !* Maintain the navbar's background color *!
+	background-color: #a4dbdb; !* Maintain the navbar's background color *!
+	!*box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);*! !* Optional shadow for better visibility *!
+	transition: background-color 0.3s, box-shadow 0.3s; !* Smooth transition when it sticks *!
+	margin: 0;
+	padding: 0;
+	!*position: fixed;*!
+	top: 0;
+	left: 0;
+	right: 0;
+	opacity: 0.85;
+}*/
+
+
+
+/* For smaller screens */
+/*@media (max-width: 768px) {
+	.header {
+		height: 60px; !* Adjust height for smaller screens *!
+		line-height: 60px;
+	}
+}*/
+
+/* Remove margin or padding from the next section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-toggler {
+	border: none;
+	/* Adjust color as needed */
+}
+
+.navbar-toggler-icon {
+	background-image: url("data:image/svg+xml;charset=UTF8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba%28255, 255, 255, 0.7%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.collapse.show {
+
+	padding: 10px 0;
+}
+
+
+.navbar {
+	margin: 0;
+	padding: 0;
+	box-shadow: none; /* Optional: Remove shadow if it causes visual issues */
+}
+.navbar-toggler {
+	margin: 0;
+	padding: 0;
+}
+
+.header-mobile-view {
+	display: none;
+}
+
+/*@media (max-width: 768px) {
+	.header {
+		position: fixed;
+		top: 0!important;
+		margin: 0 !important;
+		padding: 0 !important;
+		left: 0 !important;
+		right: 0;
+		bottom: 0;
+		z-index: 1000;
+		width: 100%;
+		!* Ensure it has a background to prevent transparency issues *!
+
+		max-height: 100px;
+	}
+
+	.header .navbar-brand {
+		margin: 0 0 0 32px;
+	}
+	.ingredients-wrp {
+		padding: 48px 20px 24px!important;
+	}
+	.inner-bnr-wrp {
+
+		margin: 100px 0!important;
+		min-height: 190px!important;
+
+	}
+
+	.header .navbar {
+		overflow: visible;
+		position: relative;
+		z-index: 1000;
+	}
+	.header .navbar-collapse {
+		transition: all 0.3s ease-in-out;
+		top: 100%; !* Place the expanded menu below the navbar *!
+		left: 0;
+		right: 0;
+		border-top: 1px solid #ddd; !* Optional: Add a border for separation *!
+		text-align: center;
+	}
+	.navbar-collapse.show {
+		 !* Ensure it displays vertically when expanded *!
+		max-height: 470px; !* Adjust the height as per the number of menu items *!
+	}
+
+
+	!*Hide navbar in mobile*!
+	.navbar-desktop-view {
+		display: none;
+	}
+
+	!*Show logo in mobile*!
+	.header-mobile-view {
+		display: block; !* Show only on mobile/tablet *!
+	}
+
+	.mobile-view-logo-container {
+		margin: 0 25px 0;
+	}
+
+}*/
+
+
+
+/* Media query for mobile view */
+
+/* Mobile view styles */
+/* Default: Desktop View */
+.desktop-view {
+	display: block;
+}
+
+.mobile-view {
+	display: none;
+}
+
+/* Mobile View */
+/*@media (max-width: 768px) {
+	.desktop-view {
+		display: none;
+	}
+
+	.mobile-view {
+		display: block;
+	}
+}*/
+
+
+
+
+
+
+
+.navbar-logo {
+	transition: all 0.3s ease; /* Smooth resizing */
+	width: 120px; /* Default size */
+}
+
+.navbar-logo.shrink {
+	width: 70px; /* Smaller size on scroll */
+}
+/*==================================================================*/
+/*========== Custom Styles End ==========*/
+/*==================================================================*/

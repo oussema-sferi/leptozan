@@ -1,23 +1,50 @@
 # Enable Rewrite Engine
 RewriteEngine On
 
-# Redirect root domain to pages/index.php
+# If the request is directly for /cb/, serve from cb/pages/index.php
+RewriteRule ^cb/?$ cb/pages/index.php [L]
+
+# Process the URLs inside the /cb directory
+RewriteCond %{REQUEST_URI} ^/cb/
+RewriteRule ^cb/newdiscovery/?$ cb/pages/vsl-opened.php [L]
+RewriteRule ^cb/upsell-no-thanks/?$ cb/pages/upsell-nothanks.php [L]
+
+# Redirect upsell-oto-01/ based on SKU parameter within /cb
+RewriteCond %{REQUEST_URI} ^/cb/
+RewriteCond %{QUERY_STRING} ^sku=lepto-us-01$ [NC]
+RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-1.php [L]
+
+RewriteCond %{REQUEST_URI} ^/cb/
+RewriteCond %{QUERY_STRING} ^sku=lepto-us-03$ [NC]
+RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-3.php [L]
+
+RewriteCond %{REQUEST_URI} ^/cb/
+RewriteCond %{QUERY_STRING} ^sku=lepto-us-06$ [NC]
+RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-6.php [L]
+
+# Default redirect if no SKU matches within /cb
+RewriteCond %{REQUEST_URI} ^/cb/
+RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-1.php [L]
+
+# Other redirects within /cb
+RewriteCond %{REQUEST_URI} ^/cb/
+RewriteRule ^cb/typ/?$ cb/pages/thank-you.php [L]
+RewriteRule ^cb/terms/?$ cb/pages/terms.php [L]
+RewriteRule ^cb/shipping-policy/?$ cb/pages/shipping-policy.php [L]
+RewriteRule ^cb/refund-policy/?$ cb/pages/refund.php [L]
+RewriteRule ^cb/references/?$ cb/pages/references.php [L]
+RewriteRule ^cb/privacy/?$ cb/pages/privacy-policy.php [L]
+RewriteRule ^cb/disclaimer/?$ cb/pages/disclaimer.php [L]
+RewriteRule ^cb/contact/?$ cb/pages/contact.php [L]
+RewriteRule ^cb/vsl/?$ cb/pages/vsl.php [L]
+RewriteRule ^cb/old-index/?$ cb/pages/old-index.php [L]
+RewriteRule ^cb/glucozan/home/?$ cb/pages/glucozan-index-backup.php [L]
+RewriteRule ^cb/upsell-oto-02/?$ cb/pages/glucozan-index.php [L]
+
+# Process the regular URLs (for the original site)
 RewriteRule ^$ pages/index.php [L]
-
-# Ensure trailing slash for all URLs except files
-RewriteCond %{REQUEST_URI} !\.[^./]+$ [NC]
-RewriteCond %{REQUEST_URI} !(.*)/$ [NC]
-RewriteRule ^(.*)$ /$1/ [L,R=301]
-
-# Redirect https://www.leptozan.com/vsl/ to /pages/vsl-opened.php
 RewriteRule ^newdiscovery/?$ pages/vsl-opened.php [L]
-
-# Redirect https://www.leptozan.com/upsell-oto-01/ to /pages/upsell-1.php
-#RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
-
-# Redirect https://www.leptozan.com/upsell-no-thanks/ to /pages/upsell-nothanks.php
 RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]
-
 
 # Redirect upsell-oto-01/ based on SKU parameter
 RewriteCond %{QUERY_STRING} ^sku=lepto-us-01$ [NC]
@@ -32,48 +59,24 @@ RewriteRule ^upsell-oto-01/?$ pages/upsell-6.php [L]
 # Default redirect if no SKU matches
 RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
 
-
-
-# Redirect https://www.leptozan.com/typ/ to /pages/thank-you.php
+# Other redirects
 RewriteRule ^typ/?$ pages/thank-you.php [L]
-
-# Redirect https://www.leptozan.com/terms/ to /pages/terms.php
 RewriteRule ^terms/?$ pages/terms.php [L]
-
-# Redirect https://www.leptozan.com/shipping-policy/ to /pages/shipping-policy.php
 RewriteRule ^shipping-policy/?$ pages/shipping-policy.php [L]
-
-# Redirect https://www.leptozan.com/refund-policy/ to /pages/refund.php
 RewriteRule ^refund-policy/?$ pages/refund.php [L]
-
-# Redirect https://www.leptozan.com/references/ to /pages/references.php
 RewriteRule ^references/?$ pages/references.php [L]
-
-# Redirect https://www.leptozan.com/privacy/ to /pages/privacy-policy.php
 RewriteRule ^privacy/?$ pages/privacy-policy.php [L]
-
-# Redirect https://www.leptozan.com/disclaimer/ to /pages/disclaimer.php
 RewriteRule ^disclaimer/?$ pages/disclaimer.php [L]
-
-# Redirect https://www.leptozan.com/contact/ to /pages/contact.php
 RewriteRule ^contact/?$ pages/contact.php [L]
-
-# Redirect https://www.leptozan.com/vsl/ to /pages/vsl.php
 RewriteRule ^vsl/?$ pages/vsl.php [L]
-
-# Test for Redirect https://www.leptozan.com/old-index/ to /pages/old-index.php
 RewriteRule ^old-index/?$ pages/old-index.php [L]
-
-# Redirect https://www.leptozan.com/glucozan-index/ to /pages/glucozan-index.php
-#RewriteRule ^glucozan/home/?$ pages/glucozan-index.php [L]
-
-# Redirect https://www.leptozan.com/upsell-oto-02/ to /pages/glucozan-index-backup.php
 RewriteRule ^glucozan/home/?$ pages/glucozan-index-backup.php [L]
-
-# Redirect https://www.leptozan.com/upsell-oto-02/ to /pages/glucozan-index.php
 RewriteRule ^upsell-oto-02/?$ pages/glucozan-index.php [L]
 
-
+# Ensure trailing slash for all URLs except files (keep this at the end)
+RewriteCond %{REQUEST_URI} !\.[^./]+$ [NC]
+RewriteCond %{REQUEST_URI} !(.*)/$ [NC]
+RewriteRule ^(.*)$ /$1/ [L,R=301]
 
 <IfModule mod_headers.c>
 Header set Cache-Control "private"

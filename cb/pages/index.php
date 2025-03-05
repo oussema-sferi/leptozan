@@ -1,4 +1,5 @@
 <?php
+// Add this at the top of each PHP file in the cb/pages directory
 // This will detect if the current request is coming from the /cb/ path
 $isCbPath = (str_starts_with($_SERVER['REQUEST_URI'], '/cb/'));
 // Then use this variable to prefix your links
