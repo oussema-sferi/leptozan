@@ -431,7 +431,7 @@
                             <div class="col-md-4 col-sm-12">
                                 <div class="pricing-block">
                                     <div class="pricing-top">
-                                        <h3>3 Bottle</h3>
+                                        <h3>3 Bottles</h3>
                                         <h6>3-Month Supply</h6>
                                     </div>
 
