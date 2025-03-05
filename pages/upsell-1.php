@@ -295,7 +295,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="details-bottom text-center">
+                <div class="details-bottom text-center" style="color: black; font-weight: bold">
                     <p><a href="#">No, Thanks.</a> <a href="#">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer. </a> </p>
                 </div>
             </div>
