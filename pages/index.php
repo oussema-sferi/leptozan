@@ -1,9 +1,3 @@
-<?php
-// This will detect if the current request is coming from the /cb/ path
-$isCbPath = (str_starts_with($_SERVER['REQUEST_URI'], '/cb/'));
-// Then use this variable to prefix your links
-$prefix = $isCbPath ? '/cb' : '';
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +14,7 @@ $prefix = $isCbPath ? '/cb' : '';
 <!-- Sticky Navbar -->
 <nav class="navbar navbar-expand-md fixed-navbar">
     <div class="container">
-        <a class="navbar-brand" href="<?php echo $prefix; ?>/">
+        <a class="navbar-brand" href="/">
             <img src="/images/logo.png" alt="logo" class="img-fluid">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#stickyNavbar"
@@ -345,7 +339,7 @@ $prefix = $isCbPath ? '/cb' : '';
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="<?php echo $prefix; ?>/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -413,7 +407,7 @@ $prefix = $isCbPath ? '/cb' : '';
 
 
                                     <div class="offers-btn">
-                                        <a href="<?php echo $prefix; ?>/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -480,7 +474,7 @@ $prefix = $isCbPath ? '/cb' : '';
 
 
                                     <div class="offers-btn">
-                                        <a href="<?php echo $prefix; ?>/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -768,7 +762,7 @@ $prefix = $isCbPath ? '/cb' : '';
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="<?php echo $prefix; ?>/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -836,7 +830,7 @@ $prefix = $isCbPath ? '/cb' : '';
 
 
                                     <div class="offers-btn">
-                                        <a href="<?php echo $prefix; ?>/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -903,7 +897,7 @@ $prefix = $isCbPath ? '/cb' : '';
 
 
                                     <div class="offers-btn">
-                                        <a href="<?php echo $prefix; ?>/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
