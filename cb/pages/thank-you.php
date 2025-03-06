@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <!-- header end -->
 
 <title>Leptozan</title>
@@ -62,7 +62,7 @@
 				</div>
 				<div class="order-validated-img">
 					<figure>
-						<img src="/images/Product.png" alt="Product" class="img-fluid">
+						<img src="/cb/images/Product.png" alt="Product" class="img-fluid">
 					</figure>
 				</div>
 			</div>
@@ -105,7 +105,7 @@
 					</div>
 					<div class="signature">
 						<figure>
-							<img src="/images/Signature.png" alt="Signature" class="img-fluid">
+							<img src="/cb/images/Signature.png" alt="Signature" class="img-fluid">
 						</figure>
 					</div>
 				</div>
@@ -118,12 +118,12 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<!--<script src="/js/custom/navbar.js"></script>-->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
+<!--<script src="/cb/js/custom/navbar.js"></script>-->
 <!-- scripts end -->
 
 </body>

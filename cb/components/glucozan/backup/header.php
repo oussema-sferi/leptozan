@@ -12,5 +12,5 @@
 <!-- End Fonts -->
 
 <!-- stylesheets start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/glucozan/backup/stylesheets.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/glucozan/backup/stylesheets.php'; ?>
 <!-- stylesheets end -->

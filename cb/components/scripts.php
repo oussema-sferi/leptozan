@@ -1,14 +1,14 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="/js/jquery-3.7.1.min.js"></script>
+<script src="/cb/js/jquery-3.7.1.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <!-- Bootstrap Bundle with Popper -->
-<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/cb/js/bootstrap.bundle.min.js"></script>
 <!-- Slick Slider -->
-<script src="/js/slick.min.js"></script>
+<script src="/cb/js/slick.min.js"></script>
 <!-- Font Awesome -->
-<script src="/js/all.min.js"></script>
+<script src="/cb/js/all.min.js"></script>
 <!-- ofi -->
-<script src="/js/ofi.min.js"></script>
+<script src="/cb/js/ofi.min.js"></script>
 
 <!-- Custom JS Scripts -->
-<script src="/js/script.js?v=<?php echo time(); ?>"></script>
+<script src="/cb/js/script.js?v=<?php echo time(); ?>"></script>

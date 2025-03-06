@@ -1,9 +1,9 @@
 <header class="">
     <div class="custom-header-container text-center">
         <div>
-            <a href="/">
+            <a href="/cb/">
                 <figure>
-                    <img src="/images/logo.png" alt="logo">
+                    <img src="/cb/images/logo.png" alt="logo">
                 </figure>
             </a>
         </div>

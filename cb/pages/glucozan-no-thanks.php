@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!-- Favicon & Title -->
-        <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/cb/cb/images/favicon.ico" />
         <title>Glucozan</title>
 
         <!-- Fonts -->
@@ -17,9 +17,9 @@
 
         <!-- CSS only -->
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
-        <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
-        <link rel="stylesheet" type="text/css" href="/css/glucozan/style.css" />
-        <link rel="stylesheet" type="text/css" href="/css/glucozan/responsive.css" />
+        <link rel="stylesheet" type="text/css" href="/cb/cb/css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="/cb/cb/css/glucozan/style.css" />
+        <link rel="stylesheet" type="text/css" href="/cb/cb/css/glucozan/responsive.css" />
     </head>
     <body>
         <div class="main-wrpper">
@@ -51,7 +51,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/no-pro1.png" alt="Product">
+                                            <img src="/cb/images/glucozan/no-pro1.png" alt="Product">
                                         </figure>
                                     </div>
 
@@ -87,13 +87,13 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/no-pro2.png" alt="Product">
+                                            <img src="/cb/images/glucozan/no-pro2.png" alt="Product">
                                         </figure>
                                     </div>
 
                                     <div class="free-box">
                                         <p>+</p>
-                                        <figure><img src="/images/glucozan/buy-one.png" alt="Product"></figure>
+                                        <figure><img src="/cb/images/glucozan/buy-one.png" alt="Product"></figure>
                                         <p>FREE</p>
                                     </div>
 
@@ -122,13 +122,13 @@
                         <div class="price-notebox">
                             <div class="include-rw">
                                 <figure>
-                                    <img src="/images/glucozan/include-img1@2x.png" alt="ICon">
+                                    <img src="/cb/images/glucozan/include-img1@2x.png" alt="ICon">
                                 </figure>
                                 <figure>
-                                    <img src="/images/glucozan/include-img2@2x.png" alt="ICon">
+                                    <img src="/cb/images/glucozan/include-img2@2x.png" alt="ICon">
                                 </figure>
                                 <figure>
-                                    <img src="/images/glucozan/include-img3@2x.png" alt="ICon">
+                                    <img src="/cb/images/glucozan/include-img3@2x.png" alt="ICon">
                                 </figure>
                             </div>
 
@@ -136,10 +136,10 @@
                                 <h6>ONE TIME PAYMENT</h6>
 
                                 <ul>
-                                    <li><figure><img src="/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
-                                    <li><figure><img src="/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
-                                    <li><figure><img src="/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
-                                    <li><figure><img src="/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
+                                    <li><figure><img src="/cb/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
+                                    <li><figure><img src="/cb/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
+                                    <li><figure><img src="/cb/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
+                                    <li><figure><img src="/cb/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
                                 </ul>
                             </div>
                         </div>
@@ -183,8 +183,8 @@
         </div>
 
         <!-- script -->
-        <script src="/js/jquery-3.7.1.min.js"></script>
-        <script src="/js/bootstrap.bundle.min.js"></script>
+        <script src="/cb/js/jquery-3.7.1.min.js"></script>
+        <script src="/cb/js/bootstrap.bundle.min.js"></script>
         <!-- End script -->
     </body>
 </html>

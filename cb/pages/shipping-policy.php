@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <!-- header end -->
 
 <title>Shipping</title>
@@ -11,8 +11,8 @@
 <body>
 
 <!-- header start -->
-<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; */?>
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/legal-custom-header.php'; ?>
+<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/navbar.php'; */?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/legal-custom-header.php'; ?>
 <!-- header end -->
 
 <!-- content start -->
@@ -108,7 +108,7 @@
 						<p><span class="make-bold">Leptozan</span> <br> a/s Returns66 <br> P.O. Box 90129 <br> Lakeland, FL 33804, USA</p>
 
 						<p>To ensure quick refund processing, let us know the tracking number for your return shipment.</p>
-						<p>By ordering from this website, you agree to all <a href="/terms/">Terms and Conditions</a>.</p>
+						<p>By ordering from this website, you agree to all <a href="/cb/terms/">Terms and Conditions</a>.</p>
 						<p>If you have questions about shipping or any other matter, please get in touch at  <a href="mailto:support@liptozan.com">support@liptozan.com</a>.</p>
 					</div>
 				</div>
@@ -121,12 +121,12 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<!--<script src="/js/custom/navbar.js"></script>-->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
+<!--<script src="/cb/js/custom/navbar.js"></script>-->
 <!-- scripts end -->
 
 </body>

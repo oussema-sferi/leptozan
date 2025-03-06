@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <!-- header start -->
-        <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/glucozan/backup/header.php'; ?>
+        <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/glucozan/backup/header.php'; ?>
         <!-- header end -->
         <title>Glucozan</title>
     </head>
@@ -12,7 +12,7 @@
 
         <div class="main-wrpper glucozan-home-page-section">
             <!-- Hero Banner -->
-            <section class="hero-banner" style="background-image:url('/images/glucozan/banner-image.jpg');">
+            <section class="hero-banner" style="background-image:url('/cb/images/glucozan/banner-image.jpg');">
                 <div class="container">
                     <div class="hero-header">
                         <ul>
@@ -68,7 +68,7 @@
                         <div class="col-md-4 col-sm-12">
                             <div class="dr-mitchell-img">
                                 <figure>
-                                    <img src="/images/glucozan/dr-mitchell.png" alt="Dr Mitchell">
+                                    <img src="/cb/images/glucozan/dr-mitchell.png" alt="Dr Mitchell">
                                 </figure>
                             </div>
                         </div>
@@ -119,7 +119,7 @@
                             <div class="col-md-6 col-sm-12">
                                 <div class="visious-img">
                                     <figure>
-                                        <img src="/images/glucozan/visious-img.png" alt="Vicious">
+                                        <img src="/cb/images/glucozan/visious-img.png" alt="Vicious">
                                     </figure>
                                 </div>
                             </div>
@@ -140,7 +140,7 @@
                             <div class="col-md-5 col-sm-12">
                                 <div class="discovering-img">
                                     <figure>
-                                        <img src="/images/glucozan/discovering-img.png" alt="discovering-img">
+                                        <img src="/cb/images/glucozan/discovering-img.png" alt="discovering-img">
                                     </figure>
                                 </div>
                             </div>
@@ -182,7 +182,7 @@
                         </div>
                         <div class="glucozan-img">
                             <figure>
-                                <img src="/images/glucozan/glucozan-img.png" alt="glucozan-img">
+                                <img src="/cb/images/glucozan/glucozan-img.png" alt="glucozan-img">
                             </figure>
                         </div>
                     </div>
@@ -194,7 +194,7 @@
                             <div class="why-glucozan-block">
                                 <div class="why-glucozan-img">
                                     <figure>
-                                        <img src="/images/glucozan/glucozan-img1.png" alt="glucozan-img">
+                                        <img src="/cb/images/glucozan/glucozan-img1.png" alt="glucozan-img">
                                     </figure>
                                 </div>
                                 <div class="why-glucozan-data">
@@ -207,7 +207,7 @@
                             <div class="why-glucozan-block">
                                 <div class="why-glucozan-img">
                                     <figure>
-                                        <img src="/images/glucozan/glucozan-img2.png" alt="glucozan-img">
+                                        <img src="/cb/images/glucozan/glucozan-img2.png" alt="glucozan-img">
                                     </figure>
                                 </div>
                                 <div class="why-glucozan-data">
@@ -220,7 +220,7 @@
                             <div class="why-glucozan-block">
                                 <div class="why-glucozan-img">
                                     <figure>
-                                        <img src="/images/glucozan/glucozan-img3.png" alt="glucozan-img">
+                                        <img src="/cb/images/glucozan/glucozan-img3.png" alt="glucozan-img">
                                     </figure>
                                 </div>
                                 <div class="why-glucozan-data">
@@ -258,7 +258,7 @@
                             <div class="col-md-5 col-sm-12">
                                 <div class="experience-img">
                                     <figure>
-                                        <img src="/images/glucozan/experience-img.png" alt="experience-img">
+                                        <img src="/cb/images/glucozan/experience-img.png" alt="experience-img">
                                     </figure>
                                 </div>
                             </div>
@@ -271,7 +271,7 @@
                             <div class="col-md-5 col-sm-12">
                                 <div class="potential-img">
                                     <figure>
-                                        <img src="/images/glucozan/potential-img.png" alt="Potential-img">
+                                        <img src="/cb/images/glucozan/potential-img.png" alt="Potential-img">
                                     </figure>
                                 </div>
                             </div>
@@ -302,7 +302,7 @@
 
                         <div class="experience-glucozan-img-shortbx">
                             <figure>
-                                <img src="/images/glucozan/full-potential-img.png" alt="full-potential-img">
+                                <img src="/cb/images/glucozan/full-potential-img.png" alt="full-potential-img">
                             </figure>
                         </div>
 
@@ -323,7 +323,7 @@
                 <div class="container">
                     <div class="riskfree-block">
                         <figure>
-                            <img src="/images/glucozan/money-backimg@2x.png" alt="Risk Free">
+                            <img src="/cb/images/glucozan/money-backimg@2x.png" alt="Risk Free">
                         </figure>
 
                         <h2>Try Glucozan <span>Risk-Free</span></h2>
@@ -361,7 +361,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/product-img1.png" alt="Product">
+                                            <img src="/cb/images/glucozan/product-img1.png" alt="Product">
                                         </figure>
                                     </div>
 
@@ -376,10 +376,10 @@
 
                                         <div class="pay-box">
                                             <ul>
-                                                <li><figure><img src="/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -396,7 +396,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/product-img2.png" alt="Product">
+                                            <img src="/cb/images/glucozan/product-img2.png" alt="Product">
                                         </figure>
                                     </div>
 
@@ -411,10 +411,10 @@
 
                                         <div class="pay-box">
                                             <ul>
-                                                <li><figure><img src="/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -430,7 +430,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/product-img3.png" alt="Product">
+                                            <img src="/cb/images/glucozan/product-img3.png" alt="Product">
                                         </figure>
                                     </div>
 
@@ -445,10 +445,10 @@
 
                                         <div class="pay-box">
                                             <ul>
-                                                <li><figure><img src="/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
-                                                <li><figure><img src="/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
+                                                <li><figure><img src="/cb/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -468,27 +468,27 @@
                             <ul>
                                 <li>
                                     <figure>
-                                        <img src="/images/glucozan/sup-logo1.svg" alt="Supply">
+                                        <img src="/cb/images/glucozan/sup-logo1.svg" alt="Supply">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="/images/glucozan/sup-logo2.svg" alt="Supply">
+                                        <img src="/cb/images/glucozan/sup-logo2.svg" alt="Supply">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="/images/glucozan/sup-logo3.svg" alt="Supply">
+                                        <img src="/cb/images/glucozan/sup-logo3.svg" alt="Supply">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="/images/glucozan/sup-logo4.svg" alt="Supply">
+                                        <img src="/cb/images/glucozan/sup-logo4.svg" alt="Supply">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="/images/glucozan/sup-logo5.svg" alt="Supply">
+                                        <img src="/cb/images/glucozan/sup-logo5.svg" alt="Supply">
                                     </figure>
                                 </li>
                             </ul>
@@ -496,7 +496,7 @@
 
                         <div class="supply-banner-img">
                             <figure>
-                                <img src="/images/glucozan/banner-card@2x.png" alt="Banner">
+                                <img src="/cb/images/glucozan/banner-card@2x.png" alt="Banner">
                             </figure>
                         </div>
                     </div>
@@ -506,7 +506,7 @@
                             <div class="col-md-5 col-sm-12">
                                 <div class="scientific-img">
                                     <figure>
-                                        <img src="/images/glucozan/product-big.png" alt="glucozan-img">
+                                        <img src="/cb/images/glucozan/product-big.png" alt="glucozan-img">
                                     </figure>   
                                 </div>
                             </div>
@@ -532,7 +532,7 @@
             <!-- End Pricing -->
 
             <!-- footer start -->
-            <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/glucozan/footer.php'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/glucozan/footer.php'; ?>
             <!-- footer end -->
         </div>
 
@@ -569,7 +569,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/no-pro1.png" alt="Product">
+                                            <img src="/cb/images/glucozan/no-pro1.png" alt="Product">
                                         </figure>
                                     </div>
 
@@ -605,13 +605,13 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/no-pro2.png" alt="Product">
+                                            <img src="/cb/images/glucozan/no-pro2.png" alt="Product">
                                         </figure>
                                     </div>
 
                                     <div class="free-box">
                                         <p>+</p>
-                                        <figure><img src="/images/glucozan/buy-one.png" alt="Product"></figure>
+                                        <figure><img src="/cb/images/glucozan/buy-one.png" alt="Product"></figure>
                                         <p>FREE</p>
                                     </div>
 
@@ -640,13 +640,13 @@
                         <div class="price-notebox">
                             <div class="include-rw">
                                 <figure>
-                                    <img src="/images/glucozan/include-img1@2x.png" alt="ICon">
+                                    <img src="/cb/images/glucozan/include-img1@2x.png" alt="ICon">
                                 </figure>
                                 <figure>
-                                    <img src="/images/glucozan/include-img2@2x.png" alt="ICon">
+                                    <img src="/cb/images/glucozan/include-img2@2x.png" alt="ICon">
                                 </figure>
                                 <figure>
-                                    <img src="/images/glucozan/include-img3@2x.png" alt="ICon">
+                                    <img src="/cb/images/glucozan/include-img3@2x.png" alt="ICon">
                                 </figure>
                             </div>
 
@@ -654,10 +654,10 @@
                                 <h6>ONE TIME PAYMENT</h6>
 
                                 <ul>
-                                    <li><figure><img src="/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
-                                    <li><figure><img src="/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
-                                    <li><figure><img src="/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
-                                    <li><figure><img src="/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
+                                    <li><figure><img src="/cb/images/glucozan/pay-ic1.svg" alt="Pay"></figure></li>
+                                    <li><figure><img src="/cb/images/glucozan/pay-ic2.svg" alt="Pay"></figure></li>
+                                    <li><figure><img src="/cb/images/glucozan/pay-ic3.svg" alt="Pay"></figure></li>
+                                    <li><figure><img src="/cb/images/glucozan/pay-ic4.svg" alt="Pay"></figure></li>
                                 </ul>
                             </div>
                         </div>
@@ -703,9 +703,9 @@
     <!-- No, Thanks Page Section End -->
 
         <!-- script -->
-        <script src="/js/jquery-3.7.1.min.js"></script>
-        <script src="/js/bootstrap.bundle.min.js"></script>
-        <script src="/js/custom/glucozan-upsell.js"></script>
+        <script src="/cb/js/jquery-3.7.1.min.js"></script>
+        <script src="/cb/js/bootstrap.bundle.min.js"></script>
+        <script src="/cb/js/custom/glucozan-upsell.js"></script>
         <!-- End script -->
     </body>
 </html>

@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <!-- header end -->
 
 <title>Home</title>
@@ -11,16 +11,16 @@
 <body>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/index-navbar.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/index-navbar.php'; ?>
 <!-- header end -->
 
 <!-- mobile header start -->
 <header class="header-mobile-view">
     <div class="custom-header-container text-left">
         <div class="mobile-view-logo-container">
-            <a href="/">
+            <a href="/cb/">
                 <figure>
-                    <img src="/images/logo.png" alt="logo" class="img-fluid" style="width: 90px; height: auto;">
+                    <img src="/cb/images/logo.png" alt="logo" class="img-fluid" style="width: 90px; height: auto;">
                 </figure>
             </a>
         </div>
@@ -51,7 +51,7 @@
 						<div class="col-md-6 col-lg-6 col-xl-6 col-xxl-6">
 							<div class="banner-img">
 								<figure>
-									<img src="/images/Product.png" alt="Product" class="img-fluid">
+									<img src="/cb/images/Product.png" alt="Product" class="img-fluid">
 								</figure>
 							</div>
 						</div>
@@ -85,7 +85,7 @@
 							<div class="healthy-block">
 								<div class="healthy-icon">
 									<figure>
-										<img src="/images/fat-loss.svg" alt="fat-loss" class="img-fluid">
+										<img src="/cb/images/fat-loss.svg" alt="fat-loss" class="img-fluid">
 									</figure>
 								</div>
 								<div class="healthy-content">
@@ -102,7 +102,7 @@
 							<div class="healthy-block">
 								<div class="healthy-icon">
 									<figure>
-										<img src="/images/metabolism.svg" alt="metabolism" class="img-fluid">
+										<img src="/cb/images/metabolism.svg" alt="metabolism" class="img-fluid">
 									</figure>
 								</div>
 								<div class="healthy-content">
@@ -119,7 +119,7 @@
 							<div class="healthy-block">
 								<div class="healthy-icon">
 									<figure>
-										<img src="/images/fast-food.svg" alt="fast-food" class="img-fluid">
+										<img src="/cb/images/fast-food.svg" alt="fast-food" class="img-fluid">
 									</figure>
 								</div>
 								<div class="healthy-content">
@@ -136,7 +136,7 @@
 							<div class="healthy-block">
 								<div class="healthy-icon">
 									<figure>
-										<img src="/images/power.svg" alt="power" class="img-fluid">
+										<img src="/cb/images/power.svg" alt="power" class="img-fluid">
 									</figure>
 								</div>
 								<div class="healthy-content">
@@ -153,7 +153,7 @@
 							<div class="healthy-block">
 								<div class="healthy-icon">
 									<figure>
-										<img src="/images/digestive-organ.svg" alt="digestive-organ" class="img-fluid">
+										<img src="/cb/images/digestive-organ.svg" alt="digestive-organ" class="img-fluid">
 									</figure>
 								</div>
 								<div class="healthy-content">
@@ -170,7 +170,7 @@
 							<div class="healthy-block">
 								<div class="healthy-icon">
 									<figure>
-										<img src="/images/eco.svg" alt="eco" class="img-fluid">
+										<img src="/cb/images/eco.svg" alt="eco" class="img-fluid">
 									</figure>
 								</div>
 								<div class="healthy-content">
@@ -197,27 +197,27 @@
 				<div class="ingredients-logos-main">
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-1.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-1.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-2.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-2.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-3.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-3.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-4.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-4.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-5.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-5.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 				</div>
@@ -235,7 +235,7 @@
 							<div class="ingredients-block">
 								<div class="ingredients-img">
 									<figure>
-										<img src="/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
+										<img src="/cb/images/ingredients-img-1.jpg" alt="ingredients-img" class="img-fluid">
 									</figure>
 								</div>
 								<div class="ingredients-content">
@@ -252,7 +252,7 @@
 							<div class="ingredients-block">
 								<div class="ingredients-img">
 									<figure>
-										<img src="/images/ingredients-img-2.jpg" alt="ingredients-img" class="img-fluid">
+										<img src="/cb/images/ingredients-img-2.jpg" alt="ingredients-img" class="img-fluid">
 									</figure>
 								</div>
 								<div class="ingredients-content">
@@ -269,7 +269,7 @@
 							<div class="ingredients-block">
 								<div class="ingredients-img">
 									<figure>
-										<img src="/images/ingredients-img-3.jpg" alt="ingredients-img" class="img-fluid">
+										<img src="/cb/images/ingredients-img-3.jpg" alt="ingredients-img" class="img-fluid">
 									</figure>
 								</div>
 								<div class="ingredients-content">
@@ -312,7 +312,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
+											<img src="/cb/images/offers-img-1.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>
 									<div class="offers-product-price">
@@ -331,22 +331,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -420,7 +420,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
+											<img src="/cb/images/offers-img-2.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -440,22 +440,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -480,7 +480,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
+											<img src="/cb/images/offers-img-3.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -499,22 +499,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -539,7 +539,7 @@
 			<div class="guarantee-main">
 				<div class="badge-img">
 					<figure>
-						<img src="/images/badge.png" alt="badge" class="img-fluid">
+						<img src="/cb/images/badge.png" alt="badge" class="img-fluid">
 					</figure>
 				</div>
 				<div class="section-title">
@@ -553,27 +553,27 @@
 				<div class="ingredients-logos-main">
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-1.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-1.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-2.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-2.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-3.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-3.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-4.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-4.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 					<div class="ingredients-logos">
 						<figure>
-							<img src="/images/logo-5.png" alt="logo" class="img-fluid">
+							<img src="/cb/images/logo-5.png" alt="logo" class="img-fluid">
 						</figure>
 					</div>
 				</div>
@@ -718,7 +718,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="/images/offers-img-1.png" alt="offers-img" class="img-fluid">
+											<img src="/cb/images/offers-img-1.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -737,22 +737,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -777,7 +777,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="/images/offers-img-2.png" alt="offers-img" class="img-fluid">
+											<img src="/cb/images/offers-img-2.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -797,22 +797,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -837,7 +837,7 @@
 								<div class="offers-inner">
 									<div class="offers-product-img">
 										<figure>
-											<img src="/images/offers-img-3.png" alt="offers-img" class="img-fluid">
+											<img src="/cb/images/offers-img-3.png" alt="offers-img" class="img-fluid">
 										</figure>
 									</div>		
 									<div class="offers-product-price">
@@ -856,22 +856,22 @@
 										<ul>
 											<li>
 												<figure>
-													<img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+													<img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+													<img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/amex.svg" alt="amex" class="img-fluid">
+													<img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
 												</figure>
 											</li>
 											<li>
 												<figure>
-													<img src="/images/discover.svg" alt="discover" class="img-fluid">
+													<img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
 												</figure>
 											</li>
 										</ul>
@@ -898,7 +898,7 @@
 					<div class="col-lg-6 col-xl-6 col-xxl-6">
 						<div class="references-img">
 							<figure>
-								<img src="/images/reference-img.png" alt="reference-img" class="img-fluid">
+								<img src="/cb/images/reference-img.png" alt="reference-img" class="img-fluid">
 							</figure>
 						</div>
 					</div>
@@ -973,12 +973,12 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<script src="/js/custom/index.js?v=<?php echo time(); ?>"></script>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
+<script src="/cb/js/custom/index.js?v=<?php echo time(); ?>"></script>
 <!-- scripts end -->
 
 </body>

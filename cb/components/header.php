@@ -8,5 +8,5 @@
 <meta name="keywords" content="" />
 
 <!-- stylesheets start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/stylesheets.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/stylesheets.php'; ?>
 <!-- stylesheets end -->

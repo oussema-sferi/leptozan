@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <!-- header end -->
 
 <title>Leptozan</title>
@@ -60,11 +60,11 @@
 					</div> -->
 					<div class="vsl-video">
 						<!--<video class="video" poster="images/video-poster.jpg">
-							<source src="/images/mov_bbb.mp4" type="video/mp4">
+							<source src="/cb/images/mov_bbb.mp4" type="video/mp4">
 						</video>
 						<a href="#" class="play-icon">
 							<figure>
-								<img src="/images/play-icon.svg" alt="play-icon" class="img-fluid">
+								<img src="/cb/images/play-icon.svg" alt="play-icon" class="img-fluid">
 							</figure>
 						</a>-->
                         <div id="vidalytics_embed_QaH5Bsom_HORgX95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
@@ -85,7 +85,7 @@
 		</div>
 		<a href="#scroll-bottom" class="scroll-down">
 			<figure>
-				<img src="/images/scroll-down.svg" alt="scroll-down" class="img-fluid">
+				<img src="/cb/images/scroll-down.svg" alt="scroll-down" class="img-fluid">
 			</figure>
 		</a>
 	</div>
@@ -175,11 +175,11 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
 <!-- scripts end -->
 
 </body>

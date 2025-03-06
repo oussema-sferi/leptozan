@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <!-- header end -->
 
 <title>References</title>
@@ -11,8 +11,8 @@
 <body>
 
 <!-- header start -->
-<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; */?>
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/legal-custom-header.php'; ?>
+<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/navbar.php'; */?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/legal-custom-header.php'; ?>
 <!-- header end -->
 
 <!-- content start -->
@@ -111,7 +111,7 @@
 				</div>
 				<div class="references-img">
 					<figure>
-						<img src="/images/reference-img.png" alt="reference-img" class="img-fluid">
+						<img src="/cb/images/reference-img.png" alt="reference-img" class="img-fluid">
 					</figure>
 				</div>
 			</div>
@@ -123,12 +123,12 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<!--<script src="/js/custom/navbar.js"></script>-->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
+<!--<script src="/cb/js/custom/navbar.js"></script>-->
 <!-- scripts end -->
 
 </body>

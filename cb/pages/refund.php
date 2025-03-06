@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <!-- header end -->
 
 <title>Refund</title>
@@ -11,8 +11,8 @@
 <body>
 
 <!-- header start -->
-<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; */?>
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/legal-custom-header.php'; ?>
+<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/navbar.php'; */?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/legal-custom-header.php'; ?>
 <!-- header end -->
 
 <!-- content start -->
@@ -123,12 +123,12 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<!--<script src="/js/custom/navbar.js"></script>-->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
+<!--<script src="/cb/js/custom/navbar.js"></script>-->
 <!-- scripts end -->
 
 </body>

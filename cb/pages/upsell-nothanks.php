@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <!-- header end -->
 
 <title>Leptozan</title>
@@ -51,7 +51,7 @@
 	<section class="banner-upsell" style="background-color: #ED4E1E">
 		<div class="banner-shape">
 			<figure>
-				<img src="/images/banner-2.png" alt="banner-img" class="img-fluid">
+				<img src="/cb/images/banner-2.png" alt="banner-img" class="img-fluid">
 			</figure>
 		</div>
 			<div class="container">
@@ -94,7 +94,7 @@
 								</div>
 								<div class="special-deal-img" style="background-color: var(--white);">
 									<figure>
-										<img src="/images/order-images.png" alt="order-img" class="img-fluid">
+										<img src="/cb/images/order-images.png" alt="order-img" class="img-fluid">
 									</figure>
 								</div>
 							</div>
@@ -117,7 +117,7 @@
 									<div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
 										<div class="right-details-img">
 											<figure>
-												<img src="/images/total-saving.png" alt="total-saving" class="img-fluid">
+												<img src="/cb/images/total-saving.png" alt="total-saving" class="img-fluid">
 											</figure>
 										</div>
 										<div class="small-title">
@@ -140,9 +140,9 @@
 								</div>
 								<div class="icon-list">
 									<ul>
-										<li><a href="#"><img src="/images/badge1.png" alt="badge"></a></li>
-										<li><a href="#"><img src="/images/badge2.png" alt="badge"></a></li>
-										<li><a href="#"><img src="/images/badge3.png" alt="badge"></a></li>
+										<li><a href="#"><img src="/cb/images/badge1.png" alt="badge"></a></li>
+										<li><a href="#"><img src="/cb/images/badge2.png" alt="badge"></a></li>
+										<li><a href="#"><img src="/cb/images/badge3.png" alt="badge"></a></li>
 									</ul>
 								</div>
 							</div>
@@ -170,10 +170,10 @@
 				</div>
 				<div class="official-page-logo">
 					<ul>
-						<li><a href="#"><img src="/images/amazon.png" alt="img"></a></li>
-						<li><a href="#"><img src="/images/ebay.png" alt="img"></a></li>
-						<li><a href="#"><img src="/images/walmart 1.png" alt="img"></a></li>
-						<li><a href="#"><img src="/images/available.png" alt="img"></a></li>
+						<li><a href="#"><img src="/cb/images/amazon.png" alt="img"></a></li>
+						<li><a href="#"><img src="/cb/images/ebay.png" alt="img"></a></li>
+						<li><a href="#"><img src="/cb/images/walmart 1.png" alt="img"></a></li>
+						<li><a href="#"><img src="/cb/images/available.png" alt="img"></a></li>
 					</ul>
 				</div>
 			</div>
@@ -184,11 +184,11 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
 <!-- scripts end -->
 
 </body>

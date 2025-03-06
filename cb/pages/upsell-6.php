@@ -3,7 +3,7 @@
 <head>
 
     <!-- header start -->
-    <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
     <!-- header end -->
 
     <title>UPSELL 6</title>
@@ -22,7 +22,7 @@
                     <div class="order-step">
                         <div class="icon" style="background-color: var(--orange);">
                             <figure>
-                                <img src="/images/Subtract.svg" alt="order-img" class="img-fluid">
+                                <img src="/cb/images/Subtract.svg" alt="order-img" class="img-fluid">
                             </figure>
                         </div>
                         <div class="order-details">
@@ -66,12 +66,12 @@
                     </div>
                 </div>
                 <div class="vsl-video">
-                    <!--<video class="video" poster="/images/video-poster.jpg">
-                        <source src="/images/mov_bbb.mp4" type="video/mp4">
+                    <!--<video class="video" poster="/cb/images/video-poster.jpg">
+                        <source src="/cb/images/mov_bbb.mp4" type="video/mp4">
                     </video>
                     <a href="#" class="play-icon">
                         <figure>
-                            <img src="/images/play-icon.svg" alt="play-icon" class="img-fluid">
+                            <img src="/cb/images/play-icon.svg" alt="play-icon" class="img-fluid">
                         </figure>
                     </a>-->
                     <!-- Vidalytics Embed -->
@@ -110,7 +110,7 @@
     <section class="banner-upsell" style="background-color: #ED4E1E; display: none">
         <div class="banner-shape">
             <figure>
-                <img src="/images/banner-2.png" alt="banner-img" class="img-fluid">
+                <img src="/cb/images/banner-2.png" alt="banner-img" class="img-fluid">
             </figure>
         </div>
         <div class="container">
@@ -153,7 +153,7 @@
                                 </div>
                                 <div class="special-deal-img text-center" style="background-color: var(--white);">
                                     <figure>
-                                        <img width="400" src="/images/9-bottles.png" alt="order-img" class="img-fluid">
+                                        <img width="400" src="/cb/images/9-bottles.png" alt="order-img" class="img-fluid">
                                     </figure>
                                 </div>
                             </div>
@@ -176,7 +176,7 @@
                                     <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
                                         <div class="right-details-img">
                                             <figure>
-                                                <img src="/images/total-saving.png" alt="total-saving" class="img-fluid">
+                                                <img src="/cb/images/total-saving.png" alt="total-saving" class="img-fluid">
                                             </figure>
                                         </div>
                                         <div class="small-title">
@@ -199,9 +199,9 @@
                                 </div>
                                 <div class="icon-list">
                                     <ul>
-                                        <li><a href="#"><img src="/images/badge1.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/images/badge2.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/images/badge3.png" alt="badge"></a></li>
+                                        <li><a href="#"><img src="/cb/images/badge1.png" alt="badge"></a></li>
+                                        <li><a href="#"><img src="/cb/images/badge2.png" alt="badge"></a></li>
+                                        <li><a href="#"><img src="/cb/images/badge3.png" alt="badge"></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -240,7 +240,7 @@
                                 </div>
                                 <div class="special-deal-img text-center" style="background-color: var(--white);">
                                     <figure>
-                                        <img width="400" src="/images/6-bottles.png" alt="order-img" class="img-fluid">
+                                        <img width="400" src="/cb/images/6-bottles.png" alt="order-img" class="img-fluid">
                                     </figure>
                                 </div>
                             </div>
@@ -263,7 +263,7 @@
                                     <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
                                         <div class="right-details-img">
                                             <figure>
-                                                <img src="/images/total-saving.png" alt="total-saving" class="img-fluid">
+                                                <img src="/cb/images/total-saving.png" alt="total-saving" class="img-fluid">
                                             </figure>
                                         </div>
                                         <div class="small-title">
@@ -286,9 +286,9 @@
                                 </div>
                                 <div class="icon-list">
                                     <ul>
-                                        <li><a href="#"><img src="/images/badge1.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/images/badge2.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/images/badge3.png" alt="badge"></a></li>
+                                        <li><a href="#"><img src="/cb/images/badge1.png" alt="badge"></a></li>
+                                        <li><a href="#"><img src="/cb/images/badge2.png" alt="badge"></a></li>
+                                        <li><a href="#"><img src="/cb/images/badge3.png" alt="badge"></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -316,10 +316,10 @@
                 </div>
                 <div class="official-page-logo">
                     <ul>
-                        <li><a href="#"><img src="/images/amazon.png" alt="img"></a></li>
-                        <li><a href="#"><img src="/images/ebay.png" alt="img"></a></li>
-                        <li><a href="#"><img src="/images/walmart 1.png" alt="img"></a></li>
-                        <li><a href="#"><img src="/images/available.png" alt="img"></a></li>
+                        <li><a href="#"><img src="/cb/images/amazon.png" alt="img"></a></li>
+                        <li><a href="#"><img src="/cb/images/ebay.png" alt="img"></a></li>
+                        <li><a href="#"><img src="/cb/images/walmart 1.png" alt="img"></a></li>
+                        <li><a href="#"><img src="/cb/images/available.png" alt="img"></a></li>
                     </ul>
                 </div>
             </div>
@@ -330,13 +330,13 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/js/custom/upsell.js'; */?>
-<script src="/js/custom/upsell.js"></script>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
+<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cb/js/custom/upsell.js'; */?>
+<script src="/cb/js/custom/upsell.js"></script>
 <!-- scripts end -->
 
 </body>

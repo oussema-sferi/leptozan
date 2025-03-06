@@ -3,13 +3,13 @@
         <div class="footer-main">
             <div class="footer-links">
                 <ul>
-                    <li><a href="/contact/">Contact</a></li>
-                    <li><a href="/terms/">Terms</a></li>
-                    <li><a href="/privacy/">Privacy</a></li>
-                    <li><a href="/refund-policy/">Refund Policy</a></li>
-                    <li><a href="/shipping-policy/">Shipping</a></li>
-                    <li><a href="/disclaimer/">Disclaimer</a></li>
-                    <li><a href="/references/">References</a></li>
+                    <li><a href="/cb/contact/">Contact</a></li>
+                    <li><a href="/cb/terms/">Terms</a></li>
+                    <li><a href="/cb/privacy/">Privacy</a></li>
+                    <li><a href="/cb/refund-policy/">Refund Policy</a></li>
+                    <li><a href="/cb/shipping-policy/">Shipping</a></li>
+                    <li><a href="/cb/disclaimer/">Disclaimer</a></li>
+                    <li><a href="/cb/references/">References</a></li>
                 </ul>
             </div>
             <div class="footer-details">

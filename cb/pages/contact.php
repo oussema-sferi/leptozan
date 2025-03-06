@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <!-- header end -->
 
 <title>Contact</title>
@@ -11,8 +11,8 @@
 <body>
 
 <!-- header start -->
-<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/components/navbar.php'; */?>
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/legal-custom-header.php'; ?>
+<?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/navbar.php'; */?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/legal-custom-header.php'; ?>
 <!-- header end -->
 
 <!-- content start -->
@@ -65,7 +65,7 @@
 										<p>Note: return shipping costs are not covered in the refund.</p>
 									</div>
 									<div class="detail">
-										<p><a href="/refund-policy/">Return product</a></p>
+										<p><a href="/cb/refund-policy/">Return product</a></p>
 									</div>
 								</div>
 							</div>
@@ -79,7 +79,7 @@
 				<div class="col-lg-6 col-xl-7 col-xxl-7 p-0">
 					<div class="contact-img">
 						<figure>
-							<img src="/images/contact-img.jpg" alt="contact-img" class="img-fluid">
+							<img src="/cb/images/contact-img.jpg" alt="contact-img" class="img-fluid">
 						</figure>
 					</div>
 				</div>
@@ -92,12 +92,12 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
-<!--<script src="/js/custom/navbar.js"></script>-->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
+<!--<script src="/cb/js/custom/navbar.js"></script>-->
 <!-- scripts end -->
 </body>
 </html>
