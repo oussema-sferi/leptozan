@@ -4,6 +4,13 @@
 
 <!-- header start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c5f0c43fde44118b1f90/player.js" as="script">
+<link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
+<link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67a3c58886047fc4df3959b1/main.m3u8" as="fetch">
+<link rel="dns-prefetch" href="https://cdn.converteai.net">
+<link rel="dns-prefetch" href="https://scripts.converteai.net">
+<link rel="dns-prefetch" href="https://images.converteai.net">
+<link rel="dns-prefetch" href="https://api.vturb.com.br">
 <!-- header end -->
 
 <title>Leptozan</title>
@@ -47,7 +54,8 @@
                             vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});
                         })(window, document, 'Vidalytics', 'vidalytics_embed_QaH5Bsom_HORgX95', 'https://fast.vidalytics.com/embeds/oCMpPuWk/QaH5Bsom_HORgX95/');
                     </script>-->
-                    <img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">
+                    <!--<img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
+                    <script type="text/javascript" id="scr_67a3c5f0c43fde44118b1f90"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c5f0c43fde44118b1f90/player.js", s.async=!0,document.head.appendChild(s); </script>
 				</div>
 			</div>
 		</div>
