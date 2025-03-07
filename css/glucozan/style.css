@@ -1402,11 +1402,12 @@ footer{
 
 .pay-notebx p{
     font-size: 18px;
-    font-weight: normal;
+    font-weight: bold;
     color: #171717;
     line-height: 28px;
     text-align: center;
     margin: 0;
+    text-decoration: underline;
 }
 
 .pay-notebx p:hover{
