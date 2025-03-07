@@ -152,7 +152,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box light-bg">
-                                <h4>Curbs Craving</h4>
+                                <h4>Carbs Craving</h4>
                                 <p>Reduces cravings so you’re not tempted by snacks that spoil your health.</p>
                             </div>
                         </div>
