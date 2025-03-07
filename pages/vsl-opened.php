@@ -4,13 +4,13 @@
 
 <!-- header start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
-<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c5f0c43fde44118b1f90/player.js" as="script">
+<!--<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c5f0c43fde44118b1f90/player.js" as="script">
 <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
 <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67a3c58886047fc4df3959b1/main.m3u8" as="fetch">
 <link rel="dns-prefetch" href="https://cdn.converteai.net">
 <link rel="dns-prefetch" href="https://scripts.converteai.net">
 <link rel="dns-prefetch" href="https://images.converteai.net">
-<link rel="dns-prefetch" href="https://api.vturb.com.br">
+<link rel="dns-prefetch" href="https://api.vturb.com.br">-->
 <!-- header end -->
 
 <title>Leptozan</title>
@@ -29,33 +29,8 @@
 					<div class="banner-title">
 						<h1>Discover How Leptozan Can Support <span>Healthy Weight Loss</span></h1>
 					</div>
-					<!-- <div class="detail">
-						<p>Finally, The Easiest Way To Achieve Your Dream Body</p>
-					</div> -->
-					<!--<div class="vsl-video">
-						<video class="video" poster="/images/video-poster.jpg">
-							<source src="/images/mov_bbb.mp4" type="video/mp4">
-						</video>
-						<a href="#" class="play-icon">
-							<figure>
-								<img src="/images/play-icon.svg" alt="play-icon" class="img-fluid">
-							</figure>
-						</a>
-					</div>-->
-                    <!--<div id="vidalytics_embed_QaH5Bsom_HORgX95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
-                    <script type="text/javascript">
-                        (function (v, i, d, a, l, y, t, c, s) {
-                            y='_'+d.toLowerCase();c=d+'L';if(!v[d]){v[d]={};}if(!v[c]){v[c]={};}if(!v[y]){v[y]={};}var vl='Loader',vli=v[y][vl],vsl=v[c][vl + 'Script'],vlf=v[c][vl + 'Loaded'],ve='Embed';
-                            if (!vsl){vsl=function(u,cb){
-                                if(t){cb();return;}s=i.createElement("script");s.type="text/javascript";s.async=1;s.src=u;
-                                if(s.readyState){s.onreadystatechange=function(){if(s.readyState==="loaded"||s.readyState=="complete"){s.onreadystatechange=null;vlf=1;cb();}};}else{s.onload=function(){vlf=1;cb();};}
-                                i.getElementsByTagName("head")[0].appendChild(s);
-                            };}
-                            vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});
-                        })(window, document, 'Vidalytics', 'vidalytics_embed_QaH5Bsom_HORgX95', 'https://fast.vidalytics.com/embeds/oCMpPuWk/QaH5Bsom_HORgX95/');
-                    </script>-->
-                    <!--<img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
-                    <script type="text/javascript" id="scr_67a3c5f0c43fde44118b1f90"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c5f0c43fde44118b1f90/player.js", s.async=!0,document.head.appendChild(s); </script>
+                    <img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">
+                    <!--<script type="text/javascript" id="scr_67a3c5f0c43fde44118b1f90"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c5f0c43fde44118b1f90/player.js", s.async=!0,document.head.appendChild(s); </script>-->
 				</div>
 			</div>
 		</div>
