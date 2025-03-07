@@ -192,7 +192,7 @@
 	.quicklinks{padding: 56px 0 24px;}
 	.footer-data{padding: 0 0 16px;}
 	.quicklinks ul{flex-wrap: wrap;}
-	.quicklinks ul li{margin: 0 32px 16px 0;}
+	.quicklinks ul li{margin: 0 8px 16px 0;}
 	.quicklinks ul li:last-child{margin: 0 0 16px;}
 
 	.stop-pricing-wrp{padding: 56px 0 64px;}
