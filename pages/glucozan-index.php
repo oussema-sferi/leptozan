@@ -590,7 +590,8 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/no-pro1.png" alt="Product">
+                                            <!--<img src="/images/glucozan/no-pro1.png" alt="Product">-->
+                                            <img src="/images/glucozan/no-pro1-new.png" alt="Product">
                                         </figure>
                                     </div>
 
@@ -626,7 +627,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/images/glucozan/no-pro2.png" alt="Product">
+                                            <img src="/images/glucozan/no-pro2-new.png" alt="Product">
                                         </figure>
                                     </div>
 
