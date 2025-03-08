@@ -6,28 +6,10 @@
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
     <!-- header end -->
 
-    <script>
-        function ReadCookie(name) {
-            name += '=';
-            var parts = document.cookie.split(/;\s*/);
-            for (var i = 0; i < parts.length; i++) {
-                var part = parts[i];
-                if (part.indexOf(name) == 0) return part.substring(name.length);
-            }
-            return '';
-        }
-
-        var mysrc = "https://tracking.buygoods.com/track/?a=10880&firstcookie=0"+"&tracking_redirect=&referrer="+encodeURIComponent(document.referrer)+"&sessid2="+ReadCookie('sessid2')+"&product=lep2,lep3,lep6&vid1=&vid2=&vid3=&caller_url="+encodeURIComponent(window.location.href);
-        if(typeof add_to_cart !== 'undefined') {
-            mysrc = mysrc+'&add_to_cart='+add_to_cart;
-        }
-        var newScript = document.createElement('script');
-        newScript.type = 'text/javascript';
-        newScript.defer = true;
-        newScript.src = mysrc;
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(newScript, s);
-    </script>
+    <!-- Common functions -->
+    <script src="/js/custom/buygoods-integration.js"></script>
+    <!-- This must be after the integration.js file since it uses ReadCookie() -->
+    <script src="/js/custom/buygoods-tracking.js"></script>
 
     <title>Home</title>
 </head>
@@ -1267,15 +1249,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
 <script src="/js/custom/index.js?v=<?php echo time(); ?>"></script>
 <!-- scripts end -->
-<script type="text/javascript">
-    setTimeout(function () {
-        var i = document.createElement("iframe");
-        i.async = true;
-        i.style="display:none";
-        i.setAttribute("src", "https://buygoods.com/affiliates/go/conversion/iframe/bg?a=10880&t=1333b2ded8f71e19ef21ce4846548c75&s="+ReadCookie('sessid2'));
-        document.body.appendChild(i);
-    }, 1000);
-</script>
+
 
 </body>
 </html>
