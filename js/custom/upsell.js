@@ -11,32 +11,37 @@ $(document).ready(function() {
     const pricingConfig = {
         'lepto-us-01': {
             startPrice: 177,
-            endPrice: 98
+            endPrice: 98,
+            videoId: '67a3c49bc43fde44118b1dec' // First video ID
         },
         'lepto-us-03': {
             startPrice: 294,
-            endPrice: 117
+            endPrice: 117,
+            videoId: '67a3c49092df4b5c128b3be6' // Second video ID
         },
         'lepto-us-06': {
             startPrice: 351,
-            endPrice: 174
+            endPrice: 174,
+            videoId: '67a3c486d801a08f708d0b2a' // Default to first video
         },
         // Add more SKU pricing configurations as needed
         'default': {
             startPrice: 177,
-            endPrice: 98
+            endPrice: 98,
+            videoId: '67a3c49bc43fde44118b1dec' // Default video ID
         }
     };
 
     // Get the SKU from the URL
     const sku = getUrlParameter('sku');
 
-    // Set prices based on the SKU (use default if SKU not found in config)
-    const { startPrice, endPrice } = pricingConfig[sku] || pricingConfig['default'];
+    // Set prices and video ID based on the SKU (use default if SKU not found in config)
+    const { startPrice, endPrice, videoId } = pricingConfig[sku] || pricingConfig['default'];
 
     console.log(`SKU: ${sku}`);
     console.log(`Start Price: $${startPrice}`);
     console.log(`End Price: $${endPrice}`);
+    console.log(`Video ID: ${videoId}`);
 
     let scrollsCounter = 0;
     let priceAnimationTriggered = false; // Flag to track if animation has run
@@ -48,11 +53,9 @@ $(document).ready(function() {
         /*if (scrollsCounter !== 4) return;*/
         /*if (priceAnimationTriggered) return;*/ // Prevent running animation multiple times
         priceAnimationTriggered = true; // Mark animation as triggered
-        // Animate the total price from 79 to 58
-        const totalPriceElementOne = noThanksContent.find(".right-details .saving-details span"); // Target the span containing 79
-        const totalPriceElementTwo = noThanksContent.find(".btn-contain .btn-orange .price"); // Target the span containing 79
-        /*const startPrice = 177;
-        const endPrice = 98;*/
+        // Animate the total price from startPrice to endPrice
+        const totalPriceElementOne = noThanksContent.find(".right-details .saving-details span"); // Target the span containing price
+        const totalPriceElementTwo = noThanksContent.find(".btn-contain .btn-orange .price"); // Target the span containing price
         const totalDuration = 3000; // Total animation duration in milliseconds
         const stepTime = 50; // Time between updates in milliseconds
 
@@ -86,11 +89,10 @@ $(document).ready(function() {
 
     console.log("I am in upsell webpage");
 
-    const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
-
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
     const actionTime = 5; // Show the special deal after 5 seconds
+    const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
 
     // Handle "No Thanks" click
     $(".no-thanks-link").on("click", function(evt) {
@@ -101,11 +103,11 @@ $(document).ready(function() {
         try {
             // Using the global function to access the player
             if (window.smartplayer) {
-                const playerElement = document.getElementById('vid_67a3c49bc43fde44118b1dec');
+                const playerElement = document.getElementById(`vid_${videoId}`);
                 if (playerElement && playerElement.smartplayer) {
                     playerElement.smartplayer.pause();
-                } else if (window.smartplayer.instances && window.smartplayer.instances['67a3c49bc43fde44118b1dec']) {
-                    window.smartplayer.instances['67a3c49bc43fde44118b1dec'].pause();
+                } else if (window.smartplayer.instances && window.smartplayer.instances[videoId]) {
+                    window.smartplayer.instances[videoId].pause();
                 }
             }
         } catch (e) {
@@ -121,7 +123,7 @@ $(document).ready(function() {
     // Direct DOM method for detecting video playback
     // This approach doesn't rely on the player's API
     let videoStartTime = null;
-    const videoElement = document.getElementById('vid_67a3c49bc43fde44118b1dec');
+    const videoElement = document.getElementById(`vid_${videoId}`);
 
     // Check if video is playing every second
     const videoPlaybackInterval = setInterval(() => {

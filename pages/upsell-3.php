@@ -5,6 +5,13 @@
     <!-- header start -->
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
     <!-- header end -->
+    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49092df4b5c128b3be6/player.js" as="script">
+    <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
+    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67a3c486c43fde44118b1dd8/main.m3u8" as="fetch">
+    <link rel="dns-prefetch" href="https://cdn.converteai.net">
+    <link rel="dns-prefetch" href="https://scripts.converteai.net">
+    <link rel="dns-prefetch" href="https://images.converteai.net">
+    <link rel="dns-prefetch" href="https://api.vturb.com.br">
 
     <title>UPSELL 3</title>
 </head>
@@ -75,7 +82,7 @@
                         </figure>
                     </a>-->
                     <!-- Vidalytics Embed -->
-                    <div id="vidalytics_embed_oo86lpbKzHm8_r2O" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                    <!--<div id="vidalytics_embed_oo86lpbKzHm8_r2O" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
                     <script type="text/javascript">
                         (function (v, i, d, a, l, y, t, c, s) {
                             y='_'+d.toLowerCase();c=d+'L';if(!v[d]){v[d]={};}if(!v[c]){v[c]={};}if(!v[y]){v[y]={};}var vl='Loader',vli=v[y][vl],vsl=v[c][vl + 'Script'],vlf=v[c][vl + 'Loaded'],ve='Embed';
@@ -86,6 +93,11 @@
                             };}
                             vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});
                         })(window, document, 'Vidalytics', 'vidalytics_embed_oo86lpbKzHm8_r2O', 'https://fast.vidalytics.com/embeds/oCMpPuWk/oo86lpbKzHm8_r2O/');
+                    </script>-->
+                    <div id="vid_67a3c49092df4b5c128b3be6" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                    <script type="text/javascript" id="scr_67a3c49092df4b5c128b3be6">
+                        var s=document.createElement("script");
+                        s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49092df4b5c128b3be6/player.js", s.async=!0,document.head.appendChild(s);
                     </script>
 
                     <!--<div id="vidalytics_embed_tUiR3D3NTucP8aJ1" style="width: 100%; position:relative; padding-top: 55%;"></div>
