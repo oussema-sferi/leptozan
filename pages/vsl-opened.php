@@ -13,9 +13,9 @@
 <link rel="dns-prefetch" href="https://api.vturb.com.br">-->
 <!-- header end -->
 
-    <!-- Common functions -->
-    <script src="/js/custom/buygoods-integration.js"></script>
-    <!-- This must be after the integration.js file since it uses ReadCookie() -->
+<!-- Common functions -->
+<script src="/js/custom/buygoods-integration.js"></script>
+<!-- This must be after the integration.js file since it uses ReadCookie() -->
 
 
 

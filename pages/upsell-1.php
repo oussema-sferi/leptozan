@@ -2,18 +2,20 @@
 <html lang="en">
 <head>
 
-<!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
-<!-- header end -->
-<!-- ConvertEAI preload resources -->
-<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49bc43fde44118b1dec/player.js" as="script">
-<link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
-<link rel="preload" href="https://images.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49bc43fde44118b1dec/thumbnail.jpg" as="image">
-<link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67a3c49188fdecdb3b634897/main.m3u8" as="fetch">
-<link rel="dns-prefetch" href="https://cdn.converteai.net">
-<link rel="dns-prefetch" href="https://scripts.converteai.net">
-<link rel="dns-prefetch" href="https://images.converteai.net">
-<link rel="dns-prefetch" href="https://api.vturb.com.br">
+    <!-- header start -->
+    <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+    <!-- header end -->
+    <!-- ConvertEAI preload resources -->
+    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49bc43fde44118b1dec/player.js" as="script">
+    <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
+    <link rel="preload" href="https://images.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49bc43fde44118b1dec/thumbnail.jpg" as="image">
+    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67a3c49188fdecdb3b634897/main.m3u8" as="fetch">
+    <link rel="dns-prefetch" href="https://cdn.converteai.net">
+    <link rel="dns-prefetch" href="https://scripts.converteai.net">
+    <link rel="dns-prefetch" href="https://images.converteai.net">
+    <link rel="dns-prefetch" href="https://api.vturb.com.br">
+
+    <script src="/js/custom/buygoods-integration.js"></script>
 
 <title>UPSELL 1</title>
 </head>
@@ -170,8 +172,14 @@
 								</div>
 								<div class="special-deal-img text-center" style="background-color: var(--white);">
 									<figure>
-										<img width="400" src="/images/3-bottles.png" alt="order-img" class="img-fluid">
-									</figure>
+                                        <div style="position: relative;">
+                                            <img style="cursor: pointer" width="400" src="/images/3-bottles.png" alt="order-img" class="img-fluid"
+                                            <!-- Overlay link that covers the image without changing layout -->
+                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
+                                        </div>
+
+
+                                    </figure>
 								</div>
 							</div>
 						</div>
@@ -212,7 +220,7 @@
 									</ul>
 								</div>
 								<div class="btn-contain">
-									<a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $177</span> </a>
+									<a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $177</span> </a>
 								</div>
 								<div class="icon-list">
 									<ul>
@@ -257,7 +265,12 @@
                                 </div>
                                 <div class="special-deal-img text-center" style="background-color: var(--white);">
                                     <figure>
-                                        <img width="400" src="/images/2-bottles.png" alt="order-img" class="img-fluid">
+                                        <div style="position: relative;">
+                                            <img style="cursor: pointer" width="400" src="/images/2-bottles.png" alt="order-img" class="img-fluid"
+                                            <!-- Overlay link that covers the image without changing layout -->
+                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
+                                        </div>
+
                                     </figure>
                                 </div>
                             </div>
@@ -299,7 +312,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
+                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
@@ -354,6 +367,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
 <?php /*include $_SERVER['DOCUMENT_ROOT'] . '/js/custom/upsell.js'; */?>
 <script src="/js/custom/upsell.js"></script>
+<script src="/js/custom/buygoods-tracking.js"></script>
 <!-- scripts end -->
 
 </body>
