@@ -183,7 +183,7 @@
                                         <div class="saving-details">
                                             <span>Just</span>
                                             <sup><b>$</b></sup>
-                                            <span>39</span>
+                                            <span>29</span>
                                             <sup class="per-bottle">Per
                                                 Bottle</sup>
                                             <div class="details you-save">
@@ -202,7 +202,7 @@
                                         </div>
                                         <div class="saving-details" style="color: var(--white);">
                                             <sup><b style="color: var(--white);">$</b></sup>
-                                            <span>351</span>
+                                            <span>261</span>
                                         </div>
                                     </div>
                                 </div>
@@ -213,7 +213,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep9u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $351</span> </a>
+                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep9u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $261</span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
@@ -274,7 +274,7 @@
                                         <div class="saving-details">
                                             <span>Just</span>
                                             <sup><b>$</b></sup>
-                                            <span class="price-blink">29</span>
+                                            <span class="price-blink">19</span>
                                             <sup  class="per-bottle">Per
                                                 Bottle</sup>
                                             <div class="details">

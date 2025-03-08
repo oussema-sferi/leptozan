@@ -20,8 +20,8 @@ $(document).ready(function() {
             videoId: '67a3c49092df4b5c128b3be6' // Second video ID
         },
         'lepto-us-06': {
-            startPrice: 351,
-            endPrice: 174,
+            startPrice: 261,
+            endPrice: 114,
             videoId: '67a3c486d801a08f708d0b2a' // Default to first video
         },
         // Add more SKU pricing configurations as needed
