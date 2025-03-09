@@ -49,7 +49,7 @@
 	<!-- VSl End -->
 
     <!-- Offers Start -->
-    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
+    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);display: none">
         <div class="container">
             <div class="offers-main">
                 <div class="section-title">
@@ -441,7 +441,7 @@
 	<!-- Reviews End -->
 
 	<!-- Guarantee Start -->
-    <section class="guarantee-wrp">
+    <section class="guarantee-wrp" style="display: none">
         <div class="container">
             <div class="guarantee-main">
                 <!--<div class="badge-img">
@@ -491,7 +491,7 @@
 	<!-- Guarantee End -->
 
 	<!-- Faq Start -->
-	<section class="faq-wrp">
+	<section class="faq-wrp" style="display: none">
 		<div class="container">
 			<div class="faq-main">
 				<div class="section-title">
@@ -637,7 +637,7 @@
 	<!-- Faq End -->
 
     <!-- Offers Start -->
-    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
+    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);display: none">
         <div class="container">
             <div class="offers-main">
                 <div class="section-title">
@@ -858,7 +858,7 @@
     <!-- Offers End -->
 
 	<!-- References Start -->
-	<div class="references-wrp" id="scroll-bottom">
+	<div class="references-wrp" id="scroll-bottom" style="display: none">
 		<div class="container">
 			<div class="references-main">
 				<div class="section-title">
@@ -954,6 +954,7 @@
 
 <script src="/js/custom/index.js?v=<?php echo time(); ?>"></script>
 <script src="/js/custom/buygoods-tracking.js"></script>
+<script src="/js/custom/new-discovery.js"></script>
 <!-- scripts end -->
 
 

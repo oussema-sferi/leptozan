@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
     updateBuyLinks();
 
     // Set up periodic checking for new buttons
-    setInterval(updateBuyLinks, 2000);
+    setInterval(updateBuyLinks, 3000);
 });
 
 // Track when the upsell content becomes visible
