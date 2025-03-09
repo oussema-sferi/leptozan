@@ -858,7 +858,7 @@
     <!-- Offers End -->
 
 	<!-- References Start -->
-	<div class="references-wrp" id="scroll-bottom" style="display: none">
+	<div class="references-wrp" id="scroll-bottom">
 		<div class="container">
 			<div class="references-main">
 				<div class="section-title">

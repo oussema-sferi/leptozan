@@ -1,7 +1,7 @@
 $(document).ready(function() {
     console.log("discovery page")
     // Store reference to hidden sections
-    var hiddenSections = $('section.offers-wrp, section.guarantee-wrp, section.faq-wrp, div.references-wrp');
+    var hiddenSections = $('section.offers-wrp, section.guarantee-wrp, section.faq-wrp');
 
     console.log("Found hidden sections:", hiddenSections.length);
 
