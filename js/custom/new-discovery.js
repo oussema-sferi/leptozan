@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    console.log("dis")
+    console.log("discovery page")
     // Store reference to hidden sections
     var hiddenSections = $('section.offers-wrp, section.guarantee-wrp, section.faq-wrp, div.references-wrp');
 
@@ -9,7 +9,7 @@ $(document).ready(function() {
     setTimeout(function() {
         console.log("Attempting to show sections now");
 
-        // First make sure display is set to none (in case inline style is interfering)
+        // Making sure display is set to none (in case inline style is interfering)
         hiddenSections.css('display', 'none');
 
         // Now show each section one by one
