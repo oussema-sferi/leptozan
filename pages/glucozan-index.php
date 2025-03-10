@@ -5,6 +5,10 @@
         <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/glucozan/header.php'; ?>
         <!-- header end -->
 
+        <script src="/js/custom/buygoods-integration.js"></script>
+        <!-- This must be after the integration.js file since it uses ReadCookie() -->
+        <script src="/js/custom/buygoods-tracking.js"></script>
+
         <title>Glucozan</title>
     </head>
     <body>
@@ -374,7 +378,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="#" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu1u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$69</strong></h6>
 
@@ -412,7 +416,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="#" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu6u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$234</strong></h6>
 
@@ -449,7 +453,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="#" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu3u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$147</strong></h6>
 
@@ -611,7 +615,7 @@
                                             </ul>
                                         </div>
 
-                                        <a href="#" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu1d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -653,7 +657,7 @@
                                             </ul>
                                         </div>
 
-                                        <a href="#" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu3d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
                                     </div>
                                 </div>
                             </div>
