@@ -4,13 +4,13 @@
 
 <!-- header start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
-<!--<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c5f0c43fde44118b1f90/player.js" as="script">
+<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67cfa310e6f09f99375d9d47/player.js" as="script">
 <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
-<link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67a3c58886047fc4df3959b1/main.m3u8" as="fetch">
+<link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67cfa279e71cde5ce60b9280/main.m3u8" as="fetch">
 <link rel="dns-prefetch" href="https://cdn.converteai.net">
 <link rel="dns-prefetch" href="https://scripts.converteai.net">
 <link rel="dns-prefetch" href="https://images.converteai.net">
-<link rel="dns-prefetch" href="https://api.vturb.com.br">-->
+<link rel="dns-prefetch" href="https://api.vturb.com.br">
 <!-- header end -->
 
 <!-- Common functions -->
@@ -36,8 +36,8 @@
 						<h1>Discover How Leptozan Can Support <span>Healthy Weight Loss</span></h1>
 					</div>
                     <img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">
-                    <!--<script type="text/javascript" id="scr_67a3c5f0c43fde44118b1f90"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c5f0c43fde44118b1f90/player.js", s.async=!0,document.head.appendChild(s); </script>-->
-				</div>
+                    <!--<script type="text/javascript" id="scr_67cfa310e6f09f99375d9d47"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67cfa310e6f09f99375d9d47/player.js", s.async=!0,document.head.appendChild(s); </script>-->
+                </div>
 			</div>
 		</div>
 		<a href="#scroll-bottom" class="scroll-down">
