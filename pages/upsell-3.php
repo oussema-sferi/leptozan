@@ -170,7 +170,7 @@
                                         <div style="position: relative;">
                                             <img style="cursor: pointer" width="400" src="/images/6-bottles.png" alt="order-img" class="img-fluid"
                                             <!-- Overlay link that covers the image without changing layout -->
-                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep6u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
+                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep6u&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vdXBzZWxsLW90by0wMi8=" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
                                         </div>
 
                                     </figure>
@@ -214,7 +214,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep6u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $294</span> </a>
+                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep6u&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vdXBzZWxsLW90by0wMi8=" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $294</span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
@@ -262,7 +262,7 @@
                                         <div style="position: relative;">
                                             <img style="cursor: pointer" width="400" src="/images/3-bottles.png" alt="order-img" class="img-fluid"
                                             <!-- Overlay link that covers the image without changing layout -->
-                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
+                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3d&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vdXBzZWxsLW90by0wMi8=" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
                                         </div>
 
                                     </figure>
@@ -306,7 +306,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
+                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3d&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vdXBzZWxsLW90by0wMi8=" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
