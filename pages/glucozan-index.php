@@ -689,7 +689,7 @@
                         </div>
 
                         <div class="pay-notebx">
-                            <a href="">
+                            <a href="https://buygoods.com/thankyou?account_id=10880">
                             <p>No thanks, I'm turning down your Glucozan offer. I’m choosing to ignore this golden opportunity to accellerate my fat loss, and I know I won't be able to get Glucozan anywhere else, but I'm set on taking the more challenging route, regardless of the potential setbacks. Thanks for the offer, but I want to do things the hard way.</p>
                             </a>
                         </div>
