@@ -35,9 +35,8 @@
 					<div class="banner-title">
 						<h1>Discover How Leptozan Can Support <span>Healthy Weight Loss</span></h1>
 					</div>
-                    <img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">
-                    <!--<script type="text/javascript" id="scr_67cfa310e6f09f99375d9d47"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67cfa310e6f09f99375d9d47/player.js", s.async=!0,document.head.appendChild(s); </script>-->
-                    <!--<script type="text/javascript" id="scr_67d0ad39cd7840a60c5f63e1"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d0ad39cd7840a60c5f63e1/player.js", s.async=!0,document.head.appendChild(s); </script>-->
+                    <!--<img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
+                    <script type="text/javascript" id="scr_67d0ad39cd7840a60c5f63e1"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d0ad39cd7840a60c5f63e1/player.js", s.async=!0,document.head.appendChild(s); </script>
                 </div>
 			</div>
 		</div>
