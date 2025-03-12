@@ -285,7 +285,8 @@
                                     <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
                                         <div class="right-details-img">
                                             <figure>
-                                                <img src="/images/total-saving.png" alt="total-saving" class="img-fluid">
+                                                <!--<img src="/images/total-saving.png" alt="total-saving" class="img-fluid">-->
+                                                <img src="/images/total-saving2.png" alt="total-saving" class="img-fluid">
                                             </figure>
                                         </div>
                                         <div class="small-title">
