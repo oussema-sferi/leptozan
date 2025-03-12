@@ -24,13 +24,13 @@ RewriteRule ^cb/glucozan/home/?$ cb/pages/glucozan-index-backup.php [L]
 RewriteRule ^cb/upsell-oto-02/?$ cb/pages/glucozan-index.php [L]
 
 # Handle SKU parameters for /cb
-RewriteCond %{QUERY_STRING} ^sku=lepto-us-01$ [NC]
+RewriteCond %{QUERY_STRING} sku=lepto-us-01 [NC]
 RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-1.php [L]
 
-RewriteCond %{QUERY_STRING} ^sku=lepto-us-03$ [NC]
+RewriteCond %{QUERY_STRING} sku=lepto-us-03 [NC]
 RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-3.php [L]
 
-RewriteCond %{QUERY_STRING} ^sku=lepto-us-06$ [NC]
+RewriteCond %{QUERY_STRING} sku=lepto-us-06 [NC]
 RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-6.php [L]
 
 # Default for /cb/upsell-oto-01
@@ -56,13 +56,13 @@ RewriteRule ^glucozan/home/?$ pages/glucozan-index-backup.php [L]
 RewriteRule ^upsell-oto-02/?$ pages/glucozan-index.php [L]
 
 # Redirect upsell-oto-01/ based on SKU parameter
-RewriteCond %{QUERY_STRING} ^sku=lepto-us-01$ [NC]
+RewriteCond %{QUERY_STRING} sku=lepto-us-01 [NC]
 RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
 
-RewriteCond %{QUERY_STRING} ^sku=lepto-us-03$ [NC]
+RewriteCond %{QUERY_STRING} sku=lepto-us-03 [NC]
 RewriteRule ^upsell-oto-01/?$ pages/upsell-3.php [L]
 
-RewriteCond %{QUERY_STRING} ^sku=lepto-us-06$ [NC]
+RewriteCond %{QUERY_STRING} sku=lepto-us-06 [NC]
 RewriteRule ^upsell-oto-01/?$ pages/upsell-6.php [L]
 
 # Default redirect if no SKU matches

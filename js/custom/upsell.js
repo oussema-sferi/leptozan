@@ -34,6 +34,7 @@ $(document).ready(function() {
 
     // Get the SKU from the URL
     const sku = getUrlParameter('sku');
+    console.log("sky is ", sku)
 
     // Set prices and video ID based on the SKU (use default if SKU not found in config)
     const { startPrice, endPrice, videoId } = pricingConfig[sku] || pricingConfig['default'];
