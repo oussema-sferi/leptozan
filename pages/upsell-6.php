@@ -5,9 +5,9 @@
     <!-- header start -->
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
     <!-- header end -->
-    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c486d801a08f708d0b2a/player.js" as="script">
+    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338d1b7ef8e55f55f0bbb/player.js" as="script">
     <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
-    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67a3c47a92df4b5c128b3bb7/main.m3u8" as="fetch">
+    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67d338c603ce888943e4f7b7/main.m3u8" as="fetch">
     <link rel="dns-prefetch" href="https://cdn.converteai.net">
     <link rel="dns-prefetch" href="https://scripts.converteai.net">
     <link rel="dns-prefetch" href="https://images.converteai.net">
@@ -96,10 +96,10 @@
                             vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});
                         })(window, document, 'Vidalytics', 'vidalytics_embed_oo86lpbKzHm8_r2O', 'https://fast.vidalytics.com/embeds/oCMpPuWk/oo86lpbKzHm8_r2O/');
                     </script>-->
-                    <div id="vid_67a3c486d801a08f708d0b2a" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
-                    <script type="text/javascript" id="scr_67a3c486d801a08f708d0b2a">
-                        var s=document.createElement("script");
-                        s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c486d801a08f708d0b2a/player.js", s.async=!0,document.head.appendChild(s);
+
+                    <div id="vid_67d338d1b7ef8e55f55f0bbb" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                    <script type="text/javascript" id="scr_67d338d1b7ef8e55f55f0bbb">
+                        var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338d1b7ef8e55f55f0bbb/player.js", s.async=!0,document.head.appendChild(s);
                     </script>
 
                     <!--<div id="vidalytics_embed_tUiR3D3NTucP8aJ1" style="width: 100%; position:relative; padding-top: 55%;"></div>

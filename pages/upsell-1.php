@@ -6,10 +6,9 @@
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
     <!-- header end -->
     <!-- ConvertEAI preload resources -->
-    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49bc43fde44118b1dec/player.js" as="script">
+    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338c5b7ef8e55f55f0b95/player.js" as="script">
     <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
-    <link rel="preload" href="https://images.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49bc43fde44118b1dec/thumbnail.jpg" as="image">
-    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67a3c49188fdecdb3b634897/main.m3u8" as="fetch">
+    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67d338b9653b10e968e05d21/main.m3u8" as="fetch">
     <link rel="dns-prefetch" href="https://cdn.converteai.net">
     <link rel="dns-prefetch" href="https://scripts.converteai.net">
     <link rel="dns-prefetch" href="https://images.converteai.net">
@@ -100,11 +99,11 @@
                     </script>-->
 
                     <!-- ConvertEAI Player -->
-                    <div id="vid_67a3c49bc43fde44118b1dec" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
-                    <script type="text/javascript" id="scr_67a3c49bc43fde44118b1dec">
+
+                    <div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                    <script type="text/javascript" id="scr_67d338c5b7ef8e55f55f0b95">
                         var s=document.createElement("script");
-                        s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67a3c49bc43fde44118b1dec/player.js",
-                            s.async=!0,document.head.appendChild(s);
+                        s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338c5b7ef8e55f55f0b95/player.js", s.async=!0,document.head.appendChild(s);
                     </script>
 
                     <!--<div id="vidalytics_embed_tUiR3D3NTucP8aJ1" style="width: 100%; position:relative; padding-top: 55%;"></div>
