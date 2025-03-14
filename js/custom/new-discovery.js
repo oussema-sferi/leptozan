@@ -61,5 +61,5 @@ $(document).ready(function() {
 
         }, totalAnimationTime);
 
-    }, 5000); // 5000ms = 5 seconds
+    }, 1050000); // 5000ms = 5 seconds
 });

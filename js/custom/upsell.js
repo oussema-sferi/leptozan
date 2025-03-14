@@ -92,7 +92,7 @@ $(document).ready(function() {
 
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
-    const actionTime = 5; // Show the special deal after 5 seconds
+    const actionTime = 73; // Show the special deal after 5 seconds
     const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
 
     // Handle "No Thanks" click
@@ -164,13 +164,13 @@ $(document).ready(function() {
     // Backup approach using a fixed timer from page load
     // This will show content after 15 seconds regardless of video state
     // as a fallback mechanism
-    setTimeout(() => {
+    /*setTimeout(() => {
         if (!isTimeTrapTriggered) {
             console.log('Fallback timer triggered - showing content after delay');
             isTimeTrapTriggered = true;
             upsellSpecialDealSection.slideDown(1500);
         }
-    }, 15000);
+    }, 15000);*/
 
     // Additional approach - track mutations on the video container
     // This may catch when the player becomes interactive
