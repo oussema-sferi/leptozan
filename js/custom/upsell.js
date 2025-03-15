@@ -12,23 +12,23 @@ $(document).ready(function() {
         'lepto-us-01': {
             startPrice: 177,
             endPrice: 98,
-            videoId: '67a3c49bc43fde44118b1dec' // First video ID
+            videoId: '67d338c5b7ef8e55f55f0b95' // First video ID
         },
         'lepto-us-03': {
             startPrice: 294,
             endPrice: 117,
-            videoId: '67a3c49092df4b5c128b3be6' // Second video ID
+            videoId: '67d3392b653b10e968e05d9a' // Second video ID
         },
         'lepto-us-06': {
             startPrice: 261,
             endPrice: 114,
-            videoId: '67a3c486d801a08f708d0b2a' // Default to first video
+            videoId: '67d338d1b7ef8e55f55f0bbb' // Default to first video
         },
         // Add more SKU pricing configurations as needed
         'default': {
             startPrice: 177,
             endPrice: 98,
-            videoId: '67a3c49bc43fde44118b1dec' // Default video ID
+            videoId: '67d338c5b7ef8e55f55f0b95' // Default video ID
         }
     };
 
@@ -92,6 +92,7 @@ $(document).ready(function() {
 
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
+    /*const actionTime = 73;*/ // Show the special deal after 5 seconds
     const actionTime = 73; // Show the special deal after 5 seconds
     const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
 
@@ -100,15 +101,25 @@ $(document).ready(function() {
         evt.preventDefault();
         console.log("No thanks link clicked!");
 
-        // Try to pause the video if player exists
+        // Try to pause all HTML video elements
+        document.querySelectorAll("video").forEach(video => {
+            video.pause();
+            video.muted = true; // Mute the video just in case
+        });
+
+        // Try to pause the SmartPlayer video if it exists
         try {
-            // Using the global function to access the player
             if (window.smartplayer) {
-                const playerElement = document.getElementById(`vid_${videoId}`);
-                if (playerElement && playerElement.smartplayer) {
-                    playerElement.smartplayer.pause();
-                } else if (window.smartplayer.instances && window.smartplayer.instances[videoId]) {
-                    window.smartplayer.instances[videoId].pause();
+                console.log("smartplayer object found", window.smartplayer);
+
+                // Check if smartplayer instances exist
+                if (window.smartplayer.instances) {
+                    Object.values(window.smartplayer.instances).forEach(instance => {
+                        if (instance && typeof instance.pause === "function") {
+                            console.log("Pausing smartplayer instance.");
+                            instance.pause();
+                        }
+                    });
                 }
             }
         } catch (e) {
