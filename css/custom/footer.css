@@ -77,16 +77,11 @@
 #disclaimer .main.container > div {
     background: unset !important; /* Match your footer background */
     box-shadow: unset !important;
-    background-image: unset !important;
+    /*background-image: unset !important;*/
     /*background-image: url('/images/bgoods.png')!important;*/
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
 }
 .bg-img-disclaimer {
-    background-image: url('/images/buygoods.png')!important;
+    background-image: url('/images/buygoods-white-logo.png')!important;
 
 }
-
-/*
-.buygoods-logo {
-    filter: invert(1);
-}*/
