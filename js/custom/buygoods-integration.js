@@ -13,11 +13,11 @@ function ReadCookie(name) {
 function updateBuyLinks() {
     var sessid2 = ReadCookie('sessid2');
     if (!sessid2) {
-        console.log("No sessid2 cookie found");
+        /*console.log("No sessid2 cookie found");*/
         return;
     }
 
-    console.log("Found sessid2:", sessid2);
+    /*console.log("Found sessid2:", sessid2);*/
 
     // Get all buy buttons - target multiple selectors
     var buyButtons = document.querySelectorAll([
@@ -27,17 +27,17 @@ function updateBuyLinks() {
         '.no-thanks-special-deal-section a[href*="buygoods.com"]' // No-thanks section buttons
     ].join(', '));
 
-    console.log("Found buttons:", buyButtons.length);
+    /*console.log("Found buttons:", buyButtons.length);*/
 
     // Update each button's href with session ID
     buyButtons.forEach(function(button) {
         var href = button.getAttribute('href');
-        console.log("Processing button with href:", href);
+        /*console.log("Processing button with href:", href);*/
         // Only append if not already in the URL
         if (href.indexOf('sessid2=') === -1) {
             var separator = href.indexOf('?') !== -1 ? '&' : '?';
             button.setAttribute('href', href + separator + 'sessid2=' + sessid2);
-            console.log("Updated href:", button.getAttribute('href'));
+            /*console.log("Updated href:", button.getAttribute('href'));*/
         }
     });
 }
