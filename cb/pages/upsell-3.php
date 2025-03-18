@@ -5,6 +5,15 @@
     <!-- header start -->
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
     <!-- header end -->
+    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d3392b653b10e968e05d9a/player.js" as="script">
+    <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
+    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67d338d3bfd74f42d33ed77b/main.m3u8" as="fetch">
+    <link rel="dns-prefetch" href="https://cdn.converteai.net">
+    <link rel="dns-prefetch" href="https://scripts.converteai.net">
+    <link rel="dns-prefetch" href="https://images.converteai.net">
+    <link rel="dns-prefetch" href="https://api.vturb.com.br">
+
+    <script src="/cb/js/custom/buygoods-integration.js"></script>
 
     <title>UPSELL 3</title>
 </head>
@@ -75,7 +84,7 @@
                         </figure>
                     </a>-->
                     <!-- Vidalytics Embed -->
-                    <div id="vidalytics_embed_oo86lpbKzHm8_r2O" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                    <!--<div id="vidalytics_embed_oo86lpbKzHm8_r2O" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
                     <script type="text/javascript">
                         (function (v, i, d, a, l, y, t, c, s) {
                             y='_'+d.toLowerCase();c=d+'L';if(!v[d]){v[d]={};}if(!v[c]){v[c]={};}if(!v[y]){v[y]={};}var vl='Loader',vli=v[y][vl],vsl=v[c][vl + 'Script'],vlf=v[c][vl + 'Loaded'],ve='Embed';
@@ -86,6 +95,11 @@
                             };}
                             vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});
                         })(window, document, 'Vidalytics', 'vidalytics_embed_oo86lpbKzHm8_r2O', 'https://fast.vidalytics.com/embeds/oCMpPuWk/oo86lpbKzHm8_r2O/');
+                    </script>-->
+
+                    <div id="vid_67d3392b653b10e968e05d9a" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                    <script type="text/javascript" id="scr_67d3392b653b10e968e05d9a">
+                        var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d3392b653b10e968e05d9a/player.js", s.async=!0,document.head.appendChild(s);
                     </script>
 
                     <!--<div id="vidalytics_embed_tUiR3D3NTucP8aJ1" style="width: 100%; position:relative; padding-top: 55%;"></div>
@@ -153,7 +167,12 @@
                                 </div>
                                 <div class="special-deal-img text-center" style="background-color: var(--white);">
                                     <figure>
-                                        <img width="400" src="/cb/images/6-bottles.png" alt="order-img" class="img-fluid">
+                                        <div style="position: relative;">
+                                            <img style="cursor: pointer" width="400" src="/cb/images/6-bottles.png" alt="order-img" class="img-fluid"
+                                            <!-- Overlay link that covers the image without changing layout -->
+                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep6u&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vY2IvdXBzZWxsLW90by0wMi8=" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
+                                        </div>
+
                                     </figure>
                                 </div>
                             </div>
@@ -176,7 +195,8 @@
                                     <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
                                         <div class="right-details-img">
                                             <figure>
-                                                <img src="/cb/images/total-saving.png" alt="total-saving" class="img-fluid">
+                                                <!--<img src="/cb/images/total-saving.png" alt="total-saving" class="img-fluid">-->
+                                                <img src="/cb/images/total-saving2.png" alt="total-saving" class="img-fluid">
                                             </figure>
                                         </div>
                                         <div class="small-title">
@@ -195,7 +215,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $294</span> </a>
+                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep6u&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vY2IvdXBzZWxsLW90by0wMi8=" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $294</span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
@@ -240,7 +260,12 @@
                                 </div>
                                 <div class="special-deal-img text-center" style="background-color: var(--white);">
                                     <figure>
-                                        <img width="400" src="/cb/images/3-bottles.png" alt="order-img" class="img-fluid">
+                                        <div style="position: relative;">
+                                            <img style="cursor: pointer" width="400" src="/cb/images/3-bottles.png" alt="order-img" class="img-fluid"
+                                            <!-- Overlay link that covers the image without changing layout -->
+                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3d&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vY2IvdXBzZWxsLW90by0wMi8=" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
+                                        </div>
+
                                     </figure>
                                 </div>
                             </div>
@@ -282,7 +307,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="#" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
+                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3d&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vY2IvdXBzZWxsLW90by0wMi8=" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
@@ -296,7 +321,7 @@
                     </div>
                 </div>
                 <div class="details-bottom text-center" style="color: black; font-weight: bold">
-                    <p><a href="#">No, Thanks.</a> <a href="#">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer. </a> </p>
+                    <p><a href="/cb/upsell-oto-02/">No, Thanks.</a> <a href="/cb/upsell-oto-02/">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer. </a> </p>
                 </div>
             </div>
         </div>
@@ -337,6 +362,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
 <?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cb/js/custom/upsell.js'; */?>
 <script src="/cb/js/custom/upsell.js"></script>
+<script src="/cb/js/custom/buygoods-tracking.js"></script>
 <!-- scripts end -->
 
 </body>

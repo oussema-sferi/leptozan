@@ -29,9 +29,14 @@ $(document).ready(function() {
         }
 
     })
+    const navbarToggler = document.querySelector('.navbar-toggler');
+    if(navbarToggler)
+    {
+        navbarToggler.addEventListener('click', function() {
+            this.classList.toggle('open'); // Toggles the class to change the icon
+        });
+    }
 
-    document.querySelector('.navbar-toggler').addEventListener('click', function() {
-        this.classList.toggle('open'); // Toggles the class to change the icon
-    });
+
 
 })

@@ -6,6 +6,11 @@
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
     <!-- header end -->
 
+    <!-- Common functions -->
+    <script src="/cb/js/custom/buygoods-integration.js"></script>
+    <!-- This must be after the integration.js file since it uses ReadCookie() -->
+    <script src="/cb/js/custom/buygoods-tracking.js"></script>
+
     <title>Home</title>
 </head>
 <body>
@@ -152,7 +157,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box light-bg">
-                                <h4>Curbs Craving</h4>
+                                <h4>Carbs Craving</h4>
                                 <p>Reduces cravings so you’re not tempted by snacks that spoil your health.</p>
                             </div>
                         </div>
@@ -339,7 +344,8 @@
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>-->
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -407,7 +413,8 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>-->
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -474,7 +481,8 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>-->
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -762,7 +770,7 @@
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -830,7 +838,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -897,7 +905,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -1241,6 +1249,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
 <script src="/cb/js/custom/index.js?v=<?php echo time(); ?>"></script>
 <!-- scripts end -->
+
 
 </body>
 </html>

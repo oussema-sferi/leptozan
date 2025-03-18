@@ -1,18 +1,18 @@
 <!-- Favicon -->
-<link rel="icon" type="image/png" href="/cb/cb/images/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="/cb/cb/images/favicon.svg" />
-<link rel="shortcut icon" href="/cb/cb/images/favicon.ico" />
-<link rel="apple-touch-icon" sizes="180x180" href="/cb/cb/images/apple-touch-icon.png" />
-<link rel="manifest" href="/cb/cb/images/site.webmanifest" />
+<link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
+<link rel="manifest" href="/images/site.webmanifest" />
 <!-- Bootstrap -->
-<link href="/cb/css/bootstrap.min.css" rel="stylesheet">
+<link href="/css/bootstrap.min.css" rel="stylesheet">
 <!--=== Add By Designer ===-->
-<link href="/cb/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
-<link href="/cb/css/responsive.css" rel="stylesheet">
+<link href="/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
+<link href="/css/responsive.css" rel="stylesheet">
 <!-- Slick Slider -->
-<link href="/cb/css/slick.css" rel="stylesheet">
+<link href="/css/slick.css" rel="stylesheet">
 <!-- Font Awesome -->
-<link href="/cb/css/all.min.css" rel="stylesheet">
+<link href="/css/all.min.css" rel="stylesheet">
 
 <!--=== Windows Phone JS Code Start ===-->
 <script>

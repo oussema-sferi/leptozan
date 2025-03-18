@@ -4,7 +4,20 @@
 
 <!-- header start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
+<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d33ff2a27046c5ab527abb/player.js" as="script">
+<link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
+<link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67d33f9514cbf05b82588f5e/main.m3u8" as="fetch">
+<link rel="dns-prefetch" href="https://cdn.converteai.net">
+<link rel="dns-prefetch" href="https://scripts.converteai.net">
+<link rel="dns-prefetch" href="https://images.converteai.net">
+<link rel="dns-prefetch" href="https://api.vturb.com.br">
 <!-- header end -->
+
+<!-- Common functions -->
+<script src="/cb/js/custom/buygoods-integration.js"></script>
+<!-- This must be after the integration.js file since it uses ReadCookie() -->
+
+
 
 <title>Leptozan</title>
 </head>
@@ -22,33 +35,9 @@
 					<div class="banner-title">
 						<h1>Discover How Leptozan Can Support <span>Healthy Weight Loss</span></h1>
 					</div>
-					<!-- <div class="detail">
-						<p>Finally, The Easiest Way To Achieve Your Dream Body</p>
-					</div> -->
-					<!--<div class="vsl-video">
-						<video class="video" poster="/cb/images/video-poster.jpg">
-							<source src="/cb/images/mov_bbb.mp4" type="video/mp4">
-						</video>
-						<a href="#" class="play-icon">
-							<figure>
-								<img src="/cb/images/play-icon.svg" alt="play-icon" class="img-fluid">
-							</figure>
-						</a>
-					</div>-->
-                    <!--<div id="vidalytics_embed_QaH5Bsom_HORgX95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
-                    <script type="text/javascript">
-                        (function (v, i, d, a, l, y, t, c, s) {
-                            y='_'+d.toLowerCase();c=d+'L';if(!v[d]){v[d]={};}if(!v[c]){v[c]={};}if(!v[y]){v[y]={};}var vl='Loader',vli=v[y][vl],vsl=v[c][vl + 'Script'],vlf=v[c][vl + 'Loaded'],ve='Embed';
-                            if (!vsl){vsl=function(u,cb){
-                                if(t){cb();return;}s=i.createElement("script");s.type="text/javascript";s.async=1;s.src=u;
-                                if(s.readyState){s.onreadystatechange=function(){if(s.readyState==="loaded"||s.readyState=="complete"){s.onreadystatechange=null;vlf=1;cb();}};}else{s.onload=function(){vlf=1;cb();};}
-                                i.getElementsByTagName("head")[0].appendChild(s);
-                            };}
-                            vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});
-                        })(window, document, 'Vidalytics', 'vidalytics_embed_QaH5Bsom_HORgX95', 'https://fast.vidalytics.com/embeds/oCMpPuWk/QaH5Bsom_HORgX95/');
-                    </script>-->
-                    <img src="/cb/images/Banner-01.jpg" alt="banner" class="img-fluid">
-				</div>
+                    <!--<img src="/cb/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
+                    <script type="text/javascript" id="scr_67d33ff2a27046c5ab527abb"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d33ff2a27046c5ab527abb/player.js", s.async=!0,document.head.appendChild(s); </script>
+                </div>
 			</div>
 		</div>
 		<a href="#scroll-bottom" class="scroll-down">
@@ -60,7 +49,7 @@
 	<!-- VSl End -->
 
     <!-- Offers Start -->
-    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
+    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);display: none">
         <div class="container">
             <div class="offers-main">
                 <div class="section-title">
@@ -105,7 +94,7 @@
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -173,7 +162,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -240,7 +229,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -452,7 +441,7 @@
 	<!-- Reviews End -->
 
 	<!-- Guarantee Start -->
-    <section class="guarantee-wrp">
+    <section class="guarantee-wrp" style="display: none">
         <div class="container">
             <div class="guarantee-main">
                 <!--<div class="badge-img">
@@ -502,7 +491,7 @@
 	<!-- Guarantee End -->
 
 	<!-- Faq Start -->
-	<section class="faq-wrp">
+	<section class="faq-wrp" style="display: none">
 		<div class="container">
 			<div class="faq-main">
 				<div class="section-title">
@@ -648,7 +637,7 @@
 	<!-- Faq End -->
 
     <!-- Offers Start -->
-    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);">
+    <section id="buy-now" class="offers-wrp" style="background-color: var(--sky);display: none">
         <div class="container">
             <div class="offers-main">
                 <div class="section-title">
@@ -693,7 +682,7 @@
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -761,7 +750,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -828,7 +817,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="/cb/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -962,6 +951,12 @@
 <!-- scripts start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
 <!-- scripts end -->
+
+<script src="/cb/js/custom/index.js?v=<?php echo time(); ?>"></script>
+<script src="/cb/js/custom/buygoods-tracking.js"></script>
+<script src="/cb/js/custom/new-discovery.js"></script>
+<!-- scripts end -->
+
 
 </body>
 </html>

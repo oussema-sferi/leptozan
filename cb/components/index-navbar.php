@@ -1,9 +1,9 @@
 <header class="header sticky-navbar navbar-desktop-view">
     <div class="container">
         <nav class="navbar navbar-expand-md">
-            <a class="navbar-brand" href="/cb/">
+            <a class="navbar-brand" href="/">
                 <figure>
-                    <img src="/cb/images/logo.png" alt="logo" class="img-fluid navbar-logo">
+                    <img src="/images/logo.png" alt="logo" class="img-fluid navbar-logo">
                 </figure>
             </a>
             <!-- <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -28,7 +28,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/cb/">About Leptozan</a>
+                        <a class="nav-link" href="/">About Leptozan</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#leptozan-ingredients">Ingredients</a>

@@ -5,6 +5,10 @@
         <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/glucozan/header.php'; ?>
         <!-- header end -->
 
+        <script src="/cb/js/custom/buygoods-integration.js"></script>
+        <!-- This must be after the integration.js file since it uses ReadCookie() -->
+        <script src="/cb/js/custom/buygoods-tracking.js"></script>
+
         <title>Glucozan</title>
     </head>
     <body>
@@ -374,7 +378,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="#" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu1u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$69</strong></h6>
 
@@ -412,7 +416,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="#" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu6u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$234</strong></h6>
 
@@ -449,7 +453,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="#" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu3u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$147</strong></h6>
 
@@ -590,7 +594,8 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/cb/images/glucozan/no-pro1.png" alt="Product">
+                                            <!--<img src="/cb/images/glucozan/no-pro1.png" alt="Product">-->
+                                            <img src="/cb/images/glucozan/no-pro1-new.png" alt="Product">
                                         </figure>
                                     </div>
 
@@ -610,7 +615,7 @@
                                             </ul>
                                         </div>
 
-                                        <a href="#" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu1d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -626,7 +631,7 @@
 
                                     <div class="product-img">
                                         <figure>
-                                            <img src="/cb/images/glucozan/no-pro2.png" alt="Product">
+                                            <img src="/cb/images/glucozan/no-pro2-new.png" alt="Product">
                                         </figure>
                                     </div>
 
@@ -652,7 +657,7 @@
                                             </ul>
                                         </div>
 
-                                        <a href="#" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
+                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu3d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -684,7 +689,7 @@
                         </div>
 
                         <div class="pay-notebx">
-                            <a href="">
+                            <a href="https://buygoods.com/thankyou?account_id=10880">
                             <p>No thanks, I'm turning down your Glucozan offer. I’m choosing to ignore this golden opportunity to accellerate my fat loss, and I know I won't be able to get Glucozan anywhere else, but I'm set on taking the more challenging route, regardless of the potential setbacks. Thanks for the offer, but I want to do things the hard way.</p>
                             </a>
                         </div>
