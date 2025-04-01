@@ -1091,6 +1091,12 @@ footer{
     line-height: 20px;
     color: #fff;
 }
+
+.clickbank-disclaimer .disclaimer-title
+{
+    text-align: center;
+    color: #fff;
+}
 /* ***** End Footer ***** */
 
 /* ***** No Thanks Page ***** */

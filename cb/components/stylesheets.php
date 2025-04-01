@@ -5,14 +5,14 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
 <link rel="manifest" href="/images/site.webmanifest" />
 <!-- Bootstrap -->
-<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link href="/cb/css/bootstrap.min.css" rel="stylesheet">
 <!--=== Add By Designer ===-->
-<link href="/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
-<link href="/css/responsive.css" rel="stylesheet">
+<link href="/cb/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
+<link href="/cb/css/responsive.css" rel="stylesheet">
 <!-- Slick Slider -->
-<link href="/css/slick.css" rel="stylesheet">
+<link href="/cb/css/slick.css" rel="stylesheet">
 <!-- Font Awesome -->
-<link href="/css/all.min.css" rel="stylesheet">
+<link href="/cb/css/all.min.css" rel="stylesheet">
 
 <!--=== Windows Phone JS Code Start ===-->
 <script>

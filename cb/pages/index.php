@@ -7,9 +7,9 @@
     <!-- header end -->
 
     <!-- Common functions -->
-    <script src="/cb/js/custom/buygoods-integration.js"></script>
+    <!--<script src="/cb/js/custom/buygoods-integration.js"></script>-->
     <!-- This must be after the integration.js file since it uses ReadCookie() -->
-    <script src="/cb/js/custom/buygoods-tracking.js"></script>
+    <!--<script src="/cb/js/custom/buygoods-tracking.js"></script>-->
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

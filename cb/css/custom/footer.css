@@ -74,11 +74,16 @@
     color: #A8D5D5;
     margin: 0;
 }
-#disclaimer .main.container > div {
-    background: unset !important; /* Match your footer background */
+/*#disclaimer .main.container > div {
+    background: unset !important; !* Match your footer background *!
     box-shadow: unset !important;
 }
 .bg-img-disclaimer {
     background-image: url('/images/buygoods-white-logo.png')!important;
 
+}*/
+
+.clickbank-disclaimer .disclaimer-title
+{
+    color: #C4E2E2;
 }
