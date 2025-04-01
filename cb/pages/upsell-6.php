@@ -24,7 +24,7 @@
 <div class="content">
 
     <!-- VSl Start -->
-    <section class="vsl-banner-wrp vsl-banner-wrp2 upsell-page" style="background-color: #D4F1F2;">
+    <section class="vsl-banner-wrp vsl-banner-wrp2 upsell-page" style="background-color: #D4F1F2; padding: 32px 0 76px;">
         <div class="container">
             <div class="vsl-banner-main">
                 <div class="banner-order-steps">
@@ -74,7 +74,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="vsl-video">
+                <div class="vsl-video" style="display: none;">
                     <!--<video class="video" poster="/cb/images/video-poster.jpg">
                         <source src="/cb/images/mov_bbb.mp4" type="video/mp4">
                     </video>
@@ -183,7 +183,7 @@
                                         <div class="saving-details">
                                             <span>Just</span>
                                             <sup><b>$</b></sup>
-                                            <span>29</span>
+                                            <span>39</span>
                                             <sup class="per-bottle">Per
                                                 Bottle</sup>
                                             <div class="details you-save">
@@ -202,7 +202,7 @@
                                         </div>
                                         <div class="saving-details" style="color: var(--white);">
                                             <sup><b style="color: var(--white);">$</b></sup>
-                                            <span>261</span>
+                                            <span>351</span>
                                         </div>
                                     </div>
                                 </div>
@@ -213,7 +213,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep9u&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vY2IvdXBzZWxsLW90by0wMi8=" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $261</span> </a>
+                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep9u&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vY2IvdXBzZWxsLW90by0wMi8=" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $351</span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
@@ -274,7 +274,7 @@
                                         <div class="saving-details">
                                             <span>Just</span>
                                             <sup><b>$</b></sup>
-                                            <span class="price-blink">19</span>
+                                            <span class="price-blink">29</span>
                                             <sup  class="per-bottle">Per
                                                 Bottle</sup>
                                             <div class="details">

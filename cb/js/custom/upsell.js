@@ -20,8 +20,8 @@ $(document).ready(function() {
             videoId: '67d3392b653b10e968e05d9a' // Second video ID
         },
         'lepto-us-06': {
-            startPrice: 261,
-            endPrice: 114,
+            startPrice: 351,
+            endPrice: 174,
             videoId: '67d338d1b7ef8e55f55f0bbb' // Default to first video
         },
         // Add more SKU pricing configurations as needed
@@ -93,7 +93,7 @@ $(document).ready(function() {
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
     /*const actionTime = 73;*/ // Show the special deal after 5 seconds
-    const actionTime = 73; // Show the special deal after 5 seconds
+    const actionTime = 0; // Show the special deal after 5 seconds
     const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
 
     // Handle "No Thanks" click
@@ -170,7 +170,7 @@ $(document).ready(function() {
                 clearInterval(videoPlaybackInterval);
             }
         }
-    }, 1000);
+    }, 200);
 
     // Backup approach using a fixed timer from page load
     // This will show content after 15 seconds regardless of video state

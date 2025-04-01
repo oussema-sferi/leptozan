@@ -16,16 +16,28 @@
 
     <script src="/cb/js/custom/buygoods-integration.js"></script>
 
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N9K2QD58');</script>
+	<!-- End Google Tag Manager -->
+
 <title>UPSELL 1</title>
 </head>
 <body>
 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9K2QD58"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <!-- content start -->
 <div class="content">
 
 	<!-- VSl Start -->
-	<section class="vsl-banner-wrp vsl-banner-wrp2 upsell-page" style="background-color: #D4F1F2;">
+	<section class="vsl-banner-wrp vsl-banner-wrp2 upsell-page" style="background-color: #D4F1F2; padding: 32px 0 76px;">
 		<div class="container">
 			<div class="vsl-banner-main">
 				<div class="banner-order-steps">
@@ -75,7 +87,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="vsl-video">
+				<div class="vsl-video" style="display: none;">
 					<!--<video class="video" poster="/cb/images/video-poster.jpg">
 						<source src="/cb/images/mov_bbb.mp4" type="video/mp4">
 					</video>
