@@ -42,6 +42,7 @@ RewriteRule ^cb/(.*)$ cb/$1 [L]
 
 # Original site redirects
 RewriteRule ^newdiscovery/?$ pages/vsl-opened.php [L]
+RewriteRule ^newdiscovery2/?$ pages/vsl-opened-2.php [L]
 RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]
 RewriteRule ^typ/?$ pages/thank-you.php [L]
 RewriteRule ^terms/?$ pages/terms.php [L]

@@ -82,3 +82,27 @@
 .vsl-video:hover .play-icon {
     display: block;
 }
+
+.new-banner-title
+{
+    font-family: "Open Sans", serif !important;
+}
+
+.new-banner-title span
+{
+    background-color: var(--orange)!important;
+    color: var(--white);
+    padding: 0 5px;
+}
+
+.new-banner-title h1
+{
+    font-weight: bold!important;
+    font-size: 53px;
+}
+
+.new-banner-title h5:last-child
+{
+    color: var(--orange)!important;
+    font-weight: bold!important;
+}
