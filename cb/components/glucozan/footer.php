@@ -12,11 +12,11 @@
         </div>
 
         <div class="footer-data">
-            <p>Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease</p>
+            <!--<p>Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease</p>
 
             <p>The website's content and the product for sale is based upon the author's opinion and is provided solely on an "AS IS" and "AS AVAILABLE" basis. You should do your own research and confirm the information with other sources when searching for information regarding health issues and always review the information carefully with your professional health care provider before using any of the protocols presented on this website and/or in the product sold here. Neither BuyGoods nor the author are engaged in rendering medical or similar professional services or advice via this website or in the product, and the information provided is not intended to replace medical advice offered by a physician or other licensed healthcare provider. You should not construe BuyGoods's sale of this product as an endorsement by BuyGoods of the views expressed herein, or any warranty or guarantee of any strategy, recommendation, treatment, action, or application of advice made by the author of the product.</p>
 
-            <p>Some names and personal identifying information on this site have been changed to protect the privacy of individuals.</p>
+            <p>Some names and personal identifying information on this site have been changed to protect the privacy of individuals.</p>-->
             <div class="clickbank-disclaimer">
                 <h5 class="disclaimer-title">Disclaimer</h5>
                 <p>ClickBank is the retailer of this site's products. CLICKBANK is a registered trademark of Click Sales, Inc, a Delaware corporation located at 1444 S. Entertainment Ave, Suite 410 Boise, ID 83709, USA and used with permission. The content and products are provided “AS IS”. Do your research and consult a healthcare professional before using the protocols presented.</p>
