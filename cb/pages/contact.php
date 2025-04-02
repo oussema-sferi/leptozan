@@ -10,6 +10,10 @@
 </head>
 <body>
 
+<!-- Start Google Tag Manager (noscript) -->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/google-tag-manager-body.php'; ?>
+<!-- End Google Tag Manager (noscript) -->
+
 <!-- header start -->
 <?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/navbar.php'; */?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/legal-custom-header.php'; ?>

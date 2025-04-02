@@ -18,9 +18,8 @@
 </head>
 <body>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9K2QD58"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- Start Google Tag Manager (noscript) -->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/google-tag-manager-body.php'; ?>
 <!-- End Google Tag Manager (noscript) -->
 
 <!-- content start -->
