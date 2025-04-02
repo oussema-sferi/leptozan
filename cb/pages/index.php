@@ -357,7 +357,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <div class="offers-btn">
                                         <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>-->
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-02&vtid=" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -426,7 +426,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <div class="offers-btn">
                                         <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>-->
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-06&vtid=" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -494,7 +494,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <div class="offers-btn">
                                         <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>-->
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-03&vtid=" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -782,7 +782,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-02&vtid=" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -850,7 +850,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-06&vtid=" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -917,7 +917,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL2NiL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-03&vtid=" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
