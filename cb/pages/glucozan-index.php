@@ -391,7 +391,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu1u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-up02-1&cbur=a" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$69</strong></h6>
 
@@ -429,7 +429,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu6u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-up02-6&cbur=a" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$234</strong></h6>
 
@@ -466,7 +466,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu3u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-up02-3&cbur=a" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$147</strong></h6>
 
@@ -628,7 +628,7 @@
                                             </ul>
                                         </div>
 
-                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu1d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-ds02-1&cbur=a" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -670,7 +670,7 @@
                                             </ul>
                                         </div>
 
-                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu3d&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-ds02-5&cbur=a" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -702,7 +702,7 @@
                         </div>
 
                         <div class="pay-notebx">
-                            <a href="https://buygoods.com/thankyou?account_id=10880">
+                            <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-ds02-1&cbur=d">
                             <p>No thanks, I'm turning down your Glucozan offer. I’m choosing to ignore this golden opportunity to accellerate my fat loss, and I know I won't be able to get Glucozan anywhere else, but I'm set on taking the more challenging route, regardless of the potential setbacks. Thanks for the offer, but I want to do things the hard way.</p>
                             </a>
                         </div>
