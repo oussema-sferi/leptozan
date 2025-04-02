@@ -14,7 +14,7 @@
 <!-- header end -->
 
 <!-- Common functions -->
-<script src="/cb/js/custom/buygoods-integration.js"></script>
+<!--<script src="/cb/js/custom/buygoods-integration.js"></script>-->
 <!-- This must be after the integration.js file since it uses ReadCookie() -->
 
 <!-- Google Tag Manager -->
@@ -963,7 +963,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- scripts end -->
 
 <script src="/cb/js/custom/index.js?v=<?php echo time(); ?>"></script>
-<script src="/cb/js/custom/buygoods-tracking.js"></script>
+<!--<script src="/cb/js/custom/buygoods-tracking.js"></script>-->
 <script src="/cb/js/custom/new-discovery.js"></script>
 <!-- scripts end -->
 

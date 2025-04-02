@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!-- Favicon & Title -->
-        <link rel="icon" type="image/png" sizes="16x16" href="/cb/cb/images/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/cb/images/favicon.ico" />
         <title>Glucozan</title>
 
         <!-- Fonts -->
@@ -17,9 +17,9 @@
 
         <!-- CSS only -->
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
-        <link rel="stylesheet" type="text/css" href="/cb/cb/css/bootstrap.min.css" />
-        <link rel="stylesheet" type="text/css" href="/cb/cb/css/glucozan/style.css" />
-        <link rel="stylesheet" type="text/css" href="/cb/cb/css/glucozan/responsive.css" />
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="/cb/css/glucozan/style.css" />
+        <link rel="stylesheet" type="text/css" href="/cb/css/glucozan/responsive.css" />
     </head>
     <body>
         <div class="main-wrpper">
