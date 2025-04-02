@@ -13,8 +13,6 @@
     <link rel="dns-prefetch" href="https://images.converteai.net">
     <link rel="dns-prefetch" href="https://api.vturb.com.br">
 
-    <!--<script src="/cb/js/custom/buygoods-integration.js"></script>-->
-
     <title>UPSELL 3</title>
 </head>
 <body>

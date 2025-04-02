@@ -9,40 +9,11 @@
 <title>Leptozan</title>
 </head>
 <body>
-<!-- header start -->
-<!-- <header class="header">
-	<div class="container">
-		<nav class="navbar navbar-expand-md">
-			<a class="navbar-brand" href="index.html">
-				<figure>
-					<img src="images/logo.png" alt="logo" class="img-fluid">
-				</figure>
-			</a>
-			<button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-				<span></span>
-				<span></span>
-				<span></span>
-			</button>
-			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar-nav m-auto">
-					<li class="nav-item">
-						<a class="nav-link" href="#">About Leptozan</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Ingredients</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">FAQ</a>
-					</li>
-				</ul>
-				<div class="header-btn">
-					<a href="#" class="btn btn-orange">BUY NOW</a>
-				</div>
-			</div>
-		</nav>
-	</div>
-</header> -->
-<!-- header end -->
+
+<!-- Start Google Tag Manager (noscript) -->
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/google-tag-manager-body.php'; ?>
+<!-- End Google Tag Manager (noscript) -->
+
 
 <!-- content start -->
 <div class="content">
