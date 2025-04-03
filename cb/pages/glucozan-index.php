@@ -14,7 +14,7 @@
     <body>
 
     <!-- Start Google Tag Manager (noscript) -->
-    <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/glucozan/components/google-tag-manager-body.php'; ?>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/glucozan/google-tag-manager-body.php'; ?>
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Home Page Section Start -->
