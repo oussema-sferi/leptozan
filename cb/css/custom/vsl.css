@@ -82,3 +82,40 @@
 .vsl-video:hover .play-icon {
     display: block;
 }
+
+#smartplay-poster {
+    border: 4px solid rgba(255, 255, 255) !important;
+    display: block!important;
+}
+
+
+
+.new-banner-title
+{
+    font-family: "Open Sans", serif !important;
+    margin: 0 0 20px 0;
+}
+
+.new-banner-title span
+{
+    background-color: var(--orange)!important;
+    color: var(--white);
+    padding: 0 5px;
+    white-space: nowrap; /* Prevent the span from wrapping to a new line */
+}
+
+.new-banner-title h1
+{
+    font-weight: bold!important;
+    font-size: clamp(14px, 3vw, 53px); /* Responsive size */
+    line-height: 1.2;
+    text-align: center;
+    max-width: 100%;
+    word-break: keep-all;
+}
+
+.new-banner-title h5:last-child
+{
+    color: var(--orange)!important;
+    font-weight: bold!important;
+}
