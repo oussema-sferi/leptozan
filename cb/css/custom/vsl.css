@@ -114,14 +114,16 @@
     word-break: keep-all;
 }
 
-.new-banner-title h5 {
-    font-size: clamp(14px, 2vw, 24px) !important;
+.new-banner-title .intro-h5 {
+    font-size: clamp(13px, 1.3vw, 18px); /* Smaller */
     text-align: center;
-    line-height: 1.4;
+    line-height: 1;
 }
 
-.new-banner-title h5:last-child
-{
-    color: var(--orange)!important;
-    font-weight: bold!important;
+.new-banner-title .highlight-h5 {
+    font-size: clamp(10px, 2vw, 24px);
+    color: var(--orange);
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
 }

@@ -34,9 +34,9 @@
 			<div class="container">
 				<div class="vsl-banner-main">
                     <div class="new-banner-title">
-                        <h5>Over 35 And Can’t Lose Belly Fat?</h5>
+                        <h5 class="intro-h5">Over 35 And Can’t Lose Belly Fat?</h5>
                         <h1>Doctor Reveals A Strange&nbsp;<span>Dead Sea Secret</span><br>That Melts Pounds Overnight</h1>
-                        <h5>( and How to Activate This “Switch” Before Going Bed Today! )</h5>
+                        <h5 class="highlight-h5">(and How to Activate This “Switch” Before Going Bed Today!)</h5>
                     </div>
                     <!--<img src="/cb/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
                     <script type="text/javascript" id="scr_67d33ff2a27046c5ab527abb"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d33ff2a27046c5ab527abb/player.js", s.async=!0,document.head.appendChild(s); </script>

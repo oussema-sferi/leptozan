@@ -37,9 +37,9 @@
 						<h1>Discover How Leptozan Can Support <span>Healthy Weight Loss</span></h1>
 					</div>-->
                     <div class="new-banner-title">
-                        <h5>Over 35 And Can’t Lose Belly Fat?</h5>
+                        <h5 class="intro-h5">Over 35 And Can’t Lose Belly Fat?</h5>
                         <h1>Doctor Reveals A Strange&nbsp;<span>Dead Sea Secret</span><br>That Melts Pounds Overnight</h1>
-                        <h5>( and How to Activate This “Switch” Before Going Bed Today! )</h5>
+                        <h5 class="highlight-h5">(and How to Activate This “Switch” Before Going Bed Today!)</h5>
                     </div>
                     <!--<img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
 
