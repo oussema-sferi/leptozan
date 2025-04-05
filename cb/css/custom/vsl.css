@@ -93,7 +93,7 @@
 .new-banner-title
 {
     font-family: "Open Sans", serif !important;
-    margin: 0 0 20px 0;
+    margin: 0 0 10px 0;
 }
 
 .new-banner-title span
@@ -107,11 +107,17 @@
 .new-banner-title h1
 {
     font-weight: bold!important;
-    font-size: clamp(14px, 3vw, 53px); /* Responsive size */
+    font-size: clamp(21px, 3vw, 53px); /* Responsive size */
     line-height: 1.2;
     text-align: center;
     max-width: 100%;
     word-break: keep-all;
+}
+
+.new-banner-title h5 {
+    font-size: clamp(14px, 2vw, 24px) !important;
+    text-align: center;
+    line-height: 1.4;
 }
 
 .new-banner-title h5:last-child
