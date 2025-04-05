@@ -301,7 +301,7 @@
     /* Home Page End */
 
     /* VSL Page Start */
-    .vsl-banner-wrp {margin: 0 20px 40px; padding: 20px 0 40px; background-image: url("../images/banner-Subtract-mobile.svg"); }
+    .vsl-banner-wrp {margin: 0 20px 40px; padding: 5px 0 40px; background-image: url("../images/banner-Subtract-mobile.svg"); }
     .vsl-banner-wrp::before {display: none;}
     .play-icon { width: 28px; height: 28px; display: block; }
     .vsl-video { border-width: 3px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -ms-border-radius: 4px; -o-border-radius: 4px; }
