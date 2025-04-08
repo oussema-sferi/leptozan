@@ -61,15 +61,10 @@
                         </ul>
                     </div>
 
-                    <!--<div class="banner-data">
+                    <div class="banner-data">
                         <h1>Leptozan Ignites Your <br>
                         Body’s <span>“Fat-Burning”</span> Mode <br>
                         —Discover How to Achieve Even <span>FASTER Results</span> with Our New Breakthrough</h1>
-                    </div>-->
-                    <div class="banner-data">
-                        <h1>Leptozan Supports Your <br>
-                            Body’s Natural <span>“Fat-Burning”</span> Process <br>
-                            —Discover How to Boost Your Wellness Journey with This Innovative Formula</h1>
                     </div>
                 </div>
             </section>
@@ -88,19 +83,19 @@
                         </div>
                         <div class="col-md-8 col-sm-12">
                             <div class="dr-mitchell-data">
-                                <h2>Hi, Dr. Mitchell here.</h2>
+                                <h2>Hey, it’s Dr. Mitchell here.</h2>
 
-                                <p>If you’ve started using Leptozan, you’re on the path to a healthier lifestyle. Over the next few weeks, many people notice they feel more energized, focused, and generally more vibrant. Don’t be surprised if your friends start asking what your secret is!</p>
+                                <p>You’re about to see <span>incredible changes</span> with Leptozan. Don’t be surprised if in just a couple of weeks you notice your <span>energy levels soaring, your focus sharpening,</span> and your <span>overall well-being improving.</span> Friends will be asking how you did it!</p>
 
-                                <p>There’s one question I often hear from those who want to make the most of their wellness routine:</p>
+                                <p>But there’s one question the men and women who want the most <span>dramatic results</span> with Leptozan always ask me:</p>
 
-                                <h3>“What else can I do to support my metabolic health even further?”</h3>
+                                <h3>“What else can I do to support my blood sugar levels faster?”</h3>
 
-                                <p>They’re not looking for extreme diets or intense workout regimens. And as we now know, simply counting calories doesn't always reflect how our bodies truly function.</p>
+                                <p>They don’t want to starve or work out until they’re half-dead from exhaustion. And as you now know, the “calories in, calories out” argument is <span>outdated and flat-out wrong.</span></p>
 
-                                <p>Leptozan supports your body's natural metabolism, which is an important piece of the wellness puzzle.</p>
+                                <p>Leptozan helps you tackle one of the biggest obstacles to weight loss: <strong>a slow metabolism.</strong></p>
 
-                                <p>But there’s another key area people often overlook — maintaining already-healthy blood sugar levels, which is an important part of overall metabolic function and energy support.</p>
+                                <p>But there's another major factor that can make or break your blood sugar balance — helping you stay steady or causing frustrating ups and downs.</p>
                             </div>
                         </div>
                     </div>
@@ -111,17 +106,23 @@
             <!-- Vicious Cycle -->
             <section class="vicious-cycle-wrp">
                 <div class="container">
-                    <!--<h2>The Vicious Cycle of <span>Blood Sugar Imbalance</span></h2>-->
-                    <h2>Understanding the Impact of Daily Fluctuations</h2>
+                    <h2>The Vicious Cycle of <span>Blood Sugar Imbalance</span></h2>
 
                     <div class="vicious-row">
                         <div class="row">
                             <div class="col-md-6 col-sm-12">
                                 <div class="vicious-data">
-                                    <p>Your energy, appetite, and overall well-being can be influenced by a variety of internal processes — including how your body handles sugars and carbohydrates from your diet.</p>
-                                    <p>When those systems are under strain, it may affect how steady your energy feels or how strong your cravings are throughout the day.</p>
-                                    <p>This can make it feel more challenging to stick with wellness goals, even when you're trying your best.</p>
-                                    <p>And when your daily routine leads to inconsistent energy or cravings, it may feel harder to stay on track with the lifestyle you want.</p>
+                                    <p>It all starts when your blood sugar levels fluctuate, throwing off your <strong>body's natural energy</strong> balance.</p>
+
+                                    <p>Fluctuating blood sugar levels can impact how effectively our bodies process energy from the food we eat.</p>
+
+                                    <p>So your body adjusts to compensate, but those changes can lead to <strong>increased cravings and energy dips.</strong></p>
+
+                                    <p>So even if you're trying to maintain healthy blood sugar levels, the cycle your body is stuck in can make it an <strong>uphill battle.</strong></p>
+
+                                    <p>To make matters worse, these imbalances can spark cravings that are nearly impossible to resist, making it all too easy for extra calories to stick around.</p>
+
+                                    <p>And as your blood sugar continues to swing unpredictably week after week, it can result in unwanted weight gain, dwindling energy, and an even harder time keeping things under control.</p>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-12">
@@ -134,15 +135,15 @@
                         </div>
                     </div>
 
-                    <!--<h2>Discovering a New Path to <span>Blood Sugar Balance</span></h2>-->
-                    <h2>A Holistic Approach to Supporting Metabolic Wellness</h2>
+                    <h2>Discovering a New Path to <span>Blood Sugar Balance</span></h2>
 
                     <div class="discovering-block">
                         <div class="row">
                             <div class="col-md-7 col-sm-12">
                                 <div class="discovering-data">
-                                    <h3>When I worked with Amanda on her wellness goals, I realized that while Leptozan offered helpful support, she needed something more to round out her health routine.</h3>
-                                    <h3>That’s why I developed <strong>Glucozan</strong> — a formula designed to complement your wellness journey by helping support healthy metabolic function and assisting in maintaining blood sugar levels already within the normal range.</h3>
+                                    <h3>I realized early on that managing Amanda's blood sugar levels was crucial for effective weight management. While <strong>Leptozan</strong> could offer some metabolic support, I knew there was more zto be done.</h3>
+
+                                    <h3>Driven by our experiences and the desire to help others, I developed <strong>Glucozan</strong>—a formula specifically designed for individuals seeking support for blood sugar balance and metabolic health.</h3>
                                 </div>
                             </div>
                             <div class="col-md-5 col-sm-12">
@@ -162,21 +163,31 @@
             <section class="glucozan-wrp">
                 <div class="container">
                     <h2>Glucozan</h2>
-                    <h6>Glucozan is made with carefully selected plant-based ingredients that have traditionally been used for metabolic support.</h6>
+                    <h6>Glucozan is designed to support <strong>healthy blood sugar levels</strong> using several special ingredients.</h6>
 
                     <div class="glucozan-row">
                         <div class="glucozan-data">
-                            <p>One of these ingredients is <strong>Ceylon Cinnamon</strong>, known for its long history in traditional wellness practices.</p>
+                            <p>For a start, <strong>Ceylon Cinnamon</strong> is a powerful ingredient few know about.</p>
 
-                            <p>This spice is often included in health routines for its supportive role in helping the body process sugars more efficiently — especially when consumed around meals.</p>
+                            <p>This spice has been used for centuries in traditional medicine to help <strong>regulate blood sugar levels,</strong> especially after meals.</p>
 
-                            <p>But we didn’t stop there.</p>
+                            <p>But one ingredient, no matter how effective, was going to be enough.</p>
 
-                            <p>Another ingredient we included is <strong>Corosolic Acid</strong>, which comes from <strong>Banaba Leaf Extract</strong>.</p>
-                            <p>Banaba has been traditionally used in various cultures, and its naturally occurring compounds — including corosolic acid — are being studied for their potential to support metabolic wellness.</p>
-                            <p>Some evidence suggests corosolic acid may assist the body in responding efficiently to carbohydrates by supporting insulin sensitivity, which is important for maintaining blood sugar levels already within a normal range.</p>
-                            <p>Banaba also contains compounds that may help your body respond to dietary carbs more gradually.</p>
-                            <p>Next, we added <strong>Berberine HCL</strong> — a compound that’s been the subject of several clinical studies for its potential to support insulin sensitivity and overall metabolic health.</p>
+                            <p>That’s why I also included <strong>Corosolic Acid from Banaba Leaf Extract.</strong></p>
+
+                            <p>If you ever see the leaves of this tree, you'd probably think they were unremarkable. But each leaf is packed with compounds that studies suggest may <strong>promote healthy blood sugar levels.</strong></p>
+
+                            <p>For example, the corosolic acid found in banaba leaves is shown to lower blood sugar by increasing <strong>insulin sensitivity.</strong></p>
+
+                            <p>Other compounds in the leaves suppress an enzyme that aids in digesting carbs, which would otherwise raise blood sugar levels.</p>
+
+                            <p>Another ingredient you’ll find in here is Berberine HCL.</p>
+
+                            <p>This powerful compound has a <strong>clinically-proven</strong> effect on blood sugar.</p>
+
+                            <p>Studies reveal that Berberine helps <strong>improve insulin sensitivity</strong> and supports <strong>metabolic health,</strong> making it the perfect ingredient for Glucozan!</p>
+
+                            <p>But I wasn’t content with just this.</p>
                         </div>
                         <div class="glucozan-img">
                             <figure>
@@ -185,7 +196,7 @@
                         </div>
                     </div>
 
-                    <h3><span>Glucozan also contains:</span></h3>
+                    <h3>That’s why <span>Glucozan also contains…</span></h3>
 
                     <div class="row">
                         <div class="col-md-4 col-sm-12">
@@ -197,7 +208,7 @@
                                 </div>
                                 <div class="why-glucozan-data">
                                     <h4>Saffron Bulb Extract</h4>
-                                    <p>often used for its antioxidant properties and its role in promoting a healthy mood and metabolism.</p>
+                                    <p>Saffron, known for its antioxidant benefits, supports overall metabolic health.</p>
                                 </div>
                             </div>
                         </div>
@@ -210,7 +221,7 @@
                                 </div>
                                 <div class="why-glucozan-data">
                                     <h4>Fucoxanthin & Fucoidan</h4>
-                                    <p>naturally derived from seaweed, these compounds may help support fat metabolism and cellular health.</p>
+                                    <p>These seaweed-derived ingredients support metabolic health by promoting fat oxidation and reducing inflammation.</p>
                                 </div>
                             </div>
                         </div>
@@ -223,13 +234,13 @@
                                 </div>
                                 <div class="why-glucozan-data">
                                     <h4>Oleuropein</h4>
-                                    <p>a polyphenol found in olives, which may contribute to a healthy metabolic response.</p>
+                                    <p>Oleuropein, which scientists have found, can play a role in supporting healthy metabolism.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <h5>All of these are combined into one convenient formula designed to help you maintain energy and support overall metabolic wellness.</h5>
+                    <h5>All packed into a single supplement to help almost anyone support their blood sugar levels.</h5>
                 </div>
             </section>
             <!-- End Glucozan -->
@@ -237,18 +248,20 @@
             <!-- Experience -->
             <section class="experience-wrp">
                 <div class="container">
-                    <!--<h2>Ready to Experience the Benefits of <span>Balanced Blood Sugar?</span></h2>-->
-                    <h2>Ready to Support Your Body’s Natural Balance?</h2>
+                    <h2>Ready to Experience the Benefits of <span>Balanced Blood Sugar?</span></h2>
 
                     <div class="experience-row">
                         <div class="row">
                             <div class="col-md-7 col-sm-12">
                                 <div class="experience-data">
-                                    <p>When I wanted to support my energy and well-being, I didn’t wait.</p>
-                                    <p>With Glucozan added to my routine, I felt better equipped to stay on track with my wellness goals.</p>
-                                    <p>Within a few weeks, I noticed a difference — clearer energy, more balanced routines, and a greater sense of vitality.</p>
-                                    <p>Supporting healthy blood sugar levels that are already within the normal range helped me feel my best — and with the additional support of Glucozan, I had a well-rounded approach for long-term success.</p>
-                                    <p>Now, you have the opportunity to do the same.</p>
+                                    <p>I wanted to have the best chance of getting my health and body back, so I didn't hesitate.</p>
+                                    <p>Using Glucozan, I switched off my <strong>body's fat storage mode.</strong></p>
+                                    <p>And within a few weeks, I saw an <strong>unbelievable transformation.</strong></p>
+                                    <p>Soon, the energy was <strong>soaring even faster…</strong></p>
+                                    <p>I woke up with <strong>energy he hadn't felt since his 20s…</strong></p>
+                                    <p>And once he started supporting healthy blood sugar levels, I was able to support <strong>optimal health.</strong></p>
+                                    <p>Along with the metabolic-supporting power of Glucozan, I finally had the perfect <strong>combination</strong> to escape the blood sugar battles I'd been stuck in for more than 20 years.</p>
+                                    <p>Now, you have the chance to accelerate your health journey.</p>
                                 </div>
                             </div>
                             <div class="col-md-5 col-sm-12">
@@ -262,8 +275,7 @@
                     </div>
 
                     <div class="full-potential-wrp">
-                        <!--<h3>Unlock Your Body’s <span>Full Potential</span></h3>-->
-                        <h3>Unlock Your Wellness Potential</h3>
+                        <h3>Unlock Your Body’s <span>Full Potential</span></h3>
                         <div class="row">
                             <div class="col-md-5 col-sm-12">
                                 <div class="potential-img">
@@ -274,23 +286,28 @@
                             </div>
                             <div class="col-md-7 col-sm-12">
                                 <div class="potential-data">
-                                    <p>I’ve arranged for a limited supply of Glucozan to be made available to people like you.</p>
-                                    <p>At first, I wasn’t sure about offering it more broadly, but after seeing how the ingredients worked together, I knew others deserved the same opportunity.</p>
-                                    <p>Imagine feeling more confident in your daily energy…</p>
-                                    <p>Feeling good about the reflection in the mirror…</p>
-                                    <p>Rediscovering that spark in your day-to-day life…</p>
-                                    <p>And feeling strong, clear-headed, and energized like you haven’t in years.</p>
+                                    <p>I’ve secured a <strong>limited supply</strong> of Glucozan to share with folk like yourself.</p>
+                                    <p>I was initially reluctant but acknowledged the amazing power these ingredients have when used together and finally agreed.</p>
+                                    <p>Because we want you to see the same <strong>life-changing transformation</strong> that I did.</p>
+                                    <p>I want you to be able to admire a <strong>healthy, vibrant figure</strong> in the mirror for years to come…</p>
+                                    <p>To rekindle the spark and excitement that may have faded in your relationship…</p>
+                                    <p>Have coworkers or family secretly jealous of the <strong>“new you”…</strong></p>
+                                    <p>And to look and feel like you did <strong>10, 20, or maybe even 30 years ago.</strong></p>
+                                    <p>There was just one catch.</p>
+                                    <p>I charge private patients $99 for a single bottle of Glucozan.</p>
+                                    <p>My patients happily pay this, knowing what Glucozan can do for their health and life.</p>
+                                    <p>In fact, that’s what I paid for the first six bottles for myself.</p>
                                 </div>
                             </div>
                         </div>
                     </div>                      
 
                     <div class="experience-glucozan-shortbx">
-                        <!--<h3>BUT...</h3>-->
-                        <h3>Special Introductory Offer</h3>
+                        <h3>BUT...</h3>
 
-                        <p>In my practice, a single bottle of Glucozan is priced at <strong>$99</strong>.</p>
-                        <p>That’s exactly what I paid for my own first batch — and it was worth every penny.</p>
+                        <p>I knew people <span>100% determined</span> to support their health would want this, but be unable to afford it at the regular price.</p>
+
+                        <p>So I negotiated with suppliers to slash the price to just <strong>$39 per bottle.</strong></p>
 
                         <div class="experience-glucozan-img-shortbx">
                             <figure>
@@ -298,13 +315,13 @@
                             </figure>
                         </div>
 
-                        <p>But I know cost can be a barrier for some people who are committed to improving their wellness routines.</p>
+                        <p>So I negotiated with suppliers to slash the price to just $39 per bottle.</p>
 
-                        <p>That’s why I worked with our partners to offer it to you for just <strong>$39 per bottle</strong> today.</p>
+                        <p>To make things even easier, we can also ship the 3 or 6-bottle packs to you <span>completely free!</span></p>
 
-                        <p>Plus, if you choose a 3 or 6-bottle supply — <strong>shipping is on us</strong>.</p>
+                        <p>However, we could only get a single batch at this <span>low rate</span>, so I can only offer this discount to you <span>right now.</span></p>
 
-                        <p>But this special rate is only available for this initial release batch, and once it’s gone, it’s gone.</p>
+                        <p>Glucozan will <span>NEVER</span> be sold on our website at this price, so I urge you to take advantage while you can.</p>
                     </div>
                 </div>
             </section>
@@ -320,9 +337,11 @@
 
                         <h2>Try Glucozan <span>Risk-Free</span></h2>
 
-                        <p>You’re covered by our <strong>180-day money-back guarantee</strong>, so whether you try just one bottle or stock up for the next few months, you have time to decide if it’s right for you.</p>
+                        <p>Whether you just want a single bottle or can’t wait to see the <strong>revitalizing benefits</strong> for months to come, you’re covered by the same <strong>180-day money-back guarantee.</strong></p>
 
-                        <p>If you’re not completely satisfied with how you feel, simply reach out and we’ll refund every penny — no questions asked.</p>
+                        <p>So try it for yourself.</p>
+
+                        <p>If you’re not <strong>100% satisfied</strong> with your new energy, vitality, and health, you can contact us to get every single penny refunded.</p>
                     </div>
                 </div>
             </section>
@@ -332,15 +351,14 @@
             <section class="pricing-wrp">
                 <div class="container">
                     <div class="price-topbox">
-                        <!--<h2>The Most Important Health Investment You Can Make</h2>-->
-                        <h2>A Smarter Step Toward Feeling Your Best</h2>
+                        <h2>The Most Important Health Investment You Can Make</h2>
 
-                        <p>If you’ve been looking for an easy way to support your metabolic health, energy, and vitality, this may be the extra step your routine has been missing.</p>
-                        <p>Click below to choose your package, and we’ll ship it out to you right away.</p>
+                        <p>It’s time to say <span>NO</span> to sky-high blood sugar and <span>YES</span> to a healthier you.</p>
+                        <p>Click the pack you want below and I’ll ship it out as soon as I can.</p>
                     </div>
 
                     <div class="price-row">
-                        <h2>Let’s move forward together and help you feel your absolute best!</h2>
+                        <h2>Let's take back control <br> and start feeling <span>your best right now!</span></h2>
 
                         <div class="row">
                             <div class="col-md-4 col-sm-12">
