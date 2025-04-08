@@ -24,6 +24,7 @@ RewriteRule ^cb/typ/?$ cb/pages/thank-you.php [L]
 RewriteRule ^cb/old-index/?$ cb/pages/old-index.php [L]
 RewriteRule ^cb/glucozan/home/?$ cb/pages/glucozan-index-backup.php [L]
 RewriteRule ^cb/upsell-oto-02/?$ cb/pages/glucozan-index.php [L]
+RewriteRule ^cb/upsell-oto-02_backup/?$ cb/pages/glucozan-index_last_backup.php [L]
 
 # Handle SKU parameters for /cb
 RewriteCond %{QUERY_STRING} sku=lepto-us-01 [NC]
