@@ -1464,24 +1464,3 @@ footer{
    width: 77%!important;
     height: auto;
 }*/
-
-/*.ingredients-list {
-    list-style: none;
-    padding-left: 0;
-    font-size: 18px;
-}
-
-.ingredients-list li {
-    margin-bottom: 1.2em;
-    line-height: 28px;
-    position: relative;
-    padding-left: 24px;
-}
-
-.ingredients-list li::before {
-    content: "•";
-    position: absolute;
-    left: 0;
-    top: 0;
-    font-size: 1.2em;
-}*/
