@@ -173,13 +173,13 @@
                         <div class="col-md-4">
                             <div class="feature-box light-bg">
                                 <h4>Fights Inflammation</h4>
-                                <p>Stops inflammation from causing problems throughout your body.</p>
+                                <p>Supports a healthy inflammatory response to help prevent issues throughout your body.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box orange-bg">
                                 <h4>Protects Brain Health</h4>
-                                <p>Reduces oxidative stress and supports brain regeneration to keep your brain fit and firing.</p>
+                                <p>Supports brain health by helping combat oxidative stress and promoting natural brain function.</p>
                             </div>
                         </div>
                     </div>

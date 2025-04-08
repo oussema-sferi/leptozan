@@ -3,7 +3,7 @@
 <head>
 
 <!-- header start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
 <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d33ff2a27046c5ab527abb/player.js" as="script">
 <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
 <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67d33f9514cbf05b82588f5e/main.m3u8" as="fetch">
@@ -14,7 +14,7 @@
 <!-- header end -->
 
 <!-- Common functions -->
-<script src="/js/custom/buygoods-integration.js"></script>
+<!--<script src="/cb/js/custom/buygoods-integration.js"></script>-->
 <!-- This must be after the integration.js file since it uses ReadCookie() -->
 
 <title>Leptozan</title>
@@ -22,7 +22,7 @@
 <body>
 
 <!-- Start Google Tag Manager (noscript) -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/google-tag-manager-body.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/google-tag-manager-body.php'; ?>
 <!-- End Google Tag Manager (noscript) -->
 
 <!-- content start -->
@@ -36,14 +36,14 @@
 					<div class="banner-title">
 						<h1>Discover How Leptozan Can Support <span>Healthy Weight Loss</span></h1>
 					</div>
-                    <!--<img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
+                    <!--<img src="/cb/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
                     <script type="text/javascript" id="scr_67d33ff2a27046c5ab527abb"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d33ff2a27046c5ab527abb/player.js", s.async=!0,document.head.appendChild(s); </script>
                 </div>
 			</div>
 		</div>
 		<a href="#scroll-bottom" class="scroll-down">
 			<figure>
-				<img src="/images/scroll-down.svg" alt="scroll-down" class="img-fluid">
+				<img src="/cb/images/scroll-down.svg" alt="scroll-down" class="img-fluid">
 			</figure>
 		</a>
 	</section>
@@ -74,7 +74,7 @@
 
                                         <div class="offers-product-img">
                                             <figure>
-                                                <img src="/images/2-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <img src="/cb/images/2-bottles.png" alt="offers-img" class="img-fluid bottle-img">
                                             </figure>
                                         </div>
 
@@ -95,28 +95,28 @@
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-02&vtid=main_vsl_01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                    <img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                    <img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                    <img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                    <img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
                                                 </figure>
                                             </li>
                                         </ul>
@@ -142,8 +142,8 @@
                                     <div class="offers-content-wrapper">
                                         <div class="offers-product-img">
                                             <figure>
-                                                <img src="/images/6-bottles.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                                <img src="/cb/images/6-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/cb/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
                                         <div class="offers-info-wrapper">
@@ -163,28 +163,28 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-06&vtid=main_vsl_01" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                    <img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                    <img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                    <img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                    <img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
                                                 </figure>
                                             </li>
                                         </ul>
@@ -210,8 +210,8 @@
                                     <div class="offers-content-wrapper">
                                         <div class="offers-product-img">
                                             <figure>
-                                                <img src="/images/3-bottles.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <!--<img src="/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                                <img src="/cb/images/3-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/cb/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
                                         <div class="offers-info-wrapper">
@@ -230,28 +230,28 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-03&vtid=main_vsl_01" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                    <img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                    <img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                    <img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                    <img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
                                                 </figure>
                                             </li>
                                         </ul>
@@ -287,18 +287,18 @@
 						<div class="reviews-item-top">
 							<div class="star-reviews">
 								<div class="empty-stars">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
 								</div>
 								<div class="full-stars" style="width:70%">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
 								</div>
 							</div>
 							<div class="detail">
@@ -308,7 +308,7 @@
 						<div class="reviews-bottom">
 							<div class="reviews-img">
 								<figure>
-									<img src="/images/reviews-img.png" alt="reviews-img" class="img-fluid">
+									<img src="/cb/images/reviews-img.png" alt="reviews-img" class="img-fluid">
 								</figure>
 							</div>
 							<div class="reviews-name">
@@ -325,18 +325,18 @@
 						<div class="reviews-item-top">
 							<div class="star-reviews">
 								<div class="empty-stars">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
 								</div>
 								<div class="full-stars" style="width:70%">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
 								</div>
 							</div>
 							<div class="detail">
@@ -346,7 +346,7 @@
 						<div class="reviews-bottom">
 							<div class="reviews-img">
 								<figure>
-									<img src="/images/reviews-img.png" alt="reviews-img" class="img-fluid">
+									<img src="/cb/images/reviews-img.png" alt="reviews-img" class="img-fluid">
 								</figure>
 							</div>
 							<div class="reviews-name">
@@ -363,18 +363,18 @@
 						<div class="reviews-item-top">
 							<div class="star-reviews">
 								<div class="empty-stars">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
 								</div>
 								<div class="full-stars" style="width:70%">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
 								</div>
 							</div>
 							<div class="detail">
@@ -384,7 +384,7 @@
 						<div class="reviews-bottom">
 							<div class="reviews-img">
 								<figure>
-									<img src="/images/reviews-img.png" alt="reviews-img" class="img-fluid">
+									<img src="/cb/images/reviews-img.png" alt="reviews-img" class="img-fluid">
 								</figure>
 							</div>
 							<div class="reviews-name">
@@ -401,18 +401,18 @@
 						<div class="reviews-item-top">
 							<div class="star-reviews">
 								<div class="empty-stars">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
-									<img src="/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/grey-star.svg" alt="star" class="img-fluid">
 								</div>
 								<div class="full-stars" style="width:70%">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
-									<img src="/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
+									<img src="/cb/images/yellow-star.svg" alt="star" class="img-fluid">
 								</div>
 							</div>
 							<div class="detail">
@@ -422,7 +422,7 @@
 						<div class="reviews-bottom">
 							<div class="reviews-img">
 								<figure>
-									<img src="/images/reviews-img.png" alt="reviews-img" class="img-fluid">
+									<img src="/cb/images/reviews-img.png" alt="reviews-img" class="img-fluid">
 								</figure>
 							</div>
 							<div class="reviews-name">
@@ -447,7 +447,7 @@
             <div class="guarantee-main">
                 <!--<div class="badge-img">
                     <figure>
-                        <img src="/images/badge.png" alt="badge" class="img-fluid">
+                        <img src="/cb/images/badge.png" alt="badge" class="img-fluid">
                     </figure>
                 </div>-->
                 <div class="section-title">
@@ -462,27 +462,27 @@
                 <div class="guarantee-logos-main">
                     <div class="guarantee-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/guarantee/logo-1.png" alt="logo" class="img-fluid">
+                            <img src="/cb/images/leptozan-new-logos/guarantee/logo-1.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="guarantee-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/guarantee/logo-2.png" alt="logo" class="img-fluid">
+                            <img src="/cb/images/leptozan-new-logos/guarantee/logo-2.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="guarantee-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/guarantee/logo-3.png" alt="logo" class="img-fluid">
+                            <img src="/cb/images/leptozan-new-logos/guarantee/logo-3.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="guarantee-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/guarantee/logo-4.png" alt="logo" class="img-fluid">
+                            <img src="/cb/images/leptozan-new-logos/guarantee/logo-4.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                     <div class="guarantee-logos">
                         <figure>
-                            <img src="/images/leptozan-new-logos/guarantee/logo-5.png" alt="logo" class="img-fluid">
+                            <img src="/cb/images/leptozan-new-logos/guarantee/logo-5.png" alt="logo" class="img-fluid">
                         </figure>
                     </div>
                 </div>
@@ -662,7 +662,7 @@
 
                                         <div class="offers-product-img">
                                             <figure>
-                                                <img src="/images/2-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <img src="/cb/images/2-bottles.png" alt="offers-img" class="img-fluid bottle-img">
                                             </figure>
                                         </div>
 
@@ -683,28 +683,28 @@
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-02&vtid=main_vsl_01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                    <img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                    <img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                    <img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                    <img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
                                                 </figure>
                                             </li>
                                         </ul>
@@ -730,8 +730,8 @@
                                     <div class="offers-content-wrapper">
                                         <div class="offers-product-img">
                                             <figure>
-                                                <img src="/images/6-bottles.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <!--<img src="/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                                <img src="/cb/images/6-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/cb/images/guarantee-badge.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
                                         <div class="offers-info-wrapper">
@@ -751,28 +751,28 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-06&vtid=main_vsl_01" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                    <img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                    <img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                    <img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                    <img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
                                                 </figure>
                                             </li>
                                         </ul>
@@ -798,8 +798,8 @@
                                     <div class="offers-content-wrapper">
                                         <div class="offers-product-img">
                                             <figure>
-                                                <img src="/images/3-bottles.png" alt="offers-img" class="img-fluid bottle-img">
-                                                <!--<img src="/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
+                                                <img src="/cb/images/3-bottles.png" alt="offers-img" class="img-fluid bottle-img">
+                                                <!--<img src="/cb/images/guarantee-badge-2.png" alt="Money Back Guarantee" class="guarantee-badge">-->
                                             </figure>
                                         </div>
                                         <div class="offers-info-wrapper">
@@ -818,28 +818,28 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-03&vtid=main_vsl_01" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
+                                                    <img src="/cb/images/Mastercard.svg" alt="Mastercard" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/visa-logo.svg" alt="visa" class="img-fluid">
+                                                    <img src="/cb/images/visa-logo.svg" alt="visa" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/amex.svg" alt="amex" class="img-fluid">
+                                                    <img src="/cb/images/amex.svg" alt="amex" class="img-fluid">
                                                 </figure>
                                             </li>
                                             <li>
                                                 <figure>
-                                                    <img src="/images/discover.svg" alt="discover" class="img-fluid">
+                                                    <img src="/cb/images/discover.svg" alt="discover" class="img-fluid">
                                                 </figure>
                                             </li>
                                         </ul>
@@ -946,16 +946,16 @@
 <!-- content end -->
 
 <!-- footer start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
 <!-- footer end -->
 
 <!-- scripts start -->
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/components/scripts.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
 <!-- scripts end -->
 
-<script src="/js/custom/index.js?v=<?php echo time(); ?>"></script>
-<script src="/js/custom/buygoods-tracking.js"></script>
-<script src="/js/custom/new-discovery.js"></script>
+<script src="/cb/js/custom/index.js?v=<?php echo time(); ?>"></script>
+<!--<script src="/cb/js/custom/buygoods-tracking.js"></script>-->
+<script src="/cb/js/custom/new-discovery.js"></script>
 <!-- scripts end -->
 
 
