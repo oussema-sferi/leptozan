@@ -8,6 +8,11 @@
         <!--<script src="/cb/js/custom/buygoods-integration.js"></script>-->
         <!-- This must be after the integration.js file since it uses ReadCookie() -->
         <!--<script src="/cb/js/custom/buygoods-tracking.js"></script>-->
+        <style>
+            .experience-glucozan-shortbx h3{
+                padding: 0 30px!important;
+            }
+        </style>
 
         <title>Glucozan</title>
     </head>
