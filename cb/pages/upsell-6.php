@@ -27,7 +27,7 @@
 <div class="content">
 
     <!-- VSl Start -->
-    <section class="vsl-banner-wrp vsl-banner-wrp2 upsell-page" style="background-color: #D4F1F2; padding: 32px 0 76px;">
+    <section class="vsl-banner-wrp vsl-banner-wrp2 upsell-page" style="background-color: #D4F1F2;">
         <div class="container">
             <div class="vsl-banner-main">
                 <div class="banner-order-steps">
@@ -77,7 +77,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="vsl-video" style="display: none;">
+                <div class="vsl-video">
                     <!--<video class="video" poster="/cb/images/video-poster.jpg">
                         <source src="/cb/images/mov_bbb.mp4" type="video/mp4">
                     </video>
