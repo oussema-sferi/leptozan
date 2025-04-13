@@ -154,8 +154,8 @@
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box orange-bg">
-                                <h4>Increases Metabolism</h4>
-                                <p>Boost metabolic health to burn more calories all day, every day.</p>
+                                <h4>Support Healthy Metabolism</h4>
+                                <p>Support metabolic health to burn more calories all day, every day.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -172,8 +172,8 @@
                         </div>
                         <div class="col-md-4">
                             <div class="feature-box light-bg">
-                                <h4>Fights Inflammation</h4>
-                                <p>Supports a healthy inflammatory response to help prevent issues throughout your body.</p>
+                                <h4>Anti-inflammatory Support</h4>
+                                <p>Helps maintain a balanced inflammatory function: an important factor in overall wellness and vitality.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -347,8 +347,8 @@
                                     </div>
 
                                     <div class="offers-btn">
-                                        <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>-->
-                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-02&vtid=main_tsl_01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-02" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>-->
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-02&vtid=main_tsl_01&cbfid=59441&template=chk01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -417,7 +417,7 @@
 
                                     <div class="offers-btn">
                                         <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-06" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>-->
-                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-06&vtid=main_tsl_01" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-06&vtid=main_tsl_01&cbfid=59443&template=chk01" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -485,7 +485,7 @@
 
                                     <div class="offers-btn">
                                         <!--<a href="/cb/upsell-oto-01/?sku=lepto-us-03" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>-->
-                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-03&vtid=main_tsl_01" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-03&vtid=main_tsl_01&cbfid=59442&template=chk01" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -773,7 +773,7 @@
                                     </div>
 
                                     <div class="offers-btn">
-                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-02&vtid=main_tsl_01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-02&vtid=main_tsl_01&cbfid=59441&template=chk01" class="btn btn-yellow">BUY NOW <span>Basic Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -841,7 +841,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-06&vtid=main_tsl_01" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-06&vtid=main_tsl_01&cbfid=59443&template=chk01" class="btn btn-orange">BUY NOW <span>Best Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
@@ -908,7 +908,7 @@
 
 
                                     <div class="offers-btn">
-                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-03&vtid=main_tsl_01" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
+                                        <a href="https://leptozan.pay.clickbank.net/?cbitems=lepto-us-03&vtid=main_tsl_01&cbfid=59442&template=chk01" class="btn btn-yellow">BUY NOW <span>Good Offer!</span></a>
                                     </div>
                                     <div class="payments-block">
                                         <ul>
