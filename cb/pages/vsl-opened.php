@@ -957,6 +957,20 @@
 <!--<script src="/cb/js/custom/buygoods-tracking.js"></script>-->
 <script src="/cb/js/custom/new-discovery.js"></script>
 <!-- scripts end -->
+<script>
+window.onload = function () {
+
+const fullScreenButton = document.querySelector('.smartplayer-full-icon');
+
+window.smartplayer.instances[0].on('play', () => {
+fullScreenButton.click();
+})
+
+window.smartplayer.instances[0].on('pause', () => {
+fullScreenButton.click()
+})
+}
+</script>
 
 
 </body>
