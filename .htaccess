@@ -73,6 +73,39 @@ RewriteRule ^upsell-oto-01/?$ pages/upsell-6.php [L]
 # Default redirect if no SKU matches
 RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
 
+
+# Handle /cp main page
+RewriteRule ^cp/?$ cp/pages/index.php [L]
+
+# Handle specific routes within /cp
+RewriteRule ^cp/vsl/?$ /cp/ [R=301,L]
+RewriteRule ^cp/newdiscovery_backup/?$ cp/pages/vsl-opened-backup.php [L]
+RewriteRule ^cp/newdiscovery/?$ cp/pages/vsl-opened-live.php [L]
+RewriteRule ^cp/upsell-no-thanks/?$ cp/pages/upsell-nothanks.php [L]
+RewriteRule ^cp/typ/?$ cp/pages/thank-you.php [L]
+RewriteRule ^cp/old-index/?$ cp/pages/old-index.php [L]
+RewriteRule ^cp/glucozan/home/?$ cp/pages/glucozan-index-backup.php [L]
+RewriteRule ^cp/upsell-oto-02/?$ cp/pages/glucozan-index.php [L]
+RewriteRule ^cp/upsell-oto-02_backup/?$ cp/pages/glucozan-index_last_backup.php [L]
+
+# Handle SKU parameters for /cp
+RewriteCond %{QUERY_STRING} sku=lepto-us-01 [NC]
+RewriteRule ^cp/upsell-oto-01/?$ cp/pages/upsell-1.php [L]
+
+RewriteCond %{QUERY_STRING} sku=lepto-us-03 [NC]
+RewriteRule ^cp/upsell-oto-01/?$ cp/pages/upsell-3.php [L]
+
+RewriteCond %{QUERY_STRING} sku=lepto-us-06 [NC]
+RewriteRule ^cp/upsell-oto-01/?$ cp/pages/upsell-6.php [L]
+
+# Default for /cp/upsell-oto-01
+RewriteRule ^cp/upsell-oto-01/?$ cp/pages/upsell-1.php [L]
+
+# Handle any remaining /cp/ requests
+RewriteRule ^cp/(.*)$ cp/$1 [L]
+
+
+
 # Ensure trailing slash for all URLs except files
 RewriteCond %{REQUEST_URI} !\.[^./]+$ [NC]
 RewriteCond %{REQUEST_URI} !(.*)/$ [NC]

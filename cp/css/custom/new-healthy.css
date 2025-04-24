@@ -1,0 +1,145 @@
+/* Section Styling */
+
+.healthy-wrp {
+    padding: 100px 180px;
+    margin-bottom: 10px;
+}
+
+.healthy-wrp .healthy-title {
+    /*max-width: 624px;*/
+    /*width: 100%;*/
+    /*max-height: 144px;*/
+    margin: 0 auto 56px;
+    text-align: center;
+}
+
+/* Title Styling */
+
+.healthy-wrp .healthy-title .section-title {
+    /*max-width: 500px;*/
+    /*height: auto;*/
+    margin-bottom: 16px;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 52px;
+    text-align: center;
+    /*margin-bottom: 10px;*/
+}
+
+.healthy-wrp .healthy-title .detail {
+    /*margin: 0 30px;*/
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Inter, sans-serif;
+}
+
+.healthy-wrp .healthy-section {
+    padding: 0;
+    background-color: #ffffff;
+}
+
+.healthy-wrp .healthy-section .row {
+    border-radius: 12px; /* Adjust to match Figma */
+    overflow: hidden; /* Ensures child elements don't overflow the rounded corners */
+}
+
+.force-break {
+    white-space: nowrap; /* Prevents "And Healthy" from breaking apart */
+    display: inline-block; /* Ensures it stays on one line */
+    color: unset!important;
+}
+
+
+/* Subtitle Styling */
+.section-subtitle {
+    font-size: 16px;
+    color: #5a5a5a;
+    margin-bottom: 40px;
+}
+
+/* Feature Box Styling */
+.feature-box {
+    padding: 32px 32px;
+    text-align: center;
+    height: 100%;
+}
+
+/* Light Background Boxes */
+.light-bg {
+    background-color: #FEF2EA;
+}
+
+/* Orange Background Boxes */
+.orange-bg {
+    background-color: #F47929;
+    color: #fff;
+}
+
+/* Feature Title */
+.feature-box h4 {
+    font-size: 28px;
+    font-family: "DM Sans", serif;
+    font-weight: 700;
+    margin-bottom: 15px;
+    line-height: 40px;
+}
+
+/* Feature Text */
+.feature-box p {
+    font-size: 18px;
+    font-family: "Inter", serif;
+    color: #171717;
+    line-height: 28px;
+    max-width: 290px;
+    margin: 0 auto;
+}
+
+/* Make the orange boxes text white */
+.orange-bg p {
+    color: #FFFFFF;
+}
+
+.healthy-section .row {
+    margin: 0 0 !important;
+
+}
+
+.healthy-section .row>* {
+    padding: 0 0 !important;
+}
+.healthy-section .row .col-md-4 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .healthy-wrp {
+        padding: 32px 0;
+
+    }
+
+
+
+    .healthy-wrp .healthy-title {
+        /*max-width: 375px!important;*/
+        /*height: auto;*/
+
+    }
+    .healthy-wrp .healthy-title .section-title {
+
+        line-height: 1.2;
+
+    }
+
+    .healthy-wrp .healthy-title .detail {
+
+        line-height: 24px;
+
+    }
+
+    /*.healthy-title .force-break {display: none;}*/
+
+
+
+}

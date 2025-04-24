@@ -1,0 +1,284 @@
+@media(min-width:1201px) and (max-width:1600px){
+	
+}
+
+@media(min-width:1025px) and (max-width:1200px){
+	.container{max-width: 990px;}
+	.price-row{max-width: 100%;margin: 0 auto;}
+	.price-row .col-md-4{width: 33.33%;}
+	.product-img img{height: 250px;}
+	.pricing-top h3{font-size: 40px;line-height: 50px}
+	.product-databx h3{font-size: 75px;line-height: 75px;}
+	.product-databx h3 b{font-size: 32px;line-height: 42px;}
+	.product-databx .btn-main{font-size: 20px;}
+	.price-row{margin: 0 0 64px;}
+	.product-databx h3 b:after{top: 55%;}
+
+	.step-ic{margin-right: 10px;}
+	.step-data h3{font-size: 22px;}
+	.hero-header ul li.active-step .step-box .step-data h3{font-size: 24px;line-height: 32px;}
+	.hero-header ul li.active-step .step-box .step-data p{font-size: 16px;line-height: 24px;}
+
+	.stop-wrp{padding: 35px 0;}
+	.stop-wrp h1{font-size: 70px;height: 100px;line-height: 100px;max-width: 500px;margin: 0 auto -80px;}
+	.srop-banner-data h2{font-size: 42px;line-height: 58px;}
+	.srop-banner-data p{font-size: 20px;}
+	.free-box p{font-size: 56px;line-height: 64px;}
+}
+
+@media(min-width:768px) and (max-width:1024px){
+	.container{padding: 0 20px;max-width: 720px;}
+	.hero-banner{padding: 35px 0 100px;}
+	.hero-header ul li{width: 39.2%;}
+	.step-ic{min-width: 40px;max-width: 40px;line-height: 40px;font-size: 22px;width: 40px;height: 40px;margin-right: 5px;}
+	.step-ic h2{width: 40px;height: 40px;line-height: 40px;font-size: 22px;}
+	.step-ic i{font-size: 22px;}
+	.hero-header ul li .step-box{padding: 8px 65px 8px 8px;}
+	.hero-header ul li.active-step .step-box .step-data h3,.step-data h3{font-size: 16px;line-height: 24px;}
+	.hero-header ul li.active-step .step-box .step-data p,.step-data p{font-size: 14px;line-height: 22px;}
+	.hero-header ul li .step-box.panding-step{padding: 8px 8px 8px 70px;}
+	.banner-data h1{font-size: 52px;line-height: 62px;}
+
+	.vicious-cycle-wrp,.dr-mitchell-wrp{padding: 64px 0;}
+	.dr-mitchell-data{padding: 0;}
+	.dr-mitchell-data h2{font-size: 32px;line-height: 42px;margin: 0 0 24px;}
+	.potential-data p, .experience-data p,
+	.vicious-data p,.dr-mitchell-data p{font-size: 16px;line-height: 26px;}
+
+	.experience-wrp h2,.glucozan-wrp h3,.vicious-cycle-wrp h2{font-size: 32px;line-height: 42px;margin: 0 auto 32px;}
+	.vicious-cycle-wrp .row{align-items: flex-start;}
+	.vicious-data{padding: 0;}
+	.vicious-row{margin: 0 0 64px;}
+	.discovering-block{padding: 34px;}
+	.discovering-data{padding: 0;}
+	.discovering-data h3{font-size: 20px;line-height: 30px;}
+
+	.glucozan-wrp{padding: 64px 0;}
+	.glucozan-wrp h2{font-size: 72px;line-height: 82px;}
+	.glucozan-row{align-items: flex-start;margin: 0 0 64px;}
+	.price-topbox p,
+	.riskfree-block p,.experience-glucozan-shortbx p,.glucozan-data p{font-size: 16px;line-height: 26px;}
+
+	.glucozan-wrp .why-glucozan-block .why-glucozan-img img{height: 200px;}
+	.glucozan-wrp .why-glucozan-block .why-glucozan-data{padding: 16px;}
+	.glucozan-wrp .why-glucozan-block .why-glucozan-data h4{font-size: 18px;line-height: 26px;}
+	.glucozan-wrp .why-glucozan-block .why-glucozan-data p{font-size: 14px;line-height: 22px;}
+	.glucozan-wrp .why-glucozan-block{height: calc(100% - 35px);margin: 0 0 35px;}
+
+	.experience-wrp{padding: 64px 0;}
+	.full-potential-wrp .row,.experience-row .row{align-items: flex-start;}
+	.full-potential-wrp{padding: 64px 0;}
+	.price-topbox h2,.price-row h2,
+	.riskfree-block h2,.full-potential-wrp h3{font-size: 32px;line-height: 42px;margin: 0 0 40px;}
+	.potential-data{padding: 0;}
+	.price-row{max-width: 400px;margin: 0 auto;}
+	.price-row .col-md-4{width: 100%;}
+	.pricing-block{margin: 0 0 32px;}
+	.price-notebox{padding: 0;}
+	.price-notebox .btn-secondary{margin: 0 auto 32px;}
+
+	.quicklinks ul li a{font-size: 14px;}
+
+
+	.stop-wrp{padding: 35px 0;}
+	.stop-wrp h1{font-size: 70px;height: 100px;line-height: 100px;max-width: 500px;margin: 0 auto -80px;}
+	.srop-banner-data h2{font-size: 32px;line-height: 42px;max-width: 700px;}
+	.srop-banner-data p{font-size: 20px;}
+	.pricing-wrp.stop-pricing-wrp .price-row{max-width: 100%;}
+	.free-box p{font-size: 48px;line-height: 58px;}
+	.free-box figure{max-width: 150px;}
+	.free-box{padding: 0 16px;}
+	.discount-row ul li p{font-size: 32px;line-height: 39px;}
+	.discount-row ul li h4{font-size: 32px;line-height: 39px;}
+	.discount-row ul li h4 span{font-size: 10px;line-height: 10px;}
+	.discount-row ul li h4 sup{font-size: 18px;}
+	.include-rw figure{max-width: 130px;}
+}
+
+@media(min-width:992px) and (max-width:1024px){
+	.container{max-width: 960px;}
+	.price-row{max-width: 100%;margin: 0 auto;}
+	.price-row .col-md-4{width: 33.33%;}
+	.product-img img{height: 250px;}
+	.pricing-top h3{font-size: 40px;line-height: 50px}
+	.product-databx h3{font-size: 75px;line-height: 75px;}
+	.product-databx h3 b{font-size: 32px;line-height: 42px;}
+	.product-databx .btn-main{font-size: 20px;}
+
+	.hero-header ul li{width: 37.2%;}
+	.step-ic{min-width: 40px;max-width: 40px;line-height: 40px;font-size: 22px;width: 40px;height: 40px;margin-right: 5px;}
+	.step-ic h2{width: 40px;height: 40px;line-height: 40px;font-size: 22px;}
+	.step-ic i{font-size: 22px;}
+	.hero-header ul li .step-box{padding: 8px 65px 8px 8px;}
+	.hero-header ul li.active-step .step-box .step-data h3,.step-data h3{font-size: 16px;line-height: 24px;}
+	.hero-header ul li.active-step .step-box .step-data p,.step-data p{font-size: 14px;line-height: 22px;}
+	.hero-header ul li .step-box.panding-step{padding: 8px 8px 8px 70px;}
+	.banner-data h1{font-size: 52px;line-height: 62px;}
+}
+
+@media(max-width:767px){
+	.container{padding: 0 20px;max-width: 520px;}
+	.hero-banner{padding: 20px 0 42px;overflow: hidden;}
+	.hero-header{margin: 0 0 24px;}
+	.hero-header ul{padding: 0 5px;}
+	.hero-header ul li{width: 100%;}
+	.hero-header ul li.active-step{margin: -15px 0;transform: scale(1.1);}
+	.step-box{padding: 8px 8px 25px 8px;border-radius: 40px 40px 0 0;}
+	.step-data h3{font-size: 20px;line-height: 30px;}
+	.step-ic{margin: 0 10px 0 0;}
+	.hero-header ul li.active-step .step-box .step-data h3{font-size: 28px;line-height: 38px;}
+	.hero-header ul li.active-step .step-box .step-data p{font-size: 18px;line-height: 26px;}
+	.hero-header ul li.active-step .step-box .step-ic{max-width: 70px;min-width: 70px;height: 70px;}
+	.hero-header ul li.active-step .step-box .step-ic h2{width: 70px;height: 70px;line-height: 70px;}
+	.panding-step{border-radius: 0 0 40px 40px;padding: 25px 8px 8px 8px;}
+	.banner-data h1{font-size: 46px;line-height: 54px;}
+	.banner-data h1 br{display: none;}
+
+	.dr-mitchell-wrp{padding: 54px 0 64px;}
+	.dr-mitchell-data{padding: 24px 0 0;}
+	.dr-mitchell-data h2{font-size: 36px;line-height: 44px;margin: 0 0 24px;}
+
+	.vicious-cycle-wrp{padding: 56px 0;}
+	.vicious-cycle-wrp h2{font-size: 36px;line-height: 44px;margin: 0 0 32px;}
+	.vicious-data{padding: 0 0 32px;}
+	.vicious-row{margin: 0 0 56px;}
+	.discovering-block{padding: 32px 20px;}
+	.discovering-data{padding: 0 0 24px;}
+	.discovering-data h3{font-size: 32px;line-height: 40px;}
+	.discovering-block .col-md-5,.discovering-block .col-md-7{width: 100%;}
+
+	.glucozan-wrp{padding: 56px 0;}
+	.glucozan-wrp h2{font-size: 78px;line-height: 82px;margin: 0 0 24px}
+	.glucozan-wrp h6{margin: 0 0 32px;}
+	.glucozan-img,.glucozan-data{width: 100%;}
+	.glucozan-img img{width: 80%;margin: 32px auto 0;}
+	.glucozan-row{margin: 0 -15px 40px;}
+
+	.glucozan-wrp h3{font-size: 36px;line-height: 44px;margin: 0 0 24px;}
+	.glucozan-wrp .why-glucozan-block{height: auto;margin: 0 0 24px;}
+
+	.experience-wrp{padding: 64px 0;}
+	.experience-wrp h2{font-size: 40px;line-height: 48px;margin: 0 0 32px;}
+	.experience-data{padding: 0 0 32px;}
+	.full-potential-wrp{padding: 64px 0;}
+	.full-potential-wrp h3{font-size: 36px;line-height: 44px;margin: 0 0 32px;}
+	.potential-data{padding: 24px 0 0;}
+	.experience-glucozan-shortbx{padding: 56px 20px 32px;}
+	.experience-glucozan-img-shortbx img{margin: 24px 0;}
+	.experience-glucozan-shortbx p:last-child{margin: 0;}
+
+	.glucozan-riskfree-wrp{padding: 64px 0 32px;}
+	.riskfree-block figure{width: 127px;margin: 0 auto -50px;top: -60px;}
+	.riskfree-block{padding: 0 20px 32px;}
+	.riskfree-block h2{font-size: 36px;line-height: 44px;margin: 0 auto 32px;max-width: 232px;}
+
+	.price-row h2,.price-topbox h2{font-size: 36px;line-height: 44px;margin: 0 0 24px;}
+	.pricing-block{margin: 0 0 32px;}
+	.product-img img{width: 100%;height: auto;}
+	.price-notebox{padding: 0;}
+	.suppliers-row ul{flex-wrap: wrap;justify-content: center;}
+	.suppliers-row ul li{width: 25%;margin: 0 0 16px;}
+	.suppliers-row ul li figure{max-width: 64px;min-width: 64px;margin: 0 auto;}
+	.suppliers-row{margin: 0 0 16px;}
+	.supply-banner-img{margin: 16px 0 0;}
+	.suppliers-row{margin: 0 0 56px;}
+
+	.scientific-references-block .row{flex-flow: column-reverse;}
+	.scientific-data h2{font-size: 32px;line-height: 40px;margin: 0 0 24px;}
+	.scientific-data ul li a{word-break: break-word;}
+	.scientific-img{padding: 16px 0 0;}
+	.pricing-wrp{padding: 56px 0;}
+
+	.quicklinks{padding: 56px 0 24px;}
+	.footer-data{padding: 0 0 16px;}
+	.quicklinks ul{flex-wrap: wrap;}
+	.quicklinks ul li{margin: 0 8px 16px 0;}
+	.quicklinks ul li:last-child{margin: 0 0 16px;}
+
+	.stop-pricing-wrp{padding: 56px 0 64px;}
+	.stop-pricing-wrp .container{max-width: 520px;}
+	.stop-wrp{padding: 71px 0 80px;}
+	.stop-wrp .container{max-width: 100%;padding: 0;}
+	.stop-wrp h1{font-size: 60px;width: 355px;height: 93px;line-height: 93px;margin: 0 auto -110px;}
+	.srop-banner-data h2 span{display: table;margin: 0 auto 5px;}
+	.srop-banner-data{background-size: cover;background-position:center top -25px;padding: 120px 15px 0;}
+	.srop-banner-data h2{font-size: 36px;line-height: 48px;max-width: 335px;}
+	.srop-banner-data p{font-size: 20px;line-height: 28px;}
+	.stop-pricing-wrp .price-row .col-md-7,.stop-pricing-wrp .price-row .col-md-5{width: 100%;}
+	.free-box p{font-size: 48px;line-height: 73px;}
+	.free-box{padding: 0 16px;}
+	.discount-row ul li p{font-size: 32px;line-height: 39px;}
+	.discount-row ul li h4{font-size: 32px;line-height: 39px;}
+	.discount-row ul li h4 span{font-size: 10px;line-height: 10px;}
+	.discount-row ul li h4 sup{font-size: 18px;}
+	.stop-pricing-wrp .product-databx{padding: 0 15px 40px;}
+	.discount-row ul{margin: 0 -5px 24px;justify-content: center;}
+	.discount-row ul li{padding: 0 5px;}
+	.include-rw figure{max-width: 100px;}
+	.our-payment-acceptbx{padding: 32px 0 0;}	
+	.stop-pricing-wrp .product-img img{height: auto;}
+	.guarantee-badge {
+		width: 95px;
+		/*height: 60px;
+		transform: translate(0, 0);*/
+		top: 45px;
+		right: 10px;
+	}
+	.pricing-wrp .first .guarantee-badge {
+		/* Your specific styles for the first bottle */
+		top: 40px;
+		right: 58px;
+	}
+}
+
+@media(min-width:576px) and (max-width:767px){
+	
+}
+
+@media(min-width:448px) and (max-width:575px){
+	
+}
+
+@media(max-width:374px){
+	.container{padding: 0 15px;}
+	.product-databx h3{font-size: 70px;line-height: 70px;}
+	.product-databx h3 strong{font-size: 32px;line-height: 42px;}
+	.hero-header ul{padding: 0 10px;}
+	.step-data h3{font-size: 18px;line-height: 26px;}
+	.hero-header ul li .step-box .step-ic{margin: 0 5px 0 0;}
+	.discount-row ul li h4{font-size: 24px;}
+	.free-box p{font-size: 22px;}
+	.discount-row ul li p{font-size: 24px;}
+	.discount-row ul li p sup{font-size: 14px;top: -10px;}
+	.discount-row ul{justify-content: center;}
+	.stop-pricing-wrp .popular-block .pricing-top{padding: 32px 0;}
+	.stop-pricing-wrp .pricing-top h3{font-size: 28px;line-height: 36px;}
+	.free-box p{font-size: 34px;line-height: 44px;}
+	.our-payment-acceptbx ul li figure{max-width: 50px;width: 50px;}
+	.our-payment-acceptbx ul{margin: 0 0 32px;}
+	.pay-notebx p{font-size: 14px;line-height: 22px;}
+
+	.quicklinks{padding: 42px 0 24px;}
+	.quicklinks ul li a{font-size: 14px;line-height: 14px;}
+
+	.hero-header ul li.active-step .step-box .step-data h3{font-size: 20px;line-height: 30px;}
+	.hero-header ul li.active-step .step-box .step-data p{font-size: 14px;line-height: 24px;}
+	.banner-data h1{font-size: 36px;line-height: 44px;}
+	.hero-header ul li.active-step .step-box .step-ic{max-width: 65px;min-width: 65px;height: 65px;}
+	.hero-header ul li.active-step .step-box .step-ic h2{width: 65px;line-height: 65px;line-height: 65px;}
+
+	.scientific-data ul li a{font-size: 12px;line-height: 18px;}
+
+	.experience-glucozan-shortbx h3{padding: 0 35px;}
+	.vicious-data p,.dr-mitchell-data h3,.price-topbox p,.dr-mitchell-data p,.glucozan-wrp h5,.potential-data p, .experience-data p,
+	.glucozan-wrp h6,.riskfree-block p,.experience-glucozan-shortbx p,.glucozan-data p{font-size: 14px;line-height: 24px;}
+	.discovering-data h3{font-size: 24px;line-height: 32px;}
+	.glucozan-wrp h2{font-size: 60px;line-height: 70px;}
+
+	.price-row h2, .price-topbox h2{font-size: 30px;line-height: 40px;}
+	.btn-secondary{padding: 15px 35px;font-size: 16px;}
+	.price-row{margin: 0 0  32px;}
+
+	.stop-wrp h1{width: 100%;}
+	.srop-banner-data p{font-size: 16px;line-height: 24px;}
+}

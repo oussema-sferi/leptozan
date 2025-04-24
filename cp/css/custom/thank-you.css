@@ -1,0 +1,129 @@
+.order-validated-main {
+    text-align: center;
+}
+
+.order-validated-main .small-title {
+    font-weight: 900;
+    margin: 0 0 4px;
+}
+
+.order-validated-main .main-title {
+    margin: 0 0 16px;
+    text-transform: unset;
+}
+
+.order-validated-img img {
+    margin: 0 0 -180px;
+    height: 602px;
+}
+
+.order-validated-wrp {
+    padding: 40px 20px 0;
+    margin: 0 32px 0;
+}
+
+.thank-you-details-wrp {
+    padding: 166px 0 88px;
+}
+
+.thank-you-details-main {
+    text-align: center;
+}
+
+.thank-you-details-main .attention {
+    max-width: 617px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: var(--grey4);
+    padding: 16px 32px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.thank-you-details-main .attention p {
+    margin: 0;
+}
+
+.bravo-block {
+    max-width: 802px;
+    width: 100%;
+    margin: 88px auto 56px;
+}
+
+.bravo-block .section-title {
+    margin: 0 0 24px;
+}
+
+.bravo-block .common-detail p {
+    padding: 0 0 12px;
+}
+
+.bravo-block .common-detail p a {
+    border-bottom: 1px solid var(--black);
+}
+
+.bravo-block .common-detail p a:hover {
+    color: var(--orange);
+    border-bottom-color: var(--orange);
+}
+
+.bravo-block .common-detail p:last-child {
+    padding-bottom: 0;
+}
+
+.order-summary ul {
+    padding: 0;
+    max-width: 431px;
+    width: 100%;
+    margin: 0 auto 72px;
+}
+
+.order-summary ul li {
+    background-color: var(--grey4);
+    padding: 8px 16px;
+    margin: 0 0 12px;
+    list-style-type: none;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.order-summary ul li span {
+    display: flex;
+    align-items: center;
+    position: relative;
+    max-width: 199px;
+    width: 100%;
+}
+
+.order-summary ul li span::before {
+    content: "";
+    background-image: url("/images/sky-check.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    margin: 0 8px 0 0;
+}
+
+.order-summary ul li:last-child {
+    margin-bottom: 0;
+}
+
+.order-summary .small-title {
+    margin: 0 0 24px;
+}
+
+.signature {
+    padding: 8px 0 0;
+}

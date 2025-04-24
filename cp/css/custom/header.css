@@ -1,0 +1,111 @@
+/* Sticky Navbar */
+
+.fixed-navbar {
+    position: fixed; /* Keeps navbar fixed at the top */
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 90px; /* Match Figma height */
+    background: #b0e6e8; /* Match Figma background */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Keep subtle shadow */
+    transition: transform 0.3s ease-in-out; /* Smooth animation if hiding on scroll */
+    z-index: 1000; /* Ensure it stays above other content */
+    /*padding: 0 40px;*/ /* Add horizontal padding for better spacing */
+}
+
+
+/* Reduce logo size in the sticky navbar */
+.fixed-navbar .navbar-brand img {
+    max-width: 93px; /* Adjust this value as needed */
+    height: auto;
+}
+
+.navbar-toggler {
+    border: none; /* Remove default border */
+    background-color: transparent; /* Keep background transparent */
+}
+
+.navbar-toggler-icon {
+    width: 24px; /* Set width */
+    height: 24px; /* Set height */
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23171717' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+/* When button is clicked, show your PNG */
+.navbar-toggler.open .navbar-toggler-icon {
+    background-image: url('/images/times.png') !important; /* Replace with the actual file path */
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 14px; /* Set width */
+    height: 14px; /* Set height */
+}
+
+.fixed-navbar .navbar-nav {
+    display: flex;
+    gap: 40px;
+}
+
+.fixed-navbar .navbar-nav .nav-item {
+    padding: 0 5px;
+}
+
+.fixed-navbar .header-btn .btn {
+    font-size: 16px;
+    padding: 14px 32px;
+    border-radius: 30px;
+}
+.header-btn {
+    display: flex;
+    justify-content: center; /* Aligns right by default */
+}
+
+
+/* Responsive */
+@media (max-width: 768px) {
+    .fixed-navbar {
+        height: auto; /* Allow expansion */
+        min-height: 60px; /* Keep navbar visible when collapsed */
+        padding: 0;
+
+    }
+    .fixed-navbar .container {
+        padding: 0 20px; /* Apply padding inside */
+    }
+
+    .fixed-navbar .navbar-nav {
+        display: flex;
+        gap: unset;
+    }
+
+    .fixed-navbar .navbar-nav .nav-item {
+        padding: 12px 0;
+    }
+
+    .fixed-navbar .navbar-nav .nav-item a {
+        line-height: 160%;
+    }
+
+    .header .navbar-brand {
+        margin: 0 0 0 12px;
+    }
+
+    .fixed-navbar .navbar-nav {
+        flex-direction: column;
+        align-items: flex-start;
+        /*align-items: center;*/
+        /*background-color: #F6F7F7;*/
+        padding: 24px 4px;
+
+    }
+
+    .header-btn {
+        margin-top: 10px;
+    }
+    .fixed-navbar .header-btn .btn {
+        font-size: 16px;
+        font-weight: bold;
+        width: 335px;
+    }
+}
+
+
