@@ -188,7 +188,7 @@
         <!-- script -->
         <script src="/cp/js/jquery-3.7.1.min.js"></script>
         <script src="/cp/js/bootstrap.bundle.min.js"></script>
-        <script src="/cp/js/custom/glucozan-upsell.js"></script>
+        <!--<script src="/cp/js/custom/glucozan-upsell.js"></script>-->
         <!-- End script -->
     </body>
 </html>
