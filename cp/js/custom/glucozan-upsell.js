@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    const noThanksButton = $("#no-thanks-button");
+    /*const noThanksButton = $("#no-thanks-button");
     const noThanksSection = $(".glucozan-no-thanks-section");
     const homePageSection = $(".glucozan-home-page-section");
     // no-thanks link action
@@ -10,7 +10,7 @@ $(document).ready(function() {
         homePageSection.hide();
         noThanksSection.show();
         $('html, body').animate({ scrollTop: 0 }, 10);
-    })
+    })*/
 
     // Open lightbox when clicking the banner image
     $('.banner-popup-trigger').on('click', function(e) {
