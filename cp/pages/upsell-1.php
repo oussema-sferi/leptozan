@@ -237,104 +237,12 @@
 					</div>
 				</div>
 				<div class="details-bottom text-center" style="color: black; font-weight: bold">
-					<p><a class="no-thanks-link" href="#">No, Thanks.</a> <a href="#" class="details-bottom-text no-thanks-link">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer.</a></p>
+					<p><a class="no-thanks-link" href="/cp/downsell-oto-01/?sku=lepto-us-02">No, Thanks.</a> <a href="/cp/downsell-oto-01/?sku=lepto-us-02" class="details-bottom-text no-thanks-link">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer.</a></p>
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- special-deal-section -->
-
-    <!-- NO-THANKS special-deal-section start-->
-
-    <section class="no-thanks-special-deal-section special-deal-section" style="background: var(--grey3); display: none">
-        <div class="container">
-            <div class="special-deal-wrap">
-                <div class="special-deal-detail text-center">
-                    <div class="large-detail">
-                        <p>This is a Special Deal for</p>
-                    </div>
-                    <div class="section-title">
-                        <h2><span>New</span> Customers Only!</h2>
-                    </div>
-                </div>
-                <div class="special-deal-main">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6">
-                            <div class="special-deal-left">
-                                <div class="special-deal-top-left text-center">
-                                    <div class="block-title">
-                                        <h3 class="title-blink">OK. Maybe 3 bottles was a little too much, but how about an <span>additional 2 BOTTLES?</span></h3>
-                                    </div>
-                                </div>
-                                <div class="special-deal-img text-center" style="background-color: var(--white);">
-                                    <figure>
-                                        <div style="position: relative;">
-                                            <img style="cursor: pointer" width="400" src="/cp/images/2-bottles.png" alt="order-img" class="img-fluid"
-                                            <!-- Overlay link that covers the image without changing layout -->
-                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2d&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vdXBzZWxsLW90by0wMi8=" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
-                                        </div>
-
-                                    </figure>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6">
-                            <div class="special-deal-right">
-                                <div class="saving-banner">
-                                    <div class="left-details text-center">
-                                        <div class="saving-details">
-                                            <span>Just</span>
-                                            <sup><b>$</b></sup>
-                                            <span class="price-blink">49</span>
-                                            <sup  class="per-bottle">Per
-                                                Bottle</sup>
-                                            <div class="details">
-                                                <p>YOU SAVE $120</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="right-details text-center" style="background: #41A3A3; color: var(--white);">
-                                        <div class="right-details-img">
-                                            <figure>
-                                                <img src="/cp/images/total-saving.png" alt="total-saving" class="img-fluid">
-                                            </figure>
-                                        </div>
-                                        <div class="small-title">
-                                            <span>Total</span>
-                                        </div>
-                                        <div class="saving-details" style="color: var(--white);">
-                                            <sup><b style="color: var(--white);">$</b></sup>
-                                            <span>177</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="deal-list">
-                                    <ul>
-                                        <li><span>This is the absolute <strong> lowest price </strong>you’ll ever see for 2 bottles of  <strong>LEPTOZAN.</strong></span></li>
-                                        <li><span>It <strong> protects </strong>you from future price increases as well as <strong> out of stocks.</strong></span></li>
-                                    </ul>
-                                </div>
-                                <div class="btn-contain">
-                                    <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2d&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vdXBzZWxsLW90by0wMi8=" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
-                                </div>
-                                <div class="icon-list">
-                                    <ul>
-                                        <li><a href="#"><img src="/cp/images/badge1.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/cp/images/badge2.png" alt="badge"></a></li>
-                                        <li><a href="#"><img src="/cp/images/badge3.png" alt="badge"></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="details-bottom text-center" style="color: black; font-weight: bold">
-                    <p><a href="/cp/cp/upsell-oto-02/">No, Thanks.</a> <a href="/cp/cp/upsell-oto-02/">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer. </a> </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- NO-THANKS special-deal-section end-->
 
 	<section class="official-page" style="background-color: #D4F1F2;display: none">
 		<div class="container">

@@ -93,44 +93,8 @@ $(document).ready(function() {
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
     /*const actionTime = 73;*/ // Show the special deal after 5 seconds
-    const actionTime = 73; // Show the special deal after 5 seconds
+    const actionTime = 6; // Show the special deal after 5 seconds
     const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
-
-    // Handle "No Thanks" click
-    $(".no-thanks-link").on("click", function(evt) {
-        evt.preventDefault();
-        console.log("No thanks link clicked!");
-
-        // Try to pause all HTML video elements
-        document.querySelectorAll("video").forEach(video => {
-            video.pause();
-            video.muted = true; // Mute the video just in case
-        });
-
-        // Try to pause the SmartPlayer video if it exists
-        try {
-            if (window.smartplayer) {
-                console.log("smartplayer object found", window.smartplayer);
-
-                // Check if smartplayer instances exist
-                if (window.smartplayer.instances) {
-                    Object.values(window.smartplayer.instances).forEach(instance => {
-                        if (instance && typeof instance.pause === "function") {
-                            console.log("Pausing smartplayer instance.");
-                            instance.pause();
-                        }
-                    });
-                }
-            }
-        } catch (e) {
-            console.log("Could not pause video: ", e);
-        }
-
-        // Hide current content and show new content
-        upsellContent.hide();
-        noThanksContent.show();
-        $('html, body').animate({ scrollTop: 0 }, 10);
-    });
 
     // Direct DOM method for detecting video playback
     // This approach doesn't rely on the player's API

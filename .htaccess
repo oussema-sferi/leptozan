@@ -89,8 +89,9 @@ RewriteRule ^cp/upsell-oto-02/?$ cp/pages/glucozan-index.php [L]
 RewriteRule ^cp/upsell-oto-02_backup/?$ cp/pages/glucozan-index_last_backup.php [L]
 
 # Handle SKU parameters for /cp
-RewriteCond %{QUERY_STRING} sku=lepto-us-01 [NC]
+RewriteCond %{QUERY_STRING} sku=lepto-us-02 [NC]
 RewriteRule ^cp/upsell-oto-01/?$ cp/pages/upsell-1.php [L]
+
 
 RewriteCond %{QUERY_STRING} sku=lepto-us-03 [NC]
 RewriteRule ^cp/upsell-oto-01/?$ cp/pages/upsell-3.php [L]
@@ -100,6 +101,20 @@ RewriteRule ^cp/upsell-oto-01/?$ cp/pages/upsell-6.php [L]
 
 # Default for /cp/upsell-oto-01
 RewriteRule ^cp/upsell-oto-01/?$ cp/pages/upsell-1.php [L]
+
+# Handle SKU parameters for downsell /cp
+RewriteCond %{QUERY_STRING} sku=lepto-us-02 [NC]
+RewriteRule ^cp/downsell-oto-01/?$ cp/pages/downsell-1.php [L]
+
+RewriteCond %{QUERY_STRING} sku=lepto-us-03 [NC]
+RewriteRule ^cp/downsell-oto-01/?$ cp/pages/downsell-3.php [L]
+
+RewriteCond %{QUERY_STRING} sku=lepto-us-06 [NC]
+RewriteRule ^cp/downsell-oto-01/?$ cp/pages/downsell-6.php [L]
+
+# Default for /cp/downsell-oto-01
+RewriteRule ^cp/downsell-oto-01/?$ cp/pages/downsell-1.php [L]
+
 
 # Handle any remaining /cp/ requests
 RewriteRule ^cp/(.*)$ cp/$1 [L]
