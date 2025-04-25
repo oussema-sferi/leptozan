@@ -5,13 +5,13 @@
     <!-- header start -->
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/cp/components/header.php'; ?>
     <!-- header end -->
-    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d3392b653b10e968e05d9a/player.js" as="script">
+    <!--<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d3392b653b10e968e05d9a/player.js" as="script">
     <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
     <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67d338d3bfd74f42d33ed77b/main.m3u8" as="fetch">
     <link rel="dns-prefetch" href="https://cdn.converteai.net">
     <link rel="dns-prefetch" href="https://scripts.converteai.net">
     <link rel="dns-prefetch" href="https://images.converteai.net">
-    <link rel="dns-prefetch" href="https://api.vturb.com.br">
+    <link rel="dns-prefetch" href="https://api.vturb.com.br">-->
 
     <script src="/cp/js/custom/buygoods-integration.js"></script>
 
