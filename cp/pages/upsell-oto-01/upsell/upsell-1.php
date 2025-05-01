@@ -14,7 +14,8 @@
     <link rel="dns-prefetch" href="https://images.converteai.net">
     <link rel="dns-prefetch" href="https://api.vturb.com.br">
 
-    <script src="/cp/js/custom/buygoods-integration.js"></script>
+    <?php include $_SERVER['DOCUMENT_ROOT'] . '/cp/components/cartpanda-head-script.php'; ?>
+
 
 <title>UPSELL 1</title>
 </head>
@@ -127,29 +128,6 @@
 	</section>
 	<!-- VSl End -->
 
-    <!-- NO-THANKS (part 1) start -->
-    <section class="banner-upsell" style="background-color: #ED4E1E; display: none">
-        <div class="banner-shape">
-            <figure>
-                <img src="/cp/images/banner-2.png" alt="banner-img" class="img-fluid">
-            </figure>
-        </div>
-        <div class="container">
-            <div class="banner-upsell-wrap text-center">
-                <div class="small-title">
-                    <span>WAIT!</span>
-                </div>
-                <div class="main-title">
-                    <h1>This is your final chance to stock up at our lowest price available...</h1>
-                </div>
-                <div class="large-detal">
-                    <p>Only Available to New Customers!</p>
-                </div>
-            </div>
-        </div>
-        <!-- NO-THANKS (part 1) end -->
-
-    </section>
 
 	<!-- special-deal-section -->
 	<section class="upsell-special-deal-section special-deal-section" style="background: var(--grey3);display: none">
@@ -177,7 +155,7 @@
                                         <div style="position: relative;">
                                             <img style="cursor: pointer" width="400" src="/cp/images/3-bottles.png" alt="order-img" class="img-fluid"
                                             <!-- Overlay link that covers the image without changing layout -->
-                                            <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3u&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vdXBzZWxsLW90by0wMi8=" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
+                                            <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/rw2AmXL2kR?accepted=yes" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
                                         </div>
 
 
@@ -223,7 +201,7 @@
 									</ul>
 								</div>
 								<div class="btn-contain">
-									<a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep3u&redirect=aHR0cHM6Ly9sZXB0b3phbi5jb20vdXBzZWxsLW90by0wMi8=" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $177</span> </a>
+									<a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/rw2AmXL2kR?accepted=yes" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $177</span> </a>
 								</div>
 								<div class="icon-list">
 									<ul>
@@ -259,7 +237,7 @@
 					<ul>
 						<li><a href="#"><img src="/cp/images/amazon.png" alt="img"></a></li>
 						<li><a href="#"><img src="/cp/images/ebay.png" alt="img"></a></li>
-						<li><a href="#"><img src="/cp/images/walmart 1.png" alt="img"></a></li>
+						<li><a href="#"><img src="/cp/images/walmart%201.png" alt="img"></a></li>
 						<li><a href="#"><img src="/cp/images/available.png" alt="img"></a></li>
 					</ul>
 				</div>
@@ -278,7 +256,6 @@
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/cp/components/scripts.php'; ?>
 <?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cp/js/custom/upsell.js'; */?>
 <script src="/cp/js/custom/upsell.js"></script>
-<script src="/cp/js/custom/buygoods-tracking.js"></script>
 <!-- scripts end -->
 
 </body>
