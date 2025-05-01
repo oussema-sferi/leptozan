@@ -68,7 +68,7 @@
                                             </ul>
                                         </div>
 
-                                        <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD-bVPeRp35RY?accepted=yes" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
+                                        <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/NojRWoZ2O9-bVPeRp35RY?accepted=yes" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -110,7 +110,7 @@
                                             </ul>
                                         </div>
 
-                                        <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD-4jyqW7J0dj?accepted=yes" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
+                                        <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/NojRWoZ2O9-4jyqW7J0dj?accepted=yes" class="btn-main">ADD TO ORDER <span>BEST OFFER</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -142,7 +142,7 @@
                         </div>
 
                         <div class="pay-notebx">
-                            <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD-bVPeRp35RY?accepted=no">
+                            <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/NojRWoZ2O9-bVPeRp35RY?accepted=no">
                             <p>No thanks, I'm turning down your Glucozan offer. I’m choosing to ignore this golden opportunity to accellerate my fat loss, and I know I won't be able to get Glucozan anywhere else, but I'm set on taking the more challenging route, regardless of the potential setbacks. Thanks for the offer, but I want to do things the hard way.</p>
                             </a>
                         </div>

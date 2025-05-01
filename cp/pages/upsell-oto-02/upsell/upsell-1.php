@@ -455,7 +455,7 @@
 
                                         <p>+ FREE SHIPPING</p>
 
-                                        <a href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=glu3u&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA=https://leptozan.mycartpanda.com/ex-ocu/next-offer/rw2AmXL2kR-qjoE1zpZBV?accepted=yes" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
+                                        <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/rw2AmXL2kR-qjoE1zpZBV?accepted=yes" class="btn-main">BUY NOW <span>BEST OFFER</span></a>
 
                                         <h6>TOTAL: <strong>$147</strong></h6>
 
@@ -475,7 +475,7 @@
                         <div class="price-notebox">
                             <p>*If you see ‘Add to Cart’ buttons above, it means we have stock available. Act now to secure your order while supplies last.</p>
 
-                            <a id="no-thanks-button" href="/cp/downsell-oto-02/" class="btn-secondary">No, thanks</a>
+                            <a id="no-thanks-button" href="/cp/downsell-oto-02/?sku=lepto-us-02" class="btn-secondary">No, thanks</a>
                         </div>
                     </div>
 
