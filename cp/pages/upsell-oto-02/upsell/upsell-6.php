@@ -475,7 +475,7 @@
                         <div class="price-notebox">
                             <p>*If you see ‘Add to Cart’ buttons above, it means we have stock available. Act now to secure your order while supplies last.</p>
 
-                            <a id="no-thanks-button" href="/cp/downsell-oto-02/?sku=lepto-us-06" class="btn-secondary">No, thanks</a>
+                            <a id="no-thanks-button" href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/NojRWoZ2O9-w2ArGx4J6V?accepted=no" class="btn-secondary">No, thanks</a>
                         </div>
                     </div>
 

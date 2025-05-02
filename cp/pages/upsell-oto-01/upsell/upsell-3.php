@@ -212,7 +212,7 @@
                     </div>
                 </div>
                 <div class="details-bottom text-center" style="color: black; font-weight: bold">
-                    <p><a class="no-thanks-link" href="/cp/downsell-oto-01/?sku=lepto-us-03">No, Thanks.</a> <a href="/cp/downsell-oto-01/?sku=lepto-us-03" class="details-bottom-text no-thanks-link">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer.</a></p>
+                    <p><a class="no-thanks-link" href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=no">No, Thanks.</a> <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=no" class="details-bottom-text no-thanks-link">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer.</a></p>
                 </div>
             </div>
         </div>

@@ -78,7 +78,7 @@
                                         <div style="position: relative;">
                                             <img style="cursor: pointer" width="400" src="/cp/images/3-bottles.png" alt="order-img" class="img-fluid"
                                             <!-- Overlay link that covers the image without changing layout -->
-                                            <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=no" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
+                                            <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=yes" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; opacity: 0;"></a>
                                         </div>
 
                                     </figure>
@@ -122,7 +122,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=no" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
+                                    <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=yes" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
@@ -136,7 +136,7 @@
                     </div>
                 </div>
                 <div class="details-bottom text-center" style="color: black; font-weight: bold">
-                    <p><a href="/cp/upsell-oto-02/?sku=lepto-us-03">No, Thanks.</a> <a href="/cp/upsell-oto-02/?sku=lepto-us-03">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer. </a> </p>
+                    <p><a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=no">No, Thanks.</a> <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=no">I understand this is the very last time I can get my hands on Leptozan. I also understand that I will never see this page or this discount again, and I am aware of the potential effects on my health of declining this offer. </a> </p>
                 </div>
             </div>
         </div>
