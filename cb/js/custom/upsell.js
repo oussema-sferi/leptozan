@@ -92,7 +92,7 @@ $(document).ready(function() {
 
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
-    const actionTime = 4; // Show the special deal after 5 seconds
+    const actionTime = 73; // Show the special deal after 5 seconds
     /*const actionTime = 0;*/ // Show the special deal after 5 seconds
     const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
 

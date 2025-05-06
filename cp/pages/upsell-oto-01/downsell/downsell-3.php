@@ -111,7 +111,7 @@
                                         </div>
                                         <div class="saving-details" style="color: var(--white);">
                                             <sup><b style="color: var(--white);">$</b></sup>
-                                            <span>177</span>
+                                            <span>294</span>
                                         </div>
                                     </div>
                                 </div>
@@ -122,7 +122,7 @@
                                     </ul>
                                 </div>
                                 <div class="btn-contain">
-                                    <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=yes" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">177</span></span> </a>
+                                    <a href="https://leptozan.mycartpanda.com/ex-ocu/next-offer/1qjokxNjJD?accepted=yes" class="btn btn-orange w-100">YES! UPGRADE MY ORDER <br> <span>For Only $<span class="price">294</span></span> </a>
                                 </div>
                                 <div class="icon-list">
                                     <ul>
