@@ -1,15 +1,29 @@
 $(document).ready(function() {
     // Function to get URL parameters
-    function getUrlParameter(name) {
+    /*function getUrlParameter(name) {
         name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
         const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
         const results = regex.exec(location.search);
         return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }*/
+
+    function getSkuFromUrl() {
+        // Try to get SKU from query string (?sku=lepto-us-02)
+        const matchQuery = new RegExp('[?&]sku=([^&#]*)').exec(window.location.search);
+        if (matchQuery && matchQuery[1]) {
+            return decodeURIComponent(matchQuery[1].replace(/\+/g, ' '));
+        }
+
+        // Fallback: extract last path segment (e.g. /cp/upsell-oto-02/lepto-us-02)
+        const pathSegments = window.location.pathname.split('/');
+        const lastSegment = pathSegments.pop() || pathSegments.pop(); // handle trailing slash
+        const isValidSku = /^lepto-us-\d+$/.test(lastSegment);
+        return isValidSku ? lastSegment : '';
     }
 
     // Define pricing configuration for different SKUs
     const pricingConfig = {
-        'lepto-us-01': {
+        'lepto-us-02': {
             startPrice: 177,
             endPrice: 98,
             videoId: '67d338c5b7ef8e55f55f0b95' // First video ID
@@ -33,7 +47,7 @@ $(document).ready(function() {
     };
 
     // Get the SKU from the URL
-    const sku = getUrlParameter('sku');
+    const sku = getSkuFromUrl();
     console.log("sky is ", sku)
 
     // Set prices and video ID based on the SKU (use default if SKU not found in config)
@@ -93,7 +107,7 @@ $(document).ready(function() {
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
     /*const actionTime = 73;*/ // Show the special deal after 5 seconds
-    const actionTime = 73; // Show the special deal after 5 seconds
+    const actionTime = 3; // Show the special deal after 5 seconds
     const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
 
     // Direct DOM method for detecting video playback

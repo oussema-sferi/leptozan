@@ -4,6 +4,20 @@ RewriteEngine On
 # Redirect root domain to pages/index.php
 RewriteRule ^$ pages/index.php [L]
 
+# ✅ ADDED: Redirect /cp/ and /cb/ to their index pages before blocking rewrites
+RewriteRule ^cp/?$ cp/pages/index.php [L] # ✅ ADDED
+RewriteRule ^cb/?$ cb/pages/index.php [L] # ✅ ADDED
+
+# ✅ ADDED: Skip rewriting for real files (e.g. images, js, css)
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L] # ✅ ADDED
+
+# ✅ ADDED: Skip rewriting for real directories EXCEPT /cp/ and /cb/
+RewriteCond %{REQUEST_URI} !^/cp/?$ [NC]
+RewriteCond %{REQUEST_URI} !^/cb/?$ [NC]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L] # ✅ ADDED
+
 # Handle /cb main page
 RewriteRule ^cb/?$ cb/pages/index.php [L]
 
@@ -88,6 +102,15 @@ RewriteRule ^cp/glucozan/home/?$ cp/pages/glucozan-index-backup.php [L]
 #RewriteRule ^cp/upsell-oto-02/?$ cp/pages/glucozan-index.php [L]
 #RewriteRule ^cp/downsell-oto-02/?$ cp/pages/glucozan-downsell.php [L]
 RewriteRule ^cp/upsell-oto-02_backup/?$ cp/pages/glucozan-index_last_backup.php [L]
+
+
+
+# --------------------------------------------
+# ✅ ADDED: Clean URL support for /cp/page/sku
+# ==> for ex: from https://www.leptozan.com/cp/upsell-oto-01/?sku=lepto-us-02 to https://www.leptozan.com/cp/upsell-oto-01/lepto-us-02
+RewriteCond %{REQUEST_URI} ^/cp/.+/.+$
+RewriteRule ^cp/([^/]+)/([^/]+)/?$ cp/$1/?sku=$2 [QSA,L]
+# --------------------------------------------
 
 
 # Handle SKU parameters for upsell-oto-01 upsell /cp
