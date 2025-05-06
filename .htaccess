@@ -4,21 +4,6 @@ RewriteEngine On
 # Redirect root domain to pages/index.php
 RewriteRule ^$ pages/index.php [L]
 
-# ✅ ADDED: Redirect /cp/ and /cb/ to their index pages before blocking rewrites
-RewriteRule ^cp/?$ cp/pages/index.php [L] # ✅ ADDED
-RewriteRule ^cb/?$ cb/pages/index.php [L] # ✅ ADDED
-
-# ✅ ADDED: Skip rewriting for real files (e.g. images, js, css)
-RewriteCond %{REQUEST_FILENAME} -f
-RewriteRule ^ - [L] # ✅ ADDED
-
-# ✅ ADDED: Skip rewriting for real directories EXCEPT /cp/ and /cb/
-RewriteCond %{REQUEST_URI} !^/cp/?$ [NC]
-RewriteCond %{REQUEST_URI} !^/cb/?$ [NC]
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^ - [L] # ✅ ADDED
-
-
 # Handle /cb main page
 RewriteRule ^cb/?$ cb/pages/index.php [L]
 
