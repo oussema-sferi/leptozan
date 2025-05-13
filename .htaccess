@@ -43,8 +43,8 @@ RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-1.php [L]
 RewriteRule ^cb/(.*)$ cb/$1 [L]
 
 # Original site redirects
-RewriteRule ^newdiscovery/?$ pages/vsl-opened-live.php [L]
-RewriteRule ^newdiscovery_backup/?$ pages/vsl-opened-backup.php [L]
+RewriteRule ^newdiscovery/?$ pages/vsl.php [L]
+RewriteRule ^newdiscovery_backup/?$ pages/vsl-backup.php [L]
 RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]
 RewriteRule ^typ/?$ pages/thank-you.php [L]
 RewriteRule ^terms/?$ pages/terms.php [L]
