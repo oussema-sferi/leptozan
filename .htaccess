@@ -1,9 +1,6 @@
 # Enable Rewrite Engine
 RewriteEngine On
 
-# Redirect root domain to pages/index.php
-RewriteRule ^$ pages/index.php [L]
-
 # Handle /cb main page
 RewriteRule ^cb/?$ cb/pages/index.php [L]
 
@@ -42,7 +39,11 @@ RewriteRule ^cb/upsell-oto-01/?$ cb/pages/upsell-1.php [L]
 # Handle any remaining /cb/ requests
 RewriteRule ^cb/(.*)$ cb/$1 [L]
 
-# Original site redirects
+
+# Handle / main page (BG)
+RewriteRule ^$ pages/index.php [L]
+# Original BG site redirects
+RewriteRule ^TSL/?$ pages/TSL/TSL-BG-index.php [L]
 RewriteRule ^newdiscovery/?$ pages/vsl.php [L]
 RewriteRule ^newdiscovery_backup/?$ pages/vsl-backup.php [L]
 RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]
