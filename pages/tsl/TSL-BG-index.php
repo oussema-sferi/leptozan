@@ -21,7 +21,7 @@
 <!-- Sticky Navbar -->
 <nav class="navbar navbar-expand-md fixed-navbar">
     <div class="container">
-        <a class="navbar-brand" href="/TSL">
+        <a class="navbar-brand" href="/tsl">
             <img src="/images/logo.png" alt="logo" class="img-fluid">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#stickyNavbar"
