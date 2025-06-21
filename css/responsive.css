@@ -394,6 +394,7 @@
 
     /* Footer Start */
     .footer { padding: 48px 0 24px; margin: 0 20px 20px; }
+    .footer-main { width: 100%!important; }
     .footer-details { margin: 10px 0; }
     .bg-img-disclaimer {
         width: 80% !important;

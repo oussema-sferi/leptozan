@@ -20,7 +20,7 @@
                 <span id=disclaimer></span>
                 <script src="https://display.buygoods.com/v1/disclaimer?id=disclaimer&account_id=10880"></script>
                 <p class="mt-4">
-                    All statements and results presented on this website are for informational purposes only. They are not specific medical advice for any individual. Neither the website, nor product should substitute medical advice given by a certified health professional. If you have a health problem, or you have sensible allergies, are pregnant or diagnosed with chronic conditions, it is strongly recommended that you consult your doctor immediately and before taking any pills or supplements. Individual results may vary depending on the case. Copyright © 2025. All Rights Reserved.
+                    All statements and results presented on this website are for informational purposes only. They are not specific medical advice for any individual. Neither the website, nor product should substitute medical advice given by a certified health professional. If you have a health problem, or you have sensible allergies, are pregnant or diagnosed with chronic conditions, it is strongly recommended that you consult your doctor immediately and before taking any pills or supplements. Individual results may vary depending on the case. Copyright © <?php echo Date('Y')?>. All Rights Reserved.
                 </p>
             </div>
 
