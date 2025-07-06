@@ -45,6 +45,7 @@ RewriteRule ^cb/(.*)$ cb/$1 [L]
 RewriteRule ^$ pages/index.php [L]
 # Original BG site redirects
 RewriteRule ^tsl/?$ pages/tsl/TSL-BG-index.php [L]
+RewriteRule ^tsl02/?$ pages/tsl02/index.php [L]
 RewriteRule ^newdiscovery/?$ pages/vsl.php [L]
 RewriteRule ^newdiscovery_backup/?$ pages/vsl-backup.php [L]
 RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]

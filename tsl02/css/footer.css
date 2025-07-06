@@ -1,0 +1,107 @@
+.footer {
+    padding: 56px 0 24px;
+    /*margin: 0 32px 32px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;*/
+}
+
+.footer-main {
+    text-align: center;
+    max-width: 1016px;
+    width: 790px;
+    margin: 0 auto;
+}
+
+.footer-links ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footer-links ul li {
+    color: var(--white);
+    list-style-type: none;
+    padding: 0 16px;
+    margin: 0 0 16px;
+    position: relative;
+}
+
+.footer-links ul li a:hover,
+.footer-links ul li a.active {
+    color: var(--yellow);
+}
+
+.footer-links ul li::before {
+    content: "";
+    background-color: var(--white);
+    width: 1px;
+    height: 12px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.footer-links ul li:last-child::before {
+    display: none;
+}
+
+.footer-details {
+    margin: 10px 0;
+    text-align: left;
+}
+
+.footer-details p {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 0 15px;
+    color: #B0B0B0;
+}
+
+.footer-details p:last-child {
+    margin-bottom: 0;
+    font-family: Roboto, sans-serif!important;
+    font-size: 11px;
+    line-height: 13px;
+}
+
+.copyright p {
+    font-size: 14px;
+    line-height: 20px;
+    color: #A8D5D5;
+    margin: 0;
+}
+#disclaimer .main.container > div {
+    /*background: unset !important;
+    box-shadow: unset !important;*/
+    padding: 0 12px;
+    border-radius: 10px;
+    background-color: #399796 !important;
+
+}
+
+.bg-img-disclaimer {
+    /*background-image: url('/images/buygoods-white-logo.png')!important;*/
+    /*background-image: url('/images/logo-buygoods_white.png')!important;*/
+    background-image: url('/images/logo-buygoods-1.svg')!important;
+    min-width: unset!important;
+    background-repeat: no-repeat;
+    /*background-position: center right;*/
+    /*background-size: contain;*/
+    width: 26%!important;
+    min-height: 94px!important;
+}
+.bg-text-disclaimer
+{
+    max-width: unset!important;
+    color: #B0B0B0!important;
+    font-family: Roboto, sans-serif!important;
+    line-height: 13px!important;
+}
