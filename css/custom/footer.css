@@ -62,7 +62,7 @@
     font-size: 14px;
     line-height: 20px;
     margin: 0 0 15px;
-    color: #B0B0B0;
+    color: #b4d3db;
 }
 
 .footer-details p:last-child {
@@ -101,7 +101,7 @@
 .bg-text-disclaimer
 {
     max-width: unset!important;
-    color: #B0B0B0!important;
+    color: #b4d3db!important;
     font-family: Roboto, sans-serif!important;
     line-height: 13px!important;
 }
