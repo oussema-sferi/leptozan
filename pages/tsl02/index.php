@@ -16,9 +16,11 @@
     <!-- End Fonts -->
 
     <!-- CSS only -->
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <link rel="stylesheet" type="text/css" href="css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />+
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/responsive.css" />
+
+
     <style>
         .footer-details p
         {

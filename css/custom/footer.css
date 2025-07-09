@@ -79,8 +79,6 @@
     margin: 0;
 }
 #disclaimer .main.container > div {
-    /*background: unset !important;
-    box-shadow: unset !important;*/
     box-shadow: unset !important;
     padding: 0 12px;
     border-radius: 10px;
@@ -89,13 +87,9 @@
 }
 
 .bg-img-disclaimer {
-    /*background-image: url('/images/buygoods-white-logo.png')!important;*/
-    /*background-image: url('/images/logo-buygoods_white.png')!important;*/
     background-image: url('/images/logo-buygoods-1.svg')!important;
     min-width: unset!important;
     background-repeat: no-repeat;
-    /*background-position: center right;*/
-    /*background-size: contain;*/
     width: 26%!important;
     min-height: 94px!important;
 }
