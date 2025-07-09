@@ -81,6 +81,7 @@
 #disclaimer .main.container > div {
     /*background: unset !important;
     box-shadow: unset !important;*/
+    box-shadow: unset !important;
     padding: 0 12px;
     border-radius: 10px;
     background-color: #399796 !important;
