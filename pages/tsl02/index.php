@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon & Title -->
-    <link rel="icon" type="image/png" sizes="16x16" href="/tsl02/images/favicon.png" />
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
     <title>Leptozan</title>
 
     <!-- Fonts -->
@@ -2263,7 +2263,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==&vid1=tsl02" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2303,7 +2303,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn-main">BUY NOW <span>Best Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==&vid1=tsl02" class="btn-main">BUY NOW <span>Best Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2341,7 +2341,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn-main">BUY NOW <span>Good Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==&vid1=tsl02" class="btn-main">BUY NOW <span>Good Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2460,7 +2460,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==&vid1=tsl02" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2500,7 +2500,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn-main">BUY NOW <span>Best Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==&vid1=tsl02" class="btn-main">BUY NOW <span>Best Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2538,7 +2538,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn-main">BUY NOW <span>Good Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==&vid1=tsl02" class="btn-main">BUY NOW <span>Good Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2647,7 +2647,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==&vid1=tsl02" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2687,7 +2687,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn-main">BUY NOW <span>Best Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==&vid1=tsl02" class="btn-main">BUY NOW <span>Best Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2725,7 +2725,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn-main">BUY NOW <span>Good Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==&vid1=tsl02" class="btn-main">BUY NOW <span>Good Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2911,7 +2911,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==&vid1=tsl02" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2951,7 +2951,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn-main">BUY NOW <span>Best Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==&vid1=tsl02" class="btn-main">BUY NOW <span>Best Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -2989,7 +2989,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn-main">BUY NOW <span>Good Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==&vid1=tsl02" class="btn-main">BUY NOW <span>Good Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -3258,7 +3258,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep2&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMQ==&vid1=tsl02" class="btn-main">BUY NOW <span>Basic Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -3298,7 +3298,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==" class="btn-main">BUY NOW <span>Best Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep6&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wNg==&vid1=tsl02" class="btn-main">BUY NOW <span>Best Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>
@@ -3336,7 +3336,7 @@
                             </div>
 
                             <div class="plan-data">
-                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==" class="btn-main">BUY NOW <span>Good Offer!</span></a>
+                                <a href="https://buygoods.com/secure/checkout.html?account_id=10880&product_codename=lep3&redirect=aHR0cHM6Ly93d3cubGVwdG96YW4uY29tL3Vwc2VsbC1vdG8tMDEvP3NrdT1sZXB0by11cy0wMw==&vid1=tsl02" class="btn-main">BUY NOW <span>Good Offer!</span></a>
 
                                 <div class="pay-icon">
                                     <figure>

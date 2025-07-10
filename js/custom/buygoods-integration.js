@@ -32,20 +32,26 @@ function updateBuyLinks() {
     // Update each button's href with session ID
     buyButtons.forEach(function(button) {
         var href = button.getAttribute('href');
-        /*console.log("Processing button with href:", href);*/
-        // Only append if not already in the URL
-        if (href.indexOf('sessid2=') === -1) {
-            var separator = href.indexOf('?') !== -1 ? '&' : '?';
-            button.setAttribute('href', href + separator + 'sessid2=' + sessid2);
-            /*console.log("Updated href:", button.getAttribute('href'));*/
-        }
+
+        // Remove any existing sessid2
+        href = href.replace(/([?&])sessid2=[^&]*(&)?/, function(_, sep, trailing) {
+            return trailing ? sep : '';
+        });
+        /*console.log(href)*/
+
+        // Ensure no trailing "&" or malformed URL after removal
+        href = href.replace(/[&?]+$/, '');
+
+        // Append sessid2 cleanly
+        var separator = href.includes('?') ? '&' : '?';
+        button.setAttribute('href', href + separator + 'sessid2=' + sessid2);
     });
 }
 
 // Run when DOM is loaded
 document.addEventListener('DOMContentLoaded', function() {
     console.log("DOM loaded, running initial update");
-    updateBuyLinks();
+    /*updateBuyLinks();*/
 
     // Set up periodic checking for new buttons
     setInterval(updateBuyLinks, 3000);
