@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon & Title -->
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/tsl02/images/favicon.png" />
     <title>Leptozan</title>
 
     <!-- Fonts -->
@@ -16,9 +16,9 @@
     <!-- End Fonts -->
 
     <!-- CSS only -->
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/tsl02/css/style.css" />
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
-    <link rel="stylesheet" type="text/css" href="css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="/tsl02/css/responsive.css" />
 
 
     <style>
@@ -46,7 +46,7 @@
 
             <div class="hero-banner-img">
                 <figure>
-                    <img src="images/hero-banner-img.png" alt="Banner Image">
+                    <img src="/tsl02/images/hero-banner-img.png" alt="Banner Image">
                 </figure>
             </div>
         </div>
@@ -68,11 +68,11 @@
                         <div class="talking-block">
                             <div class="talking-img">
                                 <figure>
-                                    <img src="images/talk-img1.png" alt="Talk">
+                                    <img src="/tsl02/images/talk-img1.png" alt="Talk">
                                 </figure>
 
                                 <figure class="close-ic">
-                                    <img src="images/close-ic.png" alt="Close">
+                                    <img src="/tsl02/images/close-ic.png" alt="Close">
                                 </figure>
                             </div>
                             <h3>Another <br>Trendy Tea</h3>
@@ -83,11 +83,11 @@
                         <div class="talking-block">
                             <div class="talking-img">
                                 <figure>
-                                    <img src="images/talk-img2.png" alt="Talk">
+                                    <img src="/tsl02/images/talk-img2.png" alt="Talk">
                                 </figure>
 
                                 <figure class="close-ic">
-                                    <img src="images/close-ic.png" alt="Close">
+                                    <img src="/tsl02/images/close-ic.png" alt="Close">
                                 </figure>
                             </div>
                             <h3>A Crazy <br>Diet</h3>
@@ -98,11 +98,11 @@
                         <div class="talking-block">
                             <div class="talking-img">
                                 <figure>
-                                    <img src="images/talk-img3.png" alt="Talk">
+                                    <img src="/tsl02/images/talk-img3.png" alt="Talk">
                                 </figure>
 
                                 <figure class="close-ic">
-                                    <img src="images/close-ic.png" alt="Close">
+                                    <img src="/tsl02/images/close-ic.png" alt="Close">
                                 </figure>
                             </div>
                             <h3>or Some Magic Pill That Doesn’t Work.</h3>
@@ -116,7 +116,7 @@
                     <div class="col-md-5">
                         <div class="we-talk-img">
                             <figure>
-                                <img src="images/we-talk-img.png" alt="We Talk">
+                                <img src="/tsl02/images/we-talk-img.png" alt="We Talk">
                             </figure>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
 
                 <div class="belived-img">
                     <figure>
-                        <img src="images/belived-img.png" alt="belived-img">
+                        <img src="/tsl02/images/belived-img.png" alt="belived-img">
                     </figure>
                 </div>
             </div>
@@ -161,7 +161,7 @@
                     <div class="col-md-4">
                         <div class="billions-img">
                             <figure>
-                                <img src="images/billions-img.png" alt="billions-img">
+                                <img src="/tsl02/images/billions-img.png" alt="billions-img">
                             </figure>
                         </div>
                     </div>
@@ -194,7 +194,7 @@
 
                                 <div class="billions-img">
                                     <figure>
-                                        <img src="images/dead-sea-img.png" alt="dead-sea-img">
+                                        <img src="/tsl02/images/dead-sea-img.png" alt="dead-sea-img">
                                     </figure>
                                 </div>
                             </div>
@@ -202,7 +202,7 @@
                         <div class="col-md-4">
                             <div class="billions-img">
                                 <figure>
-                                    <img src="images/dead-sea-img.png" alt="dead-sea-img">
+                                    <img src="/tsl02/images/dead-sea-img.png" alt="dead-sea-img">
                                 </figure>
                             </div>
                         </div>
@@ -221,11 +221,11 @@
                             <div class="talking-block">
                                 <div class="talking-img">
                                     <figure class="part-img">
-                                        <img src="images/part-img1.png" alt="Talk">
+                                        <img src="/tsl02/images/part-img1.png" alt="Talk">
                                     </figure>
 
                                     <figure class="close-ic">
-                                        <img src="images/close-ic.png" alt="Close">
+                                        <img src="/tsl02/images/close-ic.png" alt="Close">
                                     </figure>
                                 </div>
                                 <h3>You don’t need to do intermittent fasting.</h3>
@@ -236,11 +236,11 @@
                             <div class="talking-block">
                                 <div class="talking-img">
                                     <figure class="part-img">
-                                        <img src="images/part-img2.png" alt="Talk">
+                                        <img src="/tsl02/images/part-img2.png" alt="Talk">
                                     </figure>
 
                                     <figure class="close-ic">
-                                        <img src="images/close-ic.png" alt="Close">
+                                        <img src="/tsl02/images/close-ic.png" alt="Close">
                                     </figure>
                                 </div>
                                 <h3>You don’t need to count points.</h3>
@@ -251,11 +251,11 @@
                             <div class="talking-block">
                                 <div class="talking-img">
                                     <figure class="part-img">
-                                        <img src="images/part-img3.png" alt="Talk">
+                                        <img src="/tsl02/images/part-img3.png" alt="Talk">
                                     </figure>
 
                                     <figure class="close-ic">
-                                        <img src="images/close-ic.png" alt="Close">
+                                        <img src="/tsl02/images/close-ic.png" alt="Close">
                                     </figure>
                                 </div>
                                 <h3>You don’t need to kill yourself in the gym.</h3>
@@ -273,7 +273,7 @@
                         <h3>Keep feeding a system that wants to see you fail...</h3>
 
                         <figure>
-                            <img src="images/decision-img1.png" alt="Decision Image">
+                            <img src="/tsl02/images/decision-img1.png" alt="Decision Image">
                         </figure>
                     </div>
                     <div class="choice-or">
@@ -283,7 +283,7 @@
                         <h3>Finally understand that your body IS NOT broken.</h3>
 
                         <figure>
-                            <img src="images/decision-img2.png" alt="Decision Image">
+                            <img src="/tsl02/images/decision-img2.png" alt="Decision Image">
                         </figure>
                     </div>
                 </div>
@@ -312,7 +312,7 @@
 
                     <div class="enough-img">
                         <figure>
-                            <img src="images/enough-img.png" alt="Enough">
+                            <img src="/tsl02/images/enough-img.png" alt="Enough">
                         </figure>
                     </div>
                 </div>
@@ -323,11 +323,11 @@
                             <div class="talking-block">
                                 <div class="talking-img">
                                     <figure class="part-img">
-                                        <img src="images/enough-img1.png" alt="Talk">
+                                        <img src="/tsl02/images/enough-img1.png" alt="Talk">
                                     </figure>
 
                                     <figure class="close-ic">
-                                        <img src="images/close-ic.png" alt="Close">
+                                        <img src="/tsl02/images/close-ic.png" alt="Close">
                                     </figure>
                                 </div>
                             </div>
@@ -337,11 +337,11 @@
                             <div class="talking-block">
                                 <div class="talking-img">
                                     <figure class="part-img">
-                                        <img src="images/enough-img2.png" alt="Talk">
+                                        <img src="/tsl02/images/enough-img2.png" alt="Talk">
                                     </figure>
 
                                     <figure class="close-ic">
-                                        <img src="images/close-ic.png" alt="Close">
+                                        <img src="/tsl02/images/close-ic.png" alt="Close">
                                     </figure>
                                 </div>
                             </div>
@@ -351,11 +351,11 @@
                             <div class="talking-block">
                                 <div class="talking-img">
                                     <figure class="part-img">
-                                        <img src="images/enough-img3.png" alt="Talk">
+                                        <img src="/tsl02/images/enough-img3.png" alt="Talk">
                                     </figure>
 
                                     <figure class="close-ic">
-                                        <img src="images/close-ic.png" alt="Close">
+                                        <img src="/tsl02/images/close-ic.png" alt="Close">
                                     </figure>
                                 </div>
                             </div>
@@ -402,7 +402,7 @@
                         <div class="col-md-4">
                             <div class="billions-img">
                                 <figure>
-                                    <img src="images/money-img.png" alt="billions-img">
+                                    <img src="/tsl02/images/money-img.png" alt="billions-img">
                                 </figure>
                             </div>
                         </div>
@@ -427,7 +427,7 @@
                         <div class="col-md-4">
                             <div class="billions-img">
                                 <figure>
-                                    <img src="images/guess-img.png" alt="billions-img">
+                                    <img src="/tsl02/images/guess-img.png" alt="billions-img">
                                 </figure>
                             </div>
                         </div>
@@ -456,7 +456,7 @@
             <div class="why-us-data">
                 <div class="why-title">
                     <figure>
-                        <img src="images/why-shap.png" alt="Shap">
+                        <img src="/tsl02/images/why-shap.png" alt="Shap">
                     </figure>
 
                     <h2>Why</h2>
@@ -470,7 +470,7 @@
 
                 <div class="why-us-img">
                     <figure>
-                        <img src="images/why-img.png" alt="Why Us">
+                        <img src="/tsl02/images/why-img.png" alt="Why Us">
                     </figure>
                 </div>
 
@@ -490,7 +490,7 @@
             </div>
             <div class="why-us-img">
                 <figure>
-                    <img src="images/why-img.png" alt="Why Us">
+                    <img src="/tsl02/images/why-img.png" alt="Why Us">
                 </figure>
             </div>
         </div>
@@ -504,7 +504,7 @@
                 <div class="col-md-4">
                     <div class="billions-img">
                         <figure>
-                            <img src="images/built-img.png" alt="billions-img">
+                            <img src="/tsl02/images/built-img.png" alt="billions-img">
                         </figure>
                     </div>
                 </div>
@@ -527,7 +527,7 @@
         </div>
 
         <figure class="built-shap">
-            <img src="images/built-shap.png" alt="Shap">
+            <img src="/tsl02/images/built-shap.png" alt="Shap">
         </figure>
     </section>
 
@@ -548,7 +548,7 @@
                 <div class="col-md-5">
                     <div class="doctor-img">
                         <figure>
-                            <img src="images/doctor-img.png" alt="Doctor Image">
+                            <img src="/tsl02/images/doctor-img.png" alt="Doctor Image">
                         </figure>
 
                         <h3>Dr. Mitchell <span>Medical Doctor & Metabolism Researcher</span></h3>
@@ -579,7 +579,7 @@
                         </div>
                     </div>
                     <div class="respected-img">
-                        <img src="images/respected-img.png" alt="respected">
+                        <img src="/tsl02/images/respected-img.png" alt="respected">
                     </div>
                 </div>
 
@@ -607,7 +607,7 @@
                     <div class="col-md-4">
                         <div class="billions-img">
                             <figure>
-                                <img src="images/dr-mitchell-img.png" alt="billions-img">
+                                <img src="/tsl02/images/dr-mitchell-img.png" alt="billions-img">
                             </figure>
                         </div>
                     </div>
@@ -618,7 +618,7 @@
                 <div class="your-metabolism-row">
                     <div class="metabolism-img">
                         <figure>
-                            <img src="images/metapoli-img.png" alt="Metabolism">
+                            <img src="/tsl02/images/metapoli-img.png" alt="Metabolism">
                         </figure>
                     </div>
                     <div class="metabolism-data">
@@ -665,7 +665,7 @@
                             <div class="col-md-4">
                                 <div class="billions-img">
                                     <figure>
-                                        <img src="images/dead-see-inner-img.png" alt="billions-img">
+                                        <img src="/tsl02/images/dead-see-inner-img.png" alt="billions-img">
                                     </figure>
                                 </div>
                             </div>
@@ -701,7 +701,7 @@
                                     <div class="time-block">
                                         <div class="time-img">
                                             <figure>
-                                                <img src="images/time-img1.png" alt="Time">
+                                                <img src="/tsl02/images/time-img1.png" alt="Time">
                                             </figure>
                                         </div>
                                         <h4>Inflammatory<br> Foods</h4>
@@ -711,7 +711,7 @@
                                     <div class="time-block">
                                         <div class="time-img">
                                             <figure>
-                                                <img src="images/time-img2.png" alt="Time">
+                                                <img src="/tsl02/images/time-img2.png" alt="Time">
                                             </figure>
                                         </div>
                                         <h4>Chronic<br> Stress</h4>
@@ -721,7 +721,7 @@
                                     <div class="time-block">
                                         <div class="time-img">
                                             <figure>
-                                                <img src="images/time-img3.png" alt="Time">
+                                                <img src="/tsl02/images/time-img3.png" alt="Time">
                                             </figure>
                                         </div>
                                         <h4>Pollution</h4>
@@ -731,7 +731,7 @@
                                     <div class="time-block">
                                         <div class="time-img">
                                             <figure>
-                                                <img src="images/time-img4.png" alt="Time">
+                                                <img src="/tsl02/images/time-img4.png" alt="Time">
                                             </figure>
                                         </div>
                                         <h4>Mineral<br> Deficiencies</h4>
@@ -741,7 +741,7 @@
                                     <div class="time-block">
                                         <div class="time-img">
                                             <figure>
-                                                <img src="images/time-img5.png" alt="Time">
+                                                <img src="/tsl02/images/time-img5.png" alt="Time">
                                             </figure>
                                         </div>
                                         <h4>Aging</h4>
@@ -783,7 +783,7 @@
 
                     <div class="weight-lose-img">
                         <figure>
-                            <img src="images/wight-lose-img.png" alt="weight-lose">
+                            <img src="/tsl02/images/wight-lose-img.png" alt="weight-lose">
                         </figure>
                     </div>
                 </div>
@@ -802,7 +802,7 @@
                     <li>
                         <div class="body-img">
                             <figure>
-                                <img src="images/body-img1.png" alt="body">
+                                <img src="/tsl02/images/body-img1.png" alt="body">
                             </figure>
                         </div>
                         <div class="body-data">
@@ -813,7 +813,7 @@
                     <li>
                         <div class="body-img">
                             <figure>
-                                <img src="images/body-img2.png" alt="body">
+                                <img src="/tsl02/images/body-img2.png" alt="body">
                             </figure>
                         </div>
                         <div class="body-data">
@@ -824,7 +824,7 @@
                     <li>
                         <div class="body-img">
                             <figure>
-                                <img src="images/body-img3.png" alt="body">
+                                <img src="/tsl02/images/body-img3.png" alt="body">
                             </figure>
                         </div>
                         <div class="body-data">
@@ -876,8 +876,8 @@
                         <div class="col-md-4">
                             <div class="body-blockimg">
                                 <figure>
-                                    <img src="images/meta-img.png" alt="Meta" class="desktop-img">
-                                    <img src="images/meta-img-mob.png" alt="Meta" class="mobile-img">
+                                    <img src="/tsl02/images/meta-img.png" alt="Meta" class="desktop-img">
+                                    <img src="/tsl02/images/meta-img-mob.png" alt="Meta" class="mobile-img">
                                 </figure>
                             </div>
                         </div>
@@ -918,7 +918,7 @@
                     <div class="col-md-4">
                         <div class="billions-img">
                             <figure>
-                                <img src="images/food-pro-img.png" alt="food-pro-img">
+                                <img src="/tsl02/images/food-pro-img.png" alt="food-pro-img">
                             </figure>
                         </div>
                     </div>
@@ -945,7 +945,7 @@
                                 <li>
                                     <div class="block-num">
                                         <figure>
-                                            <img src="images/chack-ic2.png" alt="Chack">
+                                            <img src="/tsl02/images/chack-ic2.png" alt="Chack">
                                         </figure>
                                     </div>
                                     <p>Yes, they’re real.</p>
@@ -953,7 +953,7 @@
                                 <li>
                                     <div class="block-num">
                                         <figure>
-                                            <img src="images/chack-ic2.png" alt="Chack">
+                                            <img src="/tsl02/images/chack-ic2.png" alt="Chack">
                                         </figure>
                                     </div>
                                     <p>Yes, they’re 100% natural.</p>
@@ -961,7 +961,7 @@
                                 <li>
                                     <div class="block-num">
                                         <figure>
-                                            <img src="images/chack-ic2.png" alt="Chack">
+                                            <img src="/tsl02/images/chack-ic2.png" alt="Chack">
                                         </figure>
                                     </div>
                                     <p>And yes, they are the foundation of what may be the most powerful metabolic unlock in modern nutritional science.</p>
@@ -981,7 +981,7 @@
         <div class="container">
             <div class="pay-attemtion-block">
                 <figure>
-                    <img src="images/warn-ic2.png" alt="Warn">
+                    <img src="/tsl02/images/warn-ic2.png" alt="Warn">
                 </figure>
 
                 <h2>But Pay Attention:</h2>
@@ -1000,7 +1000,7 @@
                         <div class="col-md-4">
                             <div class="billions-img desktop-img">
                                 <figure>
-                                    <img src="images/burning-img.png" alt="dead-sea-img">
+                                    <img src="/tsl02/images/burning-img.png" alt="dead-sea-img">
                                 </figure>
                             </div>
                         </div>
@@ -1010,7 +1010,7 @@
 
                                 <div class="billions-img mobile-img">
                                     <figure>
-                                        <img src="images/burning-img.png" alt="dead-sea-img">
+                                        <img src="/tsl02/images/burning-img.png" alt="dead-sea-img">
                                     </figure>
                                 </div>
 
@@ -1030,7 +1030,7 @@
                 <div class="talk-row-losebx">
                     <div class="talk-img">
                         <figure>
-                            <img src="images/talk-user1.png" alt="Talk">
+                            <img src="/tsl02/images/talk-user1.png" alt="Talk">
                         </figure>
                     </div>
                     <div class="talk-in-data">
@@ -1041,7 +1041,7 @@
                 <div class="talk-row-losebx">
                     <div class="talk-img">
                         <figure>
-                            <img src="images/talk-user2.png" alt="Talk">
+                            <img src="/tsl02/images/talk-user2.png" alt="Talk">
                         </figure>
                     </div>
                     <div class="talk-in-data">
@@ -1052,7 +1052,7 @@
                 <div class="talk-row-losebx">
                     <div class="talk-img">
                         <figure>
-                            <img src="images/talk-user3.png" alt="Talk">
+                            <img src="/tsl02/images/talk-user3.png" alt="Talk">
                         </figure>
                     </div>
                     <div class="talk-in-data">
@@ -1073,7 +1073,7 @@
                     <li>
                         <div class="shock-prt-block">
                             <figure>
-                                <img src="images/shock-part1.png" alt="Part">
+                                <img src="/tsl02/images/shock-part1.png" alt="Part">
                             </figure>
 
                             <p>They didn’t<br> diet.</p>
@@ -1082,7 +1082,7 @@
                     <li>
                         <div class="shock-prt-block">
                             <figure>
-                                <img src="images/shock-part2.png" alt="Part">
+                                <img src="/tsl02/images/shock-part2.png" alt="Part">
                             </figure>
 
                             <p>They didn’t <br>cut carbs.</p>
@@ -1091,7 +1091,7 @@
                     <li>
                         <div class="shock-prt-block">
                             <figure>
-                                <img src="images/shock-part3.png" alt="Part">
+                                <img src="/tsl02/images/shock-part3.png" alt="Part">
                             </figure>
 
                             <p>They didn’t kill themselves on a treadmill.</p>
@@ -1108,31 +1108,31 @@
                     <ul>
                         <li>
                             <figure>
-                                <img src="images/simple-ic1.png" alt="Simple">
+                                <img src="/tsl02/images/simple-ic1.png" alt="Simple">
                             </figure>
                             <p>Fat cells start releasing stored energy</p>
                         </li>
                         <li>
                             <figure>
-                                <img src="images/simple-ic2.png" alt="Simple">
+                                <img src="/tsl02/images/simple-ic2.png" alt="Simple">
                             </figure>
                             <p>Your body begins recognizing fullness signals again</p>
                         </li>
                         <li>
                             <figure>
-                                <img src="images/simple-ic3.png" alt="Simple">
+                                <img src="/tsl02/images/simple-ic3.png" alt="Simple">
                             </figure>
                             <p>Your metabolism speeds up, even at rest</p>
                         </li>
                         <li>
                             <figure>
-                                <img src="images/simple-ic4.png" alt="Simple">
+                                <img src="/tsl02/images/simple-ic4.png" alt="Simple">
                             </figure>
                             <p>You burn fat even while you sleep</p>
                         </li>
                         <li>
                             <figure>
-                                <img src="images/simple-ic5.png" alt="Simple">
+                                <img src="/tsl02/images/simple-ic5.png" alt="Simple">
                             </figure>
                             <p>Cravings for sweets naturally fade away</p>
                         </li>
@@ -1153,7 +1153,7 @@
                         <div class="col-md-4">
                             <div class="wake-imgbx">
                                 <figure>
-                                    <img src="images/wackup-img.png" alt="Wake">
+                                    <img src="/tsl02/images/wackup-img.png" alt="Wake">
                                 </figure>
                             </div>
                         </div>
@@ -1174,7 +1174,7 @@
 
                     <div class="result-img">
                         <figure>
-                            <img src="images/result-img.png" alt="Result">
+                            <img src="/tsl02/images/result-img.png" alt="Result">
                         </figure>
                     </div>
                 </div>
@@ -1203,25 +1203,25 @@
                             <ul>
                                 <li>
                                     <figure>
-                                        <img src="images/dr-po1.png" alt="Dr">
+                                        <img src="/tsl02/images/dr-po1.png" alt="Dr">
                                     </figure>
                                     <h4>He talked to local residents.</h4>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="images/dr-po2.png" alt="Dr">
+                                        <img src="/tsl02/images/dr-po2.png" alt="Dr">
                                     </figure>
                                     <h4>He analyzed blood.</h4>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="images/dr-po3.png" alt="Dr">
+                                        <img src="/tsl02/images/dr-po3.png" alt="Dr">
                                     </figure>
                                     <h4>He took biopsies.</h4>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="images/dr-po4.png" alt="Dr">
+                                        <img src="/tsl02/images/dr-po4.png" alt="Dr">
                                     </figure>
                                     <h4>He studied their diets.</h4>
                                 </li>
@@ -1233,7 +1233,7 @@
                     <div class="col-md-5">
                         <div class="became-img">
                             <figure>
-                                <img src="images/dr-img.png" alt="Dr">
+                                <img src="/tsl02/images/dr-img.png" alt="Dr">
                             </figure>
                         </div>
                     </div>
@@ -1251,7 +1251,7 @@
                     <div class="col-md-5">
                         <div class="became-img">
                             <figure>
-                                <img src="images/dead-sea-water.png" alt="Dr">
+                                <img src="/tsl02/images/dead-sea-water.png" alt="Dr">
                             </figure>
                         </div>
                     </div>
@@ -1277,12 +1277,12 @@
                             <div class="water-title">
                                 <h3>Ionic<br> Magnesium</h3>
                                 <figure>
-                                    <img src="images/dr-ic1.png" alt="Icon">
+                                    <img src="/tsl02/images/dr-ic1.png" alt="Icon">
                                 </figure>
                             </div>
                             <div class="water-img">
                                 <figure>
-                                    <img src="images/water-img1.png" alt="Water">
+                                    <img src="/tsl02/images/water-img1.png" alt="Water">
                                 </figure>
                             </div>
                             <div class="water-data">
@@ -1296,12 +1296,12 @@
                             <div class="water-title">
                                 <h3>Ionic<br> Potassium</h3>
                                 <figure>
-                                    <img src="images/dr-ic2.png" alt="Icon">
+                                    <img src="/tsl02/images/dr-ic2.png" alt="Icon">
                                 </figure>
                             </div>
                             <div class="water-img">
                                 <figure>
-                                    <img src="images/water-img2.png" alt="Water">
+                                    <img src="/tsl02/images/water-img2.png" alt="Water">
                                 </figure>
                             </div>
                             <div class="water-data">
@@ -1315,12 +1315,12 @@
                             <div class="water-title">
                                 <h3>Ionic<br> Zinc</h3>
                                 <figure>
-                                    <img src="images/dr-ic3.png" alt="Icon">
+                                    <img src="/tsl02/images/dr-ic3.png" alt="Icon">
                                 </figure>
                             </div>
                             <div class="water-img">
                                 <figure>
-                                    <img src="images/water-img3.png" alt="Water">
+                                    <img src="/tsl02/images/water-img3.png" alt="Water">
                                 </figure>
                             </div>
                             <div class="water-data">
@@ -1334,12 +1334,12 @@
                             <div class="water-title">
                                 <h3>Ionic<br> Chromium</h3>
                                 <figure>
-                                    <img src="images/dr-ic4.png" alt="Icon">
+                                    <img src="/tsl02/images/dr-ic4.png" alt="Icon">
                                 </figure>
                             </div>
                             <div class="water-img">
                                 <figure>
-                                    <img src="images/water-img4.png" alt="Water">
+                                    <img src="/tsl02/images/water-img4.png" alt="Water">
                                 </figure>
                             </div>
                             <div class="water-data">
@@ -1353,12 +1353,12 @@
                             <div class="water-title">
                                 <h3>Ionic<br> Selenium</h3>
                                 <figure>
-                                    <img src="images/dr-ic5.png" alt="Icon">
+                                    <img src="/tsl02/images/dr-ic5.png" alt="Icon">
                                 </figure>
                             </div>
                             <div class="water-img">
                                 <figure>
-                                    <img src="images/water-img5.png" alt="Water">
+                                    <img src="/tsl02/images/water-img5.png" alt="Water">
                                 </figure>
                             </div>
                             <div class="water-data">
@@ -1372,12 +1372,12 @@
                             <div class="water-title">
                                 <h3>Natural Calcium &<br> Chloride </h3>
                                 <figure>
-                                    <img src="images/dr-ic6.png" alt="Icon">
+                                    <img src="/tsl02/images/dr-ic6.png" alt="Icon">
                                 </figure>
                             </div>
                             <div class="water-img">
                                 <figure>
-                                    <img src="images/water-img6.png" alt="Water">
+                                    <img src="/tsl02/images/water-img6.png" alt="Water">
                                 </figure>
                             </div>
                             <div class="water-data">
@@ -1408,7 +1408,7 @@
                     <div class="col-md-5">
                         <div class="minerals-img">
                             <figure>
-                                <img src="images/minral-img.png" alt="Mineral">
+                                <img src="/tsl02/images/minral-img.png" alt="Mineral">
                             </figure>
                         </div>
                     </div>
@@ -1446,7 +1446,7 @@
                     <div class="col-md-4">
                         <div class="billions-img desktop-img">
                             <figure>
-                                <img src="images/replicate-img.png" alt="dead-sea-img">
+                                <img src="/tsl02/images/replicate-img.png" alt="dead-sea-img">
                             </figure>
                         </div>
                     </div>
@@ -1458,7 +1458,7 @@
 
                             <div class="billions-img mobile-img">
                                 <figure>
-                                    <img src="images/replicate-img.png" alt="dead-sea-img">
+                                    <img src="/tsl02/images/replicate-img.png" alt="dead-sea-img">
                                 </figure>
                             </div>
 
@@ -1475,7 +1475,7 @@
                     <li>
                         <div class="replicate-result-bx">
                             <figure>
-                                <img src="images/result-ic1.png" alt="Result">
+                                <img src="/tsl02/images/result-ic1.png" alt="Result">
                             </figure>
 
                             <p>Almost all of them started losing weight</p>
@@ -1484,7 +1484,7 @@
                     <li>
                         <div class="replicate-result-bx">
                             <figure>
-                                <img src="images/result-ic2.png" alt="Result">
+                                <img src="/tsl02/images/result-ic2.png" alt="Result">
                             </figure>
 
                             <p>Even without changing their diet</p>
@@ -1493,7 +1493,7 @@
                     <li>
                         <div class="replicate-result-bx">
                             <figure>
-                                <img src="images/result-ic3.png" alt="Result">
+                                <img src="/tsl02/images/result-ic3.png" alt="Result">
                             </figure>
 
                             <p>Even with a  history of obesity</p>
@@ -1502,7 +1502,7 @@
                     <li>
                         <div class="replicate-result-bx">
                             <figure>
-                                <img src="images/result-ic4.png" alt="Result">
+                                <img src="/tsl02/images/result-ic4.png" alt="Result">
                             </figure>
 
                             <p>Even without exercising</p>
@@ -1537,7 +1537,7 @@
                 </div>
                 <div class="mineral-combo-img">
                     <figure>
-                        <img src="images/combo1.png" alt="Combo">
+                        <img src="/tsl02/images/combo1.png" alt="Combo">
                     </figure>
                 </div>
             </div>
@@ -1547,7 +1547,7 @@
             <div class="miracle-cmbo-rw minral-cmb-evenrw">
                 <div class="mineral-combo-img">
                     <figure>
-                        <img src="images/combo2.png" alt="Combo">
+                        <img src="/tsl02/images/combo2.png" alt="Combo">
                     </figure>
                 </div>
                 <div class="mineral-combo-dt">
@@ -1579,7 +1579,7 @@
 
                             <div class="bodies-img mobile-img">
                                 <figure>
-                                    <img src="images/type-img1.png" alt="Type">
+                                    <img src="/tsl02/images/type-img1.png" alt="Type">
                                 </figure>
                             </div>
 
@@ -1593,7 +1593,7 @@
                     <div class="col-md-5">
                         <div class="bodies-img desktop-img">
                             <figure>
-                                <img src="images/type-img1.png" alt="Type">
+                                <img src="/tsl02/images/type-img1.png" alt="Type">
                             </figure>
                         </div>
                     </div>
@@ -1608,7 +1608,7 @@
                         <div class="bodies-dt">
                             <div class="bodies-img mobile-img">
                                 <figure>
-                                    <img src="images/type-img2.png" alt="Type">
+                                    <img src="/tsl02/images/type-img2.png" alt="Type">
                                 </figure>
                             </div>
 
@@ -1621,7 +1621,7 @@
                     <div class="col-md-5">
                         <div class="bodies-img desktop-img">
                             <figure>
-                                <img src="images/type-img2.png" alt="Type">
+                                <img src="/tsl02/images/type-img2.png" alt="Type">
                             </figure>
                         </div>
                     </div>
@@ -1636,7 +1636,7 @@
                         <div class="bodies-dt">
                             <div class="bodies-img mobile-img">
                                 <figure>
-                                    <img src="images/type-img3.png" alt="Type">
+                                    <img src="/tsl02/images/type-img3.png" alt="Type">
                                 </figure>
                             </div>
 
@@ -1652,7 +1652,7 @@
                     <div class="col-md-5">
                         <div class="bodies-img desktop-img">
                             <figure>
-                                <img src="images/type-img3.png" alt="Type">
+                                <img src="/tsl02/images/type-img3.png" alt="Type">
                             </figure>
                         </div>
                     </div>
@@ -1667,7 +1667,7 @@
                         <div class="bodies-dt">
                             <div class="bodies-img mobile-img">
                                 <figure>
-                                    <img src="images/type-img4.png" alt="Type">
+                                    <img src="/tsl02/images/type-img4.png" alt="Type">
                                 </figure>
                             </div>
 
@@ -1681,7 +1681,7 @@
                     <div class="col-md-5">
                         <div class="bodies-img desktop-img">
                             <figure>
-                                <img src="images/type-img4.png" alt="Type">
+                                <img src="/tsl02/images/type-img4.png" alt="Type">
                             </figure>
                         </div>
                     </div>
@@ -1696,7 +1696,7 @@
                         <div class="bodies-dt">
                             <div class="bodies-img mobile-img">
                                 <figure>
-                                    <img src="images/type-img2.png" alt="Type">
+                                    <img src="/tsl02/images/type-img2.png" alt="Type">
                                 </figure>
                             </div>
 
@@ -1712,7 +1712,7 @@
                     <div class="col-md-5">
                         <div class="bodies-img desktop-img">
                             <figure>
-                                <img src="images/type-img5.png" alt="Type">
+                                <img src="/tsl02/images/type-img5.png" alt="Type">
                             </figure>
                         </div>
                     </div>
@@ -1728,11 +1728,11 @@
                 <h3>Once the right minerals started flowing through their systems again, everything rebalanced naturally:</h3>
 
                 <ul>
-                    <li><figure><img src="images/sys-ic1.png" alt="Icon"></figure> Their bodies began burning fat like they did when they were younger</li>
-                    <li><figure><img src="images/sys-ic2.png" alt="Icon"></figure> Their hormones started “talking” to each other again</li>
-                    <li><figure><img src="images/sys-ic3.png" alt="Icon"></figure> Their cells began producing clean energy—instead of hoarding fat</li>
-                    <li><figure><img src="images/sys-ic4.png" alt="Icon"></figure> Water retention disappeared</li>
-                    <li><figure><img src="images/sys-ic5.png" alt="Icon"></figure> Food cravings lost their power</li>
+                    <li><figure><img src="/tsl02/images/sys-ic1.png" alt="Icon"></figure> Their bodies began burning fat like they did when they were younger</li>
+                    <li><figure><img src="/tsl02/images/sys-ic2.png" alt="Icon"></figure> Their hormones started “talking” to each other again</li>
+                    <li><figure><img src="/tsl02/images/sys-ic3.png" alt="Icon"></figure> Their cells began producing clean energy—instead of hoarding fat</li>
+                    <li><figure><img src="/tsl02/images/sys-ic4.png" alt="Icon"></figure> Water retention disappeared</li>
+                    <li><figure><img src="/tsl02/images/sys-ic5.png" alt="Icon"></figure> Food cravings lost their power</li>
                 </ul>
             </div>
         </div>
@@ -1781,7 +1781,7 @@
                     <div class="col-md-4">
                         <div class="feel-good">
                             <figure>
-                                <img src="images/feel-good.png" alt="Good">
+                                <img src="/tsl02/images/feel-good.png" alt="Good">
                             </figure>
                         </div>
                     </div>
@@ -1809,7 +1809,7 @@
 
             <div class="clinical-banner-img">
                 <figure>
-                    <img src="images/vacsin-img.png" alt="Vacsin">
+                    <img src="/tsl02/images/vacsin-img.png" alt="Vacsin">
                 </figure>
             </div>
         </div>
@@ -1844,7 +1844,7 @@
                 <div class="col-md-5">
                     <div class="leptozan-pg-img">
                         <figure>
-                            <img src="images/lep-img.png" alt="Leptozan">
+                            <img src="/tsl02/images/lep-img.png" alt="Leptozan">
                         </figure>
                     </div>
                 </div>
@@ -1863,16 +1863,16 @@
                 <div class="testimonial-box">
                     <div class="testimonial-img">
                         <figure>
-                            <img src="images/test-user1.png" alt="testimonial-img">
+                            <img src="/tsl02/images/test-user1.png" alt="testimonial-img">
                         </figure>
 
-                        <img src="images/quote-ic.png" alt="quote-ic" class="quote-ic">
+                        <img src="/tsl02/images/quote-ic.png" alt="quote-ic" class="quote-ic">
                     </div>
 
                     <div class="testimonial-data">
                         <h2>Mia, <span>41 years old — Mom of 3, Nurse</span></h2>
                         <div class="raiting-bx">
-                            <img src="images/star-ic.png" alt="">
+                            <img src="/tsl02/images/star-ic.png" alt="">
                         </div>
 
                         <p>"When I started taking Leptozan, I just wanted to stop feeling tired. Within 2 weeks, not only was my energy back, but I started seeing my belly go down. In 4 weeks, I was down 13 pounds. But the best part was the freedom. I stopped thinking about food all the time. Now I have energy for my kids, my job, and for myself."</p>
@@ -1882,16 +1882,16 @@
                 <div class="testimonial-box">
                     <div class="testimonial-img">
                         <figure>
-                            <img src="images/test-user2.png" alt="testimonial-img">
+                            <img src="/tsl02/images/test-user2.png" alt="testimonial-img">
                         </figure>
 
-                        <img src="images/quote-ic.png" alt="quote-ic" class="quote-ic">
+                        <img src="/tsl02/images/quote-ic.png" alt="quote-ic" class="quote-ic">
                     </div>
 
                     <div class="testimonial-data">
                         <h2>Cristina, 55 years old — <span>Menopause, Slow Metabolism</span></h2>
                         <div class="raiting-bx">
-                            <img src="images/star-ic.png" alt="">
+                            <img src="/tsl02/images/star-ic.png" alt="">
                         </div>
 
                         <p>"Nothing worked anymore. I thought it was over. That I’d have to accept this body forever. When I heard about Leptozan, I thought, 'Just another one.' But I tried it. In 30 days, I lost 11 pounds. In 3 months, 31 pounds. But what impressed me most was how my mood changed. I looked in the mirror and smiled. You can’t put a price on that."</p>
@@ -1901,16 +1901,16 @@
                 <div class="testimonial-box">
                     <div class="testimonial-img">
                         <figure>
-                            <img src="images/test-user3.png" alt="testimonial-img">
+                            <img src="/tsl02/images/test-user3.png" alt="testimonial-img">
                         </figure>
 
-                        <img src="images/quote-ic.png" alt="quote-ic" class="quote-ic">
+                        <img src="/tsl02/images/quote-ic.png" alt="quote-ic" class="quote-ic">
                     </div>
 
                     <div class="testimonial-data">
                         <h2>Loren, <span>36 years old — Sugar Cravings, Anxiety</span></h2>
                         <div class="raiting-bx">
-                            <img src="images/star-ic.png" alt="">
+                            <img src="/tsl02/images/star-ic.png" alt="">
                         </div>
 
                         <p>"I used to eat chocolate in secret. I knew it was emotional, but I couldn’t stop. Leptozan gave me peace. After one week, my anxiety was lower. After two, I no longer had that crazy need for sweets. By week three, I fit back into my old jeans. I never want to be without it again."</p>
@@ -1932,7 +1932,7 @@
 
                             <div class="billions-img mobile-img">
                                 <figure>
-                                    <img src="images/story-img.png" alt="dead-sea-img">
+                                    <img src="/tsl02/images/story-img.png" alt="dead-sea-img">
                                 </figure>
                             </div>
 
@@ -1942,7 +1942,7 @@
                     <div class="col-md-4">
                         <div class="billions-img desktop-img">
                             <figure>
-                                <img src="images/story-img.png" alt="dead-sea-img">
+                                <img src="/tsl02/images/story-img.png" alt="dead-sea-img">
                             </figure>
                         </div>
                     </div>
@@ -1963,7 +1963,7 @@
                         <div class="col-md-4">
                             <div class="rules-bx">
                                 <figure>
-                                    <img src="images/rule-ic1.png" alt="Rule">
+                                    <img src="/tsl02/images/rule-ic1.png" alt="Rule">
                                 </figure>
                                 <h3>No<br> Interference</h3>
                             </div>
@@ -1971,7 +1971,7 @@
                         <div class="col-md-4">
                             <div class="rules-bx">
                                 <figure>
-                                    <img src="images/rule-ic2.png" alt="Rule">
+                                    <img src="/tsl02/images/rule-ic2.png" alt="Rule">
                                 </figure>
                                 <h3>No<br> Shortcuts</h3>
                             </div>
@@ -1979,7 +1979,7 @@
                         <div class="col-md-4">
                             <div class="rules-bx">
                                 <figure>
-                                    <img src="images/rule-ic3.png" alt="Rule">
+                                    <img src="/tsl02/images/rule-ic3.png" alt="Rule">
                                 </figure>
                                 <h3>No Loss Of <br> Potency</h3>
                             </div>
@@ -2011,7 +2011,7 @@
                 <div class="col-md-4">
                     <div class="imagine-img">
                         <figure>
-                            <img src="images/imagin-img.png" alt="Imagine">
+                            <img src="/tsl02/images/imagin-img.png" alt="Imagine">
                         </figure>
                     </div>
                 </div>
@@ -2024,7 +2024,7 @@
                     <li>
                         <div class="your-box">
                             <figure>
-                                <img src="images/holdic1.png" alt="Hold">
+                                <img src="/tsl02/images/holdic1.png" alt="Hold">
                             </figure>
 
                             <h6>It’s not<br> doubt</h6>
@@ -2033,7 +2033,7 @@
                     <li>
                         <div class="your-box">
                             <figure>
-                                <img src="images/holdic2.png" alt="Hold">
+                                <img src="/tsl02/images/holdic2.png" alt="Hold">
                             </figure>
 
                             <h6>It’s not<br> guilt.</h6>
@@ -2042,7 +2042,7 @@
                     <li>
                         <div class="your-box">
                             <figure>
-                                <img src="images/holdic3.png" alt="Hold">
+                                <img src="/tsl02/images/holdic3.png" alt="Hold">
                             </figure>
 
                             <h6>It’s not <br>anxiety.</h6>
@@ -2051,7 +2051,7 @@
                     <li>
                         <div class="your-box">
                             <figure>
-                                <img src="images/holdic4.png" alt="Hold">
+                                <img src="/tsl02/images/holdic4.png" alt="Hold">
                             </figure>
 
                             <h6><strong>It’s <br>certainty.</strong></h6>
@@ -2070,7 +2070,7 @@
                 <div class="col-md-4">
                     <div class="billions-img">
                         <figure>
-                            <img src="images/capsule-img.png" alt="dead-sea-img">
+                            <img src="/tsl02/images/capsule-img.png" alt="dead-sea-img">
                         </figure>
                     </div>
                 </div>
@@ -2106,7 +2106,7 @@
 
                     <div class="research-img">
                         <figure>
-                            <img src="images/research-img.png" alt="dead-sea-img">
+                            <img src="/tsl02/images/research-img.png" alt="dead-sea-img">
                         </figure>
                     </div>
                 </div>
@@ -2152,7 +2152,7 @@
                     <div class="col-md-4">
                         <div class="studied-img">
                             <figure>
-                                <img src="images/studied-img.png" alt="Studies">
+                                <img src="/tsl02/images/studied-img.png" alt="Studies">
                             </figure>
                         </div>
                     </div>
@@ -2168,29 +2168,29 @@
             <div class="official-block">
                 <div class="product-img">
                     <figure>
-                        <img src="images/product-img.png" alt="product">
+                        <img src="/tsl02/images/product-img.png" alt="product">
                     </figure>
                 </div>
 
                 <div class="certify-list">
                     <ul>
                         <li>
-                            <figure><img src="images/certify1.png" alt="Certify"></figure>
+                            <figure><img src="/tsl02/images/certify1.png" alt="Certify"></figure>
                         </li>
                         <li>
-                            <figure><img src="images/certify2.png" alt="Certify"></figure>
+                            <figure><img src="/tsl02/images/certify2.png" alt="Certify"></figure>
                         </li>
                         <li>
-                            <figure><img src="images/certify3.png" alt="Certify"></figure>
+                            <figure><img src="/tsl02/images/certify3.png" alt="Certify"></figure>
                         </li>
                         <li>
-                            <figure><img src="images/certify4.png" alt="Certify"></figure>
+                            <figure><img src="/tsl02/images/certify4.png" alt="Certify"></figure>
                         </li>
                         <li>
-                            <figure><img src="images/certify5.png" alt="Certify"></figure>
+                            <figure><img src="/tsl02/images/certify5.png" alt="Certify"></figure>
                         </li>
                         <li>
-                            <figure><img src="images/certify6.png" alt="Certify"></figure>
+                            <figure><img src="/tsl02/images/certify6.png" alt="Certify"></figure>
                         </li>
                     </ul>
                 </div>
@@ -2213,7 +2213,7 @@
                 <div class="col-md-4">
                     <div class="show-img">
                         <figure>
-                            <img src="images/show-img.png" alt="Show">
+                            <img src="/tsl02/images/show-img.png" alt="Show">
                         </figure>
                     </div>
                 </div>
@@ -2248,7 +2248,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product1.png" alt="product">
+                                        <img src="/tsl02/images/product1.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -2256,8 +2256,8 @@
                                     <h3><b>$</b> 79 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2267,7 +2267,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2287,7 +2287,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product2.png" alt="product">
+                                        <img src="/tsl02/images/product2.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -2295,9 +2295,9 @@
                                     <h3><b>$</b> 49 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2307,7 +2307,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2327,15 +2327,15 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product3.png" alt="product">
+                                        <img src="/tsl02/images/product3.png" alt="product">
                                     </figure>
                                 </div>
                                 <div class="plan-data">
                                     <h3><b>$</b> 69 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2345,7 +2345,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2383,7 +2383,7 @@
 
             <div class="guarantee-block">
                 <div class="money-back">
-                    <img src="images/money-back.png" alt="">
+                    <img src="/tsl02/images/money-back.png" alt="">
                 </div>
 
                 <div class="money-back-data">
@@ -2414,22 +2414,22 @@
             <div class="return-list-rw">
                 <ul>
                     <li>
-                        <figure><img src="images/arrow-ic.png" alt="Arrow"></figure>
+                        <figure><img src="/tsl02/images/arrow-ic.png" alt="Arrow"></figure>
                         <p>You Can Return Empty Bottles</p>
 
-                        <img src="images/return-img1.png" alt="Return" class="return-use">
+                        <img src="/tsl02/images/return-img1.png" alt="Return" class="return-use">
                     </li>
                     <li>
-                        <figure><img src="images/arrow-ic.png" alt="Arrow"></figure>
+                        <figure><img src="/tsl02/images/arrow-ic.png" alt="Arrow"></figure>
                         <p>You Can Send The Request By Email Or Through Our Customer Support Whatsapp</p>
 
-                        <img src="images/return-img2.png" alt="Return" class="return-use">
+                        <img src="/tsl02/images/return-img2.png" alt="Return" class="return-use">
                     </li>
                     <li>
-                        <figure><img src="images/arrow-ic.png" alt="Arrow"></figure>
+                        <figure><img src="/tsl02/images/arrow-ic.png" alt="Arrow"></figure>
                         <p>And Your Refund Is 100% Guaranteed—back To Your Card Or Bank Account</p>
 
-                        <img src="images/return-img3.png" alt="Return" class="return-use">
+                        <img src="/tsl02/images/return-img3.png" alt="Return" class="return-use">
                     </li>
                 </ul>
             </div>
@@ -2445,7 +2445,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product1.png" alt="product">
+                                        <img src="/tsl02/images/product1.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -2453,8 +2453,8 @@
                                     <h3><b>$</b> 79 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2464,7 +2464,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2484,7 +2484,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product2.png" alt="product">
+                                        <img src="/tsl02/images/product2.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -2492,9 +2492,9 @@
                                     <h3><b>$</b> 49 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2504,7 +2504,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2524,15 +2524,15 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product3.png" alt="product">
+                                        <img src="/tsl02/images/product3.png" alt="product">
                                     </figure>
                                 </div>
                                 <div class="plan-data">
                                     <h3><b>$</b> 69 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2542,7 +2542,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2580,7 +2580,7 @@
                     <div class="col-md-4">
                         <div class="why-inimg">
                             <figure>
-                                <img src="images/why-img2.png" alt="Why">
+                                <img src="/tsl02/images/why-img2.png" alt="Why">
                             </figure>
                         </div>
                     </div>
@@ -2597,7 +2597,7 @@
                     <div class="col-md-4">
                         <div class="warn-price-bx">
                             <figure>
-                                <img src="images/close-ic.png" alt="Close">
+                                <img src="/tsl02/images/close-ic.png" alt="Close">
                             </figure>
                             No Hard Feelings
                         </div>
@@ -2605,7 +2605,7 @@
                     <div class="col-md-4">
                         <div class="warn-price-bx">
                             <figure>
-                                <img src="images/close-ic.png" alt="Close">
+                                <img src="/tsl02/images/close-ic.png" alt="Close">
                             </figure>
                             No Nonsense
                         </div>
@@ -2613,7 +2613,7 @@
                     <div class="col-md-4">
                         <div class="warn-price-bx">
                             <figure>
-                                <img src="images/close-ic.png" alt="Close">
+                                <img src="/tsl02/images/close-ic.png" alt="Close">
                             </figure>
                             No Risk
                         </div>
@@ -2632,7 +2632,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product1.png" alt="product">
+                                        <img src="/tsl02/images/product1.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -2640,8 +2640,8 @@
                                     <h3><b>$</b> 79 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2651,7 +2651,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2671,7 +2671,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product2.png" alt="product">
+                                        <img src="/tsl02/images/product2.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -2679,9 +2679,9 @@
                                     <h3><b>$</b> 49 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2691,7 +2691,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2711,15 +2711,15 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product3.png" alt="product">
+                                        <img src="/tsl02/images/product3.png" alt="product">
                                     </figure>
                                 </div>
                                 <div class="plan-data">
                                     <h3><b>$</b> 69 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2729,7 +2729,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2754,7 +2754,7 @@
                 <h3>Or try—completely risk-free—the only formula with a <strong>90-day guarantee and real clinical results.</strong></h3>
 
                 <figure>
-                    <img src="images/money-back.png" alt="Money">
+                    <img src="/tsl02/images/money-back.png" alt="Money">
                 </figure>
             </div>
 
@@ -2776,7 +2776,7 @@
                 <div class="col-md-4">
                     <div class="safe-img">
                         <figure>
-                            <img src="images/safe-img.png" alt="Safe">
+                            <img src="/tsl02/images/safe-img.png" alt="Safe">
                         </figure>
                     </div>
                 </div>
@@ -2794,7 +2794,7 @@
                     <div class="col-md-4">
                         <div class="truth-img">
                             <figure>
-                                <img src="images/truth-img.png" alt="Truth">
+                                <img src="/tsl02/images/truth-img.png" alt="Truth">
                             </figure>
                         </div>
                     </div>
@@ -2832,7 +2832,7 @@
 
                     <div class="path-img">
                         <figure>
-                            <img src="images/path-img1.png" alt="Path">
+                            <img src="/tsl02/images/path-img1.png" alt="Path">
                         </figure>
                     </div>
 
@@ -2861,7 +2861,7 @@
 
                     <div class="path-img">
                         <figure>
-                            <img src="images/leptzon-img.png" alt="Path">
+                            <img src="/tsl02/images/leptzon-img.png" alt="Path">
                         </figure>
                     </div>
 
@@ -2896,7 +2896,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product1.png" alt="product">
+                                        <img src="/tsl02/images/product1.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -2904,8 +2904,8 @@
                                     <h3><b>$</b> 79 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2915,7 +2915,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2935,7 +2935,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product2.png" alt="product">
+                                        <img src="/tsl02/images/product2.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -2943,9 +2943,9 @@
                                     <h3><b>$</b> 49 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2955,7 +2955,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -2975,15 +2975,15 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product3.png" alt="product">
+                                        <img src="/tsl02/images/product3.png" alt="product">
                                     </figure>
                                 </div>
                                 <div class="plan-data">
                                     <h3><b>$</b> 69 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -2993,7 +2993,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -3015,17 +3015,17 @@
             <p>What’s at stake here isn’t just the number on the scale.</p>
 
             <ul>
-                <li><figure><img src="images/gua-1.png" alt="Gua"></figure> It’s your freedom.</li>
-                <li><figure><img src="images/gua-2.png" alt="Gua"></figure> Your quality of life.</li>
-                <li><figure><img src="images/gua-3.png" alt="Gua"></figure> Your confidence.</li>
-                <li><figure><img src="images/gua-4.png" alt="Gua"></figure> Your time—and you don’t get that back.</li>
+                <li><figure><img src="/tsl02/images/gua-1.png" alt="Gua"></figure> It’s your freedom.</li>
+                <li><figure><img src="/tsl02/images/gua-2.png" alt="Gua"></figure> Your quality of life.</li>
+                <li><figure><img src="/tsl02/images/gua-3.png" alt="Gua"></figure> Your confidence.</li>
+                <li><figure><img src="/tsl02/images/gua-4.png" alt="Gua"></figure> Your time—and you don’t get that back.</li>
             </ul>
 
             <div class="row">
                 <div class="col-md-4">
                     <div class="guarantee-img">
                         <figure>
-                            <img src="images/gurantee-img.png" alt="Guarantee">
+                            <img src="/tsl02/images/gurantee-img.png" alt="Guarantee">
                         </figure>
                     </div>
                 </div>
@@ -3043,7 +3043,7 @@
 
             <div class="question-rw">
                 <figure>
-                    <img src="images/ques-ic.png" alt="Questions">
+                    <img src="/tsl02/images/ques-ic.png" alt="Questions">
                 </figure>
 
                 <h6>So the only question left is:</h6>
@@ -3069,7 +3069,7 @@
 
                         <div class="clinte-leptoz">
                             <figure>
-                                <img src="images/leptoz-in.png" alt="Leptozan">
+                                <img src="/tsl02/images/leptoz-in.png" alt="Leptozan">
                             </figure>
                         </div>
                     </div>
@@ -3080,16 +3080,16 @@
                 <div class="testimonial-box">
                     <div class="testimonial-img">
                         <figure>
-                            <img src="images/client1.png" alt="testimonial-img">
+                            <img src="/tsl02/images/client1.png" alt="testimonial-img">
                         </figure>
 
-                        <img src="images/quote-ic.png" alt="quote-ic" class="quote-ic">
+                        <img src="/tsl02/images/quote-ic.png" alt="quote-ic" class="quote-ic">
                     </div>
 
                     <div class="testimonial-data">
                         <h2>Karen T. <span>, 44 years old – Charlotte, North Carolina</span></h2>
                         <div class="raiting-bx">
-                            <img src="images/star-ic.png" alt="">
+                            <img src="/tsl02/images/star-ic.png" alt="">
                         </div>
 
                         <p>"I didn’t want to look in the mirror anymore. I hid in baggy clothes. I was always tired. I ate out of impulse. When I heard about Leptozan, I thought it’d be just another product. But something told me to try. In just over 30 days, the bloating was gone, the sugar cravings disappeared, and I lost 17 pounds. For the first time in two decades, I felt like my body was working for me—not against me."</p>
@@ -3099,16 +3099,16 @@
                 <div class="testimonial-box">
                     <div class="testimonial-img">
                         <figure>
-                            <img src="images/client2.png" alt="testimonial-img">
+                            <img src="/tsl02/images/client2.png" alt="testimonial-img">
                         </figure>
 
-                        <img src="images/quote-ic.png" alt="quote-ic" class="quote-ic">
+                        <img src="/tsl02/images/quote-ic.png" alt="quote-ic" class="quote-ic">
                     </div>
 
                     <div class="testimonial-data">
                         <h2>Michelle B. <span>, 53 years old – Scottsdale, Arizona</span></h2>
                         <div class="raiting-bx">
-                            <img src="images/star-ic.png" alt="">
+                            <img src="/tsl02/images/star-ic.png" alt="">
                         </div>
 
                         <p>"Menopause wrecked my metabolism. I gained weight even eating less. I felt inflamed, stuck. When I learned what metabolic blockage was doing to my body, it all made sense. Leptozan gave me back my energy and clarity. I’m down 24 pounds. But the most important part? I got my life back."</p>
@@ -3118,16 +3118,16 @@
                 <div class="testimonial-box">
                     <div class="testimonial-img">
                         <figure>
-                            <img src="images/client3.png" alt="testimonial-img">
+                            <img src="/tsl02/images/client3.png" alt="testimonial-img">
                         </figure>
 
-                        <img src="images/quote-ic.png" alt="quote-ic" class="quote-ic">
+                        <img src="/tsl02/images/quote-ic.png" alt="quote-ic" class="quote-ic">
                     </div>
 
                     <div class="testimonial-data">
                         <h2>Linda R. <span>, 38 years old – Austin, Texas</span></h2>
                         <div class="raiting-bx">
-                            <img src="images/star-ic.png" alt="">
+                            <img src="/tsl02/images/star-ic.png" alt="">
                         </div>
 
                         <p>"I spent my whole life struggling with diets. I was always the ‘funny one,’ the ‘sweet chubby friend.’ I tried everything. With Leptozan, something finally clicked. It was light. It was simple. In 8 weeks, I lost 21 pounds without suffering. I stopped living around food. Now I live around freedom."</p>
@@ -3137,16 +3137,16 @@
                 <div class="testimonial-box">
                     <div class="testimonial-img">
                         <figure>
-                            <img src="images/client4.png" alt="testimonial-img">
+                            <img src="/tsl02/images/client4.png" alt="testimonial-img">
                         </figure>
 
-                        <img src="images/quote-ic.png" alt="quote-ic" class="quote-ic">
+                        <img src="/tsl02/images/quote-ic.png" alt="quote-ic" class="quote-ic">
                     </div>
 
                     <div class="testimonial-data">
                         <h2>Diane M.<span> , 60 years old – Milwaukee, Wisconsin</span></h2>
                         <div class="raiting-bx">
-                            <img src="images/star-ic.png" alt="">
+                            <img src="/tsl02/images/star-ic.png" alt="">
                         </div>
 
                         <p>"At 60, I thought I was beyond hope. I truly believed my body had given up. But what I found out was—it was just waiting for the right signal. With Leptozan, I lost 13 pounds, slept better than I have in years, and—most surprising of all—I wanted to take care of myself again."</p>
@@ -3167,31 +3167,31 @@
                 <ul>
                     <li>
                         <figure>
-                            <img src="images/become1.png" alt="Simple">
+                            <img src="/tsl02/images/become1.png" alt="Simple">
                         </figure>
                         <p>Three months from today…</p>
                     </li>
                     <li>
                         <figure>
-                            <img src="images/become2.png" alt="Simple">
+                            <img src="/tsl02/images/become2.png" alt="Simple">
                         </figure>
                         <p>You wake up without pain, without exhaustion— full of energy</p>
                     </li>
                     <li>
                         <figure>
-                            <img src="images/become3.png" alt="Simple">
+                            <img src="/tsl02/images/become3.png" alt="Simple">
                         </figure>
                         <p>That old dress slipping on effortlessly</p>
                     </li>
                     <li>
                         <figure>
-                            <img src="images/become4.png" alt="Simple">
+                            <img src="/tsl02/images/become4.png" alt="Simple">
                         </figure>
                         <p>Family photos—this time, with you truly smiling</p>
                     </li>
                     <li>
                         <figure>
-                            <img src="images/become5.png" alt="Simple">
+                            <img src="/tsl02/images/become5.png" alt="Simple">
                         </figure>
                         <p>Compliments you forgot how good it feels to hear</p>
                     </li>
@@ -3215,7 +3215,7 @@
                     <div class="col-md-4">
                         <div class="becaming-img">
                             <figure>
-                                <img src="images/becoming-img.png" alt="Become">
+                                <img src="/tsl02/images/becoming-img.png" alt="Become">
                             </figure>
                         </div>
                     </div>
@@ -3243,7 +3243,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product1.png" alt="product">
+                                        <img src="/tsl02/images/product1.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -3251,8 +3251,8 @@
                                     <h3><b>$</b> 79 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $260!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -3262,7 +3262,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -3282,7 +3282,7 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product2.png" alt="product">
+                                        <img src="/tsl02/images/product2.png" alt="product">
                                     </figure>
                                 </div>
 
@@ -3290,9 +3290,9 @@
                                     <h3><b>$</b> 49 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
-                                        <li><figure><img src="images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> You Save $780!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> Biggest Discount</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan2.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -3302,7 +3302,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 
@@ -3322,15 +3322,15 @@
                             <div class="price-mobrw">
                                 <div class="product-big-img">
                                     <figure>
-                                        <img src="images/product3.png" alt="product">
+                                        <img src="/tsl02/images/product3.png" alt="product">
                                     </figure>
                                 </div>
                                 <div class="plan-data">
                                     <h3><b>$</b> 69 <span>Per<br> Bottle</span></h3>
 
                                     <ul>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
-                                        <li><figure><img src="images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> You Save $360!</li>
+                                        <li><figure><img src="/tsl02/images/chack-plan1.png" alt="Chck Mark"></figure> 90 Days Guarantee</li>
                                     </ul>
                                 </div>
                             </div>
@@ -3340,7 +3340,7 @@
 
                                 <div class="pay-icon">
                                     <figure>
-                                        <img src="images/pay-icon.png" alt="Pay">
+                                        <img src="/tsl02/images/pay-icon.png" alt="Pay">
                                     </figure>
                                 </div>
 

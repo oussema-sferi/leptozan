@@ -44,8 +44,9 @@ RewriteRule ^cb/(.*)$ cb/$1 [L]
 # Handle / main page (BG)
 RewriteRule ^$ pages/index.php [L]
 # Original BG site redirects
-RewriteRule ^tsl/?$ pages/tsl/TSL-BG-index.php [L]
-RewriteRule ^tsl02/?$ pages/tsl02/index.php [L]
+#RewriteRule ^tsl/?$ pages/tsl/TSL-BG-index.php [L]
+#RewriteRule ^tsl02/?$ pages/tsl02/index.php [L]
+RewriteRule ^tsl/?$ pages/tsl02/index.php [L]
 RewriteRule ^newdiscovery/?$ pages/vsl.php [L]
 RewriteRule ^newdiscovery_backup/?$ pages/vsl-backup.php [L]
 RewriteRule ^upsell-no-thanks/?$ pages/upsell-nothanks.php [L]
@@ -122,7 +123,7 @@ RewriteRule ^cp/downsell-oto-02/lepto-us-06/?$ cp/pages/upsell-oto-02/downsell/d
 
 
 # Force /tsl to /tsl/ in lowercase
-RewriteRule ^tsl$ /tsl/ [R=301,L]
+#RewriteRule ^tsl$ /tsl/ [R=301,L]
 
 
 # Ensure trailing slash for all URLs except files
