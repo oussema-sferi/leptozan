@@ -4,13 +4,14 @@
 
 <!-- header start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
-<link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d33ff2a27046c5ab527abb/player.js" as="script">
-<link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
-<link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67d33f9514cbf05b82588f5e/main.m3u8" as="fetch">
-<link rel="dns-prefetch" href="https://cdn.converteai.net">
-<link rel="dns-prefetch" href="https://scripts.converteai.net">
-<link rel="dns-prefetch" href="https://images.converteai.net">
-<link rel="dns-prefetch" href="https://api.vturb.com.br">
+    <script>!function(i,n){i._plt=i._plt||(n&&n.timeOrigin?n.timeOrigin+n.now():Date.now())}(window,performance);</script>
+    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/686fbbf45fdfc50d1fba7825/v4/player.js" as="script">
+    <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js" as="script">
+    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/686fbbb2c7856f4045b6dfee/main.m3u8" as="fetch">
+    <link rel="dns-prefetch" href="https://cdn.converteai.net">
+    <link rel="dns-prefetch" href="https://scripts.converteai.net">
+    <link rel="dns-prefetch" href="https://images.converteai.net">
+    <link rel="dns-prefetch" href="https://api.vturb.com.br">
 <!-- header end -->
 
 <!-- Common functions -->
@@ -43,9 +44,13 @@
                     </div>
                     <!--<img src="/images/Banner-01.jpg" alt="banner" class="img-fluid">-->
 
-                    <script type="text/javascript" id="scr_67d33ff2a27046c5ab527abb">
+                    <!--<script type="text/javascript" id="scr_67d33ff2a27046c5ab527abb">
                         var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d33ff2a27046c5ab527abb/player.js", s.async=!0,document.head.appendChild(s);
-                    </script>
+                    </script>-->
+                    <vturb-smartplayer id="vid-686fbbf45fdfc50d1fba7825"
+                                       style="display: block; margin: 0 auto; width: 100%; "></vturb-smartplayer>
+                    <script type="text/javascript"> var s = document.createElement("script");
+                        s.src = "https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/686fbbf45fdfc50d1fba7825/v4/player.js", s.async = !0, document.head.appendChild(s); </script>
                 </div>
 			</div>
 		</div>
