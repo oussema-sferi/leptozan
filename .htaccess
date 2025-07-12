@@ -5,6 +5,7 @@ RewriteEngine On
 RewriteRule ^cb/?$ cb/pages/index.php [L]
 
 # Handle specific routes within /cb
+RewriteRule ^cb/tsl02/?$ cb/pages/tsl02/index.php [L]
 RewriteRule ^cb/tsl/?$ cb/pages/tsl/TSL-CB-index.php [L]
 RewriteRule ^cb/disclaimer/?$ cb/pages/disclaimer.php [L]
 RewriteRule ^cb/terms/?$ cb/pages/terms.php [L]
