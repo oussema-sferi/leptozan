@@ -4,6 +4,7 @@
 
 <!-- header start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/header.php'; ?>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
 <script>!function(i,n){i._plt=i._plt||(n&&n.timeOrigin?n.timeOrigin+n.now():Date.now())}(window,performance);</script>
 <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/686fbbf45fdfc50d1fba7825/v4/player.js" as="script">
 <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js" as="script">
@@ -19,6 +20,13 @@
 <!-- This must be after the integration.js file since it uses ReadCookie() -->
 
 <title>Leptozan</title>
+    <style>
+        .new-banner-title h1,
+        .new-banner-title h5 {
+            font-family: 'Lato', sans-serif;
+        }
+    </style>
+
 </head>
 <body>
 
