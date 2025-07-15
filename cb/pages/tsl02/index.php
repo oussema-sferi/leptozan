@@ -18,8 +18,8 @@
     <!-- CSS only -->
     <link rel="stylesheet" type="text/css" href="/tsl02/css/style.css" />
     <link rel="stylesheet" type="text/css" href="/tsl02/css/responsive.css" />
-    <link href="/cb/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/cb/css/style.css" />
+    <!--<link href="/cb/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/cb/css/style.css" />-->
 
     <!-- Common functions -->
     <script src="/js/custom/buygoods-integration.js"></script>
@@ -3408,9 +3408,15 @@
         </div>
     </footer>-->
     <!-- footer start -->
-    <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; ?>
+    <iframe src="/cb/pages/tsl02/CB-footer-frame.php" style="width: 100%; border: none;" scrolling="no" onload="resizeIframe(this)"></iframe>
+    <?php /*include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/footer.php'; */?>
     <!-- footer end -->
     <!-- End Page 4 -->
 </div>
+<script>
+    function resizeIframe(iframe) {
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+</script>
 </body>
 </html>
