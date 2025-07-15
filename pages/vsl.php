@@ -23,7 +23,7 @@
     <style>
         .new-banner-title h1,
         .new-banner-title h5 {
-            font-family: 'Lato', sans-serif;
+            font-family: 'DM Sans', sans-serif;
         }
     </style>
 </head>

@@ -1,0 +1,2743 @@
+:root {
+    --primary: rgba(250, 166, 52, 1);
+    --white: rgba(255, 255, 255, 1);
+    --third: rgba(65, 163, 163, 1);
+    --secondary: rgba(244, 121, 41, 1);
+    --black-text: rgba(10, 10, 11, 1);
+    --fourth: rgba(117, 210, 212, 1);
+    --foundation-yellowyellow-50: rgba(255, 246, 235, 1);
+    --foundationyellowyellow-100: rgba(253, 227, 192, 1);
+    --foundation-yellowyellow-200: rgba(253, 214, 162, 1);
+    --foundation-yellowyellow-300: rgba(252, 195, 119, 1);
+    --foundation-yellowyellow-400: rgba(251, 184, 93, 1);
+    --foundation-yellowyellow-500: rgba(250, 166, 52, 1);
+    --foundationyellowyellow-600: rgba(228, 151, 47, 1);
+    --foundation-yellowyellow-700: rgba(178, 118, 37, 1);
+    --foundation-yellowyellow-800: rgba(138, 91, 29, 1);
+    --foundation-yellowyellow-900: rgba(105, 70, 22, 1);
+    --foundation-orangeorange-50: rgba(254, 242, 234, 1);
+    --foundationorangeorange-100: rgba(252, 213, 189, 1);
+    --foundation-orangeorange-200: rgba(250, 193, 157, 1);
+    --foundation-orangeorange-300: rgba(248, 165, 112, 1);
+    --foundation-orangeorange-400: rgba(246, 148, 84, 1);
+    --foundation-orangeorange-500: rgba(244, 121, 41, 1);
+    --foundation-orangeorange-600: rgba(222, 110, 37, 1);
+    --foundation-orangeorange-700: rgba(173, 86, 29, 1);
+    --foundation-orangeorange-800: rgba(134, 67, 23, 1);
+    --foundation-orangeorange-900: rgba(102, 51, 17, 1);
+    --foundation-blueblue-50: rgba(236, 246, 246, 1);
+    --foundation-blueblue-100: rgba(196, 226, 226, 1);
+    --foundation-blueblue-200: rgba(168, 213, 213, 1);
+    --foundation-blueblue-300: rgba(128, 193, 193, 1);
+    --foundation-blueblue-400: rgba(103, 181, 181, 1);
+    --foundation-blueblue-500: rgba(65, 163, 163, 1);
+    --foundation-blueblue-600: rgba(59, 148, 148, 1);
+    --foundation-blueblue-700: rgba(46, 116, 116, 1);
+    --foundation-blueblue-800: rgba(36, 90, 90, 1);
+    --foundation-blueblue-900: rgba(27, 68, 68, 1);
+    --foundation-greygrey-1: rgba(255, 255, 255, 1);
+    --foundation-greygrey-2: rgba(253, 253, 253, 1);
+    --foundation-greygrey-3: rgba(246, 246, 246, 1);
+    --foundationgreygrey-4: rgba(241, 241, 241, 1);
+    --foundationgreygrey-5: rgba(220, 220, 220, 1);
+    --foundation-greygrey-6: rgba(197, 197, 197, 1);
+    --foundation-greygrey-7: rgba(151, 151, 151, 1);
+    --foundation-greygrey-8: rgba(104, 104, 104, 1);
+    --foundation-greygrey-9: rgba(86, 86, 86, 1);
+    --foundation-greygrey-10: rgba(58, 58, 58, 1);
+    --foundation-greygrey-11: rgba(51, 51, 51, 1);
+    --foundation-greygrey-12: rgba(42, 42, 42, 1);
+    --foundation-greygrey-13: rgba(23, 23, 23, 1);
+    --foundation-greengreen-50: rgba(241, 251, 251, 1);
+    --foundation-greengreen-100: rgba(212, 241, 242, 1);
+    --foundation-greengreen-200: rgba(192, 234, 235, 1);
+    --foundation-greengreen-300: rgba(163, 225, 226, 1);
+    --foundation-greengreen-400: rgba(145, 219, 221, 1);
+    --foundation-greengreen-500: rgba(117, 210, 212, 1);
+    --foundation-greengreen-600: rgba(106, 191, 193, 1);
+    --foundation-greengreen-700: rgba(83, 149, 151, 1);
+    --foundation-greengreen-800: rgba(64, 116, 117, 1);
+    --foundation-greengreen-900: rgba(49, 88, 89, 1);
+    --desktop-display-large-font-family: "DM Sans", Helvetica;
+    --desktop-display-large-font-weight: 700;
+    --desktop-display-large-font-size: 68px;
+    --desktop-display-large-letter-spacing: 0px;
+    --desktop-display-large-line-height: 72px;
+    --desktop-display-large-font-style: normal;
+    --desktop-display-small-font-family: "DM Sans", Helvetica;
+    --desktop-display-small-font-weight: 700;
+    --desktop-display-small-font-size: 56px;
+    --desktop-display-small-letter-spacing: 0px;
+    --desktop-display-small-line-height: 62px;
+    --desktop-display-small-font-style: normal;
+    --desktop-h1-bold-font-family: "DM Sans", Helvetica;
+    --desktop-h1-bold-font-weight: 700;
+    --desktop-h1-bold-font-size: 44px;
+    --desktop-h1-bold-letter-spacing: 0px;
+    --desktop-h1-bold-line-height: 52px;
+    --desktop-h1-bold-font-style: normal;
+    --desktop-h2-bold-font-family: "DM Sans", Helvetica;
+    --desktop-h2-bold-font-weight: 700;
+    --desktop-h2-bold-font-size: 36px;
+    --desktop-h2-bold-letter-spacing: 0px;
+    --desktop-h2-bold-line-height: 44px;
+    --desktop-h2-bold-font-style: normal;
+    --desktop-h3-bold-font-family: "DM Sans", Helvetica;
+    --desktop-h3-bold-font-weight: 700;
+    --desktop-h3-bold-font-size: 32px;
+    --desktop-h3-bold-letter-spacing: 0px;
+    --desktop-h3-bold-line-height: 40px;
+    --desktop-h3-bold-font-style: normal;
+    --desktop-h4-bold-font-family: "DM Sans", Helvetica;
+    --desktop-h4-bold-font-weight: 700;
+    --desktop-h4-bold-font-size: 24px;
+    --desktop-h4-bold-letter-spacing: 0px;
+    --desktop-h4-bold-line-height: 32px;
+    --desktop-h4-bold-font-style: normal;
+    --desktop-h4-extrabold-font-family: "DM Sans", Helvetica;
+    --desktop-h4-extrabold-font-weight: 900;
+    --desktop-h4-extrabold-font-size: 24px;
+    --desktop-h4-extrabold-letter-spacing: 0px;
+    --desktop-h4-extrabold-line-height: 32px;
+    --desktop-h4-extrabold-font-style: normal;
+    --desktop-paragraph-large-regular-font-family: "Inter", Helvetica;
+    --desktop-paragraph-large-regular-font-weight: 400;
+    --desktop-paragraph-large-regular-font-size: 18px;
+    --desktop-paragraph-large-regular-letter-spacing: 0px;
+    --desktop-paragraph-large-regular-line-height: 28px;
+    --desktop-paragraph-large-regular-font-style: normal;
+    --desktop-paragraph-large-medium-font-family: "Inter", Helvetica;
+    --desktop-paragraph-large-medium-font-weight: 500;
+    --desktop-paragraph-large-medium-font-size: 18px;
+    --desktop-paragraph-large-medium-letter-spacing: 0px;
+    --desktop-paragraph-large-medium-line-height: 28px;
+    --desktop-paragraph-large-medium-font-style: normal;
+    --desktop-paragraph-large-bold-font-family: "Inter", Helvetica;
+    --desktop-paragraph-large-bold-font-weight: 700;
+    --desktop-paragraph-large-bold-font-size: 18px;
+    --desktop-paragraph-large-bold-letter-spacing: 0px;
+    --desktop-paragraph-large-bold-line-height: 28px;
+    --desktop-paragraph-large-bold-font-style: normal;
+    --desktop-paragraph-medium-regular-font-family: "Inter", Helvetica;
+    --desktop-paragraph-medium-regular-font-weight: 400;
+    --desktop-paragraph-medium-regular-font-size: 16px;
+    --desktop-paragraph-medium-regular-letter-spacing: 0px;
+    --desktop-paragraph-medium-regular-line-height: 24px;
+    --desktop-paragraph-medium-regular-font-style: normal;
+    --desktop-paragraph-medium-medium-font-family: "Inter", Helvetica;
+    --desktop-paragraph-medium-medium-font-weight: 500;
+    --desktop-paragraph-medium-medium-font-size: 16px;
+    --desktop-paragraph-medium-medium-letter-spacing: 0px;
+    --desktop-paragraph-medium-medium-line-height: 24px;
+    --desktop-paragraph-medium-medium-font-style: normal;
+    --desktop-paragraph-medium-bold-font-family: "Inter", Helvetica;
+    --desktop-paragraph-medium-bold-font-weight: 700;
+    --desktop-paragraph-medium-bold-font-size: 16px;
+    --desktop-paragraph-medium-bold-letter-spacing: 0px;
+    --desktop-paragraph-medium-bold-line-height: 24px;
+    --desktop-paragraph-medium-bold-font-style: normal;
+    --desktop-paragraph-small-regular-font-family: "Inter", Helvetica;
+    --desktop-paragraph-small-regular-font-weight: 400;
+    --desktop-paragraph-small-regular-font-size: 14px;
+    --desktop-paragraph-small-regular-letter-spacing: 0px;
+    --desktop-paragraph-small-regular-line-height: 20px;
+    --desktop-paragraph-small-regular-font-style: normal;
+    --desktop-paragraph-small-medium-font-family: "Inter", Helvetica;
+    --desktop-paragraph-small-medium-font-weight: 500;
+    --desktop-paragraph-small-medium-font-size: 14px;
+    --desktop-paragraph-small-medium-letter-spacing: 0px;
+    --desktop-paragraph-small-medium-line-height: 20px;
+    --desktop-paragraph-small-medium-font-style: normal;
+    --desktop-paragraph-small-bold-font-family: "Inter", Helvetica;
+    --desktop-paragraph-small-bold-font-weight: 700;
+    --desktop-paragraph-small-bold-font-size: 14px;
+    --desktop-paragraph-small-bold-letter-spacing: 0px;
+    --desktop-paragraph-small-bold-line-height: 20px;
+    --desktop-paragraph-small-bold-font-style: normal;
+    --desktop-paragraph-xsmall-regular-font-family: "Inter", Helvetica;
+    --desktop-paragraph-xsmall-regular-font-weight: 400;
+    --desktop-paragraph-xsmall-regular-font-size: 12px;
+    --desktop-paragraph-xsmall-regular-letter-spacing: 0px;
+    --desktop-paragraph-xsmall-regular-line-height: 12px;
+    --desktop-paragraph-xsmall-regular-font-style: normal;
+    --desktop-paragraph-xsmall-medium-font-family: "Inter", Helvetica;
+    --desktop-paragraph-xsmall-medium-font-weight: 500;
+    --desktop-paragraph-xsmall-medium-font-size: 12px;
+    --desktop-paragraph-xsmall-medium-letter-spacing: 0px;
+    --desktop-paragraph-xsmall-medium-line-height: 12px;
+    --desktop-paragraph-xsmall-medium-font-style: normal;
+    --desktop-paragraph-xsmall-bold-font-family: "Inter", Helvetica;
+    --desktop-paragraph-xsmall-bold-font-weight: 700;
+    --desktop-paragraph-xsmall-bold-font-size: 12px;
+    --desktop-paragraph-xsmall-bold-letter-spacing: 0px;
+    --desktop-paragraph-xsmall-bold-line-height: 12px;
+    --desktop-paragraph-xsmall-bold-font-style: normal;
+    --mobile-h1-bold-font-family: "DM Sans", Helvetica;
+    --mobile-h1-bold-font-weight: 700;
+    --mobile-h1-bold-font-size: 36px;
+    --mobile-h1-bold-letter-spacing: 0px;
+    --mobile-h1-bold-line-height: 44px;
+    --mobile-h1-bold-font-style: normal;
+    --mobile-h2-bold-font-family: "DM Sans", Helvetica;
+    --mobile-h2-bold-font-weight: 700;
+    --mobile-h2-bold-font-size: 32px;
+    --mobile-h2-bold-letter-spacing: 0px;
+    --mobile-h2-bold-line-height: 40px;
+    --mobile-h2-bold-font-style: normal;
+    --mobile-h3-bold-font-family: "DM Sans", Helvetica;
+    --mobile-h3-bold-font-weight: 700;
+    --mobile-h3-bold-font-size: 28px;
+    --mobile-h3-bold-letter-spacing: 0px;
+    --mobile-h3-bold-line-height: 36px;
+    --mobile-h3-bold-font-style: normal;
+    --mobile-h4-bold-font-family: "DM Sans", Helvetica;
+    --mobile-h4-bold-font-weight: 700;
+    --mobile-h4-bold-font-size: 24px;
+    --mobile-h4-bold-letter-spacing: 0px;
+    --mobile-h4-bold-line-height: 32px;
+    --mobile-h4-bold-font-style: normal;
+    --mobile-h4-extrabold-font-family: "DM Sans", Helvetica;
+    --mobile-h4-extrabold-font-weight: 800;
+    --mobile-h4-extrabold-font-size: 24px;
+    --mobile-h4-extrabold-letter-spacing: 0px;
+    --mobile-h4-extrabold-line-height: 32px;
+    --mobile-h4-extrabold-font-style: normal;
+}
+
+
+
+.upsell-mobile.upsell-mobile-wrapper {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.upsell-mobile .div {
+    background-color: var(--white);
+    overflow: hidden;
+    width: 375px;
+    height: 4417px;
+    position: relative;
+}
+
+.upsell-mobile .overlap {
+    position: absolute;
+    width: 375px;
+    height: 518px;
+    top: -3px;
+    left: -1px;
+}
+
+.upsell-mobile .hero {
+    position: absolute;
+    width: 375px;
+    height: 514px;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    transform: rotate(180deg);
+}
+
+.upsell-mobile .overlap-group {
+    position: relative;
+    width: 1692px;
+    height: 861px;
+    top: -347px;
+    left: -741px;
+}
+
+.upsell-mobile .BG {
+    position: absolute;
+    width: 335px;
+    height: 440px;
+    top: 401px;
+    left: 761px;
+    background-color: var(--foundation-greengreen-100);
+    border-radius: 12px;
+    transform: rotate(180deg);
+}
+
+.upsell-mobile .lines {
+    position: absolute;
+    width: 1692px;
+    height: 861px;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    transform: rotate(180deg);
+}
+
+.upsell-mobile .overlap-2 {
+    position: relative;
+    width: 1746px;
+    height: 1201px;
+    top: -155px;
+    left: -19px;
+}
+
+.upsell-mobile .layer {
+    position: absolute;
+    width: 1746px;
+    height: 1201px;
+    top: 0;
+    left: 0;
+}
+
+.upsell-mobile .vector {
+    position: absolute;
+    width: 374px;
+    height: 511px;
+    top: 187px;
+    left: 596px;
+}
+
+.upsell-mobile .text {
+    display: flex;
+    flex-direction: column;
+    width: 310px;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    position: relative;
+    top: 240px;
+    left: 628px;
+}
+
+.upsell-mobile .p {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--desktop-h3-bold-font-family);
+    font-weight: var(--desktop-h3-bold-font-weight);
+    color: transparent;
+    font-size: var(--desktop-h3-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-h3-bold-letter-spacing);
+    line-height: var(--desktop-h3-bold-line-height);
+    font-style: var(--desktop-h3-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper {
+    color: #171717;
+    font-family: var(--desktop-h3-bold-font-family);
+    font-style: var(--desktop-h3-bold-font-style);
+    font-weight: var(--desktop-h3-bold-font-weight);
+    letter-spacing: var(--desktop-h3-bold-letter-spacing);
+    line-height: var(--desktop-h3-bold-line-height);
+    font-size: var(--desktop-h3-bold-font-size);
+}
+
+.upsell-mobile .span {
+    color: #f47929;
+    font-family: var(--desktop-h3-bold-font-family);
+    font-style: var(--desktop-h3-bold-font-style);
+    font-weight: var(--desktop-h3-bold-font-weight);
+    letter-spacing: var(--desktop-h3-bold-letter-spacing);
+    line-height: var(--desktop-h3-bold-line-height);
+    font-size: var(--desktop-h3-bold-font-size);
+}
+
+.upsell-mobile .text-wrapper-2 {
+    position: relative;
+    align-self: stretch;
+    font-family: var(--desktop-paragraph-medium-bold-font-family);
+    font-weight: var(--desktop-paragraph-medium-bold-font-weight);
+    color: #171717;
+    font-size: var(--desktop-paragraph-medium-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-bold-line-height);
+    font-style: var(--desktop-paragraph-medium-bold-font-style);
+}
+
+.upsell-mobile .step {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 56px;
+    position: relative;
+    top: -23px;
+    left: 686px;
+    border-radius: 40px;
+}
+
+.upsell-mobile .rectangle {
+    position: absolute;
+    width: 62px;
+    height: 4px;
+    top: 15px;
+    left: 29px;
+    background-color: var(--secondary);
+}
+
+.upsell-mobile .rectangle-2 {
+    position: absolute;
+    width: 43px;
+    height: 2px;
+    top: 16px;
+    left: 134px;
+    background-color: var(--white);
+}
+
+.upsell-mobile .rectangle-3 {
+    position: absolute;
+    width: 22px;
+    height: 4px;
+    top: 15px;
+    left: 114px;
+    background-color: var(--secondary);
+    border-radius: 2.5px;
+}
+
+.upsell-mobile .element {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 50px;
+}
+
+.upsell-mobile .group {
+    position: relative;
+    width: 34px;
+    height: 32px;
+    margin-right: -2.00px;
+}
+
+.upsell-mobile .div-wrapper {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    background-color: var(--secondary);
+    border-radius: 16px;
+}
+
+.upsell-mobile .text-wrapper-3 {
+    position: absolute;
+    height: 32px;
+    top: 0;
+    left: 12px;
+    font-weight: 900;
+    color: var(--white);
+    font-size: 20px;
+    line-height: 32px;
+    font-family: "DM Sans", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.upsell-mobile .overlap-group-wrapper {
+    position: relative;
+    width: 34px;
+    height: 32.67px;
+    margin-right: -2.00px;
+}
+
+.upsell-mobile .overlap-group-2 {
+    position: relative;
+    width: 32px;
+    height: 33px;
+}
+
+.upsell-mobile .ellipse {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 1px;
+    left: 0;
+    background-color: var(--secondary);
+    border-radius: 16px;
+}
+
+.upsell-mobile .text-wrapper-4 {
+    position: absolute;
+    height: 32px;
+    top: 0;
+    left: 10px;
+    font-weight: 900;
+    color: var(--white);
+    font-size: 20px;
+    line-height: 32px;
+    font-family: "DM Sans", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.upsell-mobile .group-2 {
+    position: relative;
+    width: 34px;
+    height: 32.22px;
+    margin-right: -2.00px;
+}
+
+.upsell-mobile .overlap-group-3 {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    background-color: var(--white);
+    border-radius: 16px;
+}
+
+.upsell-mobile .text-wrapper-5 {
+    position: absolute;
+    height: 32px;
+    top: 0;
+    left: 10px;
+    font-weight: 500;
+    color: #171717;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: "DM Sans", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.upsell-mobile .video {
+    display: flex;
+    flex-direction: column;
+    width: 310px;
+    height: 175px;
+    align-items: center;
+    gap: 9.19px;
+    position: absolute;
+    top: 343px;
+    left: 33px;
+    background-color: var(--white);
+    border-radius: 3.44px;
+    overflow: hidden;
+    border: 2.87px solid;
+    border-color: var(--foundationgreygrey-4);
+}
+
+.upsell-mobile .img {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 174px;
+    object-fit: cover;
+}
+
+.upsell-mobile .play-button {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 73px;
+    left: 141px;
+}
+
+.upsell-mobile .footer-mobile {
+    position: absolute;
+    width: 335px;
+    height: 910px;
+    top: 3487px;
+    left: 20px;
+    background-color: var(--third);
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.upsell-mobile .frame {
+    display: flex;
+    flex-direction: column;
+    width: 303px;
+    align-items: center;
+    gap: 32px;
+    position: relative;
+    top: 48px;
+    left: 16px;
+}
+
+.upsell-mobile .frame-2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 16px 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-medium-regular-font-family);
+    font-weight: var(--desktop-paragraph-medium-regular-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-paragraph-medium-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-medium-regular-font-style);
+}
+
+.upsell-mobile .line {
+    position: relative;
+    width: 1px;
+    height: 12px;
+    object-fit: cover;
+}
+
+.upsell-mobile .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-paragraph-medium-regular-font-family);
+    font-weight: var(--desktop-paragraph-medium-regular-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-paragraph-medium-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-medium-regular-font-style);
+}
+
+.upsell-mobile .frame-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-8 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-small-regular-font-family);
+    font-weight: var(--desktop-paragraph-small-regular-font-weight);
+    color: var(--foundation-blueblue-100);
+    font-size: var(--desktop-paragraph-small-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-small-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-small-regular-line-height);
+    font-style: var(--desktop-paragraph-small-regular-font-style);
+}
+
+.upsell-mobile .text-wrapper-9 {
+    position: relative;
+    align-self: stretch;
+    font-family: var(--desktop-paragraph-small-regular-font-family);
+    font-weight: var(--desktop-paragraph-small-regular-font-weight);
+    color: var(--foundation-blueblue-100);
+    font-size: var(--desktop-paragraph-small-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-small-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-small-regular-line-height);
+    font-style: var(--desktop-paragraph-small-regular-font-style);
+}
+
+.upsell-mobile .frame-4 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-small-regular-font-family);
+    font-weight: var(--desktop-paragraph-small-regular-font-weight);
+    color: var(--foundation-blueblue-200);
+    font-size: var(--desktop-paragraph-small-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-small-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-small-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-small-regular-font-style);
+}
+
+.upsell-mobile .overlap-3 {
+    /*width: 335px;*/
+    /*position: absolute;
+    width: 335px;
+    height: 2170px;
+    top: 539px;
+    left: 20px;*/
+    margin: 0 20px 0 20px;
+    background-color: var(--foundation-greygrey-3);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.upsell-mobile .title {
+    display: flex;
+    flex-direction: column;
+    width: 335px;
+    align-items: flex-start;
+    gap: 16px;
+    /*position: absolute;*/
+    top: 24px;
+    left: 0;
+}
+
+.upsell-mobile .frame-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-11 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-large-bold-font-family);
+    font-weight: var(--desktop-paragraph-large-bold-font-weight);
+    color: #171717;
+    font-size: var(--desktop-paragraph-large-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-large-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-large-bold-line-height);
+    font-style: var(--desktop-paragraph-large-bold-font-style);
+}
+
+.upsell-mobile .new-customers-only {
+    position: relative;
+    align-self: stretch;
+    font-family: var(--mobile-h1-bold-font-family);
+    font-weight: var(--mobile-h1-bold-font-weight);
+    color: transparent;
+    font-size: var(--mobile-h1-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--mobile-h1-bold-letter-spacing);
+    line-height: var(--mobile-h1-bold-line-height);
+    font-style: var(--mobile-h1-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-12 {
+    color: #f47929;
+    font-family: var(--mobile-h1-bold-font-family);
+    font-style: var(--mobile-h1-bold-font-style);
+    font-weight: var(--mobile-h1-bold-font-weight);
+    letter-spacing: var(--mobile-h1-bold-letter-spacing);
+    line-height: var(--mobile-h1-bold-line-height);
+    font-size: var(--mobile-h1-bold-font-size);
+}
+
+.upsell-mobile .text-wrapper-13 {
+    color: #171717;
+    font-family: var(--mobile-h1-bold-font-family);
+    font-style: var(--mobile-h1-bold-font-style);
+    font-weight: var(--mobile-h1-bold-font-weight);
+    letter-spacing: var(--mobile-h1-bold-letter-spacing);
+    line-height: var(--mobile-h1-bold-line-height);
+    font-size: var(--mobile-h1-bold-font-size);
+}
+
+.upsell-mobile .frame-6 {
+    /*position: absolute;*/
+    width: 248px;
+    height: 72px;
+    margin-bottom: 24px;
+}
+
+.upsell-mobile .no-thanks-i {
+    /*position: absolute;*/
+    width: 303px;
+    height: 168px;
+    top: 1985px;
+    left: 16px;
+    font-family: var(--desktop-paragraph-medium-regular-font-family);
+    font-weight: var(--desktop-paragraph-medium-regular-font-weight);
+    color: #171717;
+    font-size: var(--desktop-paragraph-medium-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-regular-line-height);
+    font-style: var(--desktop-paragraph-medium-regular-font-style);
+}
+
+.upsell-mobile .text-wrapper-14 {
+    text-decoration: underline;
+    font-family: var(--desktop-paragraph-medium-regular-font-family);
+    font-style: var(--desktop-paragraph-medium-regular-font-style);
+    font-weight: var(--desktop-paragraph-medium-regular-font-weight);
+    letter-spacing: var(--desktop-paragraph-medium-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-regular-line-height);
+    font-size: var(--desktop-paragraph-medium-regular-font-size);
+}
+
+.upsell-mobile .text-wrapper-15 {
+    font-family: var(--desktop-paragraph-medium-regular-font-family);
+    font-weight: var(--desktop-paragraph-medium-regular-font-weight);
+    color: #171717;
+    font-size: var(--desktop-paragraph-medium-regular-font-size);
+    letter-spacing: var(--desktop-paragraph-medium-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-regular-line-height);
+    font-style: var(--desktop-paragraph-medium-regular-font-style);
+}
+
+.upsell-mobile .element-2 {
+    display: flex;
+    flex-direction: column;
+    width: 303px;
+    align-items: center;
+    gap: 16px;
+    padding: 0px 0px 24px;
+    margin-bottom: 40px;
+    /*position: absolute;
+    top: 1064px;
+    left: 16px;*/
+    background-color: var(--white);
+    border-radius: 12px;
+    overflow: hidden;
+    border-bottom-width: 7px;
+    border-bottom-style: solid;
+    border-color: var(--third);
+}
+
+.upsell-mobile .frame-7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 24px 0px 32px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: var(--third);
+}
+
+.upsell-mobile .text-wrapper-16 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "DM Sans", Helvetica;
+    font-weight: 900;
+    color: var(--white);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+}
+
+.upsell-mobile .frame-9 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-10 {
+    align-items: flex-start;
+    gap: 12px;
+    display: inline-flex;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-h2-bold-font-family);
+    font-weight: var(--desktop-h2-bold-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-h2-bold-font-size);
+    letter-spacing: var(--desktop-h2-bold-letter-spacing);
+    line-height: var(--desktop-h2-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-h2-bold-font-style);
+}
+
+.upsell-mobile .frame-11 {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-12 {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-18 {
+    color: var(--white);
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-medium-bold-font-family);
+    font-weight: var(--desktop-paragraph-medium-bold-font-weight);
+    font-size: var(--desktop-paragraph-medium-bold-font-size);
+    letter-spacing: var(--desktop-paragraph-medium-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-medium-bold-font-style);
+}
+
+.upsell-mobile .per-bottle {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--white);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-align: left;
+}
+
+.upsell-mobile .text-wrapper-19 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-paragraph-xsmall-bold-font-family);
+    font-weight: var(--desktop-paragraph-xsmall-bold-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-paragraph-xsmall-bold-font-size);
+    letter-spacing: var(--desktop-paragraph-xsmall-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-xsmall-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-xsmall-bold-font-style);
+}
+
+.upsell-mobile .arrow {
+    position: relative;
+    width: 97px;
+    height: 17px;
+    transform: rotate(180deg);
+}
+
+.upsell-mobile .vector-2 {
+    position: absolute;
+    width: 94px;
+    height: 11px;
+    top: 3px;
+    left: 2px;
+    transform: rotate(-180deg);
+}
+
+.upsell-mobile .arrow-2 {
+    position: absolute;
+    width: 50px;
+    height: 26px;
+    top: 43px;
+    left: 207px;
+    overflow: hidden;
+    transform: rotate(51.83deg);
+}
+
+.upsell-mobile .vector-3 {
+    position: absolute;
+    width: 18px;
+    height: 38px;
+    top: -8px;
+    left: 14px;
+    transform: rotate(-51.83deg);
+}
+
+.upsell-mobile .vector-4 {
+    position: absolute;
+    width: 11px;
+    height: 12px;
+    top: 10px;
+    left: 33px;
+    transform: rotate(-51.83deg);
+}
+
+.upsell-mobile .frame-13 {
+    position: relative;
+    width: 432px;
+    height: 289px;
+    margin-left: -64.50px;
+    margin-right: -64.50px;
+}
+
+.upsell-mobile .overlap-group-4 {
+    position: relative;
+    width: 303px;
+    height: 341px;
+    top: -30px;
+    left: 64px;
+}
+
+.upsell-mobile .r {
+    width: 218px;
+    height: 341px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.upsell-mobile .r-2 {
+    width: 234px;
+    height: 341px;
+    top: 0;
+    left: 69px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.upsell-mobile .group-3 {
+    position: absolute;
+    width: 303px;
+    height: 28px;
+    top: 141px;
+    left: 0;
+}
+
+.upsell-mobile .vector-5 {
+    width: 151px;
+    height: 28px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.upsell-mobile .vector-6 {
+    width: 151px;
+    height: 28px;
+    left: 152px;
+    position: absolute;
+    top: 0;
+}
+
+.upsell-mobile .frame-14 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    padding: 0px 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-15 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 12px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-16 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .yes {
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+
+.upsell-mobile .subtract {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 0;
+    left: 0;
+}
+
+.upsell-mobile .text-wrapper-20 {
+    font-weight: var(--desktop-paragraph-medium-medium-font-weight);
+    font-size: var(--desktop-paragraph-medium-medium-font-size);
+    line-height: var(--desktop-paragraph-medium-medium-line-height);
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-medium-medium-font-family);
+    color: var(--black-text);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-medium-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-medium-medium-font-style);
+}
+
+.upsell-mobile .line-2 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 1px;
+    object-fit: cover;
+}
+
+.upsell-mobile .button-secondary {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 85px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    border-radius: 40px;
+    box-shadow: inset 0px -5px 0px #ffde21;
+    background: linear-gradient(
+            180deg,
+            rgba(255, 222, 33, 1) 31%,
+            rgba(215, 143, 0, 1) 100%
+    );
+}
+
+.upsell-mobile .text-wrapper-21 {
+    position: relative;
+    width: fit-content;
+    margin-left: -23.00px;
+    margin-right: -23.00px;
+    font-family: "DM Sans", Helvetica;
+    font-weight: 900;
+    color: #171717;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.upsell-mobile .text-wrapper-22 {
+    color: #171717;
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-paragraph-small-bold-font-family);
+    font-weight: var(--desktop-paragraph-small-bold-font-weight);
+    font-size: var(--desktop-paragraph-small-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-small-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-small-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-small-bold-font-style);
+}
+
+.upsell-mobile .frame-17 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 11px;
+    padding: 0px 24px 0px 32px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-23 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-h4-bold-font-family);
+    font-weight: var(--desktop-h4-bold-font-weight);
+    color: #171717;
+    font-size: var(--desktop-h4-bold-font-size);
+    letter-spacing: var(--desktop-h4-bold-letter-spacing);
+    line-height: var(--desktop-h4-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-h4-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-24 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-large-bold-font-family);
+    font-weight: var(--desktop-paragraph-large-bold-font-weight);
+    color: #171717;
+    font-size: var(--desktop-paragraph-large-bold-font-size);
+    letter-spacing: var(--desktop-paragraph-large-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-large-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-large-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-25 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-h2-bold-font-family);
+    font-weight: var(--desktop-h2-bold-font-weight);
+    color: #171717;
+    font-size: var(--desktop-h2-bold-font-size);
+    letter-spacing: var(--desktop-h2-bold-letter-spacing);
+    line-height: var(--desktop-h2-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-h2-bold-font-style);
+}
+
+.upsell-mobile .element-3 {
+    display: flex;
+    flex-direction: column;
+    width: 303px;
+    align-items: center;
+    gap: 16px;
+    padding: 0px 0px 32px;
+    margin-bottom: 32px;
+    /*position: absolute;
+    top: 168px;
+    left: 16px;*/
+    background-color: var(--white);
+    border-radius: 12px;
+    overflow: hidden;
+    border: 7px solid;
+    border-color: var(--secondary);
+}
+
+.upsell-mobile .frame-18 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding: 24px 0px 40px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: var(--secondary);
+}
+
+.upsell-mobile .frame-19 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-26 {
+    font-family: "DM Sans", Helvetica;
+    font-weight: 900;
+    color: var(--white);
+    font-size: 20px;
+    line-height: 28px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.upsell-mobile .frame-20 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8px 40px 8px 8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--white);
+    border-radius: 12px;
+}
+
+.upsell-mobile .text-wrapper-27 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "DM Sans", Helvetica;
+    font-weight: 800;
+    color: var(--secondary);
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+}
+
+.upsell-mobile .frame-21 {
+    align-items: center;
+    gap: 16px;
+    display: inline-flex;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-28 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-h2-bold-font-family);
+    font-weight: var(--desktop-h2-bold-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-h2-bold-font-size);
+    letter-spacing: var(--desktop-h2-bold-letter-spacing);
+    line-height: var(--desktop-h2-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-h2-bold-font-style);
+}
+
+.upsell-mobile .frame-22 {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-23 {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 18px 12px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--white);
+    border-radius: 60px;
+}
+
+.upsell-mobile .text-wrapper-29 {
+    color: var(--secondary);
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-medium-bold-font-family);
+    font-weight: var(--desktop-paragraph-medium-bold-font-weight);
+    font-size: var(--desktop-paragraph-medium-bold-font-size);
+    letter-spacing: var(--desktop-paragraph-medium-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-medium-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-30 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-weight: var(--desktop-h1-bold-font-weight);
+    color: var(--secondary);
+    font-size: var(--desktop-h1-bold-font-size);
+    line-height: var(--desktop-h1-bold-line-height);
+    font-family: var(--desktop-h1-bold-font-family);
+    letter-spacing: var(--desktop-h1-bold-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-h1-bold-font-style);
+}
+
+.upsell-mobile .per-bottle-2 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: var(--white);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 18px;
+    text-align: left;
+}
+
+.upsell-mobile .vector-wrapper {
+    position: relative;
+    width: 109px;
+    height: 19px;
+}
+
+.upsell-mobile .vector-7 {
+    position: absolute;
+    width: 105px;
+    height: 12px;
+    top: 3px;
+    left: 2px;
+}
+
+.upsell-mobile .r-3 {
+    width: 90px;
+    height: 93px;
+    top: 38px;
+    left: 175px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.upsell-mobile .arrow-3 {
+    position: absolute;
+    width: 98px;
+    height: 50px;
+    top: 101px;
+    left: 210px;
+    overflow: hidden;
+    transform: rotate(63.44deg);
+}
+
+.upsell-mobile .vector-8 {
+    position: absolute;
+    width: 27px;
+    height: 77px;
+    top: -21px;
+    left: 31px;
+    transform: rotate(-63.44deg);
+}
+
+.upsell-mobile .vector-9 {
+    position: absolute;
+    width: 21px;
+    height: 23px;
+    top: 19px;
+    left: 62px;
+    transform: rotate(-63.44deg);
+}
+
+.upsell-mobile .overlap-wrapper {
+    position: relative;
+    width: 477px;
+    height: 209px;
+    margin-left: -87.00px;
+    margin-right: -87.00px;
+}
+
+.upsell-mobile .overlap-4 {
+    position: relative;
+    width: 303px;
+    height: 229px;
+    top: -15px;
+    left: 87px;
+}
+
+.upsell-mobile .r-4 {
+    width: 147px;
+    height: 209px;
+    top: 15px;
+    left: 156px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.upsell-mobile .r-5 {
+    width: 152px;
+    height: 229px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.upsell-mobile .r-6 {
+    position: absolute;
+    width: 179px;
+    height: 229px;
+    top: 0;
+    left: 35px;
+    object-fit: cover;
+}
+
+.upsell-mobile .overlap-group-wrapper-2 {
+    position: absolute;
+    width: 42px;
+    height: 40px;
+    top: 69px;
+    left: 163px;
+    /*box-shadow:
+            0px 1px 2.5px #0000001c, 0px 4.5px 4.5px #00000017, 0px 9.5px 5.5px #0000000d, 0px 17px 7px #00000005, 0px 26.5px 7.5px transparent;*/
+}
+
+.upsell-mobile .overlap-group-5 {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: var(--secondary);
+    border-radius: 20px;
+}
+
+.upsell-mobile .text-wrapper-31 {
+    position: absolute;
+    height: 36px;
+    top: 0;
+    left: 10px;
+    font-family: "DM Sans", Helvetica;
+    font-weight: 700;
+    color: var(--white);
+    font-size: 34px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+}
+
+.upsell-mobile .group-4 {
+    position: absolute;
+    width: 303px;
+    height: 34px;
+    top: 269px;
+    left: 0;
+}
+
+.upsell-mobile .overlap-5 {
+    position: relative;
+    height: 34px;
+}
+
+.upsell-mobile .vector-10 {
+    width: 153px;
+    height: 34px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.upsell-mobile .vector-11 {
+    width: 153px;
+    height: 34px;
+    left: 150px;
+    position: absolute;
+    top: 0;
+}
+
+.upsell-mobile .frame-24 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-32 {
+    font-weight: var(--desktop-paragraph-large-bold-font-weight);
+    font-size: var(--desktop-paragraph-large-bold-font-size);
+    line-height: var(--desktop-paragraph-large-bold-line-height);
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-large-bold-font-family);
+    color: var(--black-text);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-large-bold-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-large-bold-font-style);
+}
+
+.upsell-mobile .button-secondary-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: var(--secondary);
+    border-radius: 60px;
+    box-shadow: inset 0px -5px 0px #de6e25;
+}
+
+.upsell-mobile .text-wrapper-33 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "DM Sans", Helvetica;
+    font-weight: 800;
+    color: var(--white);
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+}
+
+.upsell-mobile .text-wrapper-34 {
+    margin-top: -4px;
+    color: var(--white);
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-paragraph-small-bold-font-family);
+    font-weight: var(--desktop-paragraph-small-bold-font-weight);
+    font-size: var(--desktop-paragraph-small-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-small-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-small-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-small-bold-font-style);
+}
+
+.upsell-mobile .r-7 {
+    width: 124px;
+    height: 161px;
+    top: 9499px;
+    left: -44594px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.upsell-mobile .text-2 {
+    position: absolute;
+    width: 335px;
+    height: 714px;
+    top: 2741px;
+    left: 20px;
+    background-color: var(--foundation-greengreen-100);
+    border-radius: 12px;
+}
+
+.upsell-mobile .title-2 {
+    display: flex;
+    flex-direction: column;
+    width: 303px;
+    align-items: center;
+    gap: 16px;
+    position: absolute;
+    top: 56px;
+    left: 16px;
+}
+
+.upsell-mobile .leptozan-is-uniquely {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--mobile-h3-bold-font-family);
+    font-weight: var(--mobile-h3-bold-font-weight);
+    color: transparent;
+    font-size: var(--mobile-h3-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--mobile-h3-bold-letter-spacing);
+    line-height: var(--mobile-h3-bold-line-height);
+    font-style: var(--mobile-h3-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-35 {
+    color: #171717;
+    font-family: var(--mobile-h3-bold-font-family);
+    font-style: var(--mobile-h3-bold-font-style);
+    font-weight: var(--mobile-h3-bold-font-weight);
+    letter-spacing: var(--mobile-h3-bold-letter-spacing);
+    line-height: var(--mobile-h3-bold-line-height);
+    font-size: var(--mobile-h3-bold-font-size);
+}
+
+.upsell-mobile .text-wrapper-36 {
+    color: #f47929;
+    font-family: var(--mobile-h3-bold-font-family);
+    font-style: var(--mobile-h3-bold-font-style);
+    font-weight: var(--mobile-h3-bold-font-weight);
+    letter-spacing: var(--mobile-h3-bold-letter-spacing);
+    line-height: var(--mobile-h3-bold-line-height);
+    font-size: var(--mobile-h3-bold-font-size);
+}
+
+.upsell-mobile .text-wrapper-37 {
+    position: relative;
+    align-self: stretch;
+    font-family: var(--desktop-paragraph-medium-regular-font-family);
+    font-weight: var(--desktop-paragraph-medium-regular-font-weight);
+    color: #171717;
+    font-size: var(--desktop-paragraph-medium-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-regular-line-height);
+    font-style: var(--desktop-paragraph-medium-regular-font-style);
+}
+
+.upsell-mobile .frame-25 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 303px;
+    align-items: center;
+    justify-content: center;
+    gap: 24px 24px;
+    position: absolute;
+    top: 316px;
+    left: 16px;
+}
+
+.upsell-mobile .amazon {
+    position: relative;
+    width: 146px;
+    height: 67px;
+    object-fit: cover;
+}
+
+.upsell-mobile .ebay {
+    position: relative;
+    width: 146px;
+    height: 66px;
+    object-fit: cover;
+}
+
+.upsell-mobile .walmart {
+    position: relative;
+    width: 144px;
+    height: 49px;
+    object-fit: cover;
+}
+
+.upsell-mobile .available {
+    position: relative;
+    width: 144px;
+    height: 88px;
+    object-fit: cover;
+}
+
+.upsell-mobile.upsell-desktop-wrapper {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.upsell-mobile .upsell-desktop {
+    /*background-color: var(--white);
+    width: 1440px;
+    height: 3610px;
+    position: relative;*/
+    background-color: var(--white);
+    width: 100%;
+    max-width: 1440px; /* ✅ keeps content from being too wide */
+    margin: 0 auto;      /* ✅ centers on large screens */
+    height: auto;
+    position: relative;
+    padding: 0 20px;      /* optional: adds spacing on smaller screens */
+    box-sizing: border-box;
+}
+
+.upsell-mobile .overlap-6 {
+    position: absolute;
+    width: 100%;
+    height: 957px;
+    top: 32px;
+    left: 32px;
+}
+
+.upsell-mobile .hero-2 {
+    /*position: absolute;*/
+    width: 100%;
+    /*height: 700px;*/
+    top: 0;
+    left: 0;
+    /*background-color: var(--foundation-greengreen-100);
+    border-radius: 12px;
+    overflow: hidden;
+    background-image: url(https://c.animaapp.com/uQY3iY7r/img/lines-1.svg);
+    background-size: 100% 100%;*/
+}
+
+.upsell-mobile .step-2 {
+    display: flex;
+    width: 645px;
+    align-items: center;
+    justify-content: center;
+    gap: 88px;
+    position: absolute;
+    top: 32px;
+    left: 366px;
+    border-radius: 40px;
+}
+
+.upsell-mobile .rectangle-4 {
+    position: absolute;
+    width: 189px;
+    height: 5px;
+    top: 50px;
+    left: 130px;
+    background-color: var(--secondary);
+}
+
+.upsell-mobile .rectangle-5 {
+    position: absolute;
+    width: 175px;
+    height: 3px;
+    top: 51px;
+    left: 357px;
+    background-color: var(--white);
+}
+
+.upsell-mobile .rectangle-6 {
+    position: absolute;
+    width: 30px;
+    height: 5px;
+    top: 50px;
+    left: 350px;
+    background-color: var(--secondary);
+    border-radius: 2.5px;
+}
+
+.upsell-mobile .frame-26 {
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-38 {
+    font-weight: var(--desktop-paragraph-medium-bold-font-weight);
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-medium-bold-font-family);
+    color: #171717;
+    font-size: var(--desktop-paragraph-medium-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-bold-line-height);
+    font-style: var(--desktop-paragraph-medium-bold-font-style);
+}
+
+.upsell-mobile .group-5 {
+    position: relative;
+    width: 42px;
+    height: 40px;
+}
+
+.upsell-mobile .text-wrapper-39 {
+    position: absolute;
+    height: 32px;
+    top: 4px;
+    left: 15px;
+    font-weight: var(--desktop-h4-extrabold-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-h4-extrabold-font-size);
+    line-height: var(--desktop-h4-extrabold-line-height);
+    font-family: var(--desktop-h4-extrabold-font-family);
+    letter-spacing: var(--desktop-h4-extrabold-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-h4-extrabold-font-style);
+}
+
+.upsell-mobile .text-wrapper-40 {
+    position: absolute;
+    height: 32px;
+    top: 4px;
+    left: 13px;
+    font-weight: var(--desktop-h4-extrabold-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-h4-extrabold-font-size);
+    line-height: var(--desktop-h4-extrabold-line-height);
+    font-family: var(--desktop-h4-extrabold-font-family);
+    letter-spacing: var(--desktop-h4-extrabold-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-h4-extrabold-font-style);
+}
+
+.upsell-mobile .text-wrapper-41 {
+    font-weight: var(--desktop-paragraph-medium-regular-font-weight);
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-medium-regular-font-family);
+    color: #171717;
+    font-size: var(--desktop-paragraph-medium-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-regular-line-height);
+    font-style: var(--desktop-paragraph-medium-regular-font-style);
+}
+
+.upsell-mobile .overlap-group-6 {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: var(--white);
+    border-radius: 20px;
+}
+
+.upsell-mobile .text-wrapper-42 {
+    position: absolute;
+    height: 32px;
+    top: 4px;
+    left: 13px;
+    font-weight: 500;
+    color: #171717;
+    font-size: 24px;
+    line-height: 32px;
+    font-family: "DM Sans", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.upsell-mobile .text-3 {
+    display: flex;
+    flex-direction: column;
+    width: 801px;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    position: absolute;
+    top: 144px;
+    left: 288px;
+}
+
+.upsell-mobile .forem-ipsum-dolor {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--desktop-display-small-font-family);
+    font-weight: var(--desktop-display-small-font-weight);
+    color: transparent;
+    font-size: var(--desktop-display-small-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-display-small-letter-spacing);
+    line-height: var(--desktop-display-small-line-height);
+    font-style: var(--desktop-display-small-font-style);
+}
+
+.upsell-mobile .text-wrapper-43 {
+    color: #171717;
+    font-family: var(--desktop-display-small-font-family);
+    font-style: var(--desktop-display-small-font-style);
+    font-weight: var(--desktop-display-small-font-weight);
+    letter-spacing: var(--desktop-display-small-letter-spacing);
+    line-height: var(--desktop-display-small-line-height);
+    font-size: var(--desktop-display-small-font-size);
+}
+
+.upsell-mobile .text-wrapper-44 {
+    color: #f47929;
+    font-family: var(--desktop-display-small-font-family);
+    font-style: var(--desktop-display-small-font-style);
+    font-weight: var(--desktop-display-small-font-weight);
+    letter-spacing: var(--desktop-display-small-letter-spacing);
+    line-height: var(--desktop-display-small-line-height);
+    font-size: var(--desktop-display-small-font-size);
+}
+
+
+.upsell-mobile .video-2 {
+    display: flex;
+    flex-direction: column;
+    width: 1080px;
+    height: 609px;
+    align-items: center;
+    gap: 32px;
+    position: relative;
+    /*position: absolute;*/
+    /*top: 348px;*/
+    margin: 348px auto 0 auto;
+    /*left: 148px;*/
+    background-color: var(--white);
+    border-radius: 12px;
+    overflow: hidden;
+    border: 10px solid;
+    border-color: var(--foundationgreygrey-4);
+}
+
+.upsell-mobile .rectangle-7 {
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    width: 100%;
+    flex-grow: 1;
+    object-fit: cover;
+}
+
+.upsell-mobile .play-button-2 {
+    position: absolute;
+    width: 96px;
+    height: 96px;
+    top: 256px;
+    left: 492px;
+}
+
+.upsell-mobile .footer {
+    position: absolute;
+    width: 1376px;
+    height: 450px;
+    top: 3128px;
+    left: 32px;
+    background-color: var(--third);
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.upsell-mobile .frame-27 {
+    display: flex;
+    flex-direction: column;
+    width: 1016px;
+    align-items: center;
+    gap: 48px;
+    position: relative;
+    top: 56px;
+    left: 215px;
+}
+
+.upsell-mobile .frame-28 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-29 {
+    display: inline-flex;
+    gap: 8px;
+    background-color: var(--third);
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .overlap-7 {
+    position: relative;
+    width: 1376px;
+    /*height: 1619px;
+    top: 1029px;
+    left: 32px;*/
+    background-color: var(--foundation-greygrey-3);
+    border-radius: 12px;
+}
+
+.upsell-mobile .frame-wrapper {
+    width: 894px;
+    align-items: flex-start;
+    top: 48px;
+    left: 241px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: absolute;
+}
+
+.upsell-mobile .new-customers-only-2 {
+    position: relative;
+    align-self: stretch;
+    font-family: var(--desktop-h1-bold-font-family);
+    font-weight: var(--desktop-h1-bold-font-weight);
+    color: transparent;
+    font-size: var(--desktop-h1-bold-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-h1-bold-letter-spacing);
+    line-height: var(--desktop-h1-bold-line-height);
+    font-style: var(--desktop-h1-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-45 {
+    color: #f47929;
+    font-family: var(--desktop-h1-bold-font-family);
+    font-style: var(--desktop-h1-bold-font-style);
+    font-weight: var(--desktop-h1-bold-font-weight);
+    letter-spacing: var(--desktop-h1-bold-letter-spacing);
+    line-height: var(--desktop-h1-bold-line-height);
+    font-size: var(--desktop-h1-bold-font-size);
+}
+
+.upsell-mobile .text-wrapper-46 {
+    color: #171717;
+    font-family: var(--desktop-h1-bold-font-family);
+    font-style: var(--desktop-h1-bold-font-style);
+    font-weight: var(--desktop-h1-bold-font-weight);
+    letter-spacing: var(--desktop-h1-bold-letter-spacing);
+    line-height: var(--desktop-h1-bold-line-height);
+    font-size: var(--desktop-h1-bold-font-size);
+}
+
+.upsell-mobile .element-4 {
+    display: flex;
+    flex-direction: column;
+    /*width: 431px;*/
+    align-items: center;
+    gap: 16px;
+    padding: 0px 0px 32px;
+    /*position: absolute;*/
+    top: 255px;
+    left: 148px;
+    background-color: var(--white);
+    border-radius: 12px;
+    overflow: hidden;
+    border-bottom-width: 7px;
+    border-bottom-style: solid;
+    border-color: var(--third);
+}
+
+.upsell-mobile .frame-30 {
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-31 {
+    gap: 4px;
+    padding: 32px 0px 42px;
+    background-color: var(--third);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-47 {
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--desktop-h4-extrabold-font-family);
+    font-weight: var(--desktop-h4-extrabold-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-h4-extrabold-font-size);
+    line-height: var(--desktop-h4-extrabold-line-height);
+    position: relative;
+    text-align: center;
+    letter-spacing: var(--desktop-h4-extrabold-letter-spacing);
+    font-style: var(--desktop-h4-extrabold-font-style);
+}
+
+.upsell-mobile .text-wrapper-48 {
+    margin-top: -1.00px;
+    font-size: var(--desktop-h1-bold-font-size);
+    line-height: var(--desktop-h1-bold-line-height);
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-h1-bold-font-family);
+    font-weight: var(--desktop-h1-bold-font-weight);
+    color: var(--white);
+    letter-spacing: var(--desktop-h1-bold-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-h1-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-49 {
+    color: var(--white);
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-large-bold-font-family);
+    font-weight: var(--desktop-paragraph-large-bold-font-weight);
+    font-size: var(--desktop-paragraph-large-bold-font-size);
+    letter-spacing: var(--desktop-paragraph-large-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-large-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-large-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-50 {
+    font-weight: var(--desktop-paragraph-small-bold-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-paragraph-small-bold-font-size);
+    line-height: var(--desktop-paragraph-small-bold-line-height);
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-paragraph-small-bold-font-family);
+    letter-spacing: var(--desktop-paragraph-small-bold-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-small-bold-font-style);
+}
+
+.upsell-mobile .img-wrapper {
+    position: relative;
+    width: 151px;
+    height: 27px;
+    transform: rotate(180deg);
+}
+
+.upsell-mobile .vector-12 {
+    position: absolute;
+    width: 146px;
+    height: 17px;
+    top: 5px;
+    left: 3px;
+    transform: rotate(-180deg);
+}
+
+.upsell-mobile .arrow-4 {
+    width: 59px;
+    height: 30px;
+    top: 52px;
+    left: 281px;
+    transform: rotate(51.83deg);
+    position: absolute;
+    overflow: hidden;
+}
+
+.upsell-mobile .vector-13 {
+    position: absolute;
+    width: 21px;
+    height: 45px;
+    top: -9px;
+    left: 16px;
+    transform: rotate(-51.83deg);
+}
+
+.upsell-mobile .vector-14 {
+    position: absolute;
+    width: 13px;
+    height: 14px;
+    top: 12px;
+    left: 38px;
+    transform: rotate(-51.83deg);
+}
+
+.upsell-mobile .frame-32 {
+    position: relative;
+    width: 432px;
+    height: 404px;
+    margin-left: -0.50px;
+    margin-right: -0.50px;
+}
+
+.upsell-mobile .overlap-group-7 {
+    position: relative;
+    width: 431px;
+    height: 459px;
+    top: -32px;
+}
+
+.upsell-mobile .r-8 {
+    position: absolute;
+    width: 309px;
+    height: 459px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.upsell-mobile .r-9 {
+    width: 318px;
+    left: 113px;
+    position: absolute;
+    height: 459px;
+    top: 0;
+    object-fit: cover;
+}
+
+.upsell-mobile .group-6 {
+    width: 431px;
+    height: 28px;
+    top: 189px;
+    position: absolute;
+    left: 0;
+}
+
+.upsell-mobile .vector-15 {
+    width: 215px;
+    height: 28px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.upsell-mobile .vector-16 {
+    position: absolute;
+    width: 215px;
+    height: 28px;
+    top: 0;
+    left: 216px;
+}
+
+.upsell-mobile .frame-33 {
+    display: flex;
+    gap: 24px;
+    padding: 0px 24px;
+    align-self: stretch;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .button-secondary-3 {
+    padding: 18px 85px;
+    flex: 0 0 auto;
+    border-radius: 40px;
+    box-shadow: inset 0px -5px 0px #ffde21;
+    background: linear-gradient(
+            180deg,
+            rgba(255, 222, 33, 1) 31%,
+            rgba(215, 143, 0, 1) 100%
+    );
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+}
+
+.upsell-mobile .text-wrapper-51 {
+    font-weight: var(--desktop-h4-extrabold-font-weight);
+    color: #171717;
+    font-size: var(--desktop-h4-extrabold-font-size);
+    line-height: var(--desktop-h4-extrabold-line-height);
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-h4-extrabold-font-family);
+    text-align: center;
+    letter-spacing: var(--desktop-h4-extrabold-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-h4-extrabold-font-style);
+}
+
+.upsell-mobile .element-5 {
+    display: flex;
+    flex-direction: column;
+    /*width: 617px;*/
+    align-items: center;
+    gap: 16px;
+    padding: 0px 0px 32px;
+    /*position: absolute;*/
+    /*top: 172px;
+    left: 611px;*/
+    background-color: var(--white);
+    border-radius: 12px;
+    overflow: hidden;
+    border: 7px solid;
+    border-color: var(--secondary);
+}
+
+.upsell-mobile .frame-34 {
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .frame-35 {
+    gap: 24px;
+    padding: 40px 0px 48px;
+    background-color: var(--secondary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-52 {
+    width: fit-content;
+    font-family: var(--desktop-h4-extrabold-font-family);
+    font-weight: var(--desktop-h4-extrabold-font-weight);
+    color: var(--white);
+    font-size: var(--desktop-h4-extrabold-font-size);
+    line-height: var(--desktop-h4-extrabold-line-height);
+    white-space: nowrap;
+    position: relative;
+    text-align: center;
+    letter-spacing: var(--desktop-h4-extrabold-letter-spacing);
+    font-style: var(--desktop-h4-extrabold-font-style);
+}
+
+.upsell-mobile .frame-36 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4px 40px 4px 8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--white);
+    border-radius: 12px;
+}
+
+.upsell-mobile .text-wrapper-53 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "DM Sans", Helvetica;
+    font-weight: 800;
+    color: var(--secondary);
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+.upsell-mobile .frame-37 {
+    display: inline-flex;
+    align-items: center;
+    gap: 24px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .text-wrapper-54 {
+    font-size: var(--desktop-display-large-font-size);
+    line-height: var(--desktop-display-large-line-height);
+    position: relative;
+    width: fit-content;
+    font-family: var(--desktop-display-large-font-family);
+    font-weight: var(--desktop-display-large-font-weight);
+    color: var(--white);
+    letter-spacing: var(--desktop-display-large-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-display-large-font-style);
+}
+
+.upsell-mobile .text-wrapper-55 {
+    color: var(--secondary);
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--desktop-paragraph-large-bold-font-family);
+    font-weight: var(--desktop-paragraph-large-bold-font-weight);
+    font-size: var(--desktop-paragraph-large-bold-font-size);
+    letter-spacing: var(--desktop-paragraph-large-bold-letter-spacing);
+    line-height: var(--desktop-paragraph-large-bold-line-height);
+    white-space: nowrap;
+    font-style: var(--desktop-paragraph-large-bold-font-style);
+}
+
+.upsell-mobile .text-wrapper-56 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-weight: var(--desktop-display-large-font-weight);
+    color: var(--secondary);
+    font-size: var(--desktop-display-large-font-size);
+    line-height: var(--desktop-display-large-line-height);
+    font-family: var(--desktop-display-large-font-family);
+    letter-spacing: var(--desktop-display-large-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--desktop-display-large-font-style);
+}
+
+.upsell-mobile .per-bottle-3 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    color: var(--white);
+    letter-spacing: 0;
+}
+
+.upsell-mobile .arrow-5 {
+    position: relative;
+    width: 225px;
+    height: 39px;
+}
+
+.upsell-mobile .vector-17 {
+    position: absolute;
+    width: 217px;
+    height: 25px;
+    top: 7px;
+    left: 4px;
+}
+
+.upsell-mobile .r-10 {
+    width: 102px;
+    height: 108px;
+    top: 4px;
+    left: 413px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.upsell-mobile .arrow-6 {
+    width: 132px;
+    height: 68px;
+    top: 81px;
+    left: 433px;
+    transform: rotate(63.44deg);
+    position: absolute;
+    overflow: hidden;
+}
+
+.upsell-mobile .vector-18 {
+    position: absolute;
+    width: 36px;
+    height: 104px;
+    top: -28px;
+    left: 42px;
+    transform: rotate(-63.44deg);
+}
+
+.upsell-mobile .vector-19 {
+    position: absolute;
+    width: 29px;
+    height: 31px;
+    top: 26px;
+    left: 84px;
+    transform: rotate(-63.44deg);
+}
+
+.upsell-mobile .frame-38 {
+    position: relative;
+    width: 477px;
+    height: 432px;
+}
+
+.upsell-mobile .overlap-8 {
+    position: relative;
+    width: 617px;
+    height: 459px;
+    top: -15px;
+    left: -70px;
+}
+
+.upsell-mobile .r-11 {
+    position: absolute;
+    width: 312px;
+    height: 439px;
+    top: 15px;
+    left: 305px;
+    object-fit: cover;
+}
+
+.upsell-mobile .r-12 {
+    width: 323px;
+    height: 459px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.upsell-mobile .r-13 {
+    width: 358px;
+    left: 74px;
+    position: absolute;
+    height: 459px;
+    top: 0;
+    object-fit: cover;
+}
+
+.upsell-mobile .overlap-group-wrapper-3 {
+    position: absolute;
+    width: 96px;
+    height: 94px;
+    top: 120px;
+    left: 317px;
+    /*box-shadow:
+            0px 2.35px 5.88px #0000001c, 0px 10.57px 10.57px #00000017, 0px 22.32px 12.92px #0000000d, 0px 39.95px 16.45px #00000005, 0px 62.27px 17.62px transparent;*/
+}
+
+.upsell-mobile .overlap-group-8 {
+    position: relative;
+    width: 94px;
+    height: 94px;
+    background-color: var(--secondary);
+    border-radius: 47px;
+}
+
+.upsell-mobile .text-wrapper-57 {
+    position: absolute;
+    height: 85px;
+    top: 1px;
+    left: 25px;
+    font-family: "DM Sans", Helvetica;
+    font-weight: 700;
+    color: var(--white);
+    font-size: 79.9px;
+    letter-spacing: 0;
+    line-height: 84.6px;
+    white-space: nowrap;
+}
+
+.upsell-mobile .group-7 {
+    width: 617px;
+    height: 48px;
+    top: 287px;
+    position: absolute;
+    left: 0;
+}
+
+.upsell-mobile .vector-20 {
+    width: 308px;
+    height: 48px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.upsell-mobile .vector-21 {
+    position: absolute;
+    width: 308px;
+    height: 48px;
+    top: 0;
+    left: 309px;
+}
+
+.upsell-mobile .frame-39 {
+    display: flex;
+    gap: 24px;
+    padding: 0px 32px;
+    align-self: stretch;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.upsell-mobile .button-secondary-4 {
+    height: 88px;
+    padding: 16px 32px;
+    background-color: var(--secondary);
+    border-radius: 60px;
+    box-shadow: inset 0px -5px 0px #de6e25;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+}
+
+.upsell-mobile .text-wrapper-58 {
+    margin-top: -1.00px;
+    font-weight: 800;
+    color: var(--white);
+    font-size: 28px;
+    line-height: 40px;
+    position: relative;
+    width: fit-content;
+    font-family: "DM Sans", Helvetica;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.upsell-mobile .frame-40 {
+    position: absolute;
+    width: 336px;
+    height: 99px;
+    top: 1360px;
+    left: 520px;
+}
+
+.upsell-mobile .no-thanks-i-2 {
+    position: absolute;
+    width: 706px;
+    height: 72px;
+    top: 1498px;
+    left: 335px;
+    font-family: var(--desktop-paragraph-medium-regular-font-family);
+    font-weight: var(--desktop-paragraph-medium-regular-font-weight);
+    color: #171717;
+    font-size: var(--desktop-paragraph-medium-regular-font-size);
+    text-align: center;
+    letter-spacing: var(--desktop-paragraph-medium-regular-letter-spacing);
+    line-height: var(--desktop-paragraph-medium-regular-line-height);
+    font-style: var(--desktop-paragraph-medium-regular-font-style);
+}
+
+.upsell-mobile .text-4 {
+    position: absolute;
+    width: 1376px;
+    height: 400px;
+    top: 2688px;
+    left: 32px;
+    background-color: var(--foundation-greengreen-100);
+    border-radius: 12px;
+}
+
+.upsell-mobile .title-3 {
+    width: 638px;
+    align-items: center;
+    top: 64px;
+    left: 369px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: absolute;
+}
+
+.upsell-mobile .frame-41 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 56px;
+    position: absolute;
+    top: 248px;
+    left: 314px;
+}
+
+
+.row.upsell-mobile {
+    display: flex;
+    align-items: center; /* <-- this vertically centers the shorter box */
+    flex-wrap: wrap;     /* keep responsive behavior on smaller screens */
+}
+
+.tst-footer {
+    margin: 40px 32px 20px;
+    -webkit-border-radius: 12px;
+
+}
+
+.tst-footer .footer-details {
+    text-align: center;
+}
+
+
+@media (max-width: 767px) {
+    .tst-footer{margin-left: 20px; margin-right: 20px;}
+}
+
+
+
+
+
+
+
+
+    @media (max-width: 400px) {
+        .desk {
+            display: none !important;
+        }
+        .mob {
+            display: block !important;
+        }
+    }
+
+    @media (min-width: 401px) {
+        .mob {
+            display: none !important;
+        }
+        .desk {
+            display: flex !important;
+        }
+    }
+
