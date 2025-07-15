@@ -17,7 +17,8 @@
 
     <!-- CSS only -->
     <link rel="stylesheet" type="text/css" href="/tsl02/css/style.css" />
-    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <!--<link rel="stylesheet" type="text/css" href="/css/style.css" />-->
+    <!--<link rel="stylesheet" type="text/css" href="/tsl02/css/footer.css" />-->
     <link rel="stylesheet" type="text/css" href="/tsl02/css/responsive.css" />
 
 
@@ -3414,9 +3415,15 @@
         </div>
     </footer>-->
     <!-- footer start -->
-    <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
+    <iframe src="/pages/tsl02/BG-footer-frame.php" style="width: 100%; border: none;" scrolling="no" onload="resizeIframe(this)"></iframe>
+    <?php /*include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; */?>
     <!-- footer end -->
     <!-- End Page 4 -->
 </div>
+<script>
+    function resizeIframe(iframe) {
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+</script>
 </body>
 </html>
