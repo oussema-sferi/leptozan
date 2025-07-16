@@ -6,7 +6,11 @@
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/components/header.php'; ?>
     <!--<link href="/css/bb1.css" rel="stylesheet">
     <link href="/css/bb2.css" rel="stylesheet">-->
-    <link href="/css/test.css" rel="stylesheet">
+    <!-- Bootstrap 5 CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="/css/upsell-test/globals.css" rel="stylesheet">
+    <link href="/css/upsell-test/test.css" rel="stylesheet">
     <!-- header end -->
     <!-- ConvertEAI preload resources -->
     <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338c5b7ef8e55f55f0b95/player.js" as="script">
@@ -16,8 +20,6 @@
     <link rel="dns-prefetch" href="https://scripts.converteai.net">
     <link rel="dns-prefetch" href="https://images.converteai.net">
     <link rel="dns-prefetch" href="https://api.vturb.com.br">
-
-    <script src="/js/custom/buygoods-integration.js"></script>
 
 <title>UPSELL Test</title>
 </head>
@@ -34,7 +36,54 @@
 	<section class="vsl-banner-wrp vsl-banner-wrp2 upsell-page" style="background-color: #D4F1F2;">
 		<div class="container">
 			<div class="vsl-banner-main">
-				<div class="banner-order-steps">
+                <div class="banner-order-steps">
+                    <div class="order-step">
+                        <div class="icon" style="background-color: var(--orange);">
+                            <figure>
+                                <img src="/images/Subtract.svg" alt="order-img" class="img-fluid">
+                            </figure>
+                        </div>
+                        <div class="order-details">
+                            <div class="small-title">
+                                <span>Order confirmation</span>
+                            </div>
+                            <div class="details" style="color: #979797;">
+                                <p>Leptozan</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="order-step active">
+                        <div class="icon" style="background-color: var(--white);">
+                            <div class="section-title" style="color: var(--teal);">
+                                <h2>2</span>
+                            </div>
+                        </div>
+                        <div class="order-details">
+                            <div class="small-title" style="color: var(--white);">
+                                <span>Special upgrade</span>
+                            </div>
+                            <div class="details" style="color: var(--white);">
+                                <p>Important Announcement</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="order-step">
+                        <div class="icon" style="background-color: var(--orange);">
+                            <div class="section-title">
+                                <h2>3</span>
+                            </div>
+                        </div>
+                        <div class="order-details">
+                            <div class="small-title">
+                                <span>Order Complete</span>
+                            </div>
+                            <div class="details" style="color: #979797;">
+                                <p>Shipping Initiated</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<!--<div class="banner-order-steps">
 					<div class="order-step">
 						<div class="icon" style="background-color: var(--orange);">
 							<figure>
@@ -80,7 +129,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>-->
 				<div class="vsl-video">
 
                     <div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>

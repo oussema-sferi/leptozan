@@ -70,6 +70,7 @@ RewriteCond %{QUERY_STRING} sku=lepto-us-01 [NC]
 RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
 
 RewriteRule ^upsell-test/?$ pages/upsell-test.php [L]
+RewriteRule ^new-upsell/?$ pages/new-upsell.php [L]
 
 RewriteCond %{QUERY_STRING} sku=lepto-us-03 [NC]
 RewriteRule ^upsell-oto-01/?$ pages/upsell-3.php [L]
