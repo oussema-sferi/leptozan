@@ -14,6 +14,7 @@
   padding: 32px 0;
   /*width: 1440px;*/
   width: 100%;
+  min-width: 1200px;
 }
 
 .index .group-21 {
