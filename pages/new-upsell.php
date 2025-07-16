@@ -26,55 +26,57 @@
 <body style="margin: 0; background: #ffffff">
 <input type="hidden" id="anPageName" name="page" value="index" />
 <div class="container-center-horizontal container-desk">
-    <div class="index screen">
-        <div class="group-21">
-            <div class="overlap-group1">
+    <div class="upsell-desktop">
+        <section class="vsl-banner-wrp">
+            <div class="vsl-banner-main">
                 <div class="hero">
-                    <div class="step-13">
+                    <div class="banner-order-steps">
                         <div class="rectangle-30"></div>
                         <div class="rectangle-31"></div>
                         <div class="rectangle-32"></div>
-                        <div class="step-13-item">
-                            <div class="frame-500">
+                        <div class="order-step">
+                            <div class="step-label">
                                 <div class="order-confirmation valign-text-middle order desktopparagraphmediumbold">
                                     Order confirmation
                                 </div>
                             </div>
-                            <div class="group">
-                                <div class="overlap-group">
+                            <div class="step-number-container">
+                                <div class="step-one">
                                     <div class="number-1 valign-text-middle number-6 dmsans-black-white-24px">1</div>
                                 </div>
                             </div>
                         </div>
-                        <div class="step-13-item">
-                            <div class="frame-500">
+                        <div class="order-step">
+                            <div class="step-label">
                                 <div class="special-upgrade valign-text-middle desktopparagraphmediumbold">Special Upgrade</div>
                             </div>
-                            <div class="group">
-                                <div class="overlap-group-1">
+                            <div class="step-number-container">
+                                <div class="step-two">
                                     <div class="number-2 valign-text-middle number-6 dmsans-black-white-24px">2</div>
                                 </div>
                             </div>
                         </div>
-                        <div class="step-13-item">
-                            <div class="frame-500">
+                        <div class="order-step">
+                            <div class="step-label">
                                 <div class="order-complete valign-text-middle order desktopparagraphmediumregular">
                                     Order complete
                                 </div>
                             </div>
-                            <div class="group">
-                                <div class="overlap-group-2"><div class="number-3 valign-text-middle number-6">3</div></div>
+                            <div class="step-number-container">
+                                <div class="step-three">
+                                    <div class="number-3 valign-text-middle number-6">3</div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="text">
-                        <p class="forem-ipsum-dolor-si valign-text-middle">
-                  <span
-                  ><span class="span">Forem ipsum dolor sit amet, consectetur </span
-                      ><span class="span-1">adipiscing elit.</span><span class="span"></span>
-                  </span>
+                    <div class="hero-title">
+                        <p class="hero-heading valign-text-middle">
+                          <span>
+                              <span class="dark-text">Forem ipsum dolor sit amet, consectetur </span>
+                              <span class="orange-text">adipiscing elit.</span>
+                          </span>
                         </p>
-                        <p class="corem-ipsum-dolor-si valign-text-middle desktopparagraphmediumbold">
+                        <p class="hero-subheading valign-text-middle desktopparagraphmediumbold">
                             Corem ipsum dolor sit amet, consectetur adipiscing elit.
                         </p>
                     </div>
@@ -86,16 +88,15 @@
                         </script>
                     </div>
                 </div>
-
             </div>
-        </div>
-        <div class="overlap-group2">
+        </section>
+        <section class="overlap-group2">
             <div class="frame-497">
                 <p class="this-is-a-special-deal-for valign-text-middle desktopparagraphlargebold">
                     This is a Special Deal for
                 </p>
                 <div class="new-customers-only valign-text-middle">
-                    <span><span class="span-1">New</span><span class="span"> Customers Only!</span> </span>
+                    <span><span class="orange-text">New</span><span class="dark-text"> Customers Only!</span> </span>
                 </div>
             </div>
             <div class="flex-row">
@@ -248,22 +249,19 @@
             </div>
             <img class="frame-508" src="/new-ups/img/frame-508.svg" alt="Frame 508" />
             <p class="no-thanks-i-unders valign-text-middle desktopparagraphmediumregular">
-            <span
-            ><span class="span0 desktopparagraphmediumregular">No, Thanks</span
-                ><span class="desktopparagraphmediumregular"
-                >. I understand this is the very last time I can get my hands on Leptozan. I also understand that I will
+            <span>
+                <span class="span0 desktopparagraphmediumregular">No, Thanks</span><span class="desktopparagraphmediumregular">. I understand this is the very last time I can get my hands on Leptozan. I also understand that I will
                 never see this page or this discount again, and I am aware of the potential effects on my health of
-                declining this offer.</span
-                >
+                declining this offer.</span>
             </span>
             </p>
-        </div>
-        <div class="text-2">
+        </section>
+        <section class="text-2">
             <div class="title-1">
                 <p class="leptozanis-uniquely valign-text-middle">
               <span
               ><span class="dmsans-bold-eerie-black-32px">Leptozan is uniquely available on this </span
-                  ><span class="span-1">official page only.</span>
+                  ><span class="orange-text">official page only.</span>
               </span>
                 </p>
                 <p class="to-ensure-the-best valign-text-middle desktopparagraphmediumregular">
@@ -277,7 +275,7 @@
                 <img class="walmart-1" src="/new-ups/img/walmart-1@2x.png" alt="walmart 1" />
                 <img class="available" src="/new-ups/img/available.png" alt="available" />
             </div>
-        </div>
+        </section>
         <footer class="footer">
             <div class="frame-484">
                 <div class="frame-140 desktopparagraphmediumregular">
@@ -327,7 +325,7 @@
     </div>
 </div>
 <div class="container-center-horizontal container-mob">
-    <div class="upsell-mobile screen">
+    <div class="upsell-mobile">
         <div class="flex-col">
             <div class="overlap-group4">
                 <div class="hero-1">
