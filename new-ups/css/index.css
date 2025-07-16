@@ -242,6 +242,7 @@
   overflow: hidden;
   position: relative;
   top: 348px;*/
+  overflow: clip;
   width: 1080px;
 }
 
