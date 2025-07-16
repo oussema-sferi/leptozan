@@ -16,7 +16,7 @@
 <!-- header end -->
 
 <!-- Common functions -->
-<script src="/js/custom/buygoods-integration.js"></script>
+
 <!-- This must be after the integration.js file since it uses ReadCookie() -->
 
 <title>Leptozan</title>
@@ -974,6 +974,7 @@
 <!-- scripts end -->
 
 <script src="/js/custom/index.js?v=<?php echo time(); ?>"></script>
+<script src="/js/custom/buygoods-integration-vsl.js"></script>
 <script src="/js/custom/buygoods-tracking.js"></script>
 <script src="/js/custom/new-discovery.js"></script>
 <!-- scripts end -->
