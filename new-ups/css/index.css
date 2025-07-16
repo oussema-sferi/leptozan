@@ -2087,7 +2087,7 @@
   background-color: var(--foundation-blueblue-500);
   gap: 4px;
   padding: 24px 0px 32px;
-  clip-path: polygon(100% 0, 100% 85%, 50% 100%, 0 85%, 0 0);
+  clip-path: polygon(100% 0, 100% 83%, 50% 100%, 0 83%, 0 0);
 }
 
 .upsell-mobile .address-6 {
