@@ -21,6 +21,7 @@
     <link rel="dns-prefetch" href="https://scripts.converteai.net">
     <link rel="dns-prefetch" href="https://images.converteai.net">
     <link rel="dns-prefetch" href="https://api.vturb.com.br">
+    <title>New Upsell</title>
 </head>
 <body style="margin: 0; background: #ffffff">
 <input type="hidden" id="anPageName" name="page" value="index" />
