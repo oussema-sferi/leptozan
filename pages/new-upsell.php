@@ -127,10 +127,10 @@
                                 <img class="r1-3 r1" src="/new-ups/img/r1-4.png" alt="R1 3" />
                             </div>
                         </div>
-                        <div class="group-18">
+                        <!--<div class="group-18">
                             <img class="vector-1-1 vector-1-3" src="/new-ups/img/vector-1-1.svg" alt="Vector 1" />
                             <img class="vector-2-1" src="/new-ups/img/vector-2-1.svg" alt="Vector 2" />
-                        </div>
+                        </div>-->
                     </div>
                     <div class="frame-507">
                         <div class="frame-147">
@@ -201,10 +201,10 @@
                                 <div class="overlap-group-4"><div class="text-1 valign-text-middle">+</div></div>
                             </div>
                         </div>
-                        <div class="group-18-1">
+                        <!--<div class="group-18-1">
                             <img class="vector-1-2 vector-1-3" src="/new-ups/img/vector-1-2.svg" alt="Vector 1" />
                             <img class="vector-3-1" src="/new-ups/img/vector-3-1.svg" alt="Vector 3" />
-                        </div>
+                        </div>-->
                     </div>
                     <div class="frame-517">
                         <div class="frame-512">
