@@ -25,7 +25,7 @@
 </head>
 <body style="margin: 0; background: #ffffff">
 <input type="hidden" id="anPageName" name="page" value="index" />
-<div class="container-center-horizontal">
+<div class="container-center-horizontal container-desk">
     <div class="index screen">
         <div class="group-21">
             <div class="overlap-group1">
@@ -326,7 +326,7 @@
         </footer>
     </div>
 </div>
-<div class="container-center-horizontal">
+<div class="container-center-horizontal container-mob">
     <div class="upsell-mobile screen">
         <div class="flex-col">
             <div class="overlap-group4">
@@ -368,62 +368,15 @@
                             Corem ipsum dolor sit amet, consectetur adipiscing elit.
                         </p>
                     </div>
-                </div>
-                <!--<div class="hero-1">
-                    <div class="overlap-group2-1">
-                        <div class="bg"></div>
-                        <div class="lines-2">
-                            <div class="overlap-group1-2">
-                                <img class="vector-6" src="/new-ups/img/vector-6.svg" alt="Vector" />
-                                <div class="text-3 text">
-                                    <p class="forem-ipsum-dolor-si-1 valign-text-middle">
-                        <span
-                        ><span class="dmsans-bold-eerie-black-32px">Forem ipsum dolor sit amet, consectetur </span
-                            ><span class="span-4">adipiscing elit.</span
-                            ><span class="dmsans-bold-eerie-black-32px"></span>
-                        </span>
-                                    </p>
-                                    <p class="corem-ipsum-dolor-si-1 valign-text-middle desktopparagraphmediumbold">
-                                        Corem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="step-13-1">
-                                <div class="rectangle-30-1"></div>
-                                <div class="rectangle-31-1"></div>
-                                <div class="rectangle-32-1"></div>
-                                <div class="step-13-item-1">
-                                    <div class="group-19 group">
-                                        <div class="overlap-group-5">
-                                            <div class="number-6 valign-text-middle number dmsans-black-white-20px">1</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="step-13-item-1">
-                                    <div class="group-20 group">
-                                        <div class="overlap-group-6">
-                                            <div class="ellipse-26"></div>
-                                            <div class="number-7 valign-text-middle number dmsans-black-white-20px">2</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="step-13-item-1">
-                                    <div class="group-20-1">
-                                        <div class="overlap-group-7"><div class="number-8 valign-text-middle number">3</div></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="video-1">
+                        <div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                        <script type="text/javascript" id="scr_67d338c5b7ef8e55f55f0b95">
+                            var s=document.createElement("script");
+                            s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338c5b7ef8e55f55f0b95/player.js", s.async=!0,document.head.appendChild(s);
+                        </script>
+                        <img class="rectangle-28-1" src="/new-ups/img/rectangle-28.png" alt="Rectangle 28" />
+                        <!--<img class="play-button-1-1" src="/new-ups/img/play-button-1-1.svg" alt="play-button 1" />-->
                     </div>
-                </div>-->
-                <div class="video-1">
-                    <!--<div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
-                    <script type="text/javascript" id="scr_67d338c5b7ef8e55f55f0b95">
-                        var s=document.createElement("script");
-                        s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338c5b7ef8e55f55f0b95/player.js", s.async=!0,document.head.appendChild(s);
-                    </script>-->
-                    <!--<img class="rectangle-28-1" src="" alt="Rectangle 28" />
-                    <img class="play-button-1-1" src="/new-ups/img/play-button-1-1.svg" alt="play-button 1" />-->
                 </div>
             </div>
             <div class="overlap-group3">
@@ -675,7 +628,7 @@
                 </div>
             </div>
         </div>
-        <img class="r1-5-4" src="/new-ups/img/r1-4.png" alt="R1 5" />
+        <!--<img class="r1-5-4" src="/new-ups/img/r1-4.png" alt="R1 5" />-->
     </div>
 </div>
 </body>

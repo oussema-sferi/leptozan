@@ -1305,44 +1305,28 @@
 .upsell-mobile {
   align-items: flex-start;
   background-color: var(--foundation-greygrey-1);
-  display: flex;
-  gap: 156px;
-  height: 4417px;
-  overflow: hidden;
-  width: 375px;
+  /*display: flex;
+  gap: 156px;*/
+  /*height: 4417px;
+  overflow: hidden;*/
+ /*width: 375px;*/
+  width: 100%;
 }
 
 .upsell-mobile .flex-col {
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-left: -1px;
-  margin-top: -3.0px;
+  /*margin-left: -1px;*/
+  margin: 20px 0;
   min-height: 4400px;
-  width: 375px;
+  /*width: 375px;*/
+  width: 100%;
 }
 
-.upsell-mobile .overlap-group4 {
-  height: 518px;
-  position: relative;
-  width: 375px;
-}
 
-.upsell-mobile .hero-1 {
-  align-items: flex-end;
-  background-color: var(--foundation-greengreen-100);
-  background-image: url(../img/lines-1.svg);
-  background-size: 100% 100%;
-  /*align-items: flex-start;*/
-  display: flex;
-  height: 460px;
-  left: 0;
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  /*transform: rotate(180deg);*/
-  width: 375px;
-}
+
+
 
 .upsell-mobile .overlap-group2-1 {
   height: 861px;
@@ -1391,14 +1375,7 @@
   width: 374px;
 }
 
-.upsell-mobile .text-3 {
-  gap: 16px;
-  justify-content: center;
-  left: 32px;
-  /*position: absolute;*/
-  top: 507px;
-  width: 310px;
-}
+
 
 .upsell-mobile .forem-ipsum-dolor-si-1 {
   align-self: stretch;
@@ -1426,16 +1403,7 @@
   text-align: center;
 }
 
-.upsell-mobile .step-13-1 {
-  align-items: center;
-  align-self: center;
-  border-radius: 40px;
-  display: inline-flex;
-  gap: 56px;
-  justify-content: center;
-  /*margin-right: 150.0px;*/
-  position: relative;
-}
+
 
 .upsell-mobile .rectangle-30-1 {
   background-color: var(--foundation-orangeorange-500);
@@ -1547,20 +1515,75 @@
   line-height: 32px;
 }
 
+.upsell-mobile .overlap-group4 {
+  /*height: 518px;*/
+  /*position: relative;*/
+  max-width: 335px;
+  width: 100%;
+}
+
+.upsell-mobile .hero-1 {
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  background-color: var(--foundation-greengreen-100);
+  background-image: url(../img/lines-1.svg);
+  background-size: 100% 100%;
+  /*align-items: flex-start;*/
+  display: flex;
+  height: 440px;
+  left: 0;
+  overflow: visible;
+  /*position: absolute;
+  top: 0;*/
+  /*transform: rotate(180deg);*/
+  max-width: 335px;
+  width: 100%;
+}
+
+.upsell-mobile .step-13-1 {
+  align-items: center;
+  align-self: center;
+  border-radius: 40px;
+  display: inline-flex;
+  gap: 56px;
+  margin: 28px 0 17px 0;
+  justify-content: center;
+  /*margin-right: 150.0px;*/
+  position: relative;
+}
+
+.upsell-mobile .text-3 {
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  /*left: 32px;*/
+  /*position: absolute;*/
+  /*top: 507px;*/
+  width: 310px;
+}
+
 .upsell-mobile .video-1 {
   align-items: center;
+  align-self: center;
+  justify-content: center;
   background-color: var(--foundation-greygrey-1);
   border: 2.87px solid;
   border-color: var(--foundationgreygrey-4);
   border-radius: 3.44px;
   display: flex;
   flex-direction: column;
-  gap: 9.19px;
+  /*gap: 9.19px;*/
+  margin-top: 21px;
   height: 175px;
-  left: 33px;
-  overflow: hidden;
+  /*overflow: visible;*/
+  /*overflow: hidden;*/
+  /*left: 33px;
   position: absolute;
-  top: 343px;
+  top: 343px;*/
   width: 310px;
 }
 
@@ -1572,13 +1595,13 @@
   width: 100%;
 }
 
-.upsell-mobile .play-button-1-1 {
+/*.upsell-mobile .play-button-1-1 {
   height: 28px;
   left: 141px;
   position: absolute;
   top: 73px;
   width: 28px;
-}
+}*/
 
 .upsell-mobile .overlap-group3 {
   align-items: center;
@@ -1586,11 +1609,12 @@
   border-radius: 12px;
   display: flex;
   flex-direction: column;
-  margin-left: 2.0px;
-  margin-top: 24px;
-  min-height: 2170px;
+  /*margin-left: 2.0px;*/
+  /*margin-top: 24px;*/
+  margin-top: 82px;
+  /*min-height: 2170px;*/
   padding: 17px 0;
-  width: 335px;
+  max-width: 335px;
 }
 
 .upsell-mobile .frame-497-1 {
@@ -2287,7 +2311,8 @@
   margin-top: 32px;
   min-height: 714px;
   padding: 56px 0;
-  width: 335px;
+  max-width: 335px;
+  width: 100%;
 }
 
 .upsell-mobile .title-3 {
@@ -2373,7 +2398,8 @@
   margin-top: 32px;
   overflow: hidden;
   padding: 24px 16px;
-  width: 335px;
+  max-width: 335px;
+  width: 100%;
 }
 
 .upsell-mobile .frame-484-1 {
