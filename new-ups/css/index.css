@@ -1,5 +1,9 @@
 /* screen - index */
-
+/*.index
+ {
+  width: 100%!important;
+  max-width: 1440px!important; !* if there's a max-width defined *!
+}*/
 .index {
   align-items: center;
   background-color: var(--foundation-greygrey-1);
@@ -8,23 +12,26 @@
   gap: 40px;
   height: 3610px;
   padding: 32px 0;
-  width: 1440px;
+  /*width: 1440px;*/
+  width: 100%;
 }
 
 .index .group-21 {
   align-items: flex-start;
   display: flex;
-  min-width: 1376px;
+  /*min-width: 1376px;*/
+  width: 100%;
 }
 
 .index .overlap-group1 {
   height: 957px;
   position: relative;
-  width: 1376px;
+  /*width: 1376px;*/
+  width: 100%;
 }
 
 .index .hero {
-  align-items: flex-end;
+  align-items: center;
   background-color: var(--foundation-greengreen-100);
   background-image: url(../img/lines-1.svg);
   background-size: 100% 100%;
@@ -34,11 +41,12 @@
   gap: 40px;
   height: 700px;
   left: 0;
-  overflow: hidden;
+  overflow: visible;
   padding: 32px 287px;
   position: absolute;
   top: 0;
-  width: 1376px;
+  /*width: 1376px;*/
+  width: 100%;
 }
 
 .index .step-13 {
@@ -228,10 +236,11 @@
   flex-direction: column;
   gap: 32px;
   height: 609px;
-  left: 148px;
+  /*left: 148px;*/
+  /*left: 476px;
   overflow: hidden;
-  position: absolute;
-  top: 348px;
+  position: relative;
+  top: 348px;*/
   width: 1080px;
 }
 
@@ -260,7 +269,9 @@
   flex-direction: column;
   min-height: 1619px;
   padding: 48px 0;
-  width: 1376px;
+  /*width: 1376px;*/
+  width: 100%;
+  /*margin:30px 32px 32px;*/
 }
 
 .index .frame-497 {
@@ -1045,7 +1056,8 @@
   gap: 40px;
   min-height: 400px;
   padding: 64px 0;
-  width: 1376px;
+  /*width: 1376px;*/
+  width: 100%;
 }
 
 .index .title-1 {
@@ -1123,10 +1135,12 @@
   flex-direction: row;
   flex-shrink: 1;
   height: 450px;
-  justify-content: flex-start;
+  /*justify-content: flex-start;*/
+  justify-content: center;
   overflow: hidden;
   padding: 24px 145px;
-  width: 1376px;
+  /*width: 1376px;*/
+  width: 100%;
 }
 
 .index .frame-484 {
@@ -1311,14 +1325,18 @@
 }
 
 .upsell-mobile .hero-1 {
-  align-items: flex-start;
+  align-items: flex-end;
+  background-color: var(--foundation-greengreen-100);
+  background-image: url(../img/lines-1.svg);
+  background-size: 100% 100%;
+  /*align-items: flex-start;*/
   display: flex;
-  height: 514px;
+  height: 460px;
   left: 0;
   overflow: hidden;
   position: absolute;
   top: 0;
-  transform: rotate(180deg);
+  /*transform: rotate(180deg);*/
   width: 375px;
 }
 
@@ -1337,7 +1355,7 @@
   left: 761px;
   position: absolute;
   top: 401px;
-  transform: rotate(180deg);
+  /*transform: rotate(180deg);*/
   width: 335px;
 }
 
@@ -1351,7 +1369,7 @@
   padding: 32.2px 577.0px;
   position: absolute;
   top: 0;
-  transform: rotate(180deg);
+  /*transform: rotate(180deg);*/
   width: 1692px;
 }
 
@@ -1373,7 +1391,7 @@
   gap: 16px;
   justify-content: center;
   left: 32px;
-  position: absolute;
+  /*position: absolute;*/
   top: 507px;
   width: 310px;
 }
@@ -1411,7 +1429,7 @@
   display: inline-flex;
   gap: 56px;
   justify-content: center;
-  margin-right: 150.0px;
+  /*margin-right: 150.0px;*/
   position: relative;
 }
 
