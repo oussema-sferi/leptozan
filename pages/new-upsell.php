@@ -429,12 +429,12 @@
                                 <div class="overlap-group-8"><div class="text-2-1 valign-text-middle">+</div></div>
                             </div>
                         </div>
-                        <div class="group-18-2 group-18">
+                        <!--<div class="group-18-2 group-18">
                             <div class="vector-container">
                                 <img class="vector-1-3 vector-1" src="/new-ups/img/vector-1-4.svg" alt="Vector 1" />
                                 <img class="vector-2-2 vector-2" src="/new-ups/img/vector-2-3.svg" alt="Vector 2" />
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                     <div class="frame-517-1">
                         <div class="frame-5-1 frame-5">
@@ -507,10 +507,10 @@
                                 <img class="r1-3-3 r1-3" src="/new-ups/img/r1-4.png" alt="R1 3" />
                             </div>
                         </div>
-                        <div class="group-18-3 group-18">
+                        <!--<div class="group-18-3 group-18">
                             <img class="vector-1-4 vector-1" src="/new-ups/img/vector-1-3.svg" alt="Vector 1" />
                             <img class="vector-2-3 vector-2" src="/new-ups/img/vector-2-2.svg" alt="Vector 2" />
-                        </div>
+                        </div>-->
                     </div>
                     <div class="frame-5-1 frame-5">
                         <div class="frame-147-3 frame-147">
