@@ -1317,13 +1317,13 @@
   width: 100%;
 }
 
-.upsell-mobile .flex-col {
+.upsell-mobile .upsell-mobile-wrapper {
   align-items: center;
   display: flex;
   flex-direction: column;
   /*margin-left: -1px;*/
   margin: 20px 0;
-  min-height: 4400px;
+  /*min-height: 4400px;*/
   /*width: 375px;*/
   width: 100%;
 }
@@ -1409,7 +1409,7 @@
 
 
 
-.upsell-mobile .rectangle-30-1 {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-rectangle-30 {
   background-color: var(--foundation-orangeorange-500);
   height: 4px;
   left: 29px;
@@ -1418,7 +1418,7 @@
   width: 62px;
 }
 
-.upsell-mobile .rectangle-31-1 {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-rectangle-31 {
   background-color: var(--foundation-greygrey-1);
   height: 2px;
   left: 134px;
@@ -1427,7 +1427,7 @@
   width: 43px;
 }
 
-.upsell-mobile .rectangle-32-1 {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-rectangle-32 {
   background-color: var(--foundation-orangeorange-500);
   border-radius: 2.5px;
   height: 4px;
@@ -1437,7 +1437,7 @@
   width: 22px;
 }
 
-.upsell-mobile .step-13-item-1 {
+.upsell-mobile .mobile-vsl-banner-wrp .order-step-mobile {
   align-items: center;
   border-radius: 50px;
   display: inline-flex;
@@ -1452,7 +1452,7 @@
   height: 32px;
 }
 
-.upsell-mobile .overlap-group-5 {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-step-one-container {
   align-items: flex-start;
   background-color: var(--foundation-orangeorange-500);
   border-radius: 16px;
@@ -1476,7 +1476,7 @@
   width: 32px;
 }
 
-.upsell-mobile .ellipse-26 {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-step-two-container {
   background-color: var(--foundation-orangeorange-500);
   border-radius: 16px;
   height: 32px;
@@ -1501,7 +1501,7 @@
   width: 34px;
 }
 
-.upsell-mobile .overlap-group-7 {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-step-three-container {
   align-items: flex-start;
   background-color: var(--foundation-greygrey-1);
   border-radius: 16px;
@@ -1519,14 +1519,14 @@
   line-height: 32px;
 }
 
-.upsell-mobile .overlap-group4 {
+.upsell-mobile .mobile-vsl-banner-wrp {
   /*height: 518px;*/
   /*position: relative;*/
   max-width: 335px;
   width: 100%;
 }
 
-.upsell-mobile .hero-1 {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-hero {
   flex-direction: column;
   align-items: center;
   border-radius: 12px;
@@ -1545,7 +1545,7 @@
   width: 100%;
 }
 
-.upsell-mobile .step-13-1 {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-banner-order-steps {
   align-items: center;
   align-self: center;
   border-radius: 40px;
@@ -2559,7 +2559,8 @@
   width: 100%;
 }
 
-.upsell-mobile .group {
+.upsell-mobile .mobile-vsl-banner-wrp .mobile-step-container {
+  height: 32px;
   margin-right: -2.00px;
   position: relative;
   width: 34px;

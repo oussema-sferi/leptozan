@@ -325,31 +325,32 @@
 
 <div class="container-center-horizontal container-mob">
     <div class="upsell-mobile">
-        <div class="flex-col">
-            <div class="overlap-group4">
-                <div class="hero-1">
-                    <div class="step-13-1">
-                        <div class="rectangle-30-1"></div>
-                        <div class="rectangle-31-1"></div>
-                        <div class="rectangle-32-1"></div>
-                        <div class="step-13-item-1">
-                            <div class="group-19 group">
-                                <div class="overlap-group-5">
+        <div class="upsell-mobile-wrapper">
+            <section class="mobile-vsl-banner-wrp">
+                <div class="mobile-hero">
+                    <div class="mobile-banner-order-steps">
+                        <div class="mobile-rectangle-30"></div>
+                        <div class="mobile-rectangle-31"></div>
+                        <div class="mobile-rectangle-32"></div>
+                        <div class="order-step-mobile">
+                            <div class="mobile-step-container">
+                                <div class="mobile-step-one-container">
                                     <div class="number-6 valign-text-middle number dmsans-black-white-20px">1</div>
                                 </div>
                             </div>
                         </div>
-                        <div class="step-13-item-1">
-                            <div class="group-20 group">
-                                <div class="overlap-group-6">
-                                    <div class="ellipse-26"></div>
+                        <div class="order-step-mobile">
+                            <div class="mobile-step-container">
+                                <div class="mobile-step-two-container">
                                     <div class="number-7 valign-text-middle number dmsans-black-white-20px">2</div>
                                 </div>
                             </div>
                         </div>
-                        <div class="step-13-item-1">
-                            <div class="group-20-1">
-                                <div class="overlap-group-7"><div class="number-8 valign-text-middle number">3</div></div>
+                        <div class="order-step-mobile">
+                            <div class="mobile-step-container">
+                                <div class="mobile-step-three-container">
+                                    <div class="number-8 valign-text-middle number">3</div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -375,8 +376,8 @@
                         <!--<img class="play-button-1-1" src="/new-ups/img/play-button-1-1.svg" alt="play-button 1" />-->
                     </div>
                 </div>
-            </div>
-            <div class="overlap-group3">
+            </section>
+            <section class="overlap-group3">
                 <div class="frame-497-1">
                     <p class="this-is-a-special-deal-for-1 valign-text-middle desktop-paragraph-large-bold">
                         This is a Special Deal for
@@ -556,8 +557,9 @@
                   >
               </span>
                 </p>
-            </div>
-            <div class="text-4 text">
+            </section>
+
+            <section class="text-4 text">
                 <div class="title-3">
                     <p class="leptozanis-uniquely-1 valign-text-middle">
                 <span
@@ -576,8 +578,9 @@
                     <img class="walmart-1-1" src="/new-ups/img/walmart-1@2x.png" alt="walmart 1" />
                     <img class="available-1" src="/new-ups/img/available.png" alt="available" />
                 </div>
-            </div>
-            <div class="footer-mobile">
+            </section>
+
+            <section class="footer-mobile">
                 <div class="frame-484-1">
                     <div class="frame-140-1 desktop-paragraph-medium-regular">
                         <div class="frame-140-item-1 valign-text-middle frame-140-item">Contact</div>
@@ -623,7 +626,7 @@
                         </p>
                     </div>
                 </div>
-            </div>
+            </section>
         </div>
         <!--<img class="r1-5-4" src="/new-ups/img/one-bottle.png" alt="R1 5" />-->
     </div>
