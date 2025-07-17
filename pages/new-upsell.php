@@ -272,30 +272,29 @@
             </div>
         </section>
 
-
-        <footer class="footer">
-            <div class="frame-484">
-                <div class="frame-140 desktop-paragraph-medium-regular">
-                    <div class="frame-140-item valign-text-middle">Contact</div>
+        <footer class="footer-desktop">
+            <div class="footer-container">
+                <div class="footer-links-block desktop-paragraph-medium-regular">
+                    <div class="footer-link-item valign-text-middle">Contact</div>
                     <img class="line line-2" src="/new-ups/img/line-6.svg" alt="Line 6" />
-                    <div class="frame-140-item valign-text-middle">Terms</div>
+                    <div class="footer-link-item valign-text-middle">Terms</div>
                     <img class="line line-2" src="/new-ups/img/line-6.svg" alt="Line 7" />
-                    <div class="frame-140-item valign-text-middle">Privacy</div>
+                    <div class="footer-link-item valign-text-middle">Privacy</div>
                     <img class="line line-2" src="/new-ups/img/line-6.svg" alt="Line 8" />
-                    <div class="frame-140-item valign-text-middle">Refund Policy</div>
+                    <div class="footer-link-item valign-text-middle">Refund Policy</div>
                     <img class="line line-2" src="/new-ups/img/line-6.svg" alt="Line 9" />
-                    <div class="frame-140-item valign-text-middle">Shipping</div>
+                    <div class="footer-link-item valign-text-middle">Shipping</div>
                     <img class="line line-2" src="/new-ups/img/line-6.svg" alt="Line 10" />
-                    <div class="frame-140-item valign-text-middle">Disclaimer</div>
+                    <div class="footer-link-item valign-text-middle">Disclaimer</div>
                     <img class="line line-2" src="/new-ups/img/line-6.svg" alt="Line 11" />
-                    <div class="frame-140-item valign-text-middle">References</div>
+                    <div class="footer-link-item valign-text-middle">References</div>
                 </div>
-                <div class="frame-483 desktop-paragraph-small-regular">
-                    <p class="statements-on-this-w valign-text-middle">
+                <div class="footer-details desktop-paragraph-small-regular">
+                    <p class="footer-first-paragraph valign-text-middle">
                         Statements on this website have not been evaluated by the Food and Drug Administration. Products are not
                         intended to diagnose, treat, cure or prevent any disease
                     </p>
-                    <p class="frame-483-item valign-text-middle">
+                    <p class="footer-paragraph valign-text-middle">
                         The website&#39;s content and the product for sale is based upon the author&#39;s opinion and is
                         provided solely on an &#34;AS IS&#34; and &#34;AS AVAILABLE&#34; basis. You should do your own research
                         and confirm the information with other sources when searching for information regarding health issues
@@ -307,12 +306,12 @@
                         product as an endorsement by BuyGoods of the views expressed herein, or any warranty or guarantee of any
                         strategy, recommendation, treatment, action, or application of advice made by the author of the product.
                     </p>
-                    <p class="frame-483-item valign-text-middle">
+                    <p class="footer-paragraph valign-text-middle">
                         Some names and personal identifying information on this site have been changed to protect the privacy of
                         individuals.
                     </p>
                 </div>
-                <div class="frame-141">
+                <div class="footer-copyright-block">
                     <p class="copyright valign-text-middle desktop-paragraph-small-regular">
                         © 2024.Leptozan. All rights Reserved.
                     </p>
@@ -321,6 +320,9 @@
         </footer>
     </div>
 </div>
+
+
+
 <div class="container-center-horizontal container-mob">
     <div class="upsell-mobile">
         <div class="flex-col">
