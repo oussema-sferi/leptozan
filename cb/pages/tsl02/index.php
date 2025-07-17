@@ -18,13 +18,11 @@
     <!-- CSS only -->
     <link rel="stylesheet" type="text/css" href="/tsl02/css/style.css" />
     <link rel="stylesheet" type="text/css" href="/tsl02/css/responsive.css" />
-    <!--<link href="/cb/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/cb/css/style.css" />-->
+    <!-- End CSS only -->
 
-    <!-- Common functions -->
-    <!--<script src="/js/custom/buygoods-integration.js"></script>-->
-    <!-- This must be after the integration.js file since it uses ReadCookie() -->
-    <!--<script src="/js/custom/buygoods-tracking.js"></script>-->
+    <!-- ClickBank Trust Badge -->
+    <script src='//cbtb.clickbank.net/?vendor=leptozan'></script>
+    <!-- End ClickBank Trust Badge -->
 </head>
 <body>
 
