@@ -108,7 +108,7 @@
                                 <div class="deal-left-price-custom just-price-per-bottle">
                                     <div class="just valign-text-middle">Just</div>
                                     <div class="price-49">
-                                        <div class="frame-5">
+                                        <div class="price-wrapper">
                                             <div class="price-1 valign-text-middle price-3 desktop-paragraph-large-bold">$</div>
                                             <div class="number-4 valign-text-middle number-6">49</div>
                                         </div>
@@ -129,10 +129,6 @@
                                 <img class="right-bottle r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
                             </div>
                         </div>
-                        <!--<div class="group-18">
-                            <img class="vector-1-1 vector-1-3" src="/new-ups/img/vector-1-1.svg" alt="Vector 1" />
-                            <img class="vector-2-1" src="/new-ups/img/vector-2-1.svg" alt="Vector 2" />
-                        </div>-->
                     </div>
                     <div class="middle-block">
                         <div class="pros-list">
@@ -162,24 +158,24 @@
                     </div>
                     <div class="lower-block">
                         <div class="total valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
-                        <div class="frame-5">
+                        <div class="price-wrapper">
                             <div class="price valign-text-middle price-3 desktop-paragraph-large-bold">$</div>
                             <div class="number valign-text-middle number-6 dm-sans-bold-eerie-black-36px">98</div>
                         </div>
                     </div>
                 </div>
                 <div class="special-deal-right">
-                    <div class="frame-511-1">
-                        <div class="frame-503-1">
+                    <div class="upper-block">
+                        <div class="right-deal-details">
                             <div class="deal-right-bottles-count">
                                 <div class="address-2 valign-text-middle address-4 dm-sans-black-white-24px">2 BOTTLES</div>
                                 <div class="free-bottle"><div class="x1-free valign-text-middle">+ 1 FREE</div></div>
                             </div>
                             <div class="deal-content">
-                                <div class="frame-147-2 just-price-per-bottle">
+                                <div class="deal-right-price-custom just-price-per-bottle">
                                     <h1 class="title valign-text-middle">Just</h1>
-                                    <div class="frame-502-2">
-                                        <div class="frame-516">
+                                    <div class="price-29">
+                                        <div class="price-29-wrapper">
                                             <div class="price-2 valign-text-middle price-3 desktop-paragraph-large-bold">$</div>
                                             <div class="number-5 valign-text-middle number-6">29</div>
                                         </div>
@@ -189,14 +185,14 @@
                                 <div class="you-save-120 valign-text-middle desktop-paragraph-small-bold">YOU SAVE $120</div>
                                 <div class="arrow-1-1"><img class="vector-3" src="/new-ups/img/vector-3.svg" alt="Vector" /></div>
                             </div>
-                            <img class="r1-5 r1" src="/new-ups/img/one-bottle.png" alt="R1 5" />
+                            <img class="r1-5 r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
                             <div class="arrow2-1-1">
                                 <img class="vector-4" src="/new-ups/img/vector-4.svg" alt="Vector" />
                                 <img class="vector-5" src="/new-ups/img/vector-5.svg" alt="Vector" />
                             </div>
                         </div>
-                        <div class="frame-504">
-                            <div class="overlap-group1-1">
+                        <div class="right-deal-img">
+                            <div class="img-container">
                                 <img class="r1-6 r1" src="/new-ups/img/one-bottle-highlighted.png" alt="one bottle highlighted" />
                                 <img class="r1-5-1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
                                 <img class="r1-3-1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
@@ -205,13 +201,9 @@
                                 </div>
                             </div>
                         </div>
-                        <!--<div class="group-18-1">
-                            <img class="vector-1-2 vector-1-3" src="/new-ups/img/vector-1-2.svg" alt="Vector 1" />
-                            <img class="vector-3-1" src="/new-ups/img/vector-3-1.svg" alt="Vector 3" />
-                        </div>-->
                     </div>
-                    <div class="frame-517">
-                        <div class="frame-512">
+                    <div class="middle-lower-block">
+                        <div class="first-block">
                             <div class="pros-list">
                                 <div class="benefit">
                                     <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
@@ -241,7 +233,7 @@
                         </div>
                         <div class="lower-block">
                             <div class="total valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
-                            <div class="frame-5">
+                            <div class="price-wrapper">
                                 <div class="price valign-text-middle price-3 desktop-paragraph-large-bold">$</div>
                                 <div class="number valign-text-middle number-6 dm-sans-bold-eerie-black-36px">87</div>
                             </div>
