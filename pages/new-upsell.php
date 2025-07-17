@@ -135,20 +135,20 @@
                         </div>-->
                     </div>
                     <div class="middle-block">
-                        <div class="frame-147">
-                            <div class="frame-47">
+                        <div class="pros-list">
+                            <div class="benefit">
                                 <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract.svg" alt="Subtract" /></div>
                                 <div class="you-save-120-1 valign-text-middle you-save-120-3 desktop-paragraph-medium-medium">
                                     YOU SAVE $120!
                                 </div>
                             </div>
                             <img class="line-1 line-2" src="/new-ups/img/line-18.svg" alt="Line 18" />
-                            <div class="frame-47">
+                            <div class="benefit">
                                 <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
                                 <div class="biggest-discount valign-text-middle desktop-paragraph-medium-medium">BIGGEST DISCOUNT</div>
                             </div>
                             <img class="line-1 line-2" src="/new-ups/img/line-18.svg" alt="Line 15" />
-                            <div class="frame-47">
+                            <div class="benefit">
                                 <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
                                 <div class="address-1 valign-text-middle address-4 desktop-paragraph-medium-medium">
                                     90 DAYS GUARANTEE
@@ -212,22 +212,22 @@
                     </div>
                     <div class="frame-517">
                         <div class="frame-512">
-                            <div class="frame-147">
-                                <div class="frame-47">
+                            <div class="pros-list">
+                                <div class="benefit">
                                     <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
                                     <div class="you-save-120-2 valign-text-middle you-save-120-3 desktop-paragraph-large-bold">
                                         YOU SAVE $120!
                                     </div>
                                 </div>
                                 <img class="line-1 line-2" src="/new-ups/img/line-18-1.svg" alt="Line 18" />
-                                <div class="frame-47">
+                                <div class="benefit">
                                     <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
                                     <div class="biggest-discount-1 valign-text-middle desktop-paragraph-large-bold">
                                         BIGGEST DISCOUNT
                                     </div>
                                 </div>
                                 <img class="line-1 line-2" src="/new-ups/img/line-18-1.svg" alt="Line 15" />
-                                <div class="frame-47">
+                                <div class="benefit">
                                     <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract.svg" alt="Subtract" /></div>
                                     <div class="address-3 valign-text-middle address-4 desktop-paragraph-large-bold">
                                         90 DAYS GUARANTEE
@@ -249,15 +249,18 @@
                     </div>
                 </div>
             </div>
-            <img class="frame-508" src="/new-ups/img/frame-508.svg" alt="Frame 508" />
-            <p class="no-thanks-i-unders valign-text-middle desktop-paragraph-medium-regular">
+            <img class="logos" src="/new-ups/img/logos.svg" alt="Logos" />
+            <p class="no-thanks-text valign-text-middle desktop-paragraph-medium-regular">
             <span>
-                <span class="span0 desktop-paragraph-medium-regular">No, Thanks</span><span class="desktop-paragraph-medium-regular">. I understand this is the very last time I can get my hands on Leptozan. I also understand that I will
+                <span class="text-underline desktop-paragraph-medium-regular">No, Thanks</span><span class="desktop-paragraph-medium-regular">. I understand this is the very last time I can get my hands on Leptozan. I also understand that I will
                 never see this page or this discount again, and I am aware of the potential effects on my health of
                 declining this offer.</span>
             </span>
             </p>
         </section>
+
+
+
         <section class="text-2">
             <div class="title-1">
                 <p class="leptozanis-uniquely valign-text-middle">
