@@ -26,7 +26,7 @@
   --font-family-dm_sans: "DM Sans", Helvetica;
   --font-family-inter: "Inter", Helvetica;
 }
-.desktopparagraphlargebold {
+.desktop-paragraph-large-bold {
   font-family: var(--font-family-inter);
   font-size: var(--font-size-xl);
   font-style: normal;
@@ -34,7 +34,7 @@
   letter-spacing: 0;
 }
 
-.desktopparagraphmediumregular {
+.desktop-paragraph-medium-regular {
   font-family: var(--font-family-inter);
   font-size: var(--font-size-l);
   font-style: normal;
@@ -42,7 +42,7 @@
   letter-spacing: 0;
 }
 
-.desktopparagraphmediummedium {
+.desktop-paragraph-medium-medium {
   font-family: var(--font-family-inter);
   font-size: var(--font-size-l);
   font-style: normal;
@@ -50,7 +50,7 @@
   letter-spacing: 0;
 }
 
-.desktopparagraphmediumbold {
+.desktop-paragraph-medium-bold {
   font-family: var(--font-family-inter);
   font-size: var(--font-size-l);
   font-style: normal;
@@ -58,7 +58,7 @@
   letter-spacing: 0;
 }
 
-.desktopparagraphsmallregular {
+.desktop-paragraph-small-regular {
   font-family: var(--font-family-inter);
   font-size: var(--font-size-m);
   font-style: normal;
@@ -66,7 +66,7 @@
   letter-spacing: 0;
 }
 
-.desktopparagraphsmallbold {
+.desktop-paragraph-small-bold {
   font-family: var(--font-family-inter);
   font-size: var(--font-size-m);
   font-style: normal;
@@ -74,7 +74,7 @@
   letter-spacing: 0;
 }
 
-.desktopparagraphxsmallbold {
+.desktop-paragraph-xsmall-bold {
   font-family: var(--font-family-inter);
   font-size: var(--font-size-12px);
   font-style: normal;
@@ -82,7 +82,7 @@
   letter-spacing: 0;
 }
 
-.dmsans-bold-eerie-black-36px {
+.dm-sans-bold-eerie-black-36px {
   color: var(--foundation-greygrey-13);
   font-family: var(--font-family-dm_sans);
   font-size: 36px;
@@ -90,7 +90,7 @@
   font-weight: 700;
 }
 
-.dmsans-black-white-24px {
+.dm-sans-black-white-24px {
   color: var(--foundation-greygrey-1);
   font-family: var(--font-family-dm_sans);
   font-size: var(--font-size-xxl);

@@ -259,7 +259,7 @@
   width: 96px;
 }
 
-.upsell-desktop .overlap-group2 {
+.upsell-desktop .upsell-special-deal-section {
   align-items: center;
   background-color: var(--foundation-greygrey-3);
   border-radius: 12px;
@@ -272,7 +272,7 @@
   /*margin:30px 32px 32px;*/
 }
 
-.upsell-desktop .frame-497 {
+.upsell-desktop .special-deal-title {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -280,7 +280,7 @@
   position: relative;
 }
 
-.upsell-desktop .this-is-a-special-deal-for {
+.upsell-desktop .special-deal-heading {
   align-self: stretch;
   color: var(--foundation-greygrey-13);
   font-weight: 700;
@@ -290,7 +290,7 @@
   text-align: center;
 }
 
-.upsell-desktop .new-customers-only {
+.upsell-desktop .special-deal-subheading {
   align-self: stretch;
   color: transparent;
   font-family: var(--font-family-dm_sans);
@@ -302,7 +302,7 @@
   text-align: center;
 }
 
-.upsell-desktop .flex-row {
+.upsell-desktop .deals {
   align-items: center;
   display: flex;
   gap: 32px;
@@ -311,7 +311,7 @@
   min-width: 1080px;
 }
 
-.upsell-desktop .x1 {
+.upsell-desktop .special-deal-left {
   align-items: center;
   background-color: var(--foundation-greygrey-1);
   border-bottom-style: solid;
@@ -327,7 +327,7 @@
   width: 431px;
 }
 
-.upsell-desktop .frame-511 {
+.upsell-desktop .upsell-special-deal-section .upper-block {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -338,7 +338,31 @@
   width: 100%;
 }
 
-.upsell-desktop .frame-503 {
+.upsell-desktop .upsell-special-deal-section .middle-block {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.upsell-desktop .upsell-special-deal-section .lower-block {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 11px;
+  justify-content: center;
+  padding: 0px 24px 0px 32px;
+  position: relative;
+  width: 100%;
+}
+
+.upsell-desktop .left-deal-details {
   align-items: center;
   align-self: stretch;
   background-color: var(--foundation-blueblue-500);
@@ -360,7 +384,7 @@
   margin-top: -1.00px;
 }
 
-.upsell-desktop .frame-513 {
+.upsell-desktop .deal-content {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -369,7 +393,7 @@
   position: relative;
 }
 
-.upsell-desktop .frame-147-1 {
+.upsell-desktop .deal-left-price-custom {
   align-items: flex-start;
   gap: 12px;
 }
@@ -387,7 +411,7 @@
   width: fit-content;
 }
 
-.upsell-desktop .frame-502 {
+.upsell-desktop .price-49 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -478,7 +502,7 @@
   width: 13px;
 }
 
-.upsell-desktop .frame-502-1 {
+.upsell-desktop .left-deal-img {
   height: 404px;
   margin-left: -0.50px;
   margin-right: -0.50px;
@@ -486,7 +510,7 @@
   width: 432px;
 }
 
-.upsell-desktop .overlap-group-3 {
+.upsell-desktop .img-container {
   height: 439px;
   left: -30px;
   position: relative;
@@ -494,14 +518,14 @@
   width: 500px;
 }
 
-.upsell-desktop .r1-4 {
+.upsell-desktop .left-bottle {
   height: 439px;
   left: 0;
   top: 0;
   width: 338px;
 }
 
-.upsell-desktop .r1-3 {
+.upsell-desktop .right-bottle {
   height: 439px;
   left: 162px;
   top: 0;
@@ -529,17 +553,7 @@
   width: 215px;
 }
 
-.upsell-desktop .frame-507 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 24px;
-  position: relative;
-  width: 100%;
-}
+
 
 .upsell-desktop .frame-147 {
   align-items: flex-start;
@@ -609,7 +623,7 @@
   width: fit-content;
 }
 
-.upsell-desktop .button-secondary {
+.upsell-desktop .upsell-special-deal-section .add-to-order-btn {
   align-items: center;
   align-self: stretch;
   background: linear-gradient(180deg, rgba(255, 222, 33, 1) 31%, rgba(215, 143, 0, 1) 100%);
@@ -624,7 +638,7 @@
   width: 100%;
 }
 
-.upsell-desktop .add-to-order {
+.upsell-desktop .upsell-special-deal-section .add-to-order-label-1 {
   color: var(--foundation-greygrey-13);
   font-family: var(--font-family-dm_sans);
   font-size: var(--font-size-xxl);
@@ -637,21 +651,19 @@
   width: fit-content;
 }
 
-.upsell-desktop .for-only-98 {
+.upsell-desktop .upsell-special-deal-section .special-deal-left .add-to-order-label-2 {
   color: var(--foundation-greygrey-13);
+  font-weight: 700;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.upsell-desktop .frame-148 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 11px;
-  justify-content: center;
-  padding: 0px 24px 0px 32px;
-  position: relative;
-  width: 100%;
-}
+/*.upsell-desktop .for-only-98 {
+  color: var(--foundation-greygrey-13);
+}*/
 
 .upsell-desktop .total {
   letter-spacing: 0;
@@ -672,7 +684,7 @@
   width: fit-content;
 }
 
-.upsell-desktop .x2 {
+.upsell-desktop .special-deal-right {
   align-items: center;
   background-color: var(--foundation-greygrey-1);
   border: 7px solid;
@@ -713,7 +725,7 @@
   clip-path: polygon(100% 0, 100% 88%, 50% 100%, 0 88%, 0 0);
 }
 
-.upsell-desktop .frame-514 {
+.upsell-desktop .deal-right-bottles-count {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -728,7 +740,7 @@
   width: fit-content;
 }
 
-.upsell-desktop .frame-479 {
+.upsell-desktop .special-deal-right .free-bottle {
   align-items: center;
   background-color: var(--foundation-greygrey-1);
   border-radius: 12px;
@@ -898,7 +910,7 @@
   width: 338px;
 }
 
-.upsell-desktop .overlap-group-4 {
+.upsell-desktop .plus-icon-wrapper {
   align-items: flex-start;
   background-color: var(--foundation-orangeorange-500);
   border-radius: 47px;
@@ -912,7 +924,7 @@
   top: 105px;
 }
 
-.upsell-desktop .text-1 {
+.upsell-desktop .plus-icon {
   color: var(--foundation-greygrey-1);
   font-family: var(--font-family-dm_sans);
   font-size: 79.9px;
@@ -1234,16 +1246,7 @@
   text-align: center;
 }
 
-.upsell-desktop .for-only {
-  font-weight: 700;
-  line-height: 20px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.upsell-desktop .frame-147-3 {
+.upsell-desktop .just-price-per-bottle {
   display: inline-flex;
   flex: 0 0 auto;
   position: relative;

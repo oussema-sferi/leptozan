@@ -1,9 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8" />
-    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
-    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
     <link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
     <meta name="og:type" content="website" />
@@ -36,29 +34,29 @@
                         <div class="rectangle-32"></div>
                         <div class="order-step">
                             <div class="step-label">
-                                <div class="order-confirmation valign-text-middle order desktopparagraphmediumbold">
+                                <div class="order-confirmation valign-text-middle order desktop-paragraph-medium-bold">
                                     Order confirmation
                                 </div>
                             </div>
                             <div class="step-number-container">
                                 <div class="step-one">
-                                    <div class="number-1 valign-text-middle number-6 dmsans-black-white-24px">1</div>
+                                    <div class="number-1 valign-text-middle number-6 dm-sans-black-white-24px">1</div>
                                 </div>
                             </div>
                         </div>
                         <div class="order-step">
                             <div class="step-label">
-                                <div class="special-upgrade valign-text-middle desktopparagraphmediumbold">Special Upgrade</div>
+                                <div class="special-upgrade valign-text-middle desktop-paragraph-medium-bold">Special Upgrade</div>
                             </div>
                             <div class="step-number-container">
                                 <div class="step-two">
-                                    <div class="number-2 valign-text-middle number-6 dmsans-black-white-24px">2</div>
+                                    <div class="number-2 valign-text-middle number-6 dm-sans-black-white-24px">2</div>
                                 </div>
                             </div>
                         </div>
                         <div class="order-step">
                             <div class="step-label">
-                                <div class="order-complete valign-text-middle order desktopparagraphmediumregular">
+                                <div class="order-complete valign-text-middle order desktop-paragraph-medium-regular">
                                     Order complete
                                 </div>
                             </div>
@@ -76,7 +74,7 @@
                               <span class="orange-text">adipiscing elit.</span>
                           </span>
                         </p>
-                        <p class="hero-subheading valign-text-middle desktopparagraphmediumbold">
+                        <p class="hero-subheading valign-text-middle desktop-paragraph-medium-bold">
                             Corem ipsum dolor sit amet, consectetur adipiscing elit.
                         </p>
                     </div>
@@ -90,32 +88,34 @@
                 </div>
             </div>
         </section>
-        <section class="overlap-group2">
-            <div class="frame-497">
-                <p class="this-is-a-special-deal-for valign-text-middle desktopparagraphlargebold">
+        <section class="upsell-special-deal-section">
+            <div class="special-deal-title">
+                <p class="special-deal-heading valign-text-middle desktop-paragraph-large-bold">
                     This is a Special Deal for
                 </p>
-                <div class="new-customers-only valign-text-middle">
-                    <span><span class="orange-text">New</span><span class="dark-text"> Customers Only!</span> </span>
+                <div class="special-deal-subheading valign-text-middle">
+                    <span>
+                        <span class="orange-text">New</span><span class="dark-text"> Customers Only!</span>
+                    </span>
                 </div>
             </div>
-            <div class="flex-row">
-                <div class="x1">
-                    <div class="frame-511">
-                        <div class="frame-503">
-                            <div class="address valign-text-middle address-4 dmsans-black-white-24px">2 BOTTLES</div>
-                            <div class="frame-513">
-                                <div class="frame-147-1 frame-147-3">
+            <div class="deals">
+                <div class="special-deal-left">
+                    <div class="upper-block">
+                        <div class="left-deal-details">
+                            <div class="address valign-text-middle address-4 dm-sans-black-white-24px">2 BOTTLES</div>
+                            <div class="deal-content">
+                                <div class="deal-left-price-custom just-price-per-bottle">
                                     <div class="just valign-text-middle">Just</div>
-                                    <div class="frame-502">
+                                    <div class="price-49">
                                         <div class="frame-5">
-                                            <div class="price-1 valign-text-middle price-3 desktopparagraphlargebold">$</div>
+                                            <div class="price-1 valign-text-middle price-3 desktop-paragraph-large-bold">$</div>
                                             <div class="number-4 valign-text-middle number-6">49</div>
                                         </div>
-                                        <div class="per-bottle valign-text-middle desktopparagraphsmallregular">Per<br />Bottle</div>
+                                        <div class="per-bottle valign-text-middle desktop-paragraph-small-regular">Per<br />Bottle</div>
                                     </div>
                                 </div>
-                                <div class="you-save-120 valign-text-middle desktopparagraphsmallbold">YOU SAVE $120</div>
+                                <div class="you-save-120 valign-text-middle desktop-paragraph-small-bold">YOU SAVE $120</div>
                                 <div class="arrow-1"><img class="vector" src="/new-ups/img/vector.svg" alt="Vector" /></div>
                             </div>
                             <div class="arrow2-1">
@@ -123,10 +123,10 @@
                                 <img class="vector-2" src="/new-ups/img/vector-2.svg" alt="Vector" />
                             </div>
                         </div>
-                        <div class="frame-502-1">
-                            <div class="overlap-group-3">
-                                <img class="r1-4 r1" src="/new-ups/img/r1-4.png" alt="R1 4" />
-                                <img class="r1-3 r1" src="/new-ups/img/r1-4.png" alt="R1 3" />
+                        <div class="left-deal-img">
+                            <div class="img-container">
+                                <img class="left-bottle r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
+                                <img class="right-bottle r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
                             </div>
                         </div>
                         <!--<div class="group-18">
@@ -134,62 +134,62 @@
                             <img class="vector-2-1" src="/new-ups/img/vector-2-1.svg" alt="Vector 2" />
                         </div>-->
                     </div>
-                    <div class="frame-507">
+                    <div class="middle-block">
                         <div class="frame-147">
                             <div class="frame-47">
                                 <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract.svg" alt="Subtract" /></div>
-                                <div class="you-save-120-1 valign-text-middle you-save-120-3 desktopparagraphmediummedium">
+                                <div class="you-save-120-1 valign-text-middle you-save-120-3 desktop-paragraph-medium-medium">
                                     YOU SAVE $120!
                                 </div>
                             </div>
                             <img class="line-1 line-2" src="/new-ups/img/line-18.svg" alt="Line 18" />
                             <div class="frame-47">
                                 <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
-                                <div class="biggest-discount valign-text-middle desktopparagraphmediummedium">BIGGEST DISCOUNT</div>
+                                <div class="biggest-discount valign-text-middle desktop-paragraph-medium-medium">BIGGEST DISCOUNT</div>
                             </div>
                             <img class="line-1 line-2" src="/new-ups/img/line-18.svg" alt="Line 15" />
                             <div class="frame-47">
                                 <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
-                                <div class="address-1 valign-text-middle address-4 desktopparagraphmediummedium">
+                                <div class="address-1 valign-text-middle address-4 desktop-paragraph-medium-medium">
                                     90 DAYS GUARANTEE
                                 </div>
                             </div>
                         </div>
-                        <div class="button-secondary">
-                            <div class="add-to-order valign-text-middle">ADD TO ORDER</div>
-                            <div class="for-only-98 valign-text-middle for-only desktopparagraphsmallbold">For only $98</div>
+                        <div class="add-to-order-btn">
+                            <div class="add-to-order-label-1 valign-text-middle">ADD TO ORDER</div>
+                            <div class="add-to-order-label-2 valign-text-middle desktop-paragraph-small-bold">For only $98</div>
                         </div>
                     </div>
-                    <div class="frame-148">
+                    <div class="lower-block">
                         <div class="total valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
                         <div class="frame-5">
-                            <div class="price valign-text-middle price-3 desktopparagraphlargebold">$</div>
-                            <div class="number valign-text-middle number-6 dmsans-bold-eerie-black-36px">98</div>
+                            <div class="price valign-text-middle price-3 desktop-paragraph-large-bold">$</div>
+                            <div class="number valign-text-middle number-6 dm-sans-bold-eerie-black-36px">98</div>
                         </div>
                     </div>
                 </div>
-                <div class="x2">
+                <div class="special-deal-right">
                     <div class="frame-511-1">
                         <div class="frame-503-1">
-                            <div class="frame-514">
-                                <div class="address-2 valign-text-middle address-4 dmsans-black-white-24px">2 BOTTLES</div>
-                                <div class="frame-479"><div class="x1-free valign-text-middle">+ 1 FREE</div></div>
+                            <div class="deal-right-bottles-count">
+                                <div class="address-2 valign-text-middle address-4 dm-sans-black-white-24px">2 BOTTLES</div>
+                                <div class="free-bottle"><div class="x1-free valign-text-middle">+ 1 FREE</div></div>
                             </div>
-                            <div class="frame-513">
-                                <div class="frame-147-2 frame-147-3">
+                            <div class="deal-content">
+                                <div class="frame-147-2 just-price-per-bottle">
                                     <h1 class="title valign-text-middle">Just</h1>
                                     <div class="frame-502-2">
                                         <div class="frame-516">
-                                            <div class="price-2 valign-text-middle price-3 desktopparagraphlargebold">$</div>
+                                            <div class="price-2 valign-text-middle price-3 desktop-paragraph-large-bold">$</div>
                                             <div class="number-5 valign-text-middle number-6">29</div>
                                         </div>
-                                        <div class="per-bottle-1 valign-text-middle desktopparagraphlargebold">Per<br />Bottle</div>
+                                        <div class="per-bottle-1 valign-text-middle desktop-paragraph-large-bold">Per<br />Bottle</div>
                                     </div>
                                 </div>
-                                <div class="you-save-120 valign-text-middle desktopparagraphsmallbold">YOU SAVE $120</div>
+                                <div class="you-save-120 valign-text-middle desktop-paragraph-small-bold">YOU SAVE $120</div>
                                 <div class="arrow-1-1"><img class="vector-3" src="/new-ups/img/vector-3.svg" alt="Vector" /></div>
                             </div>
-                            <img class="r1-5 r1" src="/new-ups/img/r1-4.png" alt="R1 5" />
+                            <img class="r1-5 r1" src="/new-ups/img/one-bottle.png" alt="R1 5" />
                             <div class="arrow2-1-1">
                                 <img class="vector-4" src="/new-ups/img/vector-4.svg" alt="Vector" />
                                 <img class="vector-5" src="/new-ups/img/vector-5.svg" alt="Vector" />
@@ -197,10 +197,12 @@
                         </div>
                         <div class="frame-504">
                             <div class="overlap-group1-1">
-                                <img class="r1-6 r1" src="/new-ups/img/r1-6.png" alt="R1 6" />
-                                <img class="r1-5-1" src="/new-ups/img/r1-4.png" alt="R1 5" />
-                                <img class="r1-3-1" src="/new-ups/img/r1-4.png" alt="R1 3" />
-                                <div class="overlap-group-4"><div class="text-1 valign-text-middle">+</div></div>
+                                <img class="r1-6 r1" src="/new-ups/img/one-bottle-highlighted.png" alt="one bottle highlighted" />
+                                <img class="r1-5-1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
+                                <img class="r1-3-1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
+                                <div class="plus-icon-wrapper">
+                                    <div class="plus-icon valign-text-middle">+</div>
+                                </div>
                             </div>
                         </div>
                         <!--<div class="group-18-1">
@@ -213,44 +215,44 @@
                             <div class="frame-147">
                                 <div class="frame-47">
                                     <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
-                                    <div class="you-save-120-2 valign-text-middle you-save-120-3 desktopparagraphlargebold">
+                                    <div class="you-save-120-2 valign-text-middle you-save-120-3 desktop-paragraph-large-bold">
                                         YOU SAVE $120!
                                     </div>
                                 </div>
                                 <img class="line-1 line-2" src="/new-ups/img/line-18-1.svg" alt="Line 18" />
                                 <div class="frame-47">
                                     <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
-                                    <div class="biggest-discount-1 valign-text-middle desktopparagraphlargebold">
+                                    <div class="biggest-discount-1 valign-text-middle desktop-paragraph-large-bold">
                                         BIGGEST DISCOUNT
                                     </div>
                                 </div>
                                 <img class="line-1 line-2" src="/new-ups/img/line-18-1.svg" alt="Line 15" />
                                 <div class="frame-47">
                                     <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract.svg" alt="Subtract" /></div>
-                                    <div class="address-3 valign-text-middle address-4 desktopparagraphlargebold">
+                                    <div class="address-3 valign-text-middle address-4 desktop-paragraph-large-bold">
                                         90 DAYS GUARANTEE
                                     </div>
                                 </div>
                             </div>
                             <div class="button-secondary-1">
                                 <div class="add-to-order-1 valign-text-middle">ADD TO ORDER</div>
-                                <div class="for-only-87 valign-text-middle for-only desktopparagraphsmallbold">For Only $87</div>
+                                <div class="for-only-87 valign-text-middle for-only desktop-paragraph-small-bold">For Only $87</div>
                             </div>
                         </div>
-                        <div class="frame-148">
+                        <div class="lower-block">
                             <div class="total valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
                             <div class="frame-5">
-                                <div class="price valign-text-middle price-3 desktopparagraphlargebold">$</div>
-                                <div class="number valign-text-middle number-6 dmsans-bold-eerie-black-36px">87</div>
+                                <div class="price valign-text-middle price-3 desktop-paragraph-large-bold">$</div>
+                                <div class="number valign-text-middle number-6 dm-sans-bold-eerie-black-36px">87</div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <img class="frame-508" src="/new-ups/img/frame-508.svg" alt="Frame 508" />
-            <p class="no-thanks-i-unders valign-text-middle desktopparagraphmediumregular">
+            <p class="no-thanks-i-unders valign-text-middle desktop-paragraph-medium-regular">
             <span>
-                <span class="span0 desktopparagraphmediumregular">No, Thanks</span><span class="desktopparagraphmediumregular">. I understand this is the very last time I can get my hands on Leptozan. I also understand that I will
+                <span class="span0 desktop-paragraph-medium-regular">No, Thanks</span><span class="desktop-paragraph-medium-regular">. I understand this is the very last time I can get my hands on Leptozan. I also understand that I will
                 never see this page or this discount again, and I am aware of the potential effects on my health of
                 declining this offer.</span>
             </span>
@@ -264,7 +266,7 @@
                   ><span class="orange-text">official page only.</span>
               </span>
                 </p>
-                <p class="to-ensure-the-best valign-text-middle desktopparagraphmediumregular">
+                <p class="to-ensure-the-best valign-text-middle desktop-paragraph-medium-regular">
                     (To ensure the best possible prices, it is NOT available on Amazon, eBay, Walmart, pharmacies, or anywhere
                     else.)
                 </p>
@@ -278,7 +280,7 @@
         </section>
         <footer class="footer">
             <div class="frame-484">
-                <div class="frame-140 desktopparagraphmediumregular">
+                <div class="frame-140 desktop-paragraph-medium-regular">
                     <div class="frame-140-item valign-text-middle">Contact</div>
                     <img class="line line-2" src="/new-ups/img/line-6.svg" alt="Line 6" />
                     <div class="frame-140-item valign-text-middle">Terms</div>
@@ -293,7 +295,7 @@
                     <img class="line line-2" src="/new-ups/img/line-6.svg" alt="Line 11" />
                     <div class="frame-140-item valign-text-middle">References</div>
                 </div>
-                <div class="frame-483 desktopparagraphsmallregular">
+                <div class="frame-483 desktop-paragraph-small-regular">
                     <p class="statements-on-this-w valign-text-middle">
                         Statements on this website have not been evaluated by the Food and Drug Administration. Products are not
                         intended to diagnose, treat, cure or prevent any disease
@@ -316,7 +318,7 @@
                     </p>
                 </div>
                 <div class="frame-141">
-                    <p class="copyright valign-text-middle desktopparagraphsmallregular">
+                    <p class="copyright valign-text-middle desktop-paragraph-small-regular">
                         © 2024.Leptozan. All rights Reserved.
                     </p>
                 </div>
@@ -362,7 +364,7 @@
                             ><span class="dmsans-bold-eerie-black-32px"></span>
                         </span>
                         </p>
-                        <p class="corem-ipsum-dolor-si-1 valign-text-middle desktopparagraphmediumbold">
+                        <p class="corem-ipsum-dolor-si-1 valign-text-middle desktop-paragraph-medium-bold">
                             Corem ipsum dolor sit amet, consectetur adipiscing elit.
                         </p>
                     </div>
@@ -379,12 +381,12 @@
             </div>
             <div class="overlap-group3">
                 <div class="frame-497-1">
-                    <p class="this-is-a-special-deal-for-1 valign-text-middle desktopparagraphlargebold">
+                    <p class="this-is-a-special-deal-for-1 valign-text-middle desktop-paragraph-large-bold">
                         This is a Special Deal for
                     </p>
                     <h1 class="title-2 valign-text-middle">
                 <span
-                ><span class="span-4">New</span><span class="dmsans-bold-eerie-black-36px"> Customers Only!</span>
+                ><span class="span-4">New</span><span class="dm-sans-bold-eerie-black-36px"> Customers Only!</span>
                 </span>
                     </h1>
                 </div>
@@ -400,20 +402,20 @@
                                     <div class="just valign-text-middle dmsans-bold-white-36px">Just</div>
                                     <div class="frame-502-3">
                                         <div class="frame-516-1">
-                                            <div class="price-4 valign-text-middle price desktopparagraphmediumbold">$</div>
+                                            <div class="price-4 valign-text-middle price desktop-paragraph-medium-bold">$</div>
                                             <div class="number-9 valign-text-middle number">29</div>
                                         </div>
-                                        <div class="per-bottle-2 valign-text-middle per-bottle desktopparagraphmediumbold">
+                                        <div class="per-bottle-2 valign-text-middle per-bottle desktop-paragraph-medium-bold">
                                             Per<br />Bottle
                                         </div>
                                     </div>
                                 </div>
-                                <div class="you-save-120-3 valign-text-middle you-save-120 desktopparagraphxsmallbold">
+                                <div class="you-save-120-3 valign-text-middle you-save-120 desktop-paragraph-xsmall-bold">
                                     YOU SAVE $120
                                 </div>
                                 <div class="arrow-1-2"><img class="vector-7" src="/new-ups/img/vector-10.svg" alt="Vector" /></div>
                             </div>
-                            <img class="r1-5-2" src="/new-ups/img/r1-4.png" alt="R1 5" />
+                            <img class="r1-5-2" src="/new-ups/img/one-bottle.png" alt="R1 5" />
                             <div class="arrow2-1-2 arrow2-1">
                                 <img class="vector-8" src="/new-ups/img/vector-11.svg" alt="Vector" />
                                 <img class="vector-9" src="/new-ups/img/vector-12.svg" alt="Vector" />
@@ -421,9 +423,9 @@
                         </div>
                         <div class="frame-504-1">
                             <div class="overlap-group1-3">
-                                <img class="r1-6-1" src="/new-ups/img/r1-6.png" alt="R1 6" />
-                                <img class="r1-5-3" src="/new-ups/img/r1-4.png" alt="R1 5" />
-                                <img class="r1-3-2 r1-3" src="/new-ups/img/r1-4.png" alt="R1 3" />
+                                <img class="r1-6-1" src="/new-ups/img/one-bottle-highlighted.png" alt="R1 6" />
+                                <img class="r1-5-3" src="/new-ups/img/one-bottle.png" alt="R1 5" />
+                                <img class="r1-3-2 r1-3" src="/new-ups/img/one-bottle.png" alt="R1 3" />
                                 <div class="overlap-group-8"><div class="text-2-1 valign-text-middle">+</div></div>
                             </div>
                         </div>
@@ -439,35 +441,35 @@
                             <div class="frame-147-3 frame-147">
                                 <div class="frame-47-1">
                                     <div class="yes-1-1"><img class="subtract-1" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
-                                    <div class="you-save-120-4 valign-text-middle you-save-120 desktopparagraphlargebold">
+                                    <div class="you-save-120-4 valign-text-middle you-save-120 desktop-paragraph-large-bold">
                                         YOU SAVE $120!
                                     </div>
                                 </div>
                                 <img class="line-1-1" src="/new-ups/img/line-18-2.svg" alt="Line 18" />
                                 <div class="frame-47-1">
                                     <div class="yes-1-1"><img class="subtract-1" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
-                                    <div class="biggest-discount-2 valign-text-middle biggest-discount desktopparagraphlargebold">
+                                    <div class="biggest-discount-2 valign-text-middle biggest-discount desktop-paragraph-large-bold">
                                         BIGGEST DISCOUNT
                                     </div>
                                 </div>
                                 <img class="line-1-1" src="/new-ups/img/line-18-2.svg" alt="Line 15" />
                                 <div class="frame-47-1">
                                     <div class="yes-1-1"><img class="subtract-1" src="/new-ups/img/subtract.svg" alt="Subtract" /></div>
-                                    <div class="address-5 valign-text-middle address desktopparagraphlargebold">
+                                    <div class="address-5 valign-text-middle address desktop-paragraph-large-bold">
                                         90 DAYS GUARANTEE
                                     </div>
                                 </div>
                             </div>
                             <div class="button-secondary-2 button-secondary">
                                 <div class="add-to-order-2 valign-text-middle add-to-order">ADD TO ORDER</div>
-                                <div class="for-only-87-1 valign-text-middle desktopparagraphsmallbold">For Only $87</div>
+                                <div class="for-only-87-1 valign-text-middle desktop-paragraph-small-bold">For Only $87</div>
                             </div>
                         </div>
                         <div class="frame-148-1">
                             <div class="total-1 valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
                             <div class="frame-5-2 frame-5">
-                                <div class="price-3 valign-text-middle price desktopparagraphlargebold">$</div>
-                                <div class="number-10 valign-text-middle number dmsans-bold-eerie-black-36px">87</div>
+                                <div class="price-3 valign-text-middle price desktop-paragraph-large-bold">$</div>
+                                <div class="number-10 valign-text-middle number dm-sans-bold-eerie-black-36px">87</div>
                             </div>
                         </div>
                     </div>
@@ -481,15 +483,15 @@
                                     <div class="just-2 valign-text-middle just dmsans-bold-white-36px">Just</div>
                                     <div class="frame-502-4">
                                         <div class="frame-5-2 frame-5">
-                                            <div class="price-5 valign-text-middle price desktopparagraphmediumbold">$</div>
+                                            <div class="price-5 valign-text-middle price desktop-paragraph-medium-bold">$</div>
                                             <div class="number-11 valign-text-middle number dmsans-bold-white-36px">49</div>
                                         </div>
-                                        <div class="per-bottle-3 valign-text-middle per-bottle desktopparagraphsmallregular">
+                                        <div class="per-bottle-3 valign-text-middle per-bottle desktop-paragraph-small-regular">
                                             Per<br />Bottle
                                         </div>
                                     </div>
                                 </div>
-                                <div class="you-save-120-3 valign-text-middle you-save-120 desktopparagraphxsmallbold">
+                                <div class="you-save-120-3 valign-text-middle you-save-120 desktop-paragraph-xsmall-bold">
                                     YOU SAVE $120
                                 </div>
                                 <div class="arrow-1-3"><img class="vector-10" src="/new-ups/img/vector-7.svg" alt="Vector" /></div>
@@ -501,8 +503,8 @@
                         </div>
                         <div class="frame-502-5">
                             <div class="overlap-group-9">
-                                <img class="r1-4-1" src="/new-ups/img/r1-4.png" alt="R1 4" />
-                                <img class="r1-3-3 r1-3" src="/new-ups/img/r1-4.png" alt="R1 3" />
+                                <img class="r1-4-1" src="/new-ups/img/one-bottle.png" alt="R1 4" />
+                                <img class="r1-3-3 r1-3" src="/new-ups/img/one-bottle.png" alt="R1 3" />
                             </div>
                         </div>
                         <!--<div class="group-18-3 group-18">
@@ -514,43 +516,43 @@
                         <div class="frame-147-3 frame-147">
                             <div class="frame-47-1">
                                 <div class="yes-1-1"><img class="subtract-1" src="/new-ups/img/subtract.svg" alt="Subtract" /></div>
-                                <div class="you-save-120-5 valign-text-middle you-save-120 desktopparagraphmediummedium">
+                                <div class="you-save-120-5 valign-text-middle you-save-120 desktop-paragraph-medium-medium">
                                     YOU SAVE $120!
                                 </div>
                             </div>
                             <img class="line-1-1" src="/new-ups/img/line-18-2.svg" alt="Line 18" />
                             <div class="frame-47-1">
                                 <div class="yes-1-1"><img class="subtract-1" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
-                                <div class="biggest-discount-3 valign-text-middle biggest-discount desktopparagraphmediummedium">
+                                <div class="biggest-discount-3 valign-text-middle biggest-discount desktop-paragraph-medium-medium">
                                     BIGGEST DISCOUNT
                                 </div>
                             </div>
                             <img class="line-1-1" src="/new-ups/img/line-18-2.svg" alt="Line 15" />
                             <div class="frame-47-1">
                                 <div class="yes-1-1"><img class="subtract-1" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
-                                <div class="address-7 valign-text-middle address desktopparagraphmediummedium">
+                                <div class="address-7 valign-text-middle address desktop-paragraph-medium-medium">
                                     90 DAYS GUARANTEE
                                 </div>
                             </div>
                         </div>
                         <div class="button-secondary-3 button-secondary">
                             <div class="add-to-order-3 valign-text-middle add-to-order">ADD TO ORDER</div>
-                            <div class="for-only-98-1 valign-text-middle desktopparagraphsmallbold">For only $98</div>
+                            <div class="for-only-98-1 valign-text-middle desktop-paragraph-small-bold">For only $98</div>
                         </div>
                     </div>
                     <div class="frame-148-1">
                         <div class="total-1 valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
                         <div class="frame-5-2 frame-5">
-                            <div class="price-3 valign-text-middle price desktopparagraphlargebold">$</div>
-                            <div class="number-12 valign-text-middle number dmsans-bold-eerie-black-36px">98</div>
+                            <div class="price-3 valign-text-middle price desktop-paragraph-large-bold">$</div>
+                            <div class="number-12 valign-text-middle number dm-sans-bold-eerie-black-36px">98</div>
                         </div>
                     </div>
                 </div>
                 <img class="frame-508-1" src="/new-ups/img/frame-508-1.svg" alt="Frame 508" />
-                <p class="no-thanks-i-unders-1 valign-text-middle desktopparagraphmediumregular">
+                <p class="no-thanks-i-unders-1 valign-text-middle desktop-paragraph-medium-regular">
               <span
-              ><span class="span0-1 desktopparagraphmediumregular">No, Thanks</span
-                  ><span class="desktopparagraphmediumregular"
+              ><span class="span0-1 desktop-paragraph-medium-regular">No, Thanks</span
+                  ><span class="desktop-paragraph-medium-regular"
                   >. I understand this is the very last time I can get my hands on Leptozan. I also understand that I
                   will never see this page or this discount again, and I am aware of the potential effects on my health
                   of declining this offer.</span
@@ -566,7 +568,7 @@
                     ><span class="span-4">official page only.</span>
                 </span>
                     </p>
-                    <p class="to-ensure-the-best-1 valign-text-middle desktopparagraphmediumregular">
+                    <p class="to-ensure-the-best-1 valign-text-middle desktop-paragraph-medium-regular">
                         (To ensure the best possible prices, it is NOT available on Amazon, eBay, Walmart, pharmacies, or
                         anywhere else.)
                     </p>
@@ -580,7 +582,7 @@
             </div>
             <div class="footer-mobile">
                 <div class="frame-484-1">
-                    <div class="frame-140-1 desktopparagraphmediumregular">
+                    <div class="frame-140-1 desktop-paragraph-medium-regular">
                         <div class="frame-140-item-1 valign-text-middle frame-140-item">Contact</div>
                         <img class="line-2" src="/new-ups/img/line-6.svg" alt="Line 6" />
                         <div class="frame-140-item-1 valign-text-middle frame-140-item">Terms</div>
@@ -595,7 +597,7 @@
                         <img class="line-2" src="/new-ups/img/line-11-1.svg" alt="Line 11" />
                         <div class="frame-140-item valign-text-middle">References</div>
                     </div>
-                    <div class="frame-483-1 desktopparagraphsmallregular">
+                    <div class="frame-483-1 desktop-paragraph-small-regular">
                         <p class="statements-on-this-w-1 valign-text-middle">
                             Statements on this website have not been evaluated by the Food and Drug Administration. Products are
                             not intended to diagnose, treat, cure or prevent any disease
@@ -619,14 +621,14 @@
                         </p>
                     </div>
                     <div class="frame">
-                        <p class="copyright-1 valign-text-middle desktopparagraphsmallregular">
+                        <p class="copyright-1 valign-text-middle desktop-paragraph-small-regular">
                             © 2024.Leptozan. All rights Reserved.
                         </p>
                     </div>
                 </div>
             </div>
         </div>
-        <!--<img class="r1-5-4" src="/new-ups/img/r1-4.png" alt="R1 5" />-->
+        <!--<img class="r1-5-4" src="/new-ups/img/one-bottle.png" alt="R1 5" />-->
     </div>
 </div>
 </body>
