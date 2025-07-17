@@ -1059,7 +1059,7 @@
   text-decoration: underline;
 }
 
-.upsell-desktop .text-2 {
+.upsell-desktop .official-page-section {
   align-items: center;
   background-color: var(--foundation-greengreen-100);
   border-radius: 12px;
@@ -1072,7 +1072,7 @@
   width: 100%;
 }
 
-.upsell-desktop .title-1 {
+.upsell-desktop .official-block-title {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -1081,7 +1081,7 @@
   width: 638px;
 }
 
-.upsell-desktop .leptozanis-uniquely {
+.upsell-desktop .official-page-section .official-title {
   align-self: stretch;
   color: transparent;
   font-family: var(--font-family-dm_sans);
@@ -1094,7 +1094,7 @@
   text-align: center;
 }
 
-.upsell-desktop .to-ensure-the-best {
+.upsell-desktop .official-page-section .detail {
   align-self: stretch;
   color: var(--foundation-greygrey-13);
   font-weight: 400;
@@ -1103,7 +1103,7 @@
   text-align: center;
 }
 
-.upsell-desktop .frame-509 {
+.upsell-desktop .official-page-section .logos-block {
   align-items: center;
   display: inline-flex;
   gap: 56px;

@@ -88,6 +88,7 @@
                 </div>
             </div>
         </section>
+
         <section class="upsell-special-deal-section">
             <div class="special-deal-title">
                 <p class="special-deal-heading valign-text-middle desktop-paragraph-large-bold">
@@ -251,28 +252,27 @@
             </p>
         </section>
 
-
-
-        <section class="text-2">
-            <div class="title-1">
-                <p class="leptozanis-uniquely valign-text-middle">
-              <span
-              ><span class="dmsans-bold-eerie-black-32px">Leptozan is uniquely available on this </span
-                  ><span class="orange-text">official page only.</span>
+        <section class="official-page-section">
+            <div class="official-block-title">
+                <p class="official-title valign-text-middle">
+              <span>
+                  <span class="dmsans-bold-eerie-black-32px">Leptozan is uniquely available on this </span><span class="orange-text">official page only.</span>
               </span>
                 </p>
-                <p class="to-ensure-the-best valign-text-middle desktop-paragraph-medium-regular">
+                <p class="detail valign-text-middle desktop-paragraph-medium-regular">
                     (To ensure the best possible prices, it is NOT available on Amazon, eBay, Walmart, pharmacies, or anywhere
                     else.)
                 </p>
             </div>
-            <div class="frame-509">
+            <div class="logos-block">
                 <img class="amazon" src="/new-ups/img/amazon@2x.png" alt="amazon" />
                 <img class="ebay" src="/new-ups/img/ebay@2x.png" alt="ebay" />
                 <img class="walmart-1" src="/new-ups/img/walmart-1@2x.png" alt="walmart 1" />
                 <img class="available" src="/new-ups/img/available.png" alt="available" />
             </div>
         </section>
+
+
         <footer class="footer">
             <div class="frame-484">
                 <div class="frame-140 desktop-paragraph-medium-regular">
