@@ -21,19 +21,6 @@
 
 <!-- content start -->
 <div class="content">
-
-	<!-- Inner Banner Start -->
-	<!--<section class="inner-bnr-wrp" style="background-color: #F1FBFB;">
-		<div class="container">
-			<div class="inner-bnr-main">
-				<div class="banner-title">
-					<h1>Refund Policy</h1>
-				</div>
-			</div>
-		</div>
-	</section>-->
-	<!-- Inner Banner End -->
-
 	<!-- Privacy Policy Start -->
 	<section class="privacy-wrp">
 		<div class="container">
@@ -98,7 +85,7 @@
 						<h3>Send Returns To</h3>
 					</div>
 					<div class="detail">
-						<p><span class="make-bold">Leptozan</span> <br> a/s Returns66 <br> P.O. Box 90129 <br> Lakeland, FL 33804, USA</p>
+						<p><span class="make-bold">Leptozan</span> <br> Returns66 <br> 11870 62nd St. N <br> Largo, FL 33773</p>
 						<p><span class="make-bold">Important:</span> Be sure to contact our support team first to confirm your refund request before shipping any products back. This helps us track your package and process your refund faster.</p>
 					</div>
 				</div>

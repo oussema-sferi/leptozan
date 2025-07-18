@@ -21,19 +21,6 @@
 
 <!-- content start -->
 <div class="content">
-
-	<!-- Inner Banner Start -->
-	<!--<section class="inner-bnr-wrp" style="background-color: #F1FBFB;">
-		<div class="container">
-			<div class="inner-bnr-main">
-				<div class="banner-title">
-					<h1>Shipping Policy</h1>
-				</div>
-			</div>
-		</div>
-	</section>-->
-	<!-- Inner Banner End -->
-
 	<!-- Privacy Policy Start -->
 	<section class="privacy-wrp">
 		<div class="container">
@@ -109,7 +96,7 @@
 						<p>Note: If you don't return all bottles, you may only receive a partial refund.</p>
 						<p>We must receive your return at our facility within 180 days of your purchase date. You'll need to cover any return shipping costs. After we receive and verify your return, we'll process your refund to your original payment method. The refund may take 3-5 business days to show up, depending on your bank's processing schedule.</p>
 						<p>Send any returns to:</p>
-						<p><span class="make-bold">Leptozan</span> <br> a/s Returns66 <br> P.O. Box 90129 <br> Lakeland, FL 33804, USA</p>
+						<p><span class="make-bold">Leptozan</span> <br> Returns66 <br> 11870 62nd St. N <br> Largo, FL 33773</p>
 
 						<p>To ensure quick refund processing, let us know the tracking number for your return shipment.</p>
 						<p>By ordering from this website, you agree to all <a href="/cb/terms/">Terms and Conditions</a>.</p>
@@ -130,7 +117,6 @@
 
 <!-- scripts start -->
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/cb/components/scripts.php'; ?>
-<!--<script src="/cb/js/custom/navbar.js"></script>-->
 <!-- scripts end -->
 
 </body>
