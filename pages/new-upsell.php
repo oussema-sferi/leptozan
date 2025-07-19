@@ -67,17 +67,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--<div class="hero-title">
-                        <p class="hero-heading valign-text-middle">
-                          <span>
-                              <span class="dark-text">Forem ipsum dolor sit amet, consectetur </span>
-                              <span class="orange-text">adipiscing elit.</span>
-                          </span>
-                        </p>
-                        <p class="hero-subheading valign-text-middle desktop-paragraph-medium-bold">
-                            Corem ipsum dolor sit amet, consectetur adipiscing elit.
-                        </p>
-                    </div>-->
                     <div class="video">
                         <div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
                         <script type="text/javascript" id="scr_67d338c5b7ef8e55f55f0b95">

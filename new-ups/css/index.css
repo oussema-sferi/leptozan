@@ -22,7 +22,8 @@
 
 .upsell-desktop .vsl-banner-main {
   /*height: 957px;*/
-  height: 750px;
+  /*height: 750px;*/
+  height: 735px;
   position: relative;
   /*width: 1376px;*/
   width: 100%;
@@ -36,8 +37,9 @@
   border-radius: 12px;
   display: flex;
   flex-direction: column;
-  gap: 40px;
-  height: 700px;
+  gap: 25px;
+  /*height: 700px;*/
+  height: 460px;
   left: 0;
   overflow: visible;
   padding: 32px 287px;
