@@ -292,6 +292,7 @@
                     <div class="footer-link-item valign-text-middle">References</div>
                 </div>
                 <div class="footer-details desktop-paragraph-small-regular">
+                    <h4 class="disclaimer">Disclaimer</h4>
                     <p class="footer-first-paragraph valign-text-middle">
                         Statements on this website have not been evaluated by the Food and Drug Administration. Products are not
                         intended to diagnose, treat, cure or prevent any disease
