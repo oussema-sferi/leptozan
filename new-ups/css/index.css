@@ -266,9 +266,9 @@
   border-radius: 12px;
   display: flex;
   flex-direction: column;
-  min-height: 1619px;
+  /*min-height: 1619px;*/
   /*padding: 48px 0;*/
-  padding: 25px 0;
+  padding: 20px 0 48px;
   /*width: 1376px;*/
   width: 100%;
   /*margin:30px 32px 32px;*/
@@ -278,7 +278,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  /*gap: 4px;*/
   position: relative;
 }
 
