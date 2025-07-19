@@ -67,7 +67,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="hero-title">
+                    <!--<div class="hero-title">
                         <p class="hero-heading valign-text-middle">
                           <span>
                               <span class="dark-text">Forem ipsum dolor sit amet, consectetur </span>
@@ -77,7 +77,7 @@
                         <p class="hero-subheading valign-text-middle desktop-paragraph-medium-bold">
                             Corem ipsum dolor sit amet, consectetur adipiscing elit.
                         </p>
-                    </div>
+                    </div>-->
                     <div class="video">
                         <div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
                         <script type="text/javascript" id="scr_67d338c5b7ef8e55f55f0b95">
@@ -125,9 +125,10 @@
                             </div>
                         </div>
                         <div class="left-deal-img">
-                            <div class="img-container">
-                                <img class="left-bottle r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
-                                <img class="right-bottle r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
+                            <div class="img-container text-center">
+                                <!--<img class="left-bottle r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
+                                <img class="right-bottle r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />-->
+                                <img src="/new-ups/img/2-bottles.png" alt="2 bottles" />
                             </div>
                         </div>
                     </div>
@@ -193,13 +194,14 @@
                             </div>
                         </div>
                         <div class="right-deal-img">
-                            <div class="img-container">
-                                <img class="r1-6 r1" src="/new-ups/img/one-bottle-highlighted.png" alt="one bottle highlighted" />
+                            <div class="img-container text-center">
+                                <!--<img class="r1-6 r1" src="/new-ups/img/one-bottle-highlighted.png" alt="one bottle highlighted" />
                                 <img class="r1-5-1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
                                 <img class="r1-3-1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
                                 <div class="plus-icon-wrapper">
                                     <div class="plus-icon valign-text-middle">+</div>
-                                </div>
+                                </div>-->
+                                <img src="/new-ups/img/3-bottles.png" alt="3 bottles" />
                             </div>
                         </div>
                     </div>
@@ -354,7 +356,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="text-3">
+                    <!--<div class="text-3">
                         <p class="forem-ipsum-dolor-si-1 valign-text-middle">
                         <span
                         ><span class="dmsans-bold-eerie-black-32px">Forem ipsum dolor sit amet, consectetur </span
@@ -365,7 +367,7 @@
                         <p class="corem-ipsum-dolor-si-1 valign-text-middle desktop-paragraph-medium-bold">
                             Corem ipsum dolor sit amet, consectetur adipiscing elit.
                         </p>
-                    </div>
+                    </div>-->
                     <div class="video-1">
                         <div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
                         <script type="text/javascript" id="scr_67d338c5b7ef8e55f55f0b95">
@@ -388,7 +390,7 @@
                 </span>
                     </h1>
                 </div>
-                <div class="x2-1">
+                <div class="x2-1 orange">
                     <div class="frame-511-2">
                         <div class="frame-503-2 frame-503">
                             <div class="frame-514-1">
@@ -420,11 +422,14 @@
                             </div>
                         </div>
                         <div class="frame-504-1">
-                            <div class="overlap-group1-3">
-                                <img class="r1-6-1" src="/new-ups/img/one-bottle-highlighted.png" alt="R1 6" />
+                            <div class="overlap-group1-3 text-center">
+                                <!--<img class="r1-6-1" src="/new-ups/img/one-bottle-highlighted.png" alt="R1 6" />
                                 <img class="r1-5-3" src="/new-ups/img/one-bottle.png" alt="R1 5" />
                                 <img class="r1-3-2 r1-3" src="/new-ups/img/one-bottle.png" alt="R1 3" />
-                                <div class="overlap-group-8"><div class="text-2-1 valign-text-middle">+</div></div>
+                                <div class="overlap-group-8">
+                                    <div class="text-2-1 valign-text-middle">+</div>
+                                </div>-->
+                                <img class="tst" src="/new-ups/img/3-bottles-mobile.png" alt="3 bottles" />
                             </div>
                         </div>
                         <!--<div class="group-18-2 group-18">
@@ -472,7 +477,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="x1-1">
+                <div class="x1-1 blue">
                     <div class="frame-511-2">
                         <div class="frame-503-3 frame-503">
                             <div class="address-6 valign-text-middle address dmsans-black-white-20px">2 BOTTLES</div>
@@ -500,9 +505,10 @@
                             </div>
                         </div>
                         <div class="frame-502-5">
-                            <div class="overlap-group-9">
-                                <img class="r1-4-1" src="/new-ups/img/one-bottle.png" alt="R1 4" />
-                                <img class="r1-3-3 r1-3" src="/new-ups/img/one-bottle.png" alt="R1 3" />
+                            <div class="overlap-group-9 text-center">
+                                <!--<img class="r1-4-1" src="/new-ups/img/one-bottle.png" alt="R1 4" />
+                                <img class="r1-3-3 r1-3" src="/new-ups/img/one-bottle.png" alt="R1 3" />-->
+                                <img class="tst" src="/new-ups/img/2-bottles.png" alt="2 bottles" />
                             </div>
                         </div>
                         <!--<div class="group-18-3 group-18">
