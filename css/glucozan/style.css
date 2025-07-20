@@ -1057,7 +1057,8 @@ footer{
     width: 1px;
     height: 80%;
     background: #fff;
-    right: -5px;
+    /*right: -5px;*/
+    right: -16px;
     top: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);

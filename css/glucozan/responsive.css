@@ -229,6 +229,9 @@
 		top: 40px;
 		right: 58px;
 	}
+	.quicklinks ul li a:after{
+		right: -5px;
+	}
 }
 
 @media(min-width:576px) and (max-width:767px){
