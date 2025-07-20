@@ -263,7 +263,7 @@
             </div>
         </section>
 
-        <footer class="footer-desktop">
+        <!--<footer class="footer-desktop">
             <div class="footer-container">
                 <div class="footer-links-block desktop-paragraph-medium-regular">
                     <div class="footer-link-item valign-text-middle">Contact</div>
@@ -309,7 +309,8 @@
                     </p>
                 </div>
             </div>
-        </footer>
+        </footer>-->
+        <iframe src="/pages/tsl02/BG-footer-frame.php" style="width: 100%; border: none;" scrolling="no" onload="resizeIframe(this)"></iframe>
     </div>
 </div>
 
@@ -627,5 +628,10 @@
         <!--<img class="r1-5-4" src="/new-ups/img/one-bottle.png" alt="R1 5" />-->
     </div>
 </div>
+<script>
+    function resizeIframe(iframe) {
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+</script>
 </body>
 </html>

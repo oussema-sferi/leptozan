@@ -10,13 +10,13 @@
         <div class="footer-main">
             <div class="footer-links">
                 <ul>
-                    <li><a href="/contact/">Contact</a></li>
-                    <li><a href="/terms/">Terms</a></li>
-                    <li><a href="/privacy/">Privacy</a></li>
-                    <li><a href="/refund-policy/">Refund Policy</a></li>
-                    <li><a href="/shipping-policy/">Shipping</a></li>
-                    <li><a href="/disclaimer/">Disclaimer</a></li>
-                    <li><a href="/references/">References</a></li>
+                    <li><a href="/contact/" target="_parent">Contact</a></li>
+                    <li><a href="/terms/" target="_parent">Terms</a></li>
+                    <li><a href="/privacy/" target="_parent">Privacy</a></li>
+                    <li><a href="/refund-policy/" target="_parent">Refund Policy</a></li>
+                    <li><a href="/shipping-policy/" target="_parent">Shipping</a></li>
+                    <li><a href="/disclaimer/" target="_parent">Disclaimer</a></li>
+                    <li><a href="/references/" target="_parent">References</a></li>
                 </ul>
             </div>
             <div class="footer-details">
