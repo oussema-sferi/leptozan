@@ -1,5 +1,6 @@
 $(document).ready(function() {
     // Function to get URL parameters
+    console.log("ouss")
     function getUrlParameter(name) {
         name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
         const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
@@ -10,30 +11,31 @@ $(document).ready(function() {
     // Define pricing configuration for different SKUs
     const pricingConfig = {
         'lepto-us-01': {
-            startPrice: 177,
-            endPrice: 98,
+            startPrice: 158,
+            endPrice: 49,
             videoId: '67d338c5b7ef8e55f55f0b95' // First video ID
         },
         'lepto-us-03': {
-            startPrice: 294,
-            endPrice: 117,
+            startPrice: 237,
+            endPrice: 79,
             videoId: '67d3392b653b10e968e05d9a' // Second video ID
         },
         'lepto-us-06': {
-            startPrice: 261,
-            endPrice: 114,
+            startPrice: 474,
+            endPrice: 137,
             videoId: '67d338d1b7ef8e55f55f0bbb' // Default to first video
         },
         // Add more SKU pricing configurations as needed
         'default': {
             startPrice: 177,
-            endPrice: 98,
+            endPrice: 49,
             videoId: '67d338c5b7ef8e55f55f0b95' // Default video ID
         }
     };
 
     // Get the SKU from the URL
     const sku = getUrlParameter('sku');
+    //const sku = 'lepto-us-01';
     console.log("sky is ", sku)
 
     // Set prices and video ID based on the SKU (use default if SKU not found in config)
@@ -46,8 +48,8 @@ $(document).ready(function() {
 
     let scrollsCounter = 0;
     let priceAnimationTriggered = false; // Flag to track if animation has run
-    const upsellContent = $('.vsl-banner-wrp, .upsell-special-deal-section');
-    const noThanksContent = $('.banner-upsell, .no-thanks-special-deal-section');
+    const upsellContent = $('.upsell');
+    const noThanksContent = $('.downsell-section');
 
     function startPriceAnimation() {
         console.log(scrollsCounter);
@@ -93,7 +95,7 @@ $(document).ready(function() {
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
     /*const actionTime = 73;*/ // Show the special deal after 5 seconds
-    const actionTime = 3; // Show the special deal after 5 seconds
+    const actionTime = 73; // Show the special deal after 5 seconds
     const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
 
     // Handle "No Thanks" click

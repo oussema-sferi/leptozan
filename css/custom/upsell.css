@@ -180,7 +180,8 @@
 }
 
 .saving-details {
-    padding: 16px 24px 18px 40px;
+    /*padding: 16px 24px 18px 40px;*/
+    padding: 16px -1px 18px 40px;
 }
 
 .right-details .saving-details {

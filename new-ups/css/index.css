@@ -13,7 +13,7 @@
   min-width: 1200px;
 }
 
-.upsell-desktop .vsl-banner-wrp {
+.upsell-desktop .vsl-banner {
   align-items: flex-start;
   display: flex;
   /*min-width: 1376px;*/
@@ -1160,6 +1160,7 @@
   /*width: 1376px;*/
   width: 100%;
 }
+
 
 .upsell-desktop .footer-desktop .footer-container {
   align-items: center;

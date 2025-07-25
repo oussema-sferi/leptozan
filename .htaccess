@@ -70,6 +70,29 @@ RewriteRule ^upsell-oto-02/?$ pages/glucozan-index.php [L]
 RewriteCond %{QUERY_STRING} sku=lepto-us-01 [NC]
 RewriteRule ^upsell-oto-01/?$ pages/upsell-1.php [L]
 
+
+RewriteRule ^new-upsell/upsell-oto-01/lepto-us-01?$ pages/new-upsell/upsell-1.php [L]
+RewriteRule ^new-upsell/upsell-oto-03/?$ pages/new-upsell/upsell-3.php [L]
+
+
+# If URL is /upsell-oto-01-new/?sku=lepto-us-01
+RewriteCond %{REQUEST_URI} ^/upsell-oto-01-new/?$ [NC]
+RewriteCond %{QUERY_STRING} (^|&)sku=lepto-us-01(&|$) [NC]
+RewriteRule ^upsell-oto-01-new/?$ pages/new-upsell/upsell-1.php [L]
+
+# If URL is /upsell-oto-01-new/?sku=lepto-us-03
+RewriteCond %{REQUEST_URI} ^/upsell-oto-01-new/?$ [NC]
+RewriteCond %{QUERY_STRING} (^|&)sku=lepto-us-03(&|$) [NC]
+RewriteRule ^upsell-oto-01-new/?$ pages/new-upsell/upsell-3.php [L]
+
+# If URL is /upsell-oto-01-new/?sku=lepto-us-06
+RewriteCond %{REQUEST_URI} ^/upsell-oto-01-new/?$ [NC]
+RewriteCond %{QUERY_STRING} (^|&)sku=lepto-us-06(&|$) [NC]
+RewriteRule ^upsell-oto-01-new/?$ pages/new-upsell/upsell-6.php [L]
+
+
+
+
 RewriteRule ^upsell-test/?$ pages/upsell-test.php [L]
 RewriteRule ^oto-01-test/?$ pages/new-upsell.php [L]
 
