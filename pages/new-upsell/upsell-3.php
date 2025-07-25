@@ -14,9 +14,10 @@
     <link href="/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
     <link href="/css/responsive.css" rel="stylesheet">
     <!-- ConvertEAI preload resources -->
-    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338c5b7ef8e55f55f0b95/player.js" as="script">
-    <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js" as="script">
-    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/67d338b9653b10e968e05d21/main.m3u8" as="fetch">
+    <script>!function(i,n){i._plt=i._plt||(n&&n.timeOrigin?n.timeOrigin+n.now():Date.now())}(window,performance);</script>
+    <link rel="preload" href="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/68819089945872b66b70949e/v4/player.js" as="script">
+    <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js" as="script">
+    <link rel="preload" href="https://cdn.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/68819079c1b007feef223dd7/main.m3u8" as="fetch">
     <link rel="dns-prefetch" href="https://cdn.converteai.net">
     <link rel="dns-prefetch" href="https://scripts.converteai.net">
     <link rel="dns-prefetch" href="https://images.converteai.net">
@@ -71,11 +72,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
-                        <script type="text/javascript" id="scr_67d338c5b7ef8e55f55f0b95">
-                            var s=document.createElement("script");
-                            s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338c5b7ef8e55f55f0b95/player.js", s.async=!0,document.head.appendChild(s);
-                        </script>
+                        <vturb-smartplayer id="vid-68819089945872b66b70949e" style="display: block; margin: 0 auto; width: 100%; "></vturb-smartplayer> <script type="text/javascript"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/68819089945872b66b70949e/v4/player.js", s.async=!0,document.head.appendChild(s); </script>
                     </div>
                 </div>
             </div>
@@ -780,5 +777,7 @@
 </script>
 <script src="/js/jquery-3.7.1.min.js"></script>
 <script src="/js/custom/new-upsell.js"></script>
+<script src="/js/custom/buygoods-integration-new-upsell.js"></script>
+<script src="/js/custom/buygoods-tracking.js"></script>
 </body>
 </html>
