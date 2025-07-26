@@ -13,23 +13,23 @@ $(document).ready(function() {
         'lepto-us-01': {
             startPrice: 158,
             endPrice: 49,
-            videoId: '67d338c5b7ef8e55f55f0b95' // First video ID
+            videoId: '688190693b973824593a1f27' // First video ID
         },
         'lepto-us-03': {
             startPrice: 237,
             endPrice: 79,
-            videoId: '67d3392b653b10e968e05d9a' // Second video ID
+            videoId: '68819089945872b66b70949e' // Second video ID
         },
         'lepto-us-06': {
             startPrice: 474,
             endPrice: 137,
-            videoId: '67d338d1b7ef8e55f55f0bbb' // Default to first video
+            videoId: '68819079c1b007feef223dc8' // Default to first video
         },
         // Add more SKU pricing configurations as needed
         'default': {
             startPrice: 177,
             endPrice: 49,
-            videoId: '67d338c5b7ef8e55f55f0b95' // Default video ID
+            videoId: '688190693b973824593a1f27' // Default video ID
         }
     };
 
@@ -95,44 +95,41 @@ $(document).ready(function() {
     // Simple interval-based time tracking approach
     let isTimeTrapTriggered = false;
     /*const actionTime = 73;*/ // Show the special deal after 5 seconds
-    const actionTime = 73; // Show the special deal after 5 seconds
-    const upsellSpecialDealSection = $(".upsell-special-deal-section, .official-page");
+    const actionTime = 153; // Show the special deal after 5 seconds
+    const upsellSpecialDealSection = $(".ups-offers-block");
 
     // Handle "No Thanks" click
     $(".no-thanks-link").on("click", function(evt) {
         evt.preventDefault();
-        console.log("No thanks link clicked!");
+        console.log("No Thanks clicked");
 
-        // Try to pause all HTML video elements
+        // Pause native video players (mobile fallback)
         document.querySelectorAll("video").forEach(video => {
             video.pause();
-            video.muted = true; // Mute the video just in case
+            video.muted = true;
         });
 
-        // Try to pause the SmartPlayer video if it exists
-        try {
-            if (window.smartplayer) {
-                console.log("smartplayer object found", window.smartplayer);
-
-                // Check if smartplayer instances exist
-                if (window.smartplayer.instances) {
-                    Object.values(window.smartplayer.instances).forEach(instance => {
-                        if (instance && typeof instance.pause === "function") {
-                            console.log("Pausing smartplayer instance.");
-                            instance.pause();
-                        }
-                    });
-                }
-            }
-        } catch (e) {
-            console.log("Could not pause video: ", e);
+        // Remove SmartPlayer iframe/script/player
+        const smartPlayerWrapper = document.querySelector("vturb-smartplayer");
+        if (smartPlayerWrapper) {
+            smartPlayerWrapper.remove(); // Hard kill the video container
+            console.log("SmartPlayer container removed");
         }
 
-        // Hide current content and show new content
-        upsellContent.hide();
-        noThanksContent.show();
-        $('html, body').animate({ scrollTop: 0 }, 10);
+        // Optionally also remove any iframe fallback
+        document.querySelectorAll("iframe").forEach((iframe) => {
+            if (iframe.src.includes("converteai") || iframe.id.includes("vid")) {
+                iframe.remove();
+                console.log("SmartPlayer iframe removed");
+            }
+        });
+
+        // Switch to downsell
+        $(".upsell").hide();
+        $(".downsell-section").show();
+        $("html, body").animate({ scrollTop: 0 }, 10);
     });
+
 
     // Direct DOM method for detecting video playback
     // This approach doesn't rely on the player's API

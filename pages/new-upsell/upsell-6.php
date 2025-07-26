@@ -72,7 +72,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <vturb-smartplayer id="vid-68819079c1b007feef223dc8" style="display: block; margin: 0 auto; width: 100%; "></vturb-smartplayer> <script type="text/javascript"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/68819079c1b007feef223dc8/v4/player.js", s.async=!0,document.head.appendChild(s); </script>
+                        <!--<vturb-smartplayer id="vid-68819079c1b007feef223dc8" style="display: block; margin: 0 auto; width: 100%; "></vturb-smartplayer> <script type="text/javascript"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/68819079c1b007feef223dc8/v4/player.js", s.async=!0,document.head.appendChild(s); </script>-->
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@
                                         <div class="per-bottle valign-text-middle desktop-paragraph-small-regular">Per<br />Bottle</div>
                                     </div>
                                 </div>
-                                <div class="you-save-120 valign-text-middle desktop-paragraph-small-bold">YOU SAVE $120</div>
+                                <div class="you-save-120 valign-text-middle desktop-paragraph-small-bold">YOU SAVE $450</div>
                                 <div class="arrow-1"><img class="vector" src="/new-ups/img/vector.svg" alt="Vector" /></div>
                             </div>
                             <div class="arrow2-1">
@@ -126,7 +126,7 @@
                             <div class="benefit">
                                 <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract.svg" alt="Subtract" /></div>
                                 <div class="you-save-120-1 valign-text-middle you-save-120-3 desktop-paragraph-medium-medium">
-                                    YOU SAVE $120!
+                                    YOU SAVE $450!
                                 </div>
                             </div>
                             <img class="line-1 line-2" src="/new-ups/img/line-18.svg" alt="Line 18" />
@@ -173,7 +173,7 @@
                                         <div class="per-bottle-1 valign-text-middle desktop-paragraph-large-bold">Per<br />Bottle</div>
                                     </div>
                                 </div>
-                                <div class="you-save-120 valign-text-middle desktop-paragraph-small-bold">YOU SAVE $120</div>
+                                <div class="you-save-120 valign-text-middle desktop-paragraph-small-bold saving">YOU SAVE $550</div>
                                 <div class="arrow-1-1"><img class="vector-3" src="/new-ups/img/vector-3.svg" alt="Vector" /></div>
                             </div>
                             <img class="r1-5 r1" src="/new-ups/img/one-bottle.png" alt="one bottle" />
@@ -200,7 +200,7 @@
                                 <div class="benefit">
                                     <div class="yes-1"><img class="subtract" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
                                     <div class="you-save-120-2 valign-text-middle you-save-120-3 desktop-paragraph-large-bold">
-                                        YOU SAVE $120!
+                                        YOU SAVE $550!
                                     </div>
                                 </div>
                                 <img class="line-1 line-2" src="/new-ups/img/line-18-1.svg" alt="Line 18" />
@@ -361,12 +361,12 @@
                         </p>
                     </div>-->
                     <div class="video-1">
-                        <div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                        <!--<div id="vid_67d338c5b7ef8e55f55f0b95" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
                         <script type="text/javascript" id="scr_67d338c5b7ef8e55f55f0b95">
                             var s=document.createElement("script");
                             s.src="https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/67d338c5b7ef8e55f55f0b95/player.js", s.async=!0,document.head.appendChild(s);
                         </script>
-                        <img class="rectangle-28-1" src="/new-ups/img/rectangle-28.png" alt="Rectangle 28" />
+                        <img class="rectangle-28-1" src="/new-ups/img/rectangle-28.png" alt="Rectangle 28" />-->
                         <!--<img class="play-button-1-1" src="/new-ups/img/play-button-1-1.svg" alt="play-button 1" />-->
                     </div>
                 </div>
@@ -403,7 +403,7 @@
                                     </div>
                                 </div>
                                 <div class="you-save-120-3 valign-text-middle you-save-120 desktop-paragraph-xsmall-bold">
-                                    YOU SAVE $120
+                                    YOU SAVE $550
                                 </div>
                                 <div class="arrow-1-2"><img class="vector-7" src="/new-ups/img/vector-10.svg" alt="Vector" /></div>
                             </div>
@@ -437,7 +437,7 @@
                                 <div class="frame-47-1">
                                     <div class="yes-1-1"><img class="subtract-1" src="/new-ups/img/subtract-1.svg" alt="Subtract" /></div>
                                     <div class="you-save-120-4 valign-text-middle you-save-120 desktop-paragraph-large-bold">
-                                        YOU SAVE $120!
+                                        YOU SAVE $550!
                                     </div>
                                 </div>
                                 <img class="line-1-1" src="/new-ups/img/line-18-2.svg" alt="Line 18" />
@@ -487,7 +487,7 @@
                                     </div>
                                 </div>
                                 <div class="you-save-120-3 valign-text-middle you-save-120 desktop-paragraph-xsmall-bold">
-                                    YOU SAVE $120
+                                    YOU SAVE $450
                                 </div>
                                 <div class="arrow-1-3"><img class="vector-10" src="/new-ups/img/vector-7.svg" alt="Vector" /></div>
                             </div>
@@ -513,7 +513,7 @@
                             <div class="frame-47-1">
                                 <div class="yes-1-1"><img class="subtract-1" src="/new-ups/img/subtract.svg" alt="Subtract" /></div>
                                 <div class="you-save-120-5 valign-text-middle you-save-120 desktop-paragraph-medium-medium">
-                                    YOU SAVE $120!
+                                    YOU SAVE $450!
                                 </div>
                             </div>
                             <img class="line-1-1" src="/new-ups/img/line-18-2.svg" alt="Line 18" />
@@ -696,7 +696,7 @@
                                             <sup  class="per-bottle">Per
                                                 Bottle</sup>
                                             <div class="details">
-                                                <p>YOU SAVE $120</p>
+                                                <p>YOU SAVE $337</p>
                                             </div>
                                         </div>
                                     </div>
@@ -773,6 +773,27 @@
 <script>
     function resizeIframe(iframe) {
         iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    const isMobile = window.innerWidth <= 767;
+    const videoContainer = isMobile
+        ? document.querySelector('.video-1')
+        : document.querySelector('.video'); // adjust selectors as needed
+
+    const videoId = '68819079c1b007feef223dc8'; // or dynamic based on SKU
+
+    if (videoContainer) {
+        const player = document.createElement('vturb-smartplayer');
+        player.id = `vid-${videoId}`;
+        player.style.display = 'block';
+        player.style.margin = '0 auto';
+        player.style.width = '100%';
+
+        videoContainer.appendChild(player);
+
+        const s = document.createElement("script");
+        s.src = `https://scripts.converteai.net/2d86efbf-e9a0-49b5-8604-c3045db2ac7e/players/${videoId}/v4/player.js`;
+        s.async = true;
+        document.head.appendChild(s);
     }
 </script>
 <script src="/js/jquery-3.7.1.min.js"></script>
