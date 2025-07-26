@@ -82,7 +82,7 @@
             </div>
         </section>
 
-        <section class="upsell-special-deal-section ups-offers-block" style="display: none">
+        <section class="upsell-special-deal-section ups-offers-block">
             <div class="special-deal-title">
                 <p class="special-deal-heading valign-text-middle desktop-paragraph-large-bold">
                     This is a Special Deal for
@@ -146,10 +146,10 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="add-to-order-btn">
-                            <a class="add-to-order-label-1 valign-text-middle" href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2u_b&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==">ADD TO ORDER</a>
+                        <a class="add-to-order-btn" href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2u_b&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==">
+                            <div class="add-to-order-label-1 valign-text-middle">ADD TO ORDER</div>
                             <div class="add-to-order-label-2 valign-text-middle desktop-paragraph-small-bold">For only $98</div>
-                        </div>
+                        </a>
                     </div>
                     <div class="lower-block">
                         <div class="total valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
@@ -222,10 +222,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="button-secondary-1">
-                                <a class="add-to-order-1 valign-text-middle" href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2_1u_b&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==">ADD TO ORDER</a>
+                            <a class="button-secondary-1" href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2_1u_b&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==">
+                                <div class="add-to-order-1 valign-text-middle">ADD TO ORDER</div>
                                 <div class="for-only-87 valign-text-middle for-only desktop-paragraph-small-bold">For Only $87</div>
-                            </div>
+                            </a>
                         </div>
                         <div class="lower-block">
                             <div class="total valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
@@ -248,7 +248,7 @@
             </p>
         </section>
 
-        <section class="official-page-section ups-offers-block" style="display: none">
+        <section class="official-page-section ups-offers-block">
             <div class="official-block-title">
                 <p class="official-title valign-text-middle">
               <span>
@@ -356,7 +356,7 @@
                     </div>
                 </div>
             </section>
-            <section class="overlap-group3 ups-offers-block" style="display: none">
+            <section class="overlap-group3 ups-offers-block">
                 <div class="frame-497-1">
                     <p class="this-is-a-special-deal-for-1 valign-text-middle desktop-paragraph-large-bold">
                         This is a Special Deal for
@@ -440,10 +440,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="button-secondary-2 button-secondary">
-                                <a class="add-to-order-2 valign-text-middle add-to-order" href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2_1u_b&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==">ADD TO ORDER</a>
+                            <a class="button-secondary-2 button-secondary" href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2_1u_b&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==">
+                                <div class="add-to-order-2 valign-text-middle add-to-order">ADD TO ORDER</div>
                                 <div class="for-only-87-1 valign-text-middle desktop-paragraph-small-bold">For Only $87</div>
-                            </div>
+                            </a>
                         </div>
                         <div class="frame-148-1">
                             <div class="total-1 valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
@@ -516,10 +516,10 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="button-secondary-3 button-secondary">
-                            <a class="add-to-order-3 valign-text-middle add-to-order" href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2u_b&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==">ADD TO ORDER</a>
+                        <a class="button-secondary-3 button-secondary" href="https://buygoods.com/secure/upsell/?account_id=10880&product_codename=lep2u_b&redirect=aHR0cHM6Ly9idXlnb29kcy5jb20vdGhhbmt5b3U/YWNjb3VudF9pZD0xMDg4MA==">
+                            <div class="add-to-order-3 valign-text-middle add-to-order">ADD TO ORDER</div>
                             <div class="for-only-98-1 valign-text-middle desktop-paragraph-small-bold">For only $98</div>
-                        </div>
+                        </a>
                     </div>
                     <div class="frame-148-1">
                         <div class="total-1 valign-text-middle dmsans-bold-eerie-black-24px">Total</div>
@@ -541,7 +541,7 @@
                 </p>
             </section>
 
-            <section class="text-4 text ups-offers-block" style="display: none">
+            <section class="text-4 text ups-offers-block">
                 <div class="title-3">
                     <p class="leptozanis-uniquely-1 valign-text-middle">
                 <span
